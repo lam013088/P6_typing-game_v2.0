@@ -147,10 +147,7 @@
         }
       } catch(e) {}
 
-      // 🛡️ 核心原則：只有在動態連線雲端 (isCloudOnline) 時才採信雲端下發之當日得分
-      var isOnline = (typeof isCloudOnline !== 'undefined' && isCloudOnline);
       var cloudDailyScore = 0;
-      var hasCloudData = false;
       try {
         var cloudList = null;
         if (typeof DATA !== 'undefined' && Array.isArray(DATA.benchmark_leaderboard) && DATA.benchmark_leaderboard.length > 0) {
@@ -159,45 +156,27 @@
           cloudList = window.DATA.benchmark_leaderboard;
         }
 
-        if (isOnline && cloudList && cloudList.length > 0) {
+        if (cloudList && cloudList.length > 0) {
           var padNum = parseInt(num, 10);
           var match = cloudList.find(function(item) {
             return item.cls === cls && parseInt(item.num, 10) === padNum;
           });
-          if (match && typeof match.todayScore === 'number') {
+          if (match && typeof match.todayScore === 'number' && match.todayScore > 0) {
             cloudDailyScore = Math.max(0, match.todayScore);
-            hasCloudData = true;
           }
         }
       } catch(e) {}
 
-      var finalScore = localScore;
-      if (hasCloudData) {
-        // 檢查該生今日在本機是否有真實遊玩通關次數
-        var localPlaysToday = 0;
-        var modeIds = ['connected', 'detective', 'siege', 'pet', 'survival', 'difficult', 'speed'];
-        for (var mi = 0; mi < modeIds.length; mi++) {
-          localPlaysToday += this.getDailyStationPlayCount(modeIds[mi], cls, num);
-        }
-
-        // 若雲端確認今日為 0 分，且本機今日亦無任何遊玩記錄，則強制清除本地殘留污染歸零
-        if (cloudDailyScore === 0 && localPlaysToday === 0) {
-          finalScore = 0;
-          try {
-            if (typeof SafeStorage !== 'undefined' && SafeStorage.setItem) {
-              SafeStorage.setItem(key, '0');
-            }
-          } catch(e) {}
-        } else {
-          finalScore = Math.max(localScore, cloudDailyScore);
-          if (finalScore !== localScore) {
-            try {
-              if (typeof SafeStorage !== 'undefined' && SafeStorage.setItem) {
-                SafeStorage.setItem(key, String(finalScore));
-              }
-            } catch(e) {}
+      // 🛡️ 核心原則：單調遞增防倒退法則 (Monotonic Progress Law)
+      // 當日累計得分取「本機最新遊玩得分」與「雲端下發得分」之較大值 (Math.max)！
+      // 嚴禁在 cloudDailyScore === 0 時將本機今日得分強制抹零，杜絕遊戲進行中分數被重置！
+      var finalScore = Math.max(localScore, cloudDailyScore);
+      if (finalScore !== localScore) {
+        try {
+          if (typeof SafeStorage !== 'undefined' && SafeStorage.setItem) {
+            SafeStorage.setItem(key, String(finalScore));
           }
-        }
+        } catch(e) {}
       }
       return finalScore;
     },

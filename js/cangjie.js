@@ -106,3 +106,34 @@ function showPassToast(msg) {
     console.log('[Toast]', msg);
   }
 }
+
+// 🛡️ 歷史陳舊錯碼黑名單特徵庫 (歷史五代、筆誤或早期錄入殘留碼)
+const STALE_BLACK_LIST = {
+  '片': ['LLMN'],
+  '卷': ['FOSU'],
+  '怕': ['PA'],
+  '剛': ['BTLN'],
+  '隨': ['YNYKB', 'BNYKB'],
+  '決': ['MDK'],
+  '著': ['TQBU'],
+  '拿': ['ORQ'],
+  '史': ['LHK'],
+  '別': ['RLN'],
+  '戀': ['VCP']
+};
+
+/**
+ * 🛡️ 權威三代倉頡查碼核心 (Anti-Stale-Cache Guard)
+ */
+function getAuthoritativeCj3(char) {
+  if (!char) return null;
+  if (typeof window !== 'undefined' && window.MASTER_CJ3_DICT && window.MASTER_CJ3_DICT[char]) {
+    return window.MASTER_CJ3_DICT[char];
+  }
+  return null;
+}
+
+if (typeof window !== 'undefined') {
+  window.getAuthoritativeCj3 = getAuthoritativeCj3;
+  window.STALE_BLACK_LIST = STALE_BLACK_LIST;
+}
