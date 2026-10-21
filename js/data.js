@@ -8074,10 +8074,10 @@ const MODE2_WEEKLY_BANKS = {
       },
       {
         "char": "熱",
-        "codes": ["土", "戈", "大", "火"],
-        "keys": ["G", "I", "K", "F"],
-        "full": "土戈大火 (GIKF)",
-        "secret": "熱：土戈大火 (GIKF)",
+        "codes": ["土", "戈", "火"],
+        "keys": ["G", "I", "F"],
+        "full": "土戈火 (GIF)",
+        "secret": "熱：土戈火 (GIF)",
         "quickCode": "GF"
       },
       {
@@ -15804,10 +15804,10 @@ const MODE2_WEEKLY_BANKS = {
       },
       {
         "char": "熱",
-        "codes": ["土", "戈", "大", "火"],
-        "keys": ["G", "I", "K", "F"],
-        "full": "土戈大火 (GIKF)",
-        "secret": "熱：土戈大火 (GIKF)",
+        "codes": ["土", "戈", "火"],
+        "keys": ["G", "I", "F"],
+        "full": "土戈火 (GIF)",
+        "secret": "熱：土戈火 (GIF)",
         "quickCode": "GF"
       },
       {
@@ -19549,10 +19549,10 @@ const MASTER_CJ3_DICT = {
       },
   "熱": {
         "char": "熱",
-        "codes": ["土", "戈", "大", "火"],
-        "keys": ["G", "I", "K", "F"],
-        "full": "土戈大火 (GIKF)",
-        "secret": "熱：土戈大火 (GIKF)",
+        "codes": ["土", "戈", "火"],
+        "keys": ["G", "I", "F"],
+        "full": "土戈火 (GIF)",
+        "secret": "熱：土戈火 (GIF)",
         "quickCode": "GF"
       },
   "糧": {

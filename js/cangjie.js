@@ -119,7 +119,8 @@ const STALE_BLACK_LIST = {
   '拿': ['ORQ'],
   '史': ['LHK'],
   '別': ['RLN'],
-  '戀': ['VCP']
+  '戀': ['VCP'],
+  '熱': ['GIKF']
 };
 
 /**
