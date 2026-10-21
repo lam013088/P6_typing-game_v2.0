@@ -7928,10 +7928,10 @@ const MODE2_WEEKLY_BANKS = {
       },
       {
         "char": "陰",
-        "codes": ["弓", "中", "弓", "戈", "戈"],
-        "keys": ["N", "L", "N", "I", "I"],
-        "full": "弓中弓戈戈 (NLNII)",
-        "secret": "陰：弓中弓戈戈 (NLNII)",
+        "codes": ["弓", "中", "人", "戈", "戈"],
+        "keys": ["N", "L", "O", "I", "I"],
+        "full": "弓中人戈戈 (NLOII)",
+        "secret": "陰：弓中人戈戈 (NLOII)",
         "quickCode": "NI"
       },
       {
@@ -12250,11 +12250,11 @@ const MODE2_WEEKLY_BANKS = {
       },
       {
         "char": "進",
-        "codes": ["卜", "廿", "廿"],
-        "keys": ["Y", "T", "T"],
-        "full": "卜廿廿 (YTT)",
-        "secret": "進：卜廿廿 (YTT)",
-        "quickCode": "YT"
+        "codes": ["卜", "人", "土"],
+        "keys": ["Y", "O", "G"],
+        "full": "卜人土 (YOG)",
+        "secret": "進：卜人土 (YOG)",
+        "quickCode": "YG"
       },
       {
         "char": "視",
@@ -19413,10 +19413,10 @@ const MASTER_CJ3_DICT = {
       },
   "陰": {
         "char": "陰",
-        "codes": ["弓", "中", "弓", "戈", "戈"],
-        "keys": ["N", "L", "N", "I", "I"],
-        "full": "弓中弓戈戈 (NLNII)",
-        "secret": "陰：弓中弓戈戈 (NLNII)",
+        "codes": ["弓", "中", "人", "戈", "戈"],
+        "keys": ["N", "L", "O", "I", "I"],
+        "full": "弓中人戈戈 (NLOII)",
+        "secret": "陰：弓中人戈戈 (NLOII)",
         "quickCode": "NI"
       },
   "符": {
@@ -21861,11 +21861,11 @@ const MASTER_CJ3_DICT = {
       },
   "進": {
         "char": "進",
-        "codes": ["卜", "廿", "廿"],
-        "keys": ["Y", "T", "T"],
-        "full": "卜廿廿 (YTT)",
-        "secret": "進：卜廿廿 (YTT)",
-        "quickCode": "YT"
+        "codes": ["卜", "人", "土"],
+        "keys": ["Y", "O", "G"],
+        "full": "卜人土 (YOG)",
+        "secret": "進：卜人土 (YOG)",
+        "quickCode": "YG"
       },
   "視": {
         "char": "視",
