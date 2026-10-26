@@ -217,12 +217,21 @@
       } catch(e) {}
       return updated;
     },
+    _isTeacherUnlocked: function(isTeacher) {
+      return Boolean(
+        isTeacher ||
+        (typeof root !== "undefined" && (root.isTeacherMode || root.DEV_TEST_ALL_UNLOCKED)) ||
+        (typeof window !== "undefined" && (window.isTeacherMode || window.DEV_TEST_ALL_UNLOCKED))
+      );
+    },
     isMainLineFullyUnlocked: function(cls, num, isTeacher) {
+      isTeacher = this._isTeacherUnlocked(isTeacher);
       if (isTeacher) return true;
       var dailyPts = this.getDailyEarnedScore(cls, num);
       return dailyPts >= 400;
     },
     getCurrentHighestUnlockedOrder: function(cls, num, isTeacher) {
+      isTeacher = this._isTeacherUnlocked(isTeacher);
       if (isTeacher) return 6;
       var dailyPts = this.getDailyEarnedScore(cls, num);
       var mainSeq = this.mainSequence();
@@ -260,6 +269,7 @@
       return updated;
     },
     getScoreDecayMultiplier: function(modeId, cls, num, isTeacher) {
+      isTeacher = this._isTeacherUnlocked(isTeacher);
       if (modeId === 'speed') return 1.0;
       if (isTeacher) return 1.0;
 
@@ -293,6 +303,7 @@
       return 1.0;
     },
     getUnlockStatus: function(modeId, cls, num, isTeacher) {
+      isTeacher = this._isTeacherUnlocked(isTeacher);
       if (isTeacher) {
         return { unlocked: true, currentDailyScore: 9999, neededScore: 0, completeAt: 0, isTeacher: true };
       }
