@@ -134,6 +134,34 @@
         }
       });
 
+      // 🛡️ 校本三代倉頡權威覆寫防護盾 (防止雲端舊快取或五代異體碼污染)
+      var CANONICAL_FIXES = {
+        "起": { char: "起", codes: ["土", "人", "口", "山"], keys: ["G", "O", "R", "U"], full: "土人口山 (GORU)", secret: "起：土人口山 (GORU)", quickCode: "GU" },
+        "藝": { char: "藝", codes: ["廿", "土", "戈", "戈"], keys: ["T", "G", "I", "I"], full: "廿土戈戈 (TGII)", secret: "藝：廿土戈戈 (TGII)", quickCode: "TI" },
+        "熱": { char: "熱", codes: ["土", "戈", "火"], keys: ["G", "I", "F"], full: "土戈火 (GIF)", secret: "熱：土戈火 (GIF)", quickCode: "GF" },
+        "進": { char: "進", codes: ["卜", "人", "土"], keys: ["Y", "O", "G"], full: "卜人土 (YOG)", secret: "進：卜人土 (YOG)", quickCode: "YG" },
+        "陰": { char: "陰", codes: ["弓", "中", "人", "戈", "戈"], keys: ["N", "L", "O", "I", "I"], full: "弓中人戈戈 (NLOII)", secret: "陰：弓中人戈戈 (NLOII)", quickCode: "NI" },
+        "屬": { char: "屬", codes: ["尸", "卜", "卜", "戈"], keys: ["S", "Y", "Y", "I"], full: "尸卜卜戈 (SYYI)", secret: "屬：尸卜卜戈 (SYYI)", quickCode: "SI" }
+      };
+      Object.values(mergedBanks).forEach(function(b) {
+        if (b && Array.isArray(b.words)) {
+          b.words.forEach(function(w) {
+            if (w && w.char && CANONICAL_FIXES[w.char]) {
+              var fix = CANONICAL_FIXES[w.char];
+              if (w.codes && w.codes.length === 2 && w.first_key) {
+                w.cj_full = fix.full;
+              } else {
+                w.codes = fix.codes.slice();
+                w.keys = fix.keys.slice();
+                w.full = fix.full;
+                w.secret = fix.secret;
+                w.quickCode = fix.quickCode;
+              }
+            }
+          });
+        }
+      });
+
       var ssotMap = {};
       Object.values(mergedBanks).forEach(function(b) {
         if (b && Array.isArray(b.words)) {

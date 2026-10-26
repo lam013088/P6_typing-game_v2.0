@@ -8,7 +8,7 @@
   'use strict';
 
   var P6WordBankCore = {
-    CACHE_KEY: 'p6_word_bank_cache_v8_w10',
+    CACHE_KEY: 'p6_word_bank_cache_v9_w10',
     CACHE_META_KEY: 'p6_word_bank_meta_v8_w10',
     LEGACY_KEYS: ['p6_word_bank_cache_v1', 'p6_word_bank_cache_v2', 'p6_word_bank_cache_v3', 'p6_word_bank_meta_v2'],
     purgeLegacyCache: function() {
