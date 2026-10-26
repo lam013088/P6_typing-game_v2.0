@@ -69,8 +69,8 @@
     
     <div class="stats-bar">
       <div class="stat-pill">🎉 滿分訓練家：<strong>108 位同學獲得 400 分！</strong></div>
-      <div class="stat-pill">⭐ 全級平均分：<strong>93.4 分</strong></div>
-      <div class="stat-pill">⚡ 速度神捕：<strong>P6F 21號</strong> (9/14 19:45 率先交齊)</div>
+      <div class="stat-pill">⭐ 全級平均分：<strong>93.1 分</strong></div>
+      <div class="stat-pill">⚡ 速度神捕：<strong>P6F 09號</strong> (10/20 13:14 率先交齊)</div>
     </div>
   </header>
 
@@ -79,7 +79,7 @@
     <div class="tab-bar">
       <button class="tab-btn active" onclick="switchTab('top40')">🏆 全級前40名龍虎榜</button>
       <button class="tab-btn" onclick="switchTab('class')">🌟 各班前10名榮譽榜</button>
-      <button class="tab-btn" onclick="switchTab('perfect')">🎉 400分滿分星光榜 (108人)</button>
+      <button class="tab-btn" onclick="switchTab('perfect')">🎉 400分滿分星光榜 (101人)</button>
       <button class="tab-btn" onclick="switchTab('game')">🎮 倉頡野生抓寶大作戰</button>
       <button class="tab-btn" onclick="switchTab('vocab')">📖 倉頡全碼秘笈與對照表</button>
     </div>
@@ -353,20 +353,20 @@
                 <!-- 周次字庫選擇 -->
                 <div style="text-align: left;">
                   <label style="display: block; font-size: 11.5px; font-weight: 800; color: #94A3B8; margin-bottom: 4px;">📅 周次字庫</label>
-                  <select id="speed-ready-week-select" onchange="onSpeedSettingChange()" style="background: #1E293B; color: #F8FAFC; border: 1.5px solid #475569; padding: 7px 14px; border-radius: 10px; font-size: 13px; font-weight: 800; cursor: pointer;">
-                    <optgroup label="🔥 第 8 周 倉頡手速字庫 (當前進行中)">
-                      <option value="w8_hw1" selected>第8周功課1</option>
-                      <option value="w8_hw2">第8周功課2</option>
-                      <option value="w8_hw3">第8周功課3</option>
-                      <option value="w8_hw4">第8周功課4</option>
-                    </optgroup>
-                    <optgroup label="📅 第 10 周 倉頡手速字庫 (預告開放)">
-                      <option value="w10_hw1">第10周功課1</option>
-                      <option value="w10_hw2">第10周功課2</option>
-                      <option value="w10_hw3">第10周功課3</option>
-                      <option value="w10_hw4">第10周功課4</option>
-                    </optgroup>
-                    <optgroup label="📅 第 7 周 倉頡手速字庫 (溫故知新)">
+                  <select id="speed-ready-week-select" onchange="changeSpeedWeek(this.value)" style="padding: 8px 14px; border-radius: 10px; border: 2px solid #0EA5E9; background: #F0F9FF; color: #0369A1; font-weight: 900; font-size: 14px; cursor: pointer; outline: none;">
+                  <optgroup label="🔥 第 10 周 倉頡手速字庫 (校運會跨周開放中)">
+                    <option value="w10_hw1" selected>🔥 第 10 周 功課 1 (生、地、森、室... 50字)</option>
+                    <option value="w10_hw2">🔥 第 10 周 功課 2 (責、海、雨、帝... 50字)</option>
+                    <option value="w10_hw3">🔥 第 10 周 功課 3 (預、繼、報、夫... 50字)</option>
+                    <option value="w10_hw4">🔥 第 10 周 功課 4 (造、遇、端、希... 50字)</option>
+                  </optgroup>
+                  <optgroup label="🔥 第 8 周 倉頡手速字庫 (本周結算開放中)">
+                    <option value="w8_hw1">📅 第 8 周 功課 1 (隊、葉、搖、夏... 50字)</option>
+                    <option value="w8_hw2">📅 第 8 周 功課 2 (言、弄、光、問... 50字)</option>
+                    <option value="w8_hw3">📅 第 8 周 功課 3 (沒、京、少、新... 50字)</option>
+                    <option value="w8_hw4">📅 第 8 周 功課 4 (意、備、編、離... 50字)</option>
+                  </optgroup>
+                  <optgroup label="📅 第 7 周 倉頡手速字庫 (溫故知新)">
                       <option value="w7_hw1">第7周功課1</option>
                       <option value="w7_hw2">第7周功課2</option>
                       <option value="w7_hw3">第7周功課3</option>
@@ -1127,14 +1127,8 @@
               <optgroup label="🏆 全期生涯總覽">
                 <option value="ALL">🌟 全期 10 字個人最佳極速總榜 (生涯最佳)</option>
               </optgroup>
-              <optgroup label="🔥 第 8 周 倉頡手速賽 (當前進行中)">
-                <option value="w8_hw1" selected>第8周功課1</option>
-                <option value="w8_hw2">第8周功課2</option>
-                <option value="w8_hw3">第8周功課3</option>
-                <option value="w8_hw4">第8周功課4</option>
-              </optgroup>
-              <optgroup label="📅 第 7 周 倉頡手速賽 (過往記錄)">
-                <option value="w7_hw1">第7周功課1</option>
+              <optgroup label="🔥 第 7 周 倉頡手速賽 (當前進行中)">
+                <option value="w7_hw1" selected>第7周功課1</option>
                 <option value="w7_hw2">第7周功課2</option>
                 <option value="w7_hw3">第7周功課3</option>
                 <option value="w7_hw4">第7周功課4</option>
@@ -1239,13 +1233,14 @@
   <!-- JavaScript Core -->
   <!-- 🤖 六年級系統模組庫 (依賴順序外置載入，徹底根絕雙重維護) -->
     <!-- 🤖 六年級系統微服務與模組庫 -->
-  <script src="js/config.js?v=p6-v2.7"></script>
-  <script src="js/modes.js?v=p6-v2.7"></script>
-  <script src="js/upload-queue.js?v=p6-v2.7"></script>
-  <script src="js/word-bank-core.js?v=p6-v2.7"></script>
-  <script src="js/word-bank.js?v=p6-v2.7"></script>
-  <script src="js/cangjie.js?v=p6-v2.7"></script>
-  <script src="js/data.js?v=p6-v2.7"></script>
-  <script src="js/app.js?v=p6-v2.7"></script>
+  <script src="js/config.js?v=p6-v3.0"></script>
+  <script src="js/modes.js?v=p6-v3.0"></script>
+  <script src="js/upload-queue.js?v=p6-v3.0"></script>
+  <script src="js/word-bank-core.js?v=p6-v3.0"></script>
+  <script src="js/word-bank.js?v=p6-v3.0"></script>
+  <script src="js/cj3-dict.js?v=p6-v3.0"></script>
+  <script src="js/cangjie.js?v=p6-v3.0"></script>
+  <script src="js/data.js?v=p6-v3.0"></script>
+  <script src="js/app.js?v=p6-v3.0"></script>
 </body>
 </html>

@@ -1,11 +1,31 @@
 /**
  * ==============================================================================
- * 🌐 WORD-BANK.JS - 六年級字庫微服務客戶端載入器 (零代碼發布連接器)
+ * 🌐 WORD-BANK.JS - 字庫微服務客戶端載入器 (v3.0 防舊快取覆蓋增強版)
  * ==============================================================================
  */
 
 (function(root) {
   'use strict';
+
+  function safeParseScheduleDate(val) {
+    if (!val) return null;
+    if (val instanceof Date && !isNaN(val.getTime())) return val;
+    var d = new Date(val);
+    if (!isNaN(d.getTime())) return d;
+    var m = String(val).trim().match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})(?:\s+(\d{1,2}):(\d{2})(?:\s*(AM|PM))?)?/i);
+    if (m) {
+      var day = parseInt(m[1], 10);
+      var mon = parseInt(m[2], 10) - 1;
+      var yr = parseInt(m[3], 10);
+      var hr = m[4] ? parseInt(m[4], 10) : 0;
+      var min = m[5] ? parseInt(m[5], 10) : 0;
+      var ampm = m[6] ? m[6].toUpperCase() : '';
+      if (ampm === 'PM' && hr < 12) hr += 12;
+      if (ampm === 'AM' && hr === 12) hr = 0;
+      return new Date(yr, mon, day, hr, min, 0);
+    }
+    return null;
+  }
 
   var P6WordBank = {
     isLoaded: false,
@@ -20,11 +40,11 @@
       }
       var wordBankUrl = (typeof CONFIG !== 'undefined' && CONFIG.WORD_BANK_URL) ? CONFIG.WORD_BANK_URL.trim() : '';
       if (!wordBankUrl || wordBankUrl.includes('YourWordBankDeploymentIdHere')) {
-        self.applyFallback(callback, '🟡 離線字庫模式 (未配置雲端端點)');
+        self.applyFallback(callback, '🟢 已啟用內建第8/10周完整字庫');
         return;
       }
       var controller = (typeof AbortController !== 'undefined') ? new AbortController() : null;
-      var timeoutId = controller ? setTimeout(function() { controller.abort(); }, 7000) : null;
+      var timeoutId = controller ? setTimeout(function() { controller.abort(); }, 15000) : null;
 
       fetch(wordBankUrl, {
         method: 'GET',
@@ -38,18 +58,32 @@
       .then(function(data) {
         if (root.P6WordBankCore && root.P6WordBankCore.validateBankPayload(data)) {
           root.P6WordBankCore.saveToLocalCache(data);
-          // 動態同步排程與當前開放周次 (SSOT)
           if (data.schedules && Array.isArray(data.schedules)) {
             window.DYNAMIC_SCHEDULES = data.schedules;
-            window.SPEED_WEEK_SCHEDULES = data.schedules.map(function(s) {
-              return {
-                week: s.week,
-                name: s.weekName,
-                title: s.title,
-                start: s.start ? new Date(s.start) : null,
-                end: s.end ? new Date(s.end) : null
-              };
+            var parsedScheds = [];
+            data.schedules.forEach(function(s) {
+              var st = safeParseScheduleDate(s.start);
+              var ed = safeParseScheduleDate(s.end);
+              if (s && s.week && st && ed) {
+                parsedScheds.push({
+                  week: s.week,
+                  name: s.weekName || s.name || s.week,
+                  weekName: s.weekName || s.name || s.week,
+                  title: s.title || '',
+                  start: st,
+                  end: ed
+                });
+              }
             });
+            if (parsedScheds.length > 0) {
+              var builtinScheds = window.SPEED_WEEK_SCHEDULES || [];
+              builtinScheds.forEach(function(bs) {
+                if (bs && (bs.week === 'w8' || bs.week === 'w10') && !parsedScheds.some(function(ps) { return ps.week === bs.week; })) {
+                  parsedScheds.push(bs);
+                }
+              });
+              window.SPEED_WEEK_SCHEDULES = parsedScheds;
+            }
           }
           if (data.currentActiveWeek) {
             window.DYNAMIC_ACTIVE_WEEK = data.currentActiveWeek;
@@ -58,8 +92,8 @@
           self.isLoaded = true;
           self.currentVersion = data.version || '';
           if (statusEl) {
-            var activeName = data.currentActiveWeekName ? ('【' + data.currentActiveWeekName + '】進行中 · ') : '';
-            statusEl.textContent = '🟢 雲端字庫已同步 (' + activeName + '共 ' + Object.keys(data.weeklyBanks).length + ' 組)';
+            var totalGroups = Object.keys(window.MODE2_WEEKLY_BANKS || data.weeklyBanks).length;
+            statusEl.textContent = '🟢 雲端字庫已同步 (含第8周/第10周 · 共 ' + totalGroups + ' 組)';
             statusEl.style.color = '#10B981';
           }
           if (typeof callback === 'function') callback(true, data);
@@ -69,45 +103,54 @@
       })
       .catch(function(err) {
         if (timeoutId) clearTimeout(timeoutId);
-        console.warn('雲端字庫獲取異常，切換至備用快取:', err);
-        self.applyFallback(callback, '🟡 已載入備用字庫 (' + (err.message || '連線逾時') + ')');
+        console.warn('雲端字庫獲取異常，切換至內建與本地快取融合字庫:', err);
+        self.applyFallback(callback, '🟢 已啟用內建第8/10周完整字庫');
       });
     },
     applyFallback: function(callback, statusMsg) {
       var statusEl = document.getElementById('word-bank-status');
       var cached = (root.P6WordBankCore) ? root.P6WordBankCore.loadFromLocalCache() : null;
-      if (cached && cached.weeklyBanks) {
-        this.applyWordBanks(cached.weeklyBanks);
-        this.isLoaded = true;
-        if (statusEl) {
-          statusEl.textContent = statusMsg || '🟢 已載入本地最新字庫快取';
-          statusEl.style.color = '#38BDF8';
-        }
-        if (typeof callback === 'function') callback(true, cached);
-      } else {
-        if (statusEl) {
-          statusEl.textContent = statusMsg || '🟡 使用內建基準字庫';
-          statusEl.style.color = '#F59E0B';
-        }
-        if (typeof callback === 'function') callback(false, null);
+      var builtin = (typeof window !== 'undefined' && window.MODE2_WEEKLY_BANKS) ? window.MODE2_WEEKLY_BANKS : (typeof MODE2_WEEKLY_BANKS !== 'undefined' ? MODE2_WEEKLY_BANKS : {});
+      var merged = Object.assign({}, cached && cached.weeklyBanks ? cached.weeklyBanks : {}, builtin);
+      this.applyWordBanks(merged);
+      this.isLoaded = true;
+      if (statusEl) {
+        statusEl.textContent = statusMsg || '🟢 已載入最新第8/10周完整字庫';
+        statusEl.style.color = '#10B981';
       }
+      if (typeof callback === 'function') callback(true, { weeklyBanks: merged });
     },
-        applyWordBanks: function(weeklyBanks) {
+    applyWordBanks: function(weeklyBanks) {
       if (!weeklyBanks || typeof weeklyBanks !== 'object') return;
+      var builtin = (typeof window !== 'undefined' && window.MODE2_WEEKLY_BANKS) ? window.MODE2_WEEKLY_BANKS : (typeof MODE2_WEEKLY_BANKS !== 'undefined' ? MODE2_WEEKLY_BANKS : {});
+      var mergedBanks = Object.assign({}, builtin, weeklyBanks);
+      Object.keys(builtin).forEach(function(k) {
+        if (k.indexOf('w8_') === 0 || k.indexOf('w10_') === 0) {
+          if (!mergedBanks[k] || !Array.isArray(mergedBanks[k].words) || mergedBanks[k].words.length === 0) {
+            mergedBanks[k] = builtin[k];
+          } else if (builtin[k] && builtin[k].title && (!mergedBanks[k].title || mergedBanks[k].title.indexOf('(') === -1)) {
+            mergedBanks[k].title = builtin[k].title;
+          }
+        }
+      });
+
       var ssotMap = {};
-      Object.values(weeklyBanks).forEach(function(b) {
+      Object.values(mergedBanks).forEach(function(b) {
         if (b && Array.isArray(b.words)) {
           b.words.forEach(function(w) {
-            if (w && w.char) {
-              ssotMap[w.char] = w;
-            }
+            if (w && w.char) ssotMap[w.char] = w;
           });
         }
       });
+      var ovMap = (typeof P4_MASTER_QUICK_OVERRIDES !== 'undefined') ? P4_MASTER_QUICK_OVERRIDES : (typeof window !== 'undefined' ? window.P4_MASTER_QUICK_OVERRIDES : null);
+      if (ovMap) {
+        Object.keys(ovMap).forEach(function(charKey) {
+          ssotMap[charKey] = ovMap[charKey];
+        });
+      }
       root.WORD_BANK_SSOT_MAP = ssotMap;
       window.WORD_BANK_SSOT_MAP = ssotMap;
 
-      // ★ 核心原則：字庫表第 F 欄為真值，題目的字碼判定以字庫表答案為最高優先
       if (typeof DATA !== 'undefined') {
         var wordArrays = [
           DATA.connected_words, DATA.split_words, DATA.feature_words,
@@ -130,14 +173,15 @@
         });
       }
 
-      root.MODE2_WEEKLY_BANKS = weeklyBanks;
-      window.MODE2_WEEKLY_BANKS = weeklyBanks;
+      root.MODE2_WEEKLY_BANKS = mergedBanks;
+      window.MODE2_WEEKLY_BANKS = mergedBanks;
       if (typeof root.initSpeedWeekDropdown === 'function') {
         root.initSpeedWeekDropdown();
       }
     }
   };
 
+  root.P6WordBank = P6WordBank;
   root.P6WordBank = P6WordBank;
   if (typeof document !== 'undefined') {
     if (document.readyState === 'loading') {
