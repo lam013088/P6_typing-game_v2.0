@@ -1957,6 +1957,8 @@ const SafeStorage = {
           }
           if (Array.isArray(data.top40) && data.top40.length > 0) {
             DATA.top40 = data.top40;
+          } else if (Array.isArray(data.combatTop40) && data.combatTop40.length > 0) {
+            DATA.top40 = data.combatTop40;
           }
           if (data.class_top10) DATA.class_top10 = data.class_top10;
           if (data.perfect_students) DATA.perfect_students = data.perfect_students;
@@ -3600,8 +3602,8 @@ const SafeStorage = {
 
         cloudList.forEach(cs => {
           const mapKey = `${cs.cls}_${cs.num}`;
-          const time = cs.bestTime || cs.best10;
-          if (time && typeof time === 'number' && time > 0 && time < 900) {
+          const time = parseFloat(cs.time !== undefined ? cs.time : (cs.bestTime !== undefined ? cs.bestTime : cs.best10));
+          if (!isNaN(time) && time > 0 && time < 900) {
             const curEntry = allSpeedMap[mapKey];
             if (!curEntry || !curEntry.hasRecord || curEntry.bestTime > time) {
               const cpm = cs.cpm || Math.round(10 / (time / 60));
@@ -3610,7 +3612,7 @@ const SafeStorage = {
                 num: cs.num,
                 name: cs.name || `${cs.cls} ${(cs.num < 10 ? '0' : '') + cs.num}號`,
                 bestTime: time,
-                rawTime: cs.rawTime || time,
+                rawTime: (typeof cs.rawTime === 'number') ? cs.rawTime : time,
                 cpm: cpm,
                 accuracy: cs.accuracy || 100,
                 accPenalty: cs.accPenalty || 0,
