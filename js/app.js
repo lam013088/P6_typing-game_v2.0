@@ -2002,7 +2002,9 @@ const SafeStorage = {
           if (data.speedLeaderboard || data.speedByWeek) {
             DATA.cloud_speed_records = data.speedLeaderboard || data.speedByWeek;
           }
-          if (Array.isArray(data.top40) && data.top40.length > 0) {
+          if (Array.isArray(data.homeworkTop40) && data.homeworkTop40.length > 0) {
+            DATA.top40 = data.homeworkTop40;
+          } else if (Array.isArray(data.top40) && data.top40.length > 0) {
             DATA.top40 = data.top40;
           } else if (Array.isArray(data.combatTop40) && data.combatTop40.length > 0) {
             DATA.top40 = data.combatTop40;
@@ -2061,9 +2063,13 @@ const SafeStorage = {
             DATA.special_words = data.specialWords;
           }
 
-          // 3. 刷新頁面天梯排行榜渲染
+          // 3. 刷新頁面天梯排行榜渲染與前40名/榮譽榜/滿分榜卡片
           renderLeaderboardTable();
           renderSpeedLeaderboardTable();
+          try { renderTop40(); } catch(e){}
+          try { renderClassBarCharts(); } catch(e){}
+          try { renderClassCards(); } catch(e){}
+          try { renderPerfectScorers(); } catch(e){}
 
           // 4. 更新頂部數據統計條
           if (data.stats) {
