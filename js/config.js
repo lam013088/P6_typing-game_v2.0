@@ -71,6 +71,7 @@ var SKILLS = window.SKILLS;
 
 // 📅 每周排程時間表 (2026/2027學年全學年第2至40周；第9周為校運會免功課，直接跳過並啟用第10周字庫)
 window.SPEED_WEEK_SCHEDULES = [
+  { week: 'w11', name: '第 11 周', weekName: '第11周', title: '🔥【第 11 周】倉頡手速挑戰賽 (當前進行中)', dateRange: '09/11/2026 8:00 AM - 15/11/2026 11:30 PM', start: new Date('2026-11-09T08:00:00+08:00'), end: new Date('2026-11-15T23:59:59+08:00') },
   { week: 'w2',  name: '第 2 周', weekName: '第2周', title: '【第 2 周】倉頡首尾與字根特訓 (9/7 - 9/13)', start: new Date('2026-09-07T00:00:00+08:00'), end: new Date('2026-09-13T23:59:59+08:00') },
   { week: 'w3',  name: '第 3 周', weekName: '第3周', title: '【第 3 周】高頻易錯字倉頡攻防 (9/14 - 9/20)', start: new Date('2026-09-14T00:00:00+08:00'), end: new Date('2026-09-20T23:59:59+08:00') },
   { week: 'w4',  name: '第 4 周', weekName: '第4周', title: '【第 4 周】期初實力排位激戰 (9/21 - 10/04，第4/5周合拼)', start: new Date('2026-09-21T00:00:00+08:00'), end: new Date('2026-10-04T23:59:59+08:00') },

@@ -125,7 +125,7 @@
       var builtin = (typeof window !== 'undefined' && window.MODE2_WEEKLY_BANKS) ? window.MODE2_WEEKLY_BANKS : (typeof MODE2_WEEKLY_BANKS !== 'undefined' ? MODE2_WEEKLY_BANKS : {});
       var mergedBanks = Object.assign({}, builtin, weeklyBanks);
       Object.keys(builtin).forEach(function(k) {
-        if (k.indexOf('w8_') === 0 || k.indexOf('w10_') === 0) {
+        if (k.indexOf('w8_') === 0 || k.indexOf('w10_') === 0 || k.indexOf('w11_') === 0) {
           if (!mergedBanks[k] || !Array.isArray(mergedBanks[k].words) || mergedBanks[k].words.length === 0) {
             mergedBanks[k] = builtin[k];
           } else if (builtin[k] && builtin[k].title && (!mergedBanks[k].title || mergedBanks[k].title.indexOf('(') === -1)) {

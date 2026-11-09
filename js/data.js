@@ -8044,1348 +8044,8 @@ const DATA = {
   ],
   "top40": [
     {
-      "cls": "P6F",
-      "class": "P6F",
-      "num": 9,
-      "seat": 9,
-      "name": "P6F 09號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-20 13:14:29",
-      "rank": 1
-    },
-    {
-      "cls": "P6D",
-      "class": "P6D",
-      "num": 23,
-      "seat": 23,
-      "name": "P6D 23號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-20 18:04:10",
-      "rank": 2
-    },
-    {
-      "cls": "P6B",
-      "class": "P6B",
-      "num": 4,
-      "seat": 4,
-      "name": "P6B 04號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-20 18:18:28",
-      "rank": 3
-    },
-    {
-      "cls": "P6E",
-      "class": "P6E",
-      "num": 15,
-      "seat": 15,
-      "name": "P6E 15號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-20 19:15:20",
-      "rank": 4
-    },
-    {
-      "cls": "P6D",
-      "class": "P6D",
-      "num": 6,
-      "seat": 6,
-      "name": "P6D 06號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-20 19:55:29",
-      "rank": 5
-    },
-    {
-      "cls": "P6A",
-      "class": "P6A",
-      "num": 4,
-      "seat": 4,
-      "name": "P6A 04號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-20 20:17:02",
-      "rank": 6
-    },
-    {
-      "cls": "P6F",
-      "class": "P6F",
-      "num": 21,
-      "seat": 21,
-      "name": "P6F 21號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-20 21:14:57",
-      "rank": 7
-    },
-    {
-      "cls": "P6D",
-      "class": "P6D",
-      "num": 4,
-      "seat": 4,
-      "name": "P6D 04號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-20 21:21:09",
-      "rank": 8
-    },
-    {
-      "cls": "P6B",
-      "class": "P6B",
-      "num": 23,
-      "seat": 23,
-      "name": "P6B 23號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-20 21:23:52",
-      "rank": 9
-    },
-    {
-      "cls": "P6E",
-      "class": "P6E",
-      "num": 14,
-      "seat": 14,
-      "name": "P6E 14號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-20 21:37:53",
-      "rank": 10
-    },
-    {
-      "cls": "P6C",
-      "class": "P6C",
-      "num": 13,
-      "seat": 13,
-      "name": "P6C 13號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-21 16:49:50",
-      "rank": 11
-    },
-    {
-      "cls": "P6B",
-      "class": "P6B",
-      "num": 18,
-      "seat": 18,
-      "name": "P6B 18號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-21 17:17:03",
-      "rank": 12
-    },
-    {
-      "cls": "P6B",
-      "class": "P6B",
-      "num": 30,
-      "seat": 30,
-      "name": "P6B 30號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-21 17:31:31",
-      "rank": 13
-    },
-    {
-      "cls": "P6B",
-      "class": "P6B",
-      "num": 33,
-      "seat": 33,
-      "name": "P6B 33號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-21 18:16:02",
-      "rank": 14
-    },
-    {
-      "cls": "P6B",
-      "class": "P6B",
-      "num": 27,
-      "seat": 27,
-      "name": "P6B 27號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-21 20:53:31",
-      "rank": 15
-    },
-    {
-      "cls": "P6D",
-      "class": "P6D",
-      "num": 5,
-      "seat": 5,
-      "name": "P6D 05號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-21 22:06:23",
-      "rank": 16
-    },
-    {
-      "cls": "P6E",
-      "class": "P6E",
-      "num": 32,
-      "seat": 32,
-      "name": "P6E 32號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-22 00:30:30",
-      "rank": 17
-    },
-    {
-      "cls": "P6A",
-      "class": "P6A",
-      "num": 21,
-      "seat": 21,
-      "name": "P6A 21號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-22 18:08:51",
-      "rank": 18
-    },
-    {
-      "cls": "P6F",
-      "class": "P6F",
-      "num": 29,
-      "seat": 29,
-      "name": "P6F 29號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-22 19:16:17",
-      "rank": 19
-    },
-    {
-      "cls": "P6C",
-      "class": "P6C",
-      "num": 3,
-      "seat": 3,
-      "name": "P6C 03號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-22 19:32:45",
-      "rank": 20
-    },
-    {
-      "cls": "P6E",
-      "class": "P6E",
-      "num": 13,
-      "seat": 13,
-      "name": "P6E 13號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-22 21:09:38",
-      "rank": 21
-    },
-    {
-      "cls": "P6A",
-      "class": "P6A",
-      "num": 3,
-      "seat": 3,
-      "name": "P6A 03號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-22 21:13:51",
-      "rank": 22
-    },
-    {
-      "cls": "P6A",
-      "class": "P6A",
-      "num": 30,
-      "seat": 30,
-      "name": "P6A 30號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-22 21:21:04",
-      "rank": 23
-    },
-    {
-      "cls": "P6C",
-      "class": "P6C",
-      "num": 14,
-      "seat": 14,
-      "name": "P6C 14號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-22 21:23:13",
-      "rank": 24
-    },
-    {
-      "cls": "P6B",
-      "class": "P6B",
-      "num": 7,
-      "seat": 7,
-      "name": "P6B 07號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-22 21:25:10",
-      "rank": 25
-    },
-    {
-      "cls": "P6A",
-      "class": "P6A",
-      "num": 11,
-      "seat": 11,
-      "name": "P6A 11號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-22 21:36:06",
-      "rank": 26
-    },
-    {
-      "cls": "P6C",
-      "class": "P6C",
-      "num": 8,
-      "seat": 8,
-      "name": "P6C 08號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-22 21:43:15",
-      "rank": 27
-    },
-    {
-      "cls": "P6B",
-      "class": "P6B",
-      "num": 10,
-      "seat": 10,
-      "name": "P6B 10號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-22 23:02:50",
-      "rank": 28
-    },
-    {
-      "cls": "P6E",
-      "class": "P6E",
-      "num": 30,
-      "seat": 30,
-      "name": "P6E 30號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-23 15:45:46",
-      "rank": 29
-    },
-    {
-      "cls": "P6D",
-      "class": "P6D",
-      "num": 10,
-      "seat": 10,
-      "name": "P6D 10號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-23 18:43:17",
-      "rank": 30
-    },
-    {
-      "cls": "P6B",
-      "class": "P6B",
-      "num": 5,
-      "seat": 5,
-      "name": "P6B 05號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-23 20:22:47",
-      "rank": 31
-    },
-    {
-      "cls": "P6C",
-      "class": "P6C",
-      "num": 28,
-      "seat": 28,
-      "name": "P6C 28號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-23 20:47:31",
-      "rank": 32
-    },
-    {
-      "cls": "P6C",
-      "class": "P6C",
-      "num": 9,
-      "seat": 9,
-      "name": "P6C 09號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-23 20:50:05",
-      "rank": 33
-    },
-    {
-      "cls": "P6C",
-      "class": "P6C",
-      "num": 5,
-      "seat": 5,
-      "name": "P6C 05號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-23 20:57:08",
-      "rank": 34
-    },
-    {
-      "cls": "P6C",
-      "class": "P6C",
-      "num": 22,
-      "seat": 22,
-      "name": "P6C 22號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-23 21:11:50",
-      "rank": 35
-    },
-    {
-      "cls": "P6A",
-      "class": "P6A",
-      "num": 12,
-      "seat": 12,
-      "name": "P6A 12號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-23 21:25:48",
-      "rank": 36
-    },
-    {
-      "cls": "P6B",
-      "class": "P6B",
-      "num": 16,
-      "seat": 16,
-      "name": "P6B 16號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-23 21:33:40",
-      "rank": 37
-    },
-    {
-      "cls": "P6C",
-      "class": "P6C",
-      "num": 4,
-      "seat": 4,
-      "name": "P6C 04號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-23 21:51:55",
-      "rank": 38
-    },
-    {
-      "cls": "P6E",
-      "class": "P6E",
-      "num": 9,
-      "seat": 9,
-      "name": "P6E 09號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-23 22:09:49",
-      "rank": 39
-    },
-    {
-      "cls": "P6C",
-      "class": "P6C",
-      "num": 33,
-      "seat": 33,
-      "name": "P6C 33號",
-      "hw1": 100,
-      "hw2": 100,
-      "hw3": 100,
-      "hw4": 100,
-      "total": 400,
-      "badges": 5,
-      "stamps": 5,
-      "date": "2026-10-23 22:10:36",
-      "rank": 40
-    }
-  ],
-  "class_top10": {
-    "P6A": [
-      {
-        "cls": "P6A",
-        "class": "P6A",
-        "num": 4,
-        "seat": 4,
-        "name": "P6A 04號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-20 20:17:02",
-        "rank": 1
-      },
-      {
-        "cls": "P6A",
-        "class": "P6A",
-        "num": 21,
-        "seat": 21,
-        "name": "P6A 21號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-22 18:08:51",
-        "rank": 2
-      },
-      {
-        "cls": "P6A",
-        "class": "P6A",
-        "num": 3,
-        "seat": 3,
-        "name": "P6A 03號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-22 21:13:51",
-        "rank": 3
-      },
-      {
-        "cls": "P6A",
-        "class": "P6A",
-        "num": 30,
-        "seat": 30,
-        "name": "P6A 30號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-22 21:21:04",
-        "rank": 4
-      },
-      {
-        "cls": "P6A",
-        "class": "P6A",
-        "num": 11,
-        "seat": 11,
-        "name": "P6A 11號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-22 21:36:06",
-        "rank": 5
-      },
-      {
-        "cls": "P6A",
-        "class": "P6A",
-        "num": 12,
-        "seat": 12,
-        "name": "P6A 12號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-23 21:25:48",
-        "rank": 6
-      },
-      {
-        "cls": "P6A",
-        "class": "P6A",
-        "num": 16,
-        "seat": 16,
-        "name": "P6A 16號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-23 23:23:27",
-        "rank": 7
-      },
-      {
-        "cls": "P6A",
-        "class": "P6A",
-        "num": 5,
-        "seat": 5,
-        "name": "P6A 05號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-24 15:29:44",
-        "rank": 8
-      },
-      {
-        "cls": "P6A",
-        "class": "P6A",
-        "num": 10,
-        "seat": 10,
-        "name": "P6A 10號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-24 20:41:58",
-        "rank": 9
-      },
-      {
-        "cls": "P6A",
-        "class": "P6A",
-        "num": 2,
-        "seat": 2,
-        "name": "P6A 02號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-24 22:43:14",
-        "rank": 10
-      }
-    ],
-    "P6B": [
-      {
-        "cls": "P6B",
-        "class": "P6B",
-        "num": 4,
-        "seat": 4,
-        "name": "P6B 04號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-20 18:18:28",
-        "rank": 1
-      },
-      {
-        "cls": "P6B",
-        "class": "P6B",
-        "num": 23,
-        "seat": 23,
-        "name": "P6B 23號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-20 21:23:52",
-        "rank": 2
-      },
-      {
-        "cls": "P6B",
-        "class": "P6B",
-        "num": 18,
-        "seat": 18,
-        "name": "P6B 18號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-21 17:17:03",
-        "rank": 3
-      },
-      {
-        "cls": "P6B",
-        "class": "P6B",
-        "num": 30,
-        "seat": 30,
-        "name": "P6B 30號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-21 17:31:31",
-        "rank": 4
-      },
-      {
-        "cls": "P6B",
-        "class": "P6B",
-        "num": 33,
-        "seat": 33,
-        "name": "P6B 33號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-21 18:16:02",
-        "rank": 5
-      },
-      {
-        "cls": "P6B",
-        "class": "P6B",
-        "num": 27,
-        "seat": 27,
-        "name": "P6B 27號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-21 20:53:31",
-        "rank": 6
-      },
-      {
-        "cls": "P6B",
-        "class": "P6B",
-        "num": 7,
-        "seat": 7,
-        "name": "P6B 07號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-22 21:25:10",
-        "rank": 7
-      },
-      {
-        "cls": "P6B",
-        "class": "P6B",
-        "num": 10,
-        "seat": 10,
-        "name": "P6B 10號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-22 23:02:50",
-        "rank": 8
-      },
-      {
-        "cls": "P6B",
-        "class": "P6B",
-        "num": 5,
-        "seat": 5,
-        "name": "P6B 05號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-23 20:22:47",
-        "rank": 9
-      },
-      {
-        "cls": "P6B",
-        "class": "P6B",
-        "num": 16,
-        "seat": 16,
-        "name": "P6B 16號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-23 21:33:40",
-        "rank": 10
-      }
-    ],
-    "P6C": [
-      {
-        "cls": "P6C",
-        "class": "P6C",
-        "num": 13,
-        "seat": 13,
-        "name": "P6C 13號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-21 16:49:50",
-        "rank": 1
-      },
-      {
-        "cls": "P6C",
-        "class": "P6C",
-        "num": 3,
-        "seat": 3,
-        "name": "P6C 03號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-22 19:32:45",
-        "rank": 2
-      },
-      {
-        "cls": "P6C",
-        "class": "P6C",
-        "num": 14,
-        "seat": 14,
-        "name": "P6C 14號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-22 21:23:13",
-        "rank": 3
-      },
-      {
-        "cls": "P6C",
-        "class": "P6C",
-        "num": 8,
-        "seat": 8,
-        "name": "P6C 08號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-22 21:43:15",
-        "rank": 4
-      },
-      {
-        "cls": "P6C",
-        "class": "P6C",
-        "num": 28,
-        "seat": 28,
-        "name": "P6C 28號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-23 20:47:31",
-        "rank": 5
-      },
-      {
-        "cls": "P6C",
-        "class": "P6C",
-        "num": 9,
-        "seat": 9,
-        "name": "P6C 09號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-23 20:50:05",
-        "rank": 6
-      },
-      {
-        "cls": "P6C",
-        "class": "P6C",
-        "num": 5,
-        "seat": 5,
-        "name": "P6C 05號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-23 20:57:08",
-        "rank": 7
-      },
-      {
-        "cls": "P6C",
-        "class": "P6C",
-        "num": 22,
-        "seat": 22,
-        "name": "P6C 22號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-23 21:11:50",
-        "rank": 8
-      },
-      {
-        "cls": "P6C",
-        "class": "P6C",
-        "num": 4,
-        "seat": 4,
-        "name": "P6C 04號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-23 21:51:55",
-        "rank": 9
-      },
-      {
-        "cls": "P6C",
-        "class": "P6C",
-        "num": 33,
-        "seat": 33,
-        "name": "P6C 33號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-23 22:10:36",
-        "rank": 10
-      }
-    ],
-    "P6D": [
-      {
-        "cls": "P6D",
-        "class": "P6D",
-        "num": 23,
-        "seat": 23,
-        "name": "P6D 23號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-20 18:04:10",
-        "rank": 1
-      },
-      {
-        "cls": "P6D",
-        "class": "P6D",
-        "num": 6,
-        "seat": 6,
-        "name": "P6D 06號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-20 19:55:29",
-        "rank": 2
-      },
-      {
-        "cls": "P6D",
-        "class": "P6D",
-        "num": 4,
-        "seat": 4,
-        "name": "P6D 04號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-20 21:21:09",
-        "rank": 3
-      },
-      {
-        "cls": "P6D",
-        "class": "P6D",
-        "num": 5,
-        "seat": 5,
-        "name": "P6D 05號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-21 22:06:23",
-        "rank": 4
-      },
-      {
-        "cls": "P6D",
-        "class": "P6D",
-        "num": 10,
-        "seat": 10,
-        "name": "P6D 10號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-23 18:43:17",
-        "rank": 5
-      },
-      {
-        "cls": "P6D",
-        "class": "P6D",
-        "num": 25,
-        "seat": 25,
-        "name": "P6D 25號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-24 13:35:40",
-        "rank": 6
-      },
-      {
-        "cls": "P6D",
-        "class": "P6D",
-        "num": 14,
-        "seat": 14,
-        "name": "P6D 14號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-24 15:23:05",
-        "rank": 7
-      },
-      {
-        "cls": "P6D",
-        "class": "P6D",
-        "num": 11,
-        "seat": 11,
-        "name": "P6D 11號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-24 16:27:38",
-        "rank": 8
-      },
-      {
-        "cls": "P6D",
-        "class": "P6D",
-        "num": 8,
-        "seat": 8,
-        "name": "P6D 08號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-24 17:42:58",
-        "rank": 9
-      },
-      {
-        "cls": "P6D",
-        "class": "P6D",
-        "num": 27,
-        "seat": 27,
-        "name": "P6D 27號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-24 22:01:49",
-        "rank": 10
-      }
-    ],
-    "P6E": [
-      {
-        "cls": "P6E",
+        "rank": 1,
         "class": "P6E",
-        "num": 15,
-        "seat": 15,
-        "name": "P6E 15號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-20 19:15:20",
-        "rank": 1
-      },
-      {
-        "cls": "P6E",
-        "class": "P6E",
-        "num": 14,
-        "seat": 14,
-        "name": "P6E 14號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-20 21:37:53",
-        "rank": 2
-      },
-      {
-        "cls": "P6E",
-        "class": "P6E",
-        "num": 32,
-        "seat": 32,
-        "name": "P6E 32號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-22 00:30:30",
-        "rank": 3
-      },
-      {
-        "cls": "P6E",
-        "class": "P6E",
-        "num": 13,
         "seat": 13,
         "name": "P6E 13號",
         "hw1": 100,
@@ -9393,113 +8053,13 @@ const DATA = {
         "hw3": 100,
         "hw4": 100,
         "total": 400,
-        "badges": 5,
         "stamps": 5,
-        "date": "2026-10-22 21:09:38",
-        "rank": 4
-      },
-      {
-        "cls": "P6E",
-        "class": "P6E",
-        "num": 30,
-        "seat": 30,
-        "name": "P6E 30號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
         "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-23 15:45:46",
-        "rank": 5
-      },
-      {
-        "cls": "P6E",
-        "class": "P6E",
-        "num": 9,
-        "seat": 9,
-        "name": "P6E 09號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-23 22:09:49",
-        "rank": 6
-      },
-      {
-        "cls": "P6E",
-        "class": "P6E",
-        "num": 4,
-        "seat": 4,
-        "name": "P6E 04號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-25 11:23:08",
-        "rank": 7
-      },
-      {
-        "cls": "P6E",
-        "class": "P6E",
-        "num": 24,
-        "seat": 24,
-        "name": "P6E 24號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-25 17:24:47",
-        "rank": 8
-      },
-      {
-        "cls": "P6E",
-        "class": "P6E",
-        "num": 27,
-        "seat": 27,
-        "name": "P6E 27號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-25 18:21:08",
-        "rank": 9
-      },
-      {
-        "cls": "P6E",
-        "class": "P6E",
-        "num": 22,
-        "seat": 22,
-        "name": "P6E 22號",
-        "hw1": 100,
-        "hw2": 100,
-        "hw3": 100,
-        "hw4": 100,
-        "total": 400,
-        "badges": 5,
-        "stamps": 5,
-        "date": "2026-10-25 20:04:39",
-        "rank": 10
-      }
-    ],
-    "P6F": [
-      {
-        "cls": "P6F",
+        "date": "2026-11-02 18:08:40"
+    },
+    {
+        "rank": 2,
         "class": "P6F",
-        "num": 9,
         "seat": 9,
         "name": "P6F 09號",
         "hw1": 100,
@@ -9507,31 +8067,237 @@ const DATA = {
         "hw3": 100,
         "hw4": 100,
         "total": 400,
-        "badges": 5,
         "stamps": 5,
-        "date": "2026-10-20 13:14:29",
-        "rank": 1
-      },
-      {
-        "cls": "P6F",
-        "class": "P6F",
-        "num": 21,
-        "seat": 21,
-        "name": "P6F 21號",
+        "badges": 5,
+        "date": "2026-11-02 18:30:50"
+    },
+    {
+        "rank": 3,
+        "class": "P6D",
+        "seat": 6,
+        "name": "P6D 06號",
         "hw1": 100,
         "hw2": 100,
         "hw3": 100,
         "hw4": 100,
         "total": 400,
-        "badges": 5,
         "stamps": 5,
-        "date": "2026-10-20 21:14:57",
-        "rank": 2
-      },
-      {
-        "cls": "P6F",
+        "badges": 5,
+        "date": "2026-11-02 18:32:28"
+    },
+    {
+        "rank": 4,
+        "class": "P6A",
+        "seat": 4,
+        "name": "P6A 04號",
+        "hw1": 100,
+        "hw2": 100,
+        "hw3": 100,
+        "hw4": 100,
+        "total": 400,
+        "stamps": 5,
+        "badges": 5,
+        "date": "2026-11-02 18:52:14"
+    },
+    {
+        "rank": 5,
+        "class": "P6C",
+        "seat": 34,
+        "name": "P6C 34號",
+        "hw1": 100,
+        "hw2": 100,
+        "hw3": 100,
+        "hw4": 100,
+        "total": 400,
+        "stamps": 5,
+        "badges": 5,
+        "date": "2026-11-02 19:11:09"
+    },
+    {
+        "rank": 6,
+        "class": "P6E",
+        "seat": 15,
+        "name": "P6E 15號",
+        "hw1": 100,
+        "hw2": 100,
+        "hw3": 100,
+        "hw4": 100,
+        "total": 400,
+        "stamps": 5,
+        "badges": 5,
+        "date": "2026-11-02 19:15:50"
+    },
+    {
+        "rank": 7,
+        "class": "P6C",
+        "seat": 9,
+        "name": "P6C 09號",
+        "hw1": 100,
+        "hw2": 100,
+        "hw3": 100,
+        "hw4": 100,
+        "total": 400,
+        "stamps": 5,
+        "badges": 5,
+        "date": "2026-11-02 19:57:17"
+    },
+    {
+        "rank": 8,
+        "class": "P6A",
+        "seat": 30,
+        "name": "P6A 30號",
+        "hw1": 100,
+        "hw2": 100,
+        "hw3": 100,
+        "hw4": 100,
+        "total": 400,
+        "stamps": 5,
+        "badges": 5,
+        "date": "2026-11-02 21:09:39"
+    },
+    {
+        "rank": 9,
+        "class": "P6D",
+        "seat": 5,
+        "name": "P6D 05號",
+        "hw1": 100,
+        "hw2": 100,
+        "hw3": 100,
+        "hw4": 100,
+        "total": 400,
+        "stamps": 5,
+        "badges": 5,
+        "date": "2026-11-02 21:09:52"
+    },
+    {
+        "rank": 10,
+        "class": "P6A",
+        "seat": 12,
+        "name": "P6A 12號",
+        "hw1": 100,
+        "hw2": 100,
+        "hw3": 100,
+        "hw4": 100,
+        "total": 400,
+        "stamps": 5,
+        "badges": 5,
+        "date": "2026-11-02 21:15:40"
+    },
+    {
+        "rank": 11,
         "class": "P6F",
-        "num": 29,
+        "seat": 11,
+        "name": "P6F 11號",
+        "hw1": 100,
+        "hw2": 100,
+        "hw3": 100,
+        "hw4": 100,
+        "total": 400,
+        "stamps": 5,
+        "badges": 5,
+        "date": "2026-11-02 21:23:10"
+    },
+    {
+        "rank": 12,
+        "class": "P6D",
+        "seat": 23,
+        "name": "P6D 23號",
+        "hw1": 100,
+        "hw2": 100,
+        "hw3": 100,
+        "hw4": 100,
+        "total": 400,
+        "stamps": 5,
+        "badges": 5,
+        "date": "2026-11-02 21:33:08"
+    },
+    {
+        "rank": 13,
+        "class": "P6D",
+        "seat": 4,
+        "name": "P6D 04號",
+        "hw1": 100,
+        "hw2": 100,
+        "hw3": 100,
+        "hw4": 100,
+        "total": 400,
+        "stamps": 5,
+        "badges": 5,
+        "date": "2026-11-02 21:46:38"
+    },
+    {
+        "rank": 14,
+        "class": "P6F",
+        "seat": 8,
+        "name": "P6F 08號",
+        "hw1": 100,
+        "hw2": 100,
+        "hw3": 100,
+        "hw4": 100,
+        "total": 400,
+        "stamps": 5,
+        "badges": 5,
+        "date": "2026-11-02 21:57:03"
+    },
+    {
+        "rank": 15,
+        "class": "P6B",
+        "seat": 4,
+        "name": "P6B 04號",
+        "hw1": 100,
+        "hw2": 100,
+        "hw3": 100,
+        "hw4": 100,
+        "total": 400,
+        "stamps": 5,
+        "badges": 5,
+        "date": "2026-11-03 18:36:14"
+    },
+    {
+        "rank": 16,
+        "class": "P6B",
+        "seat": 5,
+        "name": "P6B 05號",
+        "hw1": 100,
+        "hw2": 100,
+        "hw3": 100,
+        "hw4": 100,
+        "total": 400,
+        "stamps": 5,
+        "badges": 5,
+        "date": "2026-11-03 18:37:52"
+    },
+    {
+        "rank": 17,
+        "class": "P6A",
+        "seat": 15,
+        "name": "P6A 15號",
+        "hw1": 100,
+        "hw2": 100,
+        "hw3": 100,
+        "hw4": 100,
+        "total": 400,
+        "stamps": 5,
+        "badges": 5,
+        "date": "2026-11-03 19:30:19"
+    },
+    {
+        "rank": 18,
+        "class": "P6E",
+        "seat": 14,
+        "name": "P6E 14號",
+        "hw1": 100,
+        "hw2": 100,
+        "hw3": 100,
+        "hw4": 100,
+        "total": 400,
+        "stamps": 5,
+        "badges": 5,
+        "date": "2026-11-03 19:42:05"
+    },
+    {
+        "rank": 19,
+        "class": "P6F",
         "seat": 29,
         "name": "P6F 29號",
         "hw1": 100,
@@ -9539,15 +8305,153 @@ const DATA = {
         "hw3": 100,
         "hw4": 100,
         "total": 400,
-        "badges": 5,
         "stamps": 5,
-        "date": "2026-10-22 19:16:17",
-        "rank": 3
-      },
-      {
-        "cls": "P6F",
+        "badges": 5,
+        "date": "2026-11-03 20:58:05"
+    },
+    {
+        "rank": 20,
+        "class": "P6B",
+        "seat": 10,
+        "name": "P6B 10號",
+        "hw1": 100,
+        "hw2": 100,
+        "hw3": 100,
+        "hw4": 100,
+        "total": 400,
+        "stamps": 5,
+        "badges": 5,
+        "date": "2026-11-03 21:16:16"
+    },
+    {
+        "rank": 21,
         "class": "P6F",
-        "num": 24,
+        "seat": 21,
+        "name": "P6F 21號",
+        "hw1": 100,
+        "hw2": 100,
+        "hw3": 100,
+        "hw4": 100,
+        "total": 400,
+        "stamps": 5,
+        "badges": 5,
+        "date": "2026-11-03 21:59:37"
+    },
+    {
+        "rank": 22,
+        "class": "P6B",
+        "seat": 30,
+        "name": "P6B 30號",
+        "hw1": 100,
+        "hw2": 100,
+        "hw3": 100,
+        "hw4": 100,
+        "total": 400,
+        "stamps": 5,
+        "badges": 5,
+        "date": "2026-11-03 22:08:31"
+    },
+    {
+        "rank": 23,
+        "class": "P6A",
+        "seat": 14,
+        "name": "P6A 14號",
+        "hw1": 100,
+        "hw2": 100,
+        "hw3": 100,
+        "hw4": 100,
+        "total": 400,
+        "stamps": 5,
+        "badges": 5,
+        "date": "2026-11-04 18:14:23"
+    },
+    {
+        "rank": 24,
+        "class": "P6C",
+        "seat": 3,
+        "name": "P6C 03號",
+        "hw1": 100,
+        "hw2": 100,
+        "hw3": 100,
+        "hw4": 100,
+        "total": 400,
+        "stamps": 5,
+        "badges": 5,
+        "date": "2026-11-04 18:20:34"
+    },
+    {
+        "rank": 25,
+        "class": "P6D",
+        "seat": 25,
+        "name": "P6D 25號",
+        "hw1": 100,
+        "hw2": 100,
+        "hw3": 100,
+        "hw4": 100,
+        "total": 400,
+        "stamps": 5,
+        "badges": 5,
+        "date": "2026-11-04 18:30:32"
+    },
+    {
+        "rank": 26,
+        "class": "P6F",
+        "seat": 26,
+        "name": "P6F 26號",
+        "hw1": 100,
+        "hw2": 100,
+        "hw3": 100,
+        "hw4": 100,
+        "total": 400,
+        "stamps": 5,
+        "badges": 5,
+        "date": "2026-11-04 18:42:20"
+    },
+    {
+        "rank": 27,
+        "class": "P6B",
+        "seat": 3,
+        "name": "P6B 03號",
+        "hw1": 100,
+        "hw2": 100,
+        "hw3": 100,
+        "hw4": 100,
+        "total": 400,
+        "stamps": 5,
+        "badges": 5,
+        "date": "2026-11-04 19:58:42"
+    },
+    {
+        "rank": 28,
+        "class": "P6E",
+        "seat": 2,
+        "name": "P6E 02號",
+        "hw1": 100,
+        "hw2": 100,
+        "hw3": 100,
+        "hw4": 100,
+        "total": 400,
+        "stamps": 5,
+        "badges": 5,
+        "date": "2026-11-04 20:20:18"
+    },
+    {
+        "rank": 29,
+        "class": "P6F",
+        "seat": 10,
+        "name": "P6F 10號",
+        "hw1": 100,
+        "hw2": 100,
+        "hw3": 100,
+        "hw4": 100,
+        "total": 400,
+        "stamps": 5,
+        "badges": 5,
+        "date": "2026-11-04 20:40:10"
+    },
+    {
+        "rank": 30,
+        "class": "P6F",
         "seat": 24,
         "name": "P6F 24號",
         "hw1": 100,
@@ -9555,31 +8459,41 @@ const DATA = {
         "hw3": 100,
         "hw4": 100,
         "total": 400,
-        "badges": 5,
         "stamps": 5,
-        "date": "2026-10-23 22:34:20",
-        "rank": 4
-      },
-      {
-        "cls": "P6F",
-        "class": "P6F",
-        "num": 27,
-        "seat": 27,
-        "name": "P6F 27號",
+        "badges": 5,
+        "date": "2026-11-04 21:47:46"
+    },
+    {
+        "rank": 31,
+        "class": "P6B",
+        "seat": 33,
+        "name": "P6B 33號",
         "hw1": 100,
         "hw2": 100,
         "hw3": 100,
         "hw4": 100,
         "total": 400,
-        "badges": 5,
         "stamps": 5,
-        "date": "2026-10-24 00:17:28",
-        "rank": 5
-      },
-      {
-        "cls": "P6F",
+        "badges": 5,
+        "date": "2026-11-04 21:55:30"
+    },
+    {
+        "rank": 32,
+        "class": "P6C",
+        "seat": 28,
+        "name": "P6C 28號",
+        "hw1": 100,
+        "hw2": 100,
+        "hw3": 100,
+        "hw4": 100,
+        "total": 400,
+        "stamps": 5,
+        "badges": 5,
+        "date": "2026-11-04 22:07:22"
+    },
+    {
+        "rank": 33,
         "class": "P6F",
-        "num": 6,
         "seat": 6,
         "name": "P6F 06號",
         "hw1": 100,
@@ -9587,31 +8501,55 @@ const DATA = {
         "hw3": 100,
         "hw4": 100,
         "total": 400,
-        "badges": 5,
         "stamps": 5,
-        "date": "2026-10-24 11:47:26",
-        "rank": 6
-      },
-      {
-        "cls": "P6F",
-        "class": "P6F",
-        "num": 19,
-        "seat": 19,
-        "name": "P6F 19號",
+        "badges": 5,
+        "date": "2026-11-05 14:03:25"
+    },
+    {
+        "rank": 34,
+        "class": "P6C",
+        "seat": 12,
+        "name": "P6C 12號",
         "hw1": 100,
         "hw2": 100,
         "hw3": 100,
         "hw4": 100,
         "total": 400,
-        "badges": 5,
         "stamps": 5,
-        "date": "2026-10-24 21:21:10",
-        "rank": 7
-      },
-      {
-        "cls": "P6F",
+        "badges": 5,
+        "date": "2026-11-05 20:06:31"
+    },
+    {
+        "rank": 35,
+        "class": "P6A",
+        "seat": 21,
+        "name": "P6A 21號",
+        "hw1": 100,
+        "hw2": 100,
+        "hw3": 100,
+        "hw4": 100,
+        "total": 400,
+        "stamps": 5,
+        "badges": 5,
+        "date": "2026-11-05 20:08:58"
+    },
+    {
+        "rank": 36,
+        "class": "P6C",
+        "seat": 2,
+        "name": "P6C 02號",
+        "hw1": 100,
+        "hw2": 100,
+        "hw3": 100,
+        "hw4": 100,
+        "total": 400,
+        "stamps": 5,
+        "badges": 5,
+        "date": "2026-11-05 20:27:31"
+    },
+    {
+        "rank": 37,
         "class": "P6F",
-        "num": 12,
         "seat": 12,
         "name": "P6F 12號",
         "hw1": 100,
@@ -9619,45 +8557,907 @@ const DATA = {
         "hw3": 100,
         "hw4": 100,
         "total": 400,
-        "badges": 5,
         "stamps": 5,
-        "date": "2026-10-25 14:12:40",
-        "rank": 8
-      },
-      {
-        "cls": "P6F",
-        "class": "P6F",
-        "num": 3,
-        "seat": 3,
-        "name": "P6F 03號",
+        "badges": 5,
+        "date": "2026-11-05 20:47:03"
+    },
+    {
+        "rank": 38,
+        "class": "P6A",
+        "seat": 5,
+        "name": "P6A 05號",
         "hw1": 100,
         "hw2": 100,
         "hw3": 100,
         "hw4": 100,
         "total": 400,
-        "badges": 5,
         "stamps": 5,
-        "date": "2026-10-25 14:40:51",
-        "rank": 9
-      },
-      {
-        "cls": "P6F",
-        "class": "P6F",
-        "num": 23,
-        "seat": 23,
-        "name": "P6F 23號",
+        "badges": 5,
+        "date": "2026-11-05 22:10:35"
+    },
+    {
+        "rank": 39,
+        "class": "P6D",
+        "seat": 27,
+        "name": "P6D 27號",
         "hw1": 100,
         "hw2": 100,
         "hw3": 100,
         "hw4": 100,
         "total": 400,
-        "badges": 5,
         "stamps": 5,
-        "date": "2026-10-25 15:22:20",
-        "rank": 10
-      }
+        "badges": 5,
+        "date": "2026-11-05 22:26:23"
+    },
+    {
+        "rank": 40,
+        "class": "P6B",
+        "seat": 13,
+        "name": "P6B 13號",
+        "hw1": 100,
+        "hw2": 100,
+        "hw3": 100,
+        "hw4": 100,
+        "total": 400,
+        "stamps": 5,
+        "badges": 5,
+        "date": "2026-11-05 22:33:50"
+    }
+],
+  "class_top10": {
+    "P6A": [
+        {
+            "rank": 1,
+            "class": "P6A",
+            "seat": 4,
+            "name": "P6A 04號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-02 18:52:14"
+        },
+        {
+            "rank": 2,
+            "class": "P6A",
+            "seat": 30,
+            "name": "P6A 30號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-02 21:09:39"
+        },
+        {
+            "rank": 3,
+            "class": "P6A",
+            "seat": 12,
+            "name": "P6A 12號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-02 21:15:40"
+        },
+        {
+            "rank": 4,
+            "class": "P6A",
+            "seat": 15,
+            "name": "P6A 15號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-03 19:30:19"
+        },
+        {
+            "rank": 5,
+            "class": "P6A",
+            "seat": 14,
+            "name": "P6A 14號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-04 18:14:23"
+        },
+        {
+            "rank": 6,
+            "class": "P6A",
+            "seat": 21,
+            "name": "P6A 21號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-05 20:08:58"
+        },
+        {
+            "rank": 7,
+            "class": "P6A",
+            "seat": 5,
+            "name": "P6A 05號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-05 22:10:35"
+        },
+        {
+            "rank": 8,
+            "class": "P6A",
+            "seat": 11,
+            "name": "P6A 11號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-06 21:55:41"
+        },
+        {
+            "rank": 9,
+            "class": "P6A",
+            "seat": 16,
+            "name": "P6A 16號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-07 10:38:33"
+        },
+        {
+            "rank": 10,
+            "class": "P6A",
+            "seat": 3,
+            "name": "P6A 03號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-07 22:04:16"
+        }
+    ],
+    "P6B": [
+        {
+            "rank": 1,
+            "class": "P6B",
+            "seat": 4,
+            "name": "P6B 04號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-03 18:36:14"
+        },
+        {
+            "rank": 2,
+            "class": "P6B",
+            "seat": 5,
+            "name": "P6B 05號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-03 18:37:52"
+        },
+        {
+            "rank": 3,
+            "class": "P6B",
+            "seat": 10,
+            "name": "P6B 10號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-03 21:16:16"
+        },
+        {
+            "rank": 4,
+            "class": "P6B",
+            "seat": 30,
+            "name": "P6B 30號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-03 22:08:31"
+        },
+        {
+            "rank": 5,
+            "class": "P6B",
+            "seat": 3,
+            "name": "P6B 03號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-04 19:58:42"
+        },
+        {
+            "rank": 6,
+            "class": "P6B",
+            "seat": 33,
+            "name": "P6B 33號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-04 21:55:30"
+        },
+        {
+            "rank": 7,
+            "class": "P6B",
+            "seat": 13,
+            "name": "P6B 13號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-05 22:33:50"
+        },
+        {
+            "rank": 8,
+            "class": "P6B",
+            "seat": 23,
+            "name": "P6B 23號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-06 21:39:13"
+        },
+        {
+            "rank": 9,
+            "class": "P6B",
+            "seat": 16,
+            "name": "P6B 16號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-06 23:01:04"
+        },
+        {
+            "rank": 10,
+            "class": "P6B",
+            "seat": 21,
+            "name": "P6B 21號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-07 10:33:21"
+        }
+    ],
+    "P6C": [
+        {
+            "rank": 1,
+            "class": "P6C",
+            "seat": 34,
+            "name": "P6C 34號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-02 19:11:09"
+        },
+        {
+            "rank": 2,
+            "class": "P6C",
+            "seat": 9,
+            "name": "P6C 09號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-02 19:57:17"
+        },
+        {
+            "rank": 3,
+            "class": "P6C",
+            "seat": 3,
+            "name": "P6C 03號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-04 18:20:34"
+        },
+        {
+            "rank": 4,
+            "class": "P6C",
+            "seat": 28,
+            "name": "P6C 28號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-04 22:07:22"
+        },
+        {
+            "rank": 5,
+            "class": "P6C",
+            "seat": 12,
+            "name": "P6C 12號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-05 20:06:31"
+        },
+        {
+            "rank": 6,
+            "class": "P6C",
+            "seat": 2,
+            "name": "P6C 02號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-05 20:27:31"
+        },
+        {
+            "rank": 7,
+            "class": "P6C",
+            "seat": 32,
+            "name": "P6C 32號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-06 16:40:58"
+        },
+        {
+            "rank": 8,
+            "class": "P6C",
+            "seat": 4,
+            "name": "P6C 04號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-06 20:05:44"
+        },
+        {
+            "rank": 9,
+            "class": "P6C",
+            "seat": 30,
+            "name": "P6C 30號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-06 20:42:26"
+        },
+        {
+            "rank": 10,
+            "class": "P6C",
+            "seat": 33,
+            "name": "P6C 33號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-06 20:58:31"
+        }
+    ],
+    "P6D": [
+        {
+            "rank": 1,
+            "class": "P6D",
+            "seat": 6,
+            "name": "P6D 06號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-02 18:32:28"
+        },
+        {
+            "rank": 2,
+            "class": "P6D",
+            "seat": 5,
+            "name": "P6D 05號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-02 21:09:52"
+        },
+        {
+            "rank": 3,
+            "class": "P6D",
+            "seat": 23,
+            "name": "P6D 23號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-02 21:33:08"
+        },
+        {
+            "rank": 4,
+            "class": "P6D",
+            "seat": 4,
+            "name": "P6D 04號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-02 21:46:38"
+        },
+        {
+            "rank": 5,
+            "class": "P6D",
+            "seat": 25,
+            "name": "P6D 25號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-04 18:30:32"
+        },
+        {
+            "rank": 6,
+            "class": "P6D",
+            "seat": 27,
+            "name": "P6D 27號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-05 22:26:23"
+        },
+        {
+            "rank": 7,
+            "class": "P6D",
+            "seat": 13,
+            "name": "P6D 13號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-06 20:45:43"
+        },
+        {
+            "rank": 8,
+            "class": "P6D",
+            "seat": 11,
+            "name": "P6D 11號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-06 21:41:40"
+        },
+        {
+            "rank": 9,
+            "class": "P6D",
+            "seat": 12,
+            "name": "P6D 12號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-06 21:52:59"
+        },
+        {
+            "rank": 10,
+            "class": "P6D",
+            "seat": 31,
+            "name": "P6D 31號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-07 12:37:40"
+        }
+    ],
+    "P6E": [
+        {
+            "rank": 1,
+            "class": "P6E",
+            "seat": 13,
+            "name": "P6E 13號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-02 18:08:40"
+        },
+        {
+            "rank": 2,
+            "class": "P6E",
+            "seat": 15,
+            "name": "P6E 15號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-02 19:15:50"
+        },
+        {
+            "rank": 3,
+            "class": "P6E",
+            "seat": 14,
+            "name": "P6E 14號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-03 19:42:05"
+        },
+        {
+            "rank": 4,
+            "class": "P6E",
+            "seat": 2,
+            "name": "P6E 02號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-04 20:20:18"
+        },
+        {
+            "rank": 5,
+            "class": "P6E",
+            "seat": 32,
+            "name": "P6E 32號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-06 18:18:25"
+        },
+        {
+            "rank": 6,
+            "class": "P6E",
+            "seat": 30,
+            "name": "P6E 30號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-06 18:21:13"
+        },
+        {
+            "rank": 7,
+            "class": "P6E",
+            "seat": 17,
+            "name": "P6E 17號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-07 15:26:39"
+        },
+        {
+            "rank": 8,
+            "class": "P6E",
+            "seat": 22,
+            "name": "P6E 22號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-07 17:08:11"
+        },
+        {
+            "rank": 9,
+            "class": "P6E",
+            "seat": 9,
+            "name": "P6E 09號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-07 22:19:55"
+        },
+        {
+            "rank": 10,
+            "class": "P6E",
+            "seat": 18,
+            "name": "P6E 18號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-08 12:22:34"
+        }
+    ],
+    "P6F": [
+        {
+            "rank": 1,
+            "class": "P6F",
+            "seat": 9,
+            "name": "P6F 09號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-02 18:30:50"
+        },
+        {
+            "rank": 2,
+            "class": "P6F",
+            "seat": 11,
+            "name": "P6F 11號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-02 21:23:10"
+        },
+        {
+            "rank": 3,
+            "class": "P6F",
+            "seat": 8,
+            "name": "P6F 08號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-02 21:57:03"
+        },
+        {
+            "rank": 4,
+            "class": "P6F",
+            "seat": 29,
+            "name": "P6F 29號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-03 20:58:05"
+        },
+        {
+            "rank": 5,
+            "class": "P6F",
+            "seat": 21,
+            "name": "P6F 21號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-03 21:59:37"
+        },
+        {
+            "rank": 6,
+            "class": "P6F",
+            "seat": 26,
+            "name": "P6F 26號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-04 18:42:20"
+        },
+        {
+            "rank": 7,
+            "class": "P6F",
+            "seat": 10,
+            "name": "P6F 10號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-04 20:40:10"
+        },
+        {
+            "rank": 8,
+            "class": "P6F",
+            "seat": 24,
+            "name": "P6F 24號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-04 21:47:46"
+        },
+        {
+            "rank": 9,
+            "class": "P6F",
+            "seat": 6,
+            "name": "P6F 06號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-05 14:03:25"
+        },
+        {
+            "rank": 10,
+            "class": "P6F",
+            "seat": 12,
+            "name": "P6F 12號",
+            "hw1": 100,
+            "hw2": 100,
+            "hw3": 100,
+            "hw4": 100,
+            "total": 400,
+            "stamps": 5,
+            "badges": 5,
+            "date": "2026-11-05 20:47:03"
+        }
     ]
-  },
+},
   "perfect_students": {
     "P6A": [
       "P6A 04號",
@@ -33166,7 +32966,3357 @@ const MODE2_WEEKLY_BANKS = {
       }
     ]
   },
-  "w10_hw1": {
+  "w11_hw1": {
+    "key": "w11_hw1",
+    "week": "w11",
+    "weekName": "第11周",
+    "hwName": "功課1",
+    "title": "第11周功課1",
+    "dateRange": "09/11/2026 8:00 AM - 15/11/2026 11:30 PM",
+    "words": [
+        {
+            "char": "的",
+            "codes": [
+                "竹",
+                "日",
+                "心",
+                "戈"
+            ],
+            "keys": [
+                "H",
+                "A",
+                "P",
+                "I"
+            ],
+            "full": "竹日心戈 (HAPI)",
+            "secret": "的：竹日心戈 (HAPI)",
+            "quickCode": "HI"
+        },
+        {
+            "char": "一",
+            "codes": [
+                "一"
+            ],
+            "keys": [
+                "M"
+            ],
+            "full": "一 (M)",
+            "secret": "一：一 (M)",
+            "quickCode": "M"
+        },
+        {
+            "char": "是",
+            "codes": [
+                "日",
+                "一",
+                "卜",
+                "人"
+            ],
+            "keys": [
+                "A",
+                "M",
+                "Y",
+                "O"
+            ],
+            "full": "日一卜人 (AMYO)",
+            "secret": "是：日一卜人 (AMYO)",
+            "quickCode": "AO"
+        },
+        {
+            "char": "了",
+            "codes": [
+                "弓",
+                "弓"
+            ],
+            "keys": [
+                "N",
+                "N"
+            ],
+            "full": "弓弓 (NN)",
+            "secret": "了：弓弓 (NN)",
+            "quickCode": "NN"
+        },
+        {
+            "char": "我",
+            "codes": [
+                "竹",
+                "手",
+                "戈"
+            ],
+            "keys": [
+                "H",
+                "Q",
+                "I"
+            ],
+            "full": "竹手戈 (HQI)",
+            "secret": "我：竹手戈 (HQI)",
+            "quickCode": "HI"
+        },
+        {
+            "char": "不",
+            "codes": [
+                "一",
+                "火"
+            ],
+            "keys": [
+                "M",
+                "F"
+            ],
+            "full": "一火 (MF)",
+            "secret": "不：一火 (MF)",
+            "quickCode": "MF"
+        },
+        {
+            "char": "人",
+            "codes": [
+                "人"
+            ],
+            "keys": [
+                "O"
+            ],
+            "full": "人 (O)",
+            "secret": "人：人 (O)",
+            "quickCode": "O"
+        },
+        {
+            "char": "在",
+            "codes": [
+                "大",
+                "中",
+                "土"
+            ],
+            "keys": [
+                "K",
+                "L",
+                "G"
+            ],
+            "full": "大中土 (KLG)",
+            "secret": "在：大中土 (KLG)",
+            "quickCode": "KG"
+        },
+        {
+            "char": "他",
+            "codes": [
+                "人",
+                "心",
+                "木"
+            ],
+            "keys": [
+                "O",
+                "P",
+                "D"
+            ],
+            "full": "人心木 (OPD)",
+            "secret": "他：人心木 (OPD)",
+            "quickCode": "OD"
+        },
+        {
+            "char": "有",
+            "codes": [
+                "大",
+                "月"
+            ],
+            "keys": [
+                "K",
+                "B"
+            ],
+            "full": "大月 (KB)",
+            "secret": "有：大月 (KB)",
+            "quickCode": "KB"
+        },
+        {
+            "char": "這",
+            "codes": [
+                "卜",
+                "卜",
+                "一",
+                "口"
+            ],
+            "keys": [
+                "Y",
+                "Y",
+                "M",
+                "R"
+            ],
+            "full": "卜卜一口 (YYMR)",
+            "secret": "這：卜卜一口 (YYMR)",
+            "quickCode": "YR"
+        },
+        {
+            "char": "個",
+            "codes": [
+                "人",
+                "田",
+                "十",
+                "口"
+            ],
+            "keys": [
+                "O",
+                "W",
+                "J",
+                "R"
+            ],
+            "full": "人田十口 (OWJR)",
+            "secret": "個：人田十口 (OWJR)",
+            "quickCode": "OR"
+        },
+        {
+            "char": "上",
+            "codes": [
+                "卜",
+                "一"
+            ],
+            "keys": [
+                "Y",
+                "M"
+            ],
+            "full": "卜一 (YM)",
+            "secret": "上：卜一 (YM)",
+            "quickCode": "YM"
+        },
+        {
+            "char": "們",
+            "codes": [
+                "人",
+                "日",
+                "弓"
+            ],
+            "keys": [
+                "O",
+                "A",
+                "N"
+            ],
+            "full": "人日弓 (OAN)",
+            "secret": "們：人日弓 (OAN)",
+            "quickCode": "ON"
+        },
+        {
+            "char": "來",
+            "codes": [
+                "木",
+                "人",
+                "人"
+            ],
+            "keys": [
+                "D",
+                "O",
+                "O"
+            ],
+            "full": "木人人 (DOO)",
+            "secret": "來：木人人 (DOO)",
+            "quickCode": "DO"
+        },
+        {
+            "char": "到",
+            "codes": [
+                "一",
+                "土",
+                "中",
+                "弓"
+            ],
+            "keys": [
+                "M",
+                "G",
+                "L",
+                "N"
+            ],
+            "full": "一土中弓 (MGLN)",
+            "secret": "到：一土中弓 (MGLN)",
+            "quickCode": "MN"
+        },
+        {
+            "char": "時",
+            "codes": [
+                "日",
+                "土",
+                "木",
+                "戈"
+            ],
+            "keys": [
+                "A",
+                "G",
+                "D",
+                "I"
+            ],
+            "full": "日土木戈 (AGDI)",
+            "secret": "時：日土木戈 (AGDI)",
+            "quickCode": "AI"
+        },
+        {
+            "char": "大",
+            "codes": [
+                "大"
+            ],
+            "keys": [
+                "K"
+            ],
+            "full": "大 (K)",
+            "secret": "大：大 (K)",
+            "quickCode": "K"
+        },
+        {
+            "char": "地",
+            "codes": [
+                "土",
+                "心",
+                "木"
+            ],
+            "keys": [
+                "G",
+                "P",
+                "D"
+            ],
+            "full": "土心木 (GPD)",
+            "secret": "地：土心木 (GPD)",
+            "quickCode": "GD"
+        },
+        {
+            "char": "為",
+            "codes": [
+                "戈",
+                "大",
+                "弓",
+                "火"
+            ],
+            "keys": [
+                "I",
+                "K",
+                "N",
+                "F"
+            ],
+            "full": "戈大弓火 (IKNF)",
+            "secret": "為：戈大弓火 (IKNF)",
+            "quickCode": "IF"
+        },
+        {
+            "char": "子",
+            "codes": [
+                "弓",
+                "木"
+            ],
+            "keys": [
+                "N",
+                "D"
+            ],
+            "full": "弓木 (ND)",
+            "secret": "子：弓木 (ND)",
+            "quickCode": "ND"
+        },
+        {
+            "char": "中",
+            "codes": [
+                "中"
+            ],
+            "keys": [
+                "L"
+            ],
+            "full": "中 (L)",
+            "secret": "中：中 (L)",
+            "quickCode": "L"
+        },
+        {
+            "char": "你",
+            "codes": [
+                "人",
+                "弓",
+                "火"
+            ],
+            "keys": [
+                "O",
+                "N",
+                "F"
+            ],
+            "full": "人弓火 (ONF)",
+            "secret": "你：人弓火 (ONF)",
+            "quickCode": "OF"
+        },
+        {
+            "char": "說",
+            "codes": [
+                "卜",
+                "口",
+                "金",
+                "口",
+                "山"
+            ],
+            "keys": [
+                "Y",
+                "R",
+                "C",
+                "R",
+                "U"
+            ],
+            "full": "卜口金口山 (YRCRU)",
+            "secret": "說：卜口金口山 (YRCRU)",
+            "quickCode": "YU"
+        },
+        {
+            "char": "生",
+            "codes": [
+                "竹",
+                "手",
+                "一"
+            ],
+            "keys": [
+                "H",
+                "Q",
+                "M"
+            ],
+            "full": "竹手一 (HQM)",
+            "secret": "生：竹手一 (HQM)",
+            "quickCode": "HM"
+        },
+        {
+            "char": "國",
+            "codes": [
+                "田",
+                "戈",
+                "口",
+                "一"
+            ],
+            "keys": [
+                "W",
+                "I",
+                "R",
+                "M"
+            ],
+            "full": "田戈口一 (WIRM)",
+            "secret": "國：田戈口一 (WIRM)",
+            "quickCode": "WM"
+        },
+        {
+            "char": "年",
+            "codes": [
+                "人",
+                "手"
+            ],
+            "keys": [
+                "O",
+                "Q"
+            ],
+            "full": "人手 (OQ)",
+            "secret": "年：人手 (OQ)",
+            "quickCode": "OQ"
+        },
+        {
+            "char": "著",
+            "codes": [
+                "廿",
+                "十",
+                "大",
+                "日"
+            ],
+            "keys": [
+                "T",
+                "J",
+                "K",
+                "A"
+            ],
+            "full": "廿十大日 (TJKA)",
+            "secret": "著：廿十大日 (TJKA)",
+            "quickCode": "TA"
+        },
+        {
+            "char": "就",
+            "codes": [
+                "卜",
+                "火",
+                "戈",
+                "大",
+                "山"
+            ],
+            "keys": [
+                "Y",
+                "F",
+                "I",
+                "K",
+                "U"
+            ],
+            "full": "卜火戈大山 (YFIKU)",
+            "secret": "就：卜火戈大山 (YFIKU)",
+            "quickCode": "YU"
+        },
+        {
+            "char": "那",
+            "codes": [
+                "尸",
+                "手",
+                "弓",
+                "中"
+            ],
+            "keys": [
+                "S",
+                "Q",
+                "N",
+                "L"
+            ],
+            "full": "尸手弓中 (SQNL)",
+            "secret": "那：尸手弓中 (SQNL)",
+            "quickCode": "SL"
+        },
+        {
+            "char": "和",
+            "codes": [
+                "竹",
+                "木",
+                "口"
+            ],
+            "keys": [
+                "H",
+                "D",
+                "R"
+            ],
+            "full": "竹木口 (HDR)",
+            "secret": "和：竹木口 (HDR)",
+            "quickCode": "HR"
+        },
+        {
+            "char": "要",
+            "codes": [
+                "一",
+                "田",
+                "女"
+            ],
+            "keys": [
+                "M",
+                "W",
+                "V"
+            ],
+            "full": "一田女 (MWV)",
+            "secret": "要：一田女 (MWV)",
+            "quickCode": "MV"
+        },
+        {
+            "char": "她",
+            "codes": [
+                "女",
+                "心",
+                "木"
+            ],
+            "keys": [
+                "V",
+                "P",
+                "D"
+            ],
+            "full": "女心木 (VPD)",
+            "secret": "她：女心木 (VPD)",
+            "quickCode": "VD"
+        },
+        {
+            "char": "出",
+            "codes": [
+                "山",
+                "山"
+            ],
+            "keys": [
+                "U",
+                "U"
+            ],
+            "full": "山山 (UU)",
+            "secret": "出：山山 (UU)",
+            "quickCode": "UU"
+        },
+        {
+            "char": "也",
+            "codes": [
+                "心",
+                "木"
+            ],
+            "keys": [
+                "P",
+                "D"
+            ],
+            "full": "心木 (PD)",
+            "secret": "也：心木 (PD)",
+            "quickCode": "PD"
+        },
+        {
+            "char": "得",
+            "codes": [
+                "竹",
+                "人",
+                "日",
+                "一",
+                "戈"
+            ],
+            "keys": [
+                "H",
+                "O",
+                "A",
+                "M",
+                "I"
+            ],
+            "full": "竹人日一戈 (HOAMI)",
+            "secret": "得：竹人日一戈 (HOAMI)",
+            "quickCode": "HI"
+        },
+        {
+            "char": "里",
+            "codes": [
+                "田",
+                "土"
+            ],
+            "keys": [
+                "W",
+                "G"
+            ],
+            "full": "田土 (WG)",
+            "secret": "里：田土 (WG)",
+            "quickCode": "WG"
+        },
+        {
+            "char": "後",
+            "codes": [
+                "竹",
+                "人",
+                "女",
+                "戈",
+                "水"
+            ],
+            "keys": [
+                "H",
+                "O",
+                "V",
+                "I",
+                "E"
+            ],
+            "full": "竹人女戈水 (HOVIE)",
+            "secret": "後：竹人女戈水 (HOVIE)",
+            "quickCode": "HE"
+        },
+        {
+            "char": "自",
+            "codes": [
+                "竹",
+                "月",
+                "山"
+            ],
+            "keys": [
+                "H",
+                "B",
+                "U"
+            ],
+            "full": "竹月山 (HBU)",
+            "secret": "自：竹月山 (HBU)",
+            "quickCode": "HU"
+        },
+        {
+            "char": "以",
+            "codes": [
+                "女",
+                "戈",
+                "人"
+            ],
+            "keys": [
+                "V",
+                "I",
+                "O"
+            ],
+            "full": "女戈人 (VIO)",
+            "secret": "以：女戈人 (VIO)",
+            "quickCode": "VO"
+        },
+        {
+            "char": "會",
+            "codes": [
+                "人",
+                "一",
+                "田",
+                "日"
+            ],
+            "keys": [
+                "O",
+                "M",
+                "W",
+                "A"
+            ],
+            "full": "人一田日 (OMWA)",
+            "secret": "會：人一田日 (OMWA)",
+            "quickCode": "OA"
+        },
+        {
+            "char": "家",
+            "codes": [
+                "十",
+                "一",
+                "尸",
+                "人"
+            ],
+            "keys": [
+                "J",
+                "M",
+                "S",
+                "O"
+            ],
+            "full": "十一尸人 (JMSO)",
+            "secret": "家：十一尸人 (JMSO)",
+            "quickCode": "JO"
+        },
+        {
+            "char": "可",
+            "codes": [
+                "一",
+                "弓",
+                "口"
+            ],
+            "keys": [
+                "M",
+                "N",
+                "R"
+            ],
+            "full": "一弓口 (MNR)",
+            "secret": "可：一弓口 (MNR)",
+            "quickCode": "MR"
+        },
+        {
+            "char": "下",
+            "codes": [
+                "一",
+                "卜"
+            ],
+            "keys": [
+                "M",
+                "Y"
+            ],
+            "full": "一卜 (MY)",
+            "secret": "下：一卜 (MY)",
+            "quickCode": "MY"
+        },
+        {
+            "char": "而",
+            "codes": [
+                "一",
+                "月",
+                "中",
+                "中"
+            ],
+            "keys": [
+                "M",
+                "B",
+                "L",
+                "L"
+            ],
+            "full": "一月中中 (MBLL)",
+            "secret": "而：一月中中 (MBLL)",
+            "quickCode": "ML"
+        },
+        {
+            "char": "過",
+            "codes": [
+                "卜",
+                "月",
+                "月",
+                "口"
+            ],
+            "keys": [
+                "Y",
+                "B",
+                "B",
+                "R"
+            ],
+            "full": "卜月月口 (YBBR)",
+            "secret": "過：卜月月口 (YBBR)",
+            "quickCode": "YR"
+        },
+        {
+            "char": "天",
+            "codes": [
+                "一",
+                "大"
+            ],
+            "keys": [
+                "M",
+                "K"
+            ],
+            "full": "一大 (MK)",
+            "secret": "天：一大 (MK)",
+            "quickCode": "MK"
+        },
+        {
+            "char": "去",
+            "codes": [
+                "土",
+                "戈"
+            ],
+            "keys": [
+                "G",
+                "I"
+            ],
+            "full": "土戈 (GI)",
+            "secret": "去：土戈 (GI)",
+            "quickCode": "GI"
+        },
+        {
+            "char": "能",
+            "codes": [
+                "戈",
+                "月",
+                "心",
+                "心"
+            ],
+            "keys": [
+                "I",
+                "B",
+                "P",
+                "P"
+            ],
+            "full": "戈月心心 (IBPP)",
+            "secret": "能：戈月心心 (IBPP)",
+            "quickCode": "IP"
+        },
+        {
+            "char": "對",
+            "codes": [
+                "廿",
+                "土",
+                "木",
+                "戈"
+            ],
+            "keys": [
+                "T",
+                "G",
+                "D",
+                "I"
+            ],
+            "full": "廿土木戈 (TGDI)",
+            "secret": "對：廿土木戈 (TGDI)",
+            "quickCode": "TI"
+        }
+    ]
+},
+    "w11_hw2": {
+    "key": "w11_hw2",
+    "week": "w11",
+    "weekName": "第11周",
+    "hwName": "功課2",
+    "title": "第11周功課2",
+    "dateRange": "09/11/2026 8:00 AM - 15/11/2026 11:30 PM",
+    "words": [
+        {
+            "char": "小",
+            "codes": [
+                "弓",
+                "金"
+            ],
+            "keys": [
+                "N",
+                "C"
+            ],
+            "full": "弓金 (NC)",
+            "secret": "小：弓金 (NC)",
+            "quickCode": "NC"
+        },
+        {
+            "char": "多",
+            "codes": [
+                "弓",
+                "戈",
+                "弓",
+                "戈"
+            ],
+            "keys": [
+                "N",
+                "I",
+                "N",
+                "I"
+            ],
+            "full": "弓戈弓戈 (NINI)",
+            "secret": "多：弓戈弓戈 (NINI)",
+            "quickCode": "NI"
+        },
+        {
+            "char": "然",
+            "codes": [
+                "月",
+                "大",
+                "火"
+            ],
+            "keys": [
+                "B",
+                "K",
+                "F"
+            ],
+            "full": "月大火 (BKF)",
+            "secret": "然：月大火 (BKF)",
+            "quickCode": "BF"
+        },
+        {
+            "char": "於",
+            "codes": [
+                "卜",
+                "尸",
+                "人",
+                "戈",
+                "一"
+            ],
+            "keys": [
+                "Y",
+                "S",
+                "O",
+                "I",
+                "M"
+            ],
+            "full": "卜尸人戈一 (YSOIM)",
+            "secret": "於：卜尸人戈一 (YSOIM)",
+            "quickCode": "YM"
+        },
+        {
+            "char": "心",
+            "codes": [
+                "心"
+            ],
+            "keys": [
+                "P"
+            ],
+            "full": "心 (P)",
+            "secret": "心：心 (P)",
+            "quickCode": "P"
+        },
+        {
+            "char": "學",
+            "codes": [
+                "竹",
+                "月",
+                "弓",
+                "木"
+            ],
+            "keys": [
+                "H",
+                "B",
+                "N",
+                "D"
+            ],
+            "full": "竹月弓木 (HBND)",
+            "secret": "學：竹月弓木 (HBND)",
+            "quickCode": "HD"
+        },
+        {
+            "char": "麼",
+            "codes": [
+                "戈",
+                "金",
+                "女",
+                "戈"
+            ],
+            "keys": [
+                "I",
+                "C",
+                "V",
+                "I"
+            ],
+            "full": "戈金女戈 (ICVI)",
+            "secret": "麼：戈金女戈 (ICVI)",
+            "quickCode": "II"
+        },
+        {
+            "char": "之",
+            "codes": [
+                "戈",
+                "弓",
+                "人"
+            ],
+            "keys": [
+                "I",
+                "N",
+                "O"
+            ],
+            "full": "戈弓人 (INO)",
+            "secret": "之：戈弓人 (INO)",
+            "quickCode": "IO"
+        },
+        {
+            "char": "都",
+            "codes": [
+                "十",
+                "日",
+                "弓",
+                "中"
+            ],
+            "keys": [
+                "J",
+                "A",
+                "N",
+                "L"
+            ],
+            "full": "十日弓中 (JANL)",
+            "secret": "都：十日弓中 (JANL)",
+            "quickCode": "JL"
+        },
+        {
+            "char": "好",
+            "codes": [
+                "女",
+                "弓",
+                "木"
+            ],
+            "keys": [
+                "V",
+                "N",
+                "D"
+            ],
+            "full": "女弓木 (VND)",
+            "secret": "好：女弓木 (VND)",
+            "quickCode": "VD"
+        },
+        {
+            "char": "看",
+            "codes": [
+                "竹",
+                "手",
+                "月",
+                "山"
+            ],
+            "keys": [
+                "H",
+                "Q",
+                "B",
+                "U"
+            ],
+            "full": "竹手月山 (HQBU)",
+            "secret": "看：竹手月山 (HQBU)",
+            "quickCode": "HU"
+        },
+        {
+            "char": "起",
+            "codes": [
+                "土",
+                "人",
+                "口",
+                "山"
+            ],
+            "keys": [
+                "G",
+                "O",
+                "R",
+                "U"
+            ],
+            "full": "土人口山 (GORU)",
+            "secret": "起：土人口山 (GORU)",
+            "quickCode": "GU"
+        },
+        {
+            "char": "發",
+            "codes": [
+                "弓",
+                "人",
+                "弓",
+                "竹",
+                "水"
+            ],
+            "keys": [
+                "N",
+                "O",
+                "N",
+                "H",
+                "E"
+            ],
+            "full": "弓人弓竹水 (NONHE)",
+            "secret": "發：弓人弓竹水 (NONHE)",
+            "quickCode": "NE"
+        },
+        {
+            "char": "當",
+            "codes": [
+                "火",
+                "月",
+                "口",
+                "田"
+            ],
+            "keys": [
+                "F",
+                "B",
+                "R",
+                "W"
+            ],
+            "full": "火月口田 (FBRW)",
+            "secret": "當：火月口田 (FBRW)",
+            "quickCode": "FW"
+        },
+        {
+            "char": "沒",
+            "codes": [
+                "水",
+                "竹",
+                "尸",
+                "水"
+            ],
+            "keys": [
+                "E",
+                "H",
+                "S",
+                "E"
+            ],
+            "full": "水竹尸水 (EHSE)",
+            "secret": "沒：水竹尸水 (EHSE)",
+            "quickCode": "EE"
+        },
+        {
+            "char": "成",
+            "codes": [
+                "戈",
+                "竹",
+                "尸"
+            ],
+            "keys": [
+                "I",
+                "H",
+                "S"
+            ],
+            "full": "戈竹尸 (IHS)",
+            "secret": "成：戈竹尸 (IHS)",
+            "quickCode": "IS"
+        },
+        {
+            "char": "只",
+            "codes": [
+                "口",
+                "金"
+            ],
+            "keys": [
+                "R",
+                "C"
+            ],
+            "full": "口金 (RC)",
+            "secret": "只：口金 (RC)",
+            "quickCode": "RC"
+        },
+        {
+            "char": "如",
+            "codes": [
+                "女",
+                "口"
+            ],
+            "keys": [
+                "V",
+                "R"
+            ],
+            "full": "女口 (VR)",
+            "secret": "如：女口 (VR)",
+            "quickCode": "VR"
+        },
+        {
+            "char": "事",
+            "codes": [
+                "十",
+                "中",
+                "中",
+                "弓"
+            ],
+            "keys": [
+                "J",
+                "L",
+                "L",
+                "N"
+            ],
+            "full": "十中中弓 (JLLN)",
+            "secret": "事：十中中弓 (JLLN)",
+            "quickCode": "JN"
+        },
+        {
+            "char": "把",
+            "codes": [
+                "手",
+                "日",
+                "山"
+            ],
+            "keys": [
+                "Q",
+                "A",
+                "U"
+            ],
+            "full": "手日山 (QAU)",
+            "secret": "把：手日山 (QAU)",
+            "quickCode": "QU"
+        },
+        {
+            "char": "還",
+            "codes": [
+                "卜",
+                "田",
+                "中",
+                "女"
+            ],
+            "keys": [
+                "Y",
+                "W",
+                "L",
+                "V"
+            ],
+            "full": "卜田中女 (YWLV)",
+            "secret": "還：卜田中女 (YWLV)",
+            "quickCode": "YV"
+        },
+        {
+            "char": "用",
+            "codes": [
+                "月",
+                "手"
+            ],
+            "keys": [
+                "B",
+                "Q"
+            ],
+            "full": "月手 (BQ)",
+            "secret": "用：月手 (BQ)",
+            "quickCode": "BQ"
+        },
+        {
+            "char": "第",
+            "codes": [
+                "竹",
+                "弓",
+                "中",
+                "竹"
+            ],
+            "keys": [
+                "H",
+                "N",
+                "L",
+                "H"
+            ],
+            "full": "竹弓中竹 (HNLH)",
+            "secret": "第：竹弓中竹 (HNLH)",
+            "quickCode": "HH"
+        },
+        {
+            "char": "樣",
+            "codes": [
+                "木",
+                "廿",
+                "土",
+                "水"
+            ],
+            "keys": [
+                "D",
+                "T",
+                "G",
+                "E"
+            ],
+            "full": "木廿土水 (DTGE)",
+            "secret": "樣：木廿土水 (DTGE)",
+            "quickCode": "DE"
+        },
+        {
+            "char": "道",
+            "codes": [
+                "卜",
+                "廿",
+                "竹",
+                "山"
+            ],
+            "keys": [
+                "Y",
+                "T",
+                "H",
+                "U"
+            ],
+            "full": "卜廿竹山 (YTHU)",
+            "secret": "道：卜廿竹山 (YTHU)",
+            "quickCode": "YU"
+        },
+        {
+            "char": "想",
+            "codes": [
+                "木",
+                "山",
+                "心"
+            ],
+            "keys": [
+                "D",
+                "U",
+                "P"
+            ],
+            "full": "木山心 (DUP)",
+            "secret": "想：木山心 (DUP)",
+            "quickCode": "DP"
+        },
+        {
+            "char": "作",
+            "codes": [
+                "人",
+                "竹",
+                "尸"
+            ],
+            "keys": [
+                "O",
+                "H",
+                "S"
+            ],
+            "full": "人竹尸 (OHS)",
+            "secret": "作：人竹尸 (OHS)",
+            "quickCode": "OS"
+        },
+        {
+            "char": "種",
+            "codes": [
+                "竹",
+                "木",
+                "竹",
+                "十",
+                "土"
+            ],
+            "keys": [
+                "H",
+                "D",
+                "H",
+                "J",
+                "G"
+            ],
+            "full": "竹木竹十土 (HDHJG)",
+            "secret": "種：竹木竹十土 (HDHJG)",
+            "quickCode": "HG"
+        },
+        {
+            "char": "開",
+            "codes": [
+                "日",
+                "弓",
+                "一",
+                "十",
+                "十"
+            ],
+            "keys": [
+                "A",
+                "N",
+                "M",
+                "J",
+                "J"
+            ],
+            "full": "日弓一十十 (ANMJJ)",
+            "secret": "開：日弓一十十 (ANMJJ)",
+            "quickCode": "AJ"
+        },
+        {
+            "char": "美",
+            "codes": [
+                "廿",
+                "土",
+                "大"
+            ],
+            "keys": [
+                "T",
+                "G",
+                "K"
+            ],
+            "full": "廿土大 (TGK)",
+            "secret": "美：廿土大 (TGK)",
+            "quickCode": "TK"
+        },
+        {
+            "char": "總",
+            "codes": [
+                "女",
+                "火",
+                "竹",
+                "田",
+                "心"
+            ],
+            "keys": [
+                "V",
+                "F",
+                "H",
+                "W",
+                "P"
+            ],
+            "full": "女火竹田心 (VFHWP)",
+            "secret": "總：女火竹田心 (VFHWP)",
+            "quickCode": "VP"
+        },
+        {
+            "char": "從",
+            "codes": [
+                "竹",
+                "人",
+                "人",
+                "人",
+                "人"
+            ],
+            "keys": [
+                "H",
+                "O",
+                "O",
+                "O",
+                "O"
+            ],
+            "full": "竹人人人人 (HOOOO)",
+            "secret": "從：竹人人人人 (HOOOO)",
+            "quickCode": "HO"
+        },
+        {
+            "char": "無",
+            "codes": [
+                "人",
+                "廿",
+                "火"
+            ],
+            "keys": [
+                "O",
+                "T",
+                "F"
+            ],
+            "full": "人廿火 (OTF)",
+            "secret": "無：人廿火 (OTF)",
+            "quickCode": "OF"
+        },
+        {
+            "char": "情",
+            "codes": [
+                "心",
+                "手",
+                "一",
+                "月"
+            ],
+            "keys": [
+                "P",
+                "Q",
+                "M",
+                "B"
+            ],
+            "full": "心手一月 (PQMB)",
+            "secret": "情：心手一月 (PQMB)",
+            "quickCode": "PB"
+        },
+        {
+            "char": "己",
+            "codes": [
+                "尸",
+                "山"
+            ],
+            "keys": [
+                "S",
+                "U"
+            ],
+            "full": "尸山 (SU)",
+            "secret": "己：尸山 (SU)",
+            "quickCode": "SU"
+        },
+        {
+            "char": "面",
+            "codes": [
+                "一",
+                "田",
+                "卜",
+                "中"
+            ],
+            "keys": [
+                "M",
+                "W",
+                "Y",
+                "L"
+            ],
+            "full": "一田卜中 (MWYL)",
+            "secret": "面：一田卜中 (MWYL)",
+            "quickCode": "ML"
+        },
+        {
+            "char": "最",
+            "codes": [
+                "日",
+                "尸",
+                "十",
+                "水"
+            ],
+            "keys": [
+                "A",
+                "S",
+                "J",
+                "E"
+            ],
+            "full": "日尸十水 (ASJE)",
+            "secret": "最：日尸十水 (ASJE)",
+            "quickCode": "AE"
+        },
+        {
+            "char": "女",
+            "codes": [
+                "女"
+            ],
+            "keys": [
+                "V"
+            ],
+            "full": "女 (V)",
+            "secret": "女：女 (V)",
+            "quickCode": "V"
+        },
+        {
+            "char": "但",
+            "codes": [
+                "人",
+                "日",
+                "一"
+            ],
+            "keys": [
+                "O",
+                "A",
+                "M"
+            ],
+            "full": "人日一 (OAM)",
+            "secret": "但：人日一 (OAM)",
+            "quickCode": "OM"
+        },
+        {
+            "char": "現",
+            "codes": [
+                "一",
+                "土",
+                "月",
+                "山",
+                "山"
+            ],
+            "keys": [
+                "M",
+                "G",
+                "B",
+                "U",
+                "U"
+            ],
+            "full": "一土月山山 (MGBUU)",
+            "secret": "現：一土月山山 (MGBUU)",
+            "quickCode": "MU"
+        },
+        {
+            "char": "前",
+            "codes": [
+                "廿",
+                "月",
+                "中",
+                "弓"
+            ],
+            "keys": [
+                "T",
+                "B",
+                "L",
+                "N"
+            ],
+            "full": "廿月中弓 (TBLN)",
+            "secret": "前：廿月中弓 (TBLN)",
+            "quickCode": "TN"
+        },
+        {
+            "char": "些",
+            "codes": [
+                "卜",
+                "心",
+                "一",
+                "一"
+            ],
+            "keys": [
+                "Y",
+                "P",
+                "M",
+                "M"
+            ],
+            "full": "卜心一一 (YPMM)",
+            "secret": "些：卜心一一 (YPMM)",
+            "quickCode": "YM"
+        },
+        {
+            "char": "所",
+            "codes": [
+                "竹",
+                "尸",
+                "竹",
+                "一",
+                "中"
+            ],
+            "keys": [
+                "H",
+                "S",
+                "H",
+                "M",
+                "L"
+            ],
+            "full": "竹尸竹一中 (HSHML)",
+            "secret": "所：竹尸竹一中 (HSHML)",
+            "quickCode": "HL"
+        },
+        {
+            "char": "同",
+            "codes": [
+                "月",
+                "一",
+                "口"
+            ],
+            "keys": [
+                "B",
+                "M",
+                "R"
+            ],
+            "full": "月一口 (BMR)",
+            "secret": "同：月一口 (BMR)",
+            "quickCode": "BR"
+        },
+        {
+            "char": "日",
+            "codes": [
+                "日"
+            ],
+            "keys": [
+                "A"
+            ],
+            "full": "日 (A)",
+            "secret": "日：日 (A)",
+            "quickCode": "A"
+        },
+        {
+            "char": "手",
+            "codes": [
+                "手"
+            ],
+            "keys": [
+                "Q"
+            ],
+            "full": "手 (Q)",
+            "secret": "手：手 (Q)",
+            "quickCode": "Q"
+        },
+        {
+            "char": "又",
+            "codes": [
+                "弓",
+                "大"
+            ],
+            "keys": [
+                "N",
+                "K"
+            ],
+            "full": "弓大 (NK)",
+            "secret": "又：弓大 (NK)",
+            "quickCode": "NK"
+        },
+        {
+            "char": "行",
+            "codes": [
+                "竹",
+                "人",
+                "一",
+                "一",
+                "弓"
+            ],
+            "keys": [
+                "H",
+                "O",
+                "M",
+                "M",
+                "N"
+            ],
+            "full": "竹人一一弓 (HOMMN)",
+            "secret": "行：竹人一一弓 (HOMMN)",
+            "quickCode": "HN"
+        },
+        {
+            "char": "意",
+            "codes": [
+                "卜",
+                "廿",
+                "日",
+                "心"
+            ],
+            "keys": [
+                "Y",
+                "T",
+                "A",
+                "P"
+            ],
+            "full": "卜廿日心 (YTAP)",
+            "secret": "意：卜廿日心 (YTAP)",
+            "quickCode": "YP"
+        },
+        {
+            "char": "動",
+            "codes": [
+                "竹",
+                "土",
+                "大",
+                "尸"
+            ],
+            "keys": [
+                "H",
+                "G",
+                "K",
+                "S"
+            ],
+            "full": "竹土大尸 (HGKS)",
+            "secret": "動：竹土大尸 (HGKS)",
+            "quickCode": "HS"
+        }
+    ]
+},
+    "w11_hw3": {
+    "key": "w11_hw3",
+    "week": "w11",
+    "weekName": "第11周",
+    "hwName": "功課3",
+    "title": "第11周功課3",
+    "dateRange": "09/11/2026 8:00 AM - 15/11/2026 11:30 PM",
+    "words": [
+        {
+            "char": "方",
+            "codes": [
+                "卜",
+                "竹",
+                "尸"
+            ],
+            "keys": [
+                "Y",
+                "H",
+                "S"
+            ],
+            "full": "卜竹尸 (YHS)",
+            "secret": "方：卜竹尸 (YHS)",
+            "quickCode": "YS"
+        },
+        {
+            "char": "期",
+            "codes": [
+                "廿",
+                "金",
+                "月"
+            ],
+            "keys": [
+                "T",
+                "C",
+                "B"
+            ],
+            "full": "廿金月 (TCB)",
+            "secret": "期：廿金月 (TCB)",
+            "quickCode": "TB"
+        },
+        {
+            "char": "它",
+            "codes": [
+                "十",
+                "心"
+            ],
+            "keys": [
+                "J",
+                "P"
+            ],
+            "full": "十心 (JP)",
+            "secret": "它：十心 (JP)",
+            "quickCode": "JP"
+        },
+        {
+            "char": "頭",
+            "codes": [
+                "一",
+                "廿",
+                "一",
+                "月",
+                "金"
+            ],
+            "keys": [
+                "M",
+                "T",
+                "M",
+                "B",
+                "C"
+            ],
+            "full": "一廿一月金 (MTMBC)",
+            "secret": "頭：一廿一月金 (MTMBC)",
+            "quickCode": "MC"
+        },
+        {
+            "char": "經",
+            "codes": [
+                "女",
+                "火",
+                "一",
+                "女",
+                "一"
+            ],
+            "keys": [
+                "V",
+                "F",
+                "M",
+                "V",
+                "M"
+            ],
+            "full": "女火一女一 (VFMVM)",
+            "secret": "經：女火一女一 (VFMVM)",
+            "quickCode": "VM"
+        },
+        {
+            "char": "長",
+            "codes": [
+                "尸",
+                "一",
+                "女"
+            ],
+            "keys": [
+                "S",
+                "M",
+                "V"
+            ],
+            "full": "尸一女 (SMV)",
+            "secret": "長：尸一女 (SMV)",
+            "quickCode": "SV"
+        },
+        {
+            "char": "兒",
+            "codes": [
+                "竹",
+                "難",
+                "竹",
+                "山"
+            ],
+            "keys": [
+                "H",
+                "X",
+                "H",
+                "U"
+            ],
+            "full": "竹難竹山 (HXHU)",
+            "secret": "兒：竹難竹山 (HXHU)",
+            "quickCode": "HU"
+        },
+        {
+            "char": "回",
+            "codes": [
+                "田",
+                "口"
+            ],
+            "keys": [
+                "W",
+                "R"
+            ],
+            "full": "田口 (WR)",
+            "secret": "回：田口 (WR)",
+            "quickCode": "WR"
+        },
+        {
+            "char": "位",
+            "codes": [
+                "人",
+                "卜",
+                "廿"
+            ],
+            "keys": [
+                "O",
+                "Y",
+                "T"
+            ],
+            "full": "人卜廿 (OYT)",
+            "secret": "位：人卜廿 (OYT)",
+            "quickCode": "OT"
+        },
+        {
+            "char": "分",
+            "codes": [
+                "金",
+                "尸",
+                "竹"
+            ],
+            "keys": [
+                "C",
+                "S",
+                "H"
+            ],
+            "full": "金尸竹 (CSH)",
+            "secret": "分：金尸竹 (CSH)",
+            "quickCode": "CH"
+        },
+        {
+            "char": "愛",
+            "codes": [
+                "月",
+                "月",
+                "心",
+                "水"
+            ],
+            "keys": [
+                "B",
+                "B",
+                "P",
+                "E"
+            ],
+            "full": "月月心水 (BBPE)",
+            "secret": "愛：月月心水 (BBPE)",
+            "quickCode": "BE"
+        },
+        {
+            "char": "老",
+            "codes": [
+                "十",
+                "大",
+                "心"
+            ],
+            "keys": [
+                "J",
+                "K",
+                "P"
+            ],
+            "full": "十大心 (JKP)",
+            "secret": "老：十大心 (JKP)",
+            "quickCode": "JP"
+        },
+        {
+            "char": "因",
+            "codes": [
+                "田",
+                "大"
+            ],
+            "keys": [
+                "W",
+                "K"
+            ],
+            "full": "田大 (WK)",
+            "secret": "因：田大 (WK)",
+            "quickCode": "WK"
+        },
+        {
+            "char": "很",
+            "codes": [
+                "竹",
+                "人",
+                "日",
+                "女"
+            ],
+            "keys": [
+                "H",
+                "O",
+                "A",
+                "V"
+            ],
+            "full": "竹人日女 (HOAV)",
+            "secret": "很：竹人日女 (HOAV)",
+            "quickCode": "HV"
+        },
+        {
+            "char": "給",
+            "codes": [
+                "女",
+                "火",
+                "人",
+                "一",
+                "口"
+            ],
+            "keys": [
+                "V",
+                "F",
+                "O",
+                "M",
+                "R"
+            ],
+            "full": "女火人一口 (VFOMR)",
+            "secret": "給：女火人一口 (VFOMR)",
+            "quickCode": "VR"
+        },
+        {
+            "char": "名",
+            "codes": [
+                "弓",
+                "戈",
+                "口"
+            ],
+            "keys": [
+                "N",
+                "I",
+                "R"
+            ],
+            "full": "弓戈口 (NIR)",
+            "secret": "名：弓戈口 (NIR)",
+            "quickCode": "NR"
+        },
+        {
+            "char": "法",
+            "codes": [
+                "水",
+                "土",
+                "戈"
+            ],
+            "keys": [
+                "E",
+                "G",
+                "I"
+            ],
+            "full": "水土戈 (EGI)",
+            "secret": "法：水土戈 (EGI)",
+            "quickCode": "EI"
+        },
+        {
+            "char": "間",
+            "codes": [
+                "日",
+                "弓",
+                "日"
+            ],
+            "keys": [
+                "A",
+                "N",
+                "A"
+            ],
+            "full": "日弓日 (ANA)",
+            "secret": "間：日弓日 (ANA)",
+            "quickCode": "AA"
+        },
+        {
+            "char": "斯",
+            "codes": [
+                "廿",
+                "金",
+                "竹",
+                "一",
+                "中"
+            ],
+            "keys": [
+                "T",
+                "C",
+                "H",
+                "M",
+                "L"
+            ],
+            "full": "廿金竹一中 (TCHML)",
+            "secret": "斯：廿金竹一中 (TCHML)",
+            "quickCode": "TL"
+        },
+        {
+            "char": "知",
+            "codes": [
+                "人",
+                "大",
+                "口"
+            ],
+            "keys": [
+                "O",
+                "K",
+                "R"
+            ],
+            "full": "人大口 (OKR)",
+            "secret": "知：人大口 (OKR)",
+            "quickCode": "OR"
+        },
+        {
+            "char": "世",
+            "codes": [
+                "心",
+                "廿"
+            ],
+            "keys": [
+                "P",
+                "T"
+            ],
+            "full": "心廿 (PT)",
+            "secret": "世：心廿 (PT)",
+            "quickCode": "PT"
+        },
+        {
+            "char": "什",
+            "codes": [
+                "人",
+                "十"
+            ],
+            "keys": [
+                "O",
+                "J"
+            ],
+            "full": "人十 (OJ)",
+            "secret": "什：人十 (OJ)",
+            "quickCode": "OJ"
+        },
+        {
+            "char": "兩",
+            "codes": [
+                "一",
+                "中",
+                "月",
+                "人"
+            ],
+            "keys": [
+                "M",
+                "L",
+                "B",
+                "O"
+            ],
+            "full": "一中月人 (MLBO)",
+            "secret": "兩：一中月人 (MLBO)",
+            "quickCode": "MO"
+        },
+        {
+            "char": "次",
+            "codes": [
+                "戈",
+                "一",
+                "弓",
+                "人"
+            ],
+            "keys": [
+                "I",
+                "M",
+                "N",
+                "O"
+            ],
+            "full": "戈一弓人 (IMNO)",
+            "secret": "次：戈一弓人 (IMNO)",
+            "quickCode": "IO"
+        },
+        {
+            "char": "使",
+            "codes": [
+                "人",
+                "十",
+                "中",
+                "大"
+            ],
+            "keys": [
+                "O",
+                "J",
+                "L",
+                "K"
+            ],
+            "full": "人十中大 (OJLK)",
+            "secret": "使：人十中大 (OJLK)",
+            "quickCode": "OK"
+        },
+        {
+            "char": "身",
+            "codes": [
+                "竹",
+                "難",
+                "竹"
+            ],
+            "keys": [
+                "H",
+                "X",
+                "H"
+            ],
+            "full": "竹難竹 (HXH)",
+            "secret": "身：竹難竹 (HXH)",
+            "quickCode": "HH"
+        },
+        {
+            "char": "者",
+            "codes": [
+                "十",
+                "大",
+                "日"
+            ],
+            "keys": [
+                "J",
+                "K",
+                "A"
+            ],
+            "full": "十大日 (JKA)",
+            "secret": "者：十大日 (JKA)",
+            "quickCode": "JA"
+        },
+        {
+            "char": "被",
+            "codes": [
+                "中",
+                "木",
+                "竹",
+                "水"
+            ],
+            "keys": [
+                "L",
+                "D",
+                "H",
+                "E"
+            ],
+            "full": "中木竹水 (LDHE)",
+            "secret": "被：中木竹水 (LDHE)",
+            "quickCode": "LE"
+        },
+        {
+            "char": "高",
+            "codes": [
+                "卜",
+                "口",
+                "月",
+                "口"
+            ],
+            "keys": [
+                "Y",
+                "R",
+                "B",
+                "R"
+            ],
+            "full": "卜口月口 (YRBR)",
+            "secret": "高：卜口月口 (YRBR)",
+            "quickCode": "YR"
+        },
+        {
+            "char": "已",
+            "codes": [
+                "尸",
+                "山"
+            ],
+            "keys": [
+                "S",
+                "U"
+            ],
+            "full": "尸山 (SU)",
+            "secret": "已：尸山 (SU)",
+            "quickCode": "SU"
+        },
+        {
+            "char": "親",
+            "codes": [
+                "卜",
+                "木",
+                "月",
+                "山",
+                "山"
+            ],
+            "keys": [
+                "Y",
+                "D",
+                "B",
+                "U",
+                "U"
+            ],
+            "full": "卜木月山山 (YDBUU)",
+            "secret": "親：卜木月山山 (YDBUU)",
+            "quickCode": "YU"
+        },
+        {
+            "char": "其",
+            "codes": [
+                "廿",
+                "一",
+                "一",
+                "金"
+            ],
+            "keys": [
+                "T",
+                "M",
+                "M",
+                "C"
+            ],
+            "full": "廿一一金 (TMMC)",
+            "secret": "其：廿一一金 (TMMC)",
+            "quickCode": "TC"
+        },
+        {
+            "char": "進",
+            "codes": [
+                "卜",
+                "人",
+                "土"
+            ],
+            "keys": [
+                "Y",
+                "O",
+                "G"
+            ],
+            "full": "卜人土 (YOG)",
+            "secret": "進：卜人土 (YOG)",
+            "quickCode": "YG"
+        },
+        {
+            "char": "此",
+            "codes": [
+                "卜",
+                "一",
+                "心"
+            ],
+            "keys": [
+                "Y",
+                "M",
+                "P"
+            ],
+            "full": "卜一心 (YMP)",
+            "secret": "此：卜一心 (YMP)",
+            "quickCode": "YP"
+        },
+        {
+            "char": "話",
+            "codes": [
+                "卜",
+                "口",
+                "竹",
+                "十",
+                "口"
+            ],
+            "keys": [
+                "Y",
+                "R",
+                "H",
+                "J",
+                "R"
+            ],
+            "full": "卜口竹十口 (YRHJR)",
+            "secret": "話：卜口竹十口 (YRHJR)",
+            "quickCode": "YR"
+        },
+        {
+            "char": "常",
+            "codes": [
+                "火",
+                "月",
+                "口",
+                "中",
+                "月"
+            ],
+            "keys": [
+                "F",
+                "B",
+                "R",
+                "L",
+                "B"
+            ],
+            "full": "火月口中月 (FBRLB)",
+            "secret": "常：火月口中月 (FBRLB)",
+            "quickCode": "FB"
+        },
+        {
+            "char": "與",
+            "codes": [
+                "竹",
+                "難",
+                "卜",
+                "金"
+            ],
+            "keys": [
+                "H",
+                "X",
+                "Y",
+                "C"
+            ],
+            "full": "竹難卜金 (HXYC)",
+            "secret": "與：竹難卜金 (HXYC)",
+            "quickCode": "HC"
+        },
+        {
+            "char": "活",
+            "codes": [
+                "水",
+                "竹",
+                "十",
+                "口"
+            ],
+            "keys": [
+                "E",
+                "H",
+                "J",
+                "R"
+            ],
+            "full": "水竹十口 (EHJR)",
+            "secret": "活：水竹十口 (EHJR)",
+            "quickCode": "ER"
+        },
+        {
+            "char": "正",
+            "codes": [
+                "一",
+                "卜",
+                "中",
+                "一"
+            ],
+            "keys": [
+                "M",
+                "Y",
+                "L",
+                "M"
+            ],
+            "full": "一卜中一 (MYLM)",
+            "secret": "正：一卜中一 (MYLM)",
+            "quickCode": "MM"
+        },
+        {
+            "char": "感",
+            "codes": [
+                "戈",
+                "口",
+                "心"
+            ],
+            "keys": [
+                "I",
+                "R",
+                "P"
+            ],
+            "full": "戈口心 (IRP)",
+            "secret": "感：戈口心 (IRP)",
+            "quickCode": "IP"
+        },
+        {
+            "char": "的",
+            "codes": [
+                "竹",
+                "日",
+                "心",
+                "戈"
+            ],
+            "keys": [
+                "H",
+                "A",
+                "P",
+                "I"
+            ],
+            "full": "竹日心戈 (HAPI)",
+            "secret": "的：竹日心戈 (HAPI)",
+            "quickCode": "HI"
+        },
+        {
+            "char": "一",
+            "codes": [
+                "一"
+            ],
+            "keys": [
+                "M"
+            ],
+            "full": "一 (M)",
+            "secret": "一：一 (M)",
+            "quickCode": "M"
+        },
+        {
+            "char": "是",
+            "codes": [
+                "日",
+                "一",
+                "卜",
+                "人"
+            ],
+            "keys": [
+                "A",
+                "M",
+                "Y",
+                "O"
+            ],
+            "full": "日一卜人 (AMYO)",
+            "secret": "是：日一卜人 (AMYO)",
+            "quickCode": "AO"
+        },
+        {
+            "char": "了",
+            "codes": [
+                "弓",
+                "弓"
+            ],
+            "keys": [
+                "N",
+                "N"
+            ],
+            "full": "弓弓 (NN)",
+            "secret": "了：弓弓 (NN)",
+            "quickCode": "NN"
+        },
+        {
+            "char": "我",
+            "codes": [
+                "竹",
+                "手",
+                "戈"
+            ],
+            "keys": [
+                "H",
+                "Q",
+                "I"
+            ],
+            "full": "竹手戈 (HQI)",
+            "secret": "我：竹手戈 (HQI)",
+            "quickCode": "HI"
+        },
+        {
+            "char": "不",
+            "codes": [
+                "一",
+                "火"
+            ],
+            "keys": [
+                "M",
+                "F"
+            ],
+            "full": "一火 (MF)",
+            "secret": "不：一火 (MF)",
+            "quickCode": "MF"
+        },
+        {
+            "char": "人",
+            "codes": [
+                "人"
+            ],
+            "keys": [
+                "O"
+            ],
+            "full": "人 (O)",
+            "secret": "人：人 (O)",
+            "quickCode": "O"
+        },
+        {
+            "char": "在",
+            "codes": [
+                "大",
+                "中",
+                "土"
+            ],
+            "keys": [
+                "K",
+                "L",
+                "G"
+            ],
+            "full": "大中土 (KLG)",
+            "secret": "在：大中土 (KLG)",
+            "quickCode": "KG"
+        },
+        {
+            "char": "他",
+            "codes": [
+                "人",
+                "心",
+                "木"
+            ],
+            "keys": [
+                "O",
+                "P",
+                "D"
+            ],
+            "full": "人心木 (OPD)",
+            "secret": "他：人心木 (OPD)",
+            "quickCode": "OD"
+        },
+        {
+            "char": "有",
+            "codes": [
+                "大",
+                "月"
+            ],
+            "keys": [
+                "K",
+                "B"
+            ],
+            "full": "大月 (KB)",
+            "secret": "有：大月 (KB)",
+            "quickCode": "KB"
+        }
+    ]
+},
+    "w11_hw4": {
+    "key": "w11_hw4",
+    "week": "w11",
+    "weekName": "第11周",
+    "hwName": "功課4",
+    "title": "第11周功課4",
+    "dateRange": "09/11/2026 8:00 AM - 15/11/2026 11:30 PM",
+    "words": [
+        {
+            "char": "這",
+            "codes": [
+                "卜",
+                "卜",
+                "一",
+                "口"
+            ],
+            "keys": [
+                "Y",
+                "Y",
+                "M",
+                "R"
+            ],
+            "full": "卜卜一口 (YYMR)",
+            "secret": "這：卜卜一口 (YYMR)",
+            "quickCode": "YR"
+        },
+        {
+            "char": "個",
+            "codes": [
+                "人",
+                "田",
+                "十",
+                "口"
+            ],
+            "keys": [
+                "O",
+                "W",
+                "J",
+                "R"
+            ],
+            "full": "人田十口 (OWJR)",
+            "secret": "個：人田十口 (OWJR)",
+            "quickCode": "OR"
+        },
+        {
+            "char": "上",
+            "codes": [
+                "卜",
+                "一"
+            ],
+            "keys": [
+                "Y",
+                "M"
+            ],
+            "full": "卜一 (YM)",
+            "secret": "上：卜一 (YM)",
+            "quickCode": "YM"
+        },
+        {
+            "char": "們",
+            "codes": [
+                "人",
+                "日",
+                "弓"
+            ],
+            "keys": [
+                "O",
+                "A",
+                "N"
+            ],
+            "full": "人日弓 (OAN)",
+            "secret": "們：人日弓 (OAN)",
+            "quickCode": "ON"
+        },
+        {
+            "char": "來",
+            "codes": [
+                "木",
+                "人",
+                "人"
+            ],
+            "keys": [
+                "D",
+                "O",
+                "O"
+            ],
+            "full": "木人人 (DOO)",
+            "secret": "來：木人人 (DOO)",
+            "quickCode": "DO"
+        },
+        {
+            "char": "到",
+            "codes": [
+                "一",
+                "土",
+                "中",
+                "弓"
+            ],
+            "keys": [
+                "M",
+                "G",
+                "L",
+                "N"
+            ],
+            "full": "一土中弓 (MGLN)",
+            "secret": "到：一土中弓 (MGLN)",
+            "quickCode": "MN"
+        },
+        {
+            "char": "時",
+            "codes": [
+                "日",
+                "土",
+                "木",
+                "戈"
+            ],
+            "keys": [
+                "A",
+                "G",
+                "D",
+                "I"
+            ],
+            "full": "日土木戈 (AGDI)",
+            "secret": "時：日土木戈 (AGDI)",
+            "quickCode": "AI"
+        },
+        {
+            "char": "大",
+            "codes": [
+                "大"
+            ],
+            "keys": [
+                "K"
+            ],
+            "full": "大 (K)",
+            "secret": "大：大 (K)",
+            "quickCode": "K"
+        },
+        {
+            "char": "地",
+            "codes": [
+                "土",
+                "心",
+                "木"
+            ],
+            "keys": [
+                "G",
+                "P",
+                "D"
+            ],
+            "full": "土心木 (GPD)",
+            "secret": "地：土心木 (GPD)",
+            "quickCode": "GD"
+        },
+        {
+            "char": "為",
+            "codes": [
+                "戈",
+                "大",
+                "弓",
+                "火"
+            ],
+            "keys": [
+                "I",
+                "K",
+                "N",
+                "F"
+            ],
+            "full": "戈大弓火 (IKNF)",
+            "secret": "為：戈大弓火 (IKNF)",
+            "quickCode": "IF"
+        },
+        {
+            "char": "子",
+            "codes": [
+                "弓",
+                "木"
+            ],
+            "keys": [
+                "N",
+                "D"
+            ],
+            "full": "弓木 (ND)",
+            "secret": "子：弓木 (ND)",
+            "quickCode": "ND"
+        },
+        {
+            "char": "中",
+            "codes": [
+                "中"
+            ],
+            "keys": [
+                "L"
+            ],
+            "full": "中 (L)",
+            "secret": "中：中 (L)",
+            "quickCode": "L"
+        },
+        {
+            "char": "你",
+            "codes": [
+                "人",
+                "弓",
+                "火"
+            ],
+            "keys": [
+                "O",
+                "N",
+                "F"
+            ],
+            "full": "人弓火 (ONF)",
+            "secret": "你：人弓火 (ONF)",
+            "quickCode": "OF"
+        },
+        {
+            "char": "說",
+            "codes": [
+                "卜",
+                "口",
+                "金",
+                "口",
+                "山"
+            ],
+            "keys": [
+                "Y",
+                "R",
+                "C",
+                "R",
+                "U"
+            ],
+            "full": "卜口金口山 (YRCRU)",
+            "secret": "說：卜口金口山 (YRCRU)",
+            "quickCode": "YU"
+        },
+        {
+            "char": "生",
+            "codes": [
+                "竹",
+                "手",
+                "一"
+            ],
+            "keys": [
+                "H",
+                "Q",
+                "M"
+            ],
+            "full": "竹手一 (HQM)",
+            "secret": "生：竹手一 (HQM)",
+            "quickCode": "HM"
+        },
+        {
+            "char": "國",
+            "codes": [
+                "田",
+                "戈",
+                "口",
+                "一"
+            ],
+            "keys": [
+                "W",
+                "I",
+                "R",
+                "M"
+            ],
+            "full": "田戈口一 (WIRM)",
+            "secret": "國：田戈口一 (WIRM)",
+            "quickCode": "WM"
+        },
+        {
+            "char": "年",
+            "codes": [
+                "人",
+                "手"
+            ],
+            "keys": [
+                "O",
+                "Q"
+            ],
+            "full": "人手 (OQ)",
+            "secret": "年：人手 (OQ)",
+            "quickCode": "OQ"
+        },
+        {
+            "char": "著",
+            "codes": [
+                "廿",
+                "十",
+                "大",
+                "日"
+            ],
+            "keys": [
+                "T",
+                "J",
+                "K",
+                "A"
+            ],
+            "full": "廿十大日 (TJKA)",
+            "secret": "著：廿十大日 (TJKA)",
+            "quickCode": "TA"
+        },
+        {
+            "char": "就",
+            "codes": [
+                "卜",
+                "火",
+                "戈",
+                "大",
+                "山"
+            ],
+            "keys": [
+                "Y",
+                "F",
+                "I",
+                "K",
+                "U"
+            ],
+            "full": "卜火戈大山 (YFIKU)",
+            "secret": "就：卜火戈大山 (YFIKU)",
+            "quickCode": "YU"
+        },
+        {
+            "char": "那",
+            "codes": [
+                "尸",
+                "手",
+                "弓",
+                "中"
+            ],
+            "keys": [
+                "S",
+                "Q",
+                "N",
+                "L"
+            ],
+            "full": "尸手弓中 (SQNL)",
+            "secret": "那：尸手弓中 (SQNL)",
+            "quickCode": "SL"
+        },
+        {
+            "char": "和",
+            "codes": [
+                "竹",
+                "木",
+                "口"
+            ],
+            "keys": [
+                "H",
+                "D",
+                "R"
+            ],
+            "full": "竹木口 (HDR)",
+            "secret": "和：竹木口 (HDR)",
+            "quickCode": "HR"
+        },
+        {
+            "char": "要",
+            "codes": [
+                "一",
+                "田",
+                "女"
+            ],
+            "keys": [
+                "M",
+                "W",
+                "V"
+            ],
+            "full": "一田女 (MWV)",
+            "secret": "要：一田女 (MWV)",
+            "quickCode": "MV"
+        },
+        {
+            "char": "她",
+            "codes": [
+                "女",
+                "心",
+                "木"
+            ],
+            "keys": [
+                "V",
+                "P",
+                "D"
+            ],
+            "full": "女心木 (VPD)",
+            "secret": "她：女心木 (VPD)",
+            "quickCode": "VD"
+        },
+        {
+            "char": "出",
+            "codes": [
+                "山",
+                "山"
+            ],
+            "keys": [
+                "U",
+                "U"
+            ],
+            "full": "山山 (UU)",
+            "secret": "出：山山 (UU)",
+            "quickCode": "UU"
+        },
+        {
+            "char": "也",
+            "codes": [
+                "心",
+                "木"
+            ],
+            "keys": [
+                "P",
+                "D"
+            ],
+            "full": "心木 (PD)",
+            "secret": "也：心木 (PD)",
+            "quickCode": "PD"
+        },
+        {
+            "char": "得",
+            "codes": [
+                "竹",
+                "人",
+                "日",
+                "一",
+                "戈"
+            ],
+            "keys": [
+                "H",
+                "O",
+                "A",
+                "M",
+                "I"
+            ],
+            "full": "竹人日一戈 (HOAMI)",
+            "secret": "得：竹人日一戈 (HOAMI)",
+            "quickCode": "HI"
+        },
+        {
+            "char": "里",
+            "codes": [
+                "田",
+                "土"
+            ],
+            "keys": [
+                "W",
+                "G"
+            ],
+            "full": "田土 (WG)",
+            "secret": "里：田土 (WG)",
+            "quickCode": "WG"
+        },
+        {
+            "char": "後",
+            "codes": [
+                "竹",
+                "人",
+                "女",
+                "戈",
+                "水"
+            ],
+            "keys": [
+                "H",
+                "O",
+                "V",
+                "I",
+                "E"
+            ],
+            "full": "竹人女戈水 (HOVIE)",
+            "secret": "後：竹人女戈水 (HOVIE)",
+            "quickCode": "HE"
+        },
+        {
+            "char": "自",
+            "codes": [
+                "竹",
+                "月",
+                "山"
+            ],
+            "keys": [
+                "H",
+                "B",
+                "U"
+            ],
+            "full": "竹月山 (HBU)",
+            "secret": "自：竹月山 (HBU)",
+            "quickCode": "HU"
+        },
+        {
+            "char": "以",
+            "codes": [
+                "女",
+                "戈",
+                "人"
+            ],
+            "keys": [
+                "V",
+                "I",
+                "O"
+            ],
+            "full": "女戈人 (VIO)",
+            "secret": "以：女戈人 (VIO)",
+            "quickCode": "VO"
+        },
+        {
+            "char": "會",
+            "codes": [
+                "人",
+                "一",
+                "田",
+                "日"
+            ],
+            "keys": [
+                "O",
+                "M",
+                "W",
+                "A"
+            ],
+            "full": "人一田日 (OMWA)",
+            "secret": "會：人一田日 (OMWA)",
+            "quickCode": "OA"
+        },
+        {
+            "char": "家",
+            "codes": [
+                "十",
+                "一",
+                "尸",
+                "人"
+            ],
+            "keys": [
+                "J",
+                "M",
+                "S",
+                "O"
+            ],
+            "full": "十一尸人 (JMSO)",
+            "secret": "家：十一尸人 (JMSO)",
+            "quickCode": "JO"
+        },
+        {
+            "char": "可",
+            "codes": [
+                "一",
+                "弓",
+                "口"
+            ],
+            "keys": [
+                "M",
+                "N",
+                "R"
+            ],
+            "full": "一弓口 (MNR)",
+            "secret": "可：一弓口 (MNR)",
+            "quickCode": "MR"
+        },
+        {
+            "char": "下",
+            "codes": [
+                "一",
+                "卜"
+            ],
+            "keys": [
+                "M",
+                "Y"
+            ],
+            "full": "一卜 (MY)",
+            "secret": "下：一卜 (MY)",
+            "quickCode": "MY"
+        },
+        {
+            "char": "而",
+            "codes": [
+                "一",
+                "月",
+                "中",
+                "中"
+            ],
+            "keys": [
+                "M",
+                "B",
+                "L",
+                "L"
+            ],
+            "full": "一月中中 (MBLL)",
+            "secret": "而：一月中中 (MBLL)",
+            "quickCode": "ML"
+        },
+        {
+            "char": "過",
+            "codes": [
+                "卜",
+                "月",
+                "月",
+                "口"
+            ],
+            "keys": [
+                "Y",
+                "B",
+                "B",
+                "R"
+            ],
+            "full": "卜月月口 (YBBR)",
+            "secret": "過：卜月月口 (YBBR)",
+            "quickCode": "YR"
+        },
+        {
+            "char": "天",
+            "codes": [
+                "一",
+                "大"
+            ],
+            "keys": [
+                "M",
+                "K"
+            ],
+            "full": "一大 (MK)",
+            "secret": "天：一大 (MK)",
+            "quickCode": "MK"
+        },
+        {
+            "char": "去",
+            "codes": [
+                "土",
+                "戈"
+            ],
+            "keys": [
+                "G",
+                "I"
+            ],
+            "full": "土戈 (GI)",
+            "secret": "去：土戈 (GI)",
+            "quickCode": "GI"
+        },
+        {
+            "char": "能",
+            "codes": [
+                "戈",
+                "月",
+                "心",
+                "心"
+            ],
+            "keys": [
+                "I",
+                "B",
+                "P",
+                "P"
+            ],
+            "full": "戈月心心 (IBPP)",
+            "secret": "能：戈月心心 (IBPP)",
+            "quickCode": "IP"
+        },
+        {
+            "char": "對",
+            "codes": [
+                "廿",
+                "土",
+                "木",
+                "戈"
+            ],
+            "keys": [
+                "T",
+                "G",
+                "D",
+                "I"
+            ],
+            "full": "廿土木戈 (TGDI)",
+            "secret": "對：廿土木戈 (TGDI)",
+            "quickCode": "TI"
+        },
+        {
+            "char": "小",
+            "codes": [
+                "弓",
+                "金"
+            ],
+            "keys": [
+                "N",
+                "C"
+            ],
+            "full": "弓金 (NC)",
+            "secret": "小：弓金 (NC)",
+            "quickCode": "NC"
+        },
+        {
+            "char": "多",
+            "codes": [
+                "弓",
+                "戈",
+                "弓",
+                "戈"
+            ],
+            "keys": [
+                "N",
+                "I",
+                "N",
+                "I"
+            ],
+            "full": "弓戈弓戈 (NINI)",
+            "secret": "多：弓戈弓戈 (NINI)",
+            "quickCode": "NI"
+        },
+        {
+            "char": "然",
+            "codes": [
+                "月",
+                "大",
+                "火"
+            ],
+            "keys": [
+                "B",
+                "K",
+                "F"
+            ],
+            "full": "月大火 (BKF)",
+            "secret": "然：月大火 (BKF)",
+            "quickCode": "BF"
+        },
+        {
+            "char": "於",
+            "codes": [
+                "卜",
+                "尸",
+                "人",
+                "戈",
+                "一"
+            ],
+            "keys": [
+                "Y",
+                "S",
+                "O",
+                "I",
+                "M"
+            ],
+            "full": "卜尸人戈一 (YSOIM)",
+            "secret": "於：卜尸人戈一 (YSOIM)",
+            "quickCode": "YM"
+        },
+        {
+            "char": "心",
+            "codes": [
+                "心"
+            ],
+            "keys": [
+                "P"
+            ],
+            "full": "心 (P)",
+            "secret": "心：心 (P)",
+            "quickCode": "P"
+        },
+        {
+            "char": "學",
+            "codes": [
+                "竹",
+                "月",
+                "弓",
+                "木"
+            ],
+            "keys": [
+                "H",
+                "B",
+                "N",
+                "D"
+            ],
+            "full": "竹月弓木 (HBND)",
+            "secret": "學：竹月弓木 (HBND)",
+            "quickCode": "HD"
+        },
+        {
+            "char": "麼",
+            "codes": [
+                "戈",
+                "金",
+                "女",
+                "戈"
+            ],
+            "keys": [
+                "I",
+                "C",
+                "V",
+                "I"
+            ],
+            "full": "戈金女戈 (ICVI)",
+            "secret": "麼：戈金女戈 (ICVI)",
+            "quickCode": "II"
+        },
+        {
+            "char": "之",
+            "codes": [
+                "戈",
+                "弓",
+                "人"
+            ],
+            "keys": [
+                "I",
+                "N",
+                "O"
+            ],
+            "full": "戈弓人 (INO)",
+            "secret": "之：戈弓人 (INO)",
+            "quickCode": "IO"
+        },
+        {
+            "char": "都",
+            "codes": [
+                "十",
+                "日",
+                "弓",
+                "中"
+            ],
+            "keys": [
+                "J",
+                "A",
+                "N",
+                "L"
+            ],
+            "full": "十日弓中 (JANL)",
+            "secret": "都：十日弓中 (JANL)",
+            "quickCode": "JL"
+        },
+        {
+            "char": "好",
+            "codes": [
+                "女",
+                "弓",
+                "木"
+            ],
+            "keys": [
+                "V",
+                "N",
+                "D"
+            ],
+            "full": "女弓木 (VND)",
+            "secret": "好：女弓木 (VND)",
+            "quickCode": "VD"
+        }
+    ]
+},
+    "w10_hw1": {
     "title": "🔥 第 10 周 功課 1 (生、地、森、室... 50字)",
     "words": [
       {

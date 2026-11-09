@@ -149,8 +149,55 @@ const SafeStorage = {
     function getNextQuiz(mode) {
       if (!modeQuizQueues[mode] || modeQuizQueues[mode].length === 0) {
         let pool = [];
-        if (mode === 'connected') pool = [...(DATA.connected_words || [])];
-        else if (mode === 'split') pool = [...(DATA.split_words || [])];
+        if (mode === 'connected') {
+          pool = [...(DATA.connected_words || [])];
+          // 動態將當前最新週次(w11)字庫納入抽取池，平權隨機
+          const actWk = (typeof getActiveSpeedWeek === 'function') ? getActiveSpeedWeek() : 'w11';
+          const banks = (typeof window !== 'undefined' && window.MODE2_WEEKLY_BANKS) ? window.MODE2_WEEKLY_BANKS : (typeof MODE2_WEEKLY_BANKS !== 'undefined' ? MODE2_WEEKLY_BANKS : {});
+          for (let h = 1; h <= 4; h++) {
+            const k = `${actWk}_hw${h}`;
+            if (banks[k] && Array.isArray(banks[k].words)) {
+              banks[k].words.forEach(w => {
+                if (w && w.char && !pool.some(item => item.char === w.char)) {
+                  pool.push({
+                    char: w.char,
+                    codes: w.codes.slice(),
+                    keys: w.keys.slice(),
+                    full: w.full,
+                    secret: w.secret || `${w.char}：${w.full}`,
+                    quickCode: w.quickCode
+                  });
+                }
+              });
+            }
+          }
+        }
+        else if (mode === 'split') {
+          pool = [...(DATA.split_words || [])];
+          const actWk = (typeof getActiveSpeedWeek === 'function') ? getActiveSpeedWeek() : 'w11';
+          const banks = (typeof window !== 'undefined' && window.MODE2_WEEKLY_BANKS) ? window.MODE2_WEEKLY_BANKS : (typeof MODE2_WEEKLY_BANKS !== 'undefined' ? MODE2_WEEKLY_BANKS : {});
+          for (let h = 1; h <= 4; h++) {
+            const k = `${actWk}_hw${h}`;
+            if (banks[k] && Array.isArray(banks[k].words)) {
+              banks[k].words.forEach(w => {
+                if (w && w.char && !pool.some(item => item.char === w.char)) {
+                  // 分體字劃分：字首最長2碼，其餘為字身
+                  const pLen = Math.min(2, Math.max(1, Math.floor(w.codes.length / 2)));
+                  pool.push({
+                    char: w.char,
+                    prefix_codes: w.codes.slice(0, pLen),
+                    prefix_keys: w.keys.slice(0, pLen),
+                    body_codes: w.codes.slice(pLen),
+                    body_keys: w.keys.slice(pLen),
+                    full: w.full,
+                    secret: w.secret || `${w.char}：${w.full}`,
+                    quickCode: w.quickCode
+                  });
+                }
+              });
+            }
+          }
+        }
         else if (mode === 'special') pool = [...(DATA.special_words || [])];
         else if (mode === 'feature') pool = [...(DATA.feature_words || DATA.connected_words || [])];
 
@@ -2714,6 +2761,7 @@ const SafeStorage = {
             { week: 'w6', start: new Date('2026-10-05T00:00:00+08:00'), end: new Date('2026-10-11T23:59:59+08:00') },
             { week: 'w7', start: new Date('2026-10-12T00:00:00+08:00'), end: new Date('2026-10-19T23:59:59+08:00') },
             { week: 'w8', start: new Date('2026-10-20T08:00:00+08:00'), end: new Date('2026-10-25T23:30:00+08:00') },
+            { week: 'w11', start: new Date('2026-11-09T08:00:00+08:00'), end: new Date('2026-11-15T23:59:59+08:00') },
             { week: 'w10', start: new Date('2026-10-20T08:00:00+08:00'), end: new Date('2026-11-08T23:30:00+08:00') }
           ]);
 
@@ -2731,7 +2779,7 @@ const SafeStorage = {
         }
         return schedules[0].week;
       }
-      return 'w10';
+      return 'w11';
     }
 
     function initSpeedWeekDropdown() {
@@ -2755,7 +2803,7 @@ const SafeStorage = {
         if (m && !availableWeeks.includes(m[1])) {
           const wk = m[1];
           const wkNum = parseInt(wk.slice(1), 10);
-          if (isTestUnlocked || (wkNum <= 10 && wkNum !== 9)) {
+          if (isTestUnlocked || (wkNum <= 40 && wkNum !== 9)) {
             availableWeeks.push(wk);
           } else {
             const sched = schedules.find(s => s.week === wk);
@@ -2782,10 +2830,12 @@ const SafeStorage = {
           const wkNum = wk.slice(1);
           const isTopActive = (wk === 'w10' || wk === 'w8' || wk === activeWk);
           const grp = document.createElement('optgroup');
-          if (wk === 'w10') {
-            grp.label = `🔥 第 10 周 倉頡手速字庫 (校運會跨周開放中)`;
+          if (wk === 'w11') {
+            grp.label = `🔥 第 11 周 倉頡手速字庫 (當前進行中)`;
+          } else if (wk === 'w10') {
+            grp.label = `🔥 第 10 周 倉頡手速字庫 (過往記錄)`;
           } else if (wk === 'w8') {
-            grp.label = `🔥 第 8 周 倉頡手速字庫 (本周結算開放中)`;
+            grp.label = `🔥 第 8 周 倉頡手速字庫 (過往記錄)`;
           } else {
             grp.label = isTopActive
               ? `🔥 第 ${wkNum} 周 倉頡手速字庫 (當前開放中)`
@@ -2856,10 +2906,12 @@ const SafeStorage = {
         availableWeeks.forEach(wk => {
           const wkNum = wk.slice(1);
           const grp = document.createElement('optgroup');
-          if (wk === 'w10') {
-            grp.label = `🔥 第 10 周 倉頡手速賽 (校運會跨周開放中)`;
+          if (wk === 'w11') {
+            grp.label = `🔥 第 11 周 倉頡手速賽 (當前進行中)`;
+          } else if (wk === 'w10') {
+            grp.label = `🔥 第 10 周 倉頡手速賽 (過往記錄)`;
           } else if (wk === 'w8') {
-            grp.label = `🔥 第 8 周 倉頡手速賽 (本周結算開放中)`;
+            grp.label = `🔥 第 8 周 倉頡手速賽 (過往記錄)`;
           } else {
             grp.label = `📅 第 ${wkNum} 周 倉頡手速賽 (過往記錄)`;
           }
