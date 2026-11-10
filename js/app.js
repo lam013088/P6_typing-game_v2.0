@@ -1194,18 +1194,26 @@ const SafeStorage = {
         document.getElementById('game-prompt').textContent = `請依筆順依序捕捉【 ${currentQuiz.char} 】的完整 ${currentQuiz.codes.length} 碼倉頡字根！`;
         document.getElementById('game-prompt').style.color = '#1E3A8A';
 
-        for (let i = 1; i <= 4; i++) {
+        for (let i = 1; i <= 5; i++) {
           const slot = document.getElementById(`slot-${i}`);
           const val = document.getElementById(`val-${i}`);
           const label = document.getElementById(`label-slot-${i}`);
-          if (i <= currentQuiz.codes.length) {
-            slot.style.display = 'flex';
-            slot.className = 'code-slot';
-            val.textContent = '？';
-            const labels = ['① 首碼', '② 次碼', '③ 三碼', '④ 尾碼'];
-            label.textContent = labels[i - 1];
-          } else {
-            slot.style.display = 'none';
+          if (slot) {
+            if (i <= currentQuiz.codes.length) {
+              slot.style.display = 'flex';
+              slot.className = 'code-slot';
+              if (val) val.textContent = '？';
+              const labels = currentQuiz.codes.length === 5 
+                ? ['① 首碼', '② 次碼', '③ 三碼', '④ 四碼', '⑤ 尾碼']
+                : (currentQuiz.codes.length === 4 
+                    ? ['① 首碼', '② 次碼', '③ 三碼', '④ 尾碼']
+                    : (currentQuiz.codes.length === 3 
+                        ? ['① 首碼', '② 次碼', '③ 尾碼'] 
+                        : (currentQuiz.codes.length === 2 ? ['① 首碼', '② 尾碼'] : ['全碼'])));
+              if (label) label.textContent = labels[i - 1] || `第${i}碼`;
+            } else {
+              slot.style.display = 'none';
+            }
           }
         }
 
@@ -1312,18 +1320,26 @@ const SafeStorage = {
         document.getElementById('game-prompt').textContent = `請依筆順依序捕捉【 ${currentQuiz.char} 】的字形特徵倉頡字碼！`;
         document.getElementById('game-prompt').style.color = '#0D9488';
 
-        for (let i = 1; i <= 4; i++) {
+        for (let i = 1; i <= 5; i++) {
           const slot = document.getElementById(`slot-${i}`);
           const val = document.getElementById(`val-${i}`);
           const label = document.getElementById(`label-slot-${i}`);
-          if (i <= currentQuiz.codes.length) {
-            slot.style.display = 'flex';
-            slot.className = 'code-slot';
-            val.textContent = '？';
-            const labels = ['① 首碼', '② 次碼', '③ 尾碼', '④ 末碼'];
-            label.textContent = labels[i - 1];
-          } else {
-            slot.style.display = 'none';
+          if (slot) {
+            if (i <= currentQuiz.codes.length) {
+              slot.style.display = 'flex';
+              slot.className = 'code-slot';
+              if (val) val.textContent = '？';
+              const labels = currentQuiz.codes.length === 5 
+                ? ['① 首碼', '② 次碼', '③ 三碼', '④ 四碼', '⑤ 尾碼']
+                : (currentQuiz.codes.length === 4 
+                    ? ['① 首碼', '② 次碼', '③ 三碼', '④ 尾碼']
+                    : (currentQuiz.codes.length === 3 
+                        ? ['① 首碼', '② 次碼', '③ 尾碼'] 
+                        : (currentQuiz.codes.length === 2 ? ['① 首碼', '② 尾碼'] : ['全碼'])));
+              if (label) label.textContent = labels[i - 1] || `第${i}碼`;
+            } else {
+              slot.style.display = 'none';
+            }
           }
         }
 
@@ -1359,18 +1375,26 @@ const SafeStorage = {
         document.getElementById('game-prompt').textContent = `捕捉【 ${currentQuiz.char} 】的特殊字根球（注意難字 X 鍵或複合字碼）！`;
         document.getElementById('game-prompt').style.color = '#059669';
 
-        for (let i = 1; i <= 4; i++) {
+        for (let i = 1; i <= 5; i++) {
           const slot = document.getElementById(`slot-${i}`);
           const val = document.getElementById(`val-${i}`);
           const label = document.getElementById(`label-slot-${i}`);
-          if (i <= currentQuiz.codes.length) {
-            slot.style.display = 'flex';
-            slot.className = 'code-slot';
-            val.textContent = '？';
-            const labels = ['① 首碼', '② 次碼', '③ 尾碼', '④ 末碼'];
-            label.textContent = labels[i - 1];
-          } else {
-            slot.style.display = 'none';
+          if (slot) {
+            if (i <= currentQuiz.codes.length) {
+              slot.style.display = 'flex';
+              slot.className = 'code-slot';
+              if (val) val.textContent = '？';
+              const labels = currentQuiz.codes.length === 5 
+                ? ['① 首碼', '② 次碼', '③ 三碼', '④ 四碼', '⑤ 尾碼']
+                : (currentQuiz.codes.length === 4 
+                    ? ['① 首碼', '② 次碼', '③ 三碼', '④ 尾碼']
+                    : (currentQuiz.codes.length === 3 
+                        ? ['① 首碼', '② 次碼', '③ 尾碼'] 
+                        : (currentQuiz.codes.length === 2 ? ['① 首碼', '② 尾碼'] : ['全碼'])));
+              if (label) label.textContent = labels[i - 1] || `第${i}碼`;
+            } else {
+              slot.style.display = 'none';
+            }
           }
         }
 
@@ -1535,8 +1559,8 @@ const SafeStorage = {
 
           selectedCodes.push(orbObj.code);
           const currentSlot = document.getElementById(`slot-${neededIdx + 1}`);
-          currentSlot.className = 'code-slot filled';
-          document.getElementById(`val-${neededIdx + 1}`).textContent = orbObj.code;
+          if (currentSlot) currentSlot.className = 'code-slot filled';
+          const currentVal = document.getElementById(`val-${neededIdx + 1}`); if (currentVal) currentVal.textContent = orbObj.code;
 
           // 若本輪觸發了【精準直覺】，動態引導高亮下一碼字根球
           if (focusSkillActiveThisRound && selectedCodes.length < currentQuiz.codes.length) {
