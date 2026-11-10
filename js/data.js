@@ -11927,25 +11927,23 @@ const DATA = {
       "quickCode": "YU"
     },
     {
-      "char": "開",
-      "codes": [
-        "日",
-        "弓",
-        "一",
-        "十",
-        "十"
-      ],
-      "keys": [
-        "A",
-        "N",
-        "M",
-        "J",
-        "J"
-      ],
-      "full": "日弓一十十 (ANMJJ)",
-      "secret": "開：日弓一十十 (ANMJJ)",
-      "quickCode": "AJ"
-    },
+  "char": "開",
+  "codes": [
+    "日",
+    "弓",
+    "一",
+    "廿"
+  ],
+  "keys": [
+    "A",
+    "N",
+    "M",
+    "T"
+  ],
+  "full": "日弓一廿 (ANMT)",
+  "secret": "開：日弓一廿 (ANMT)",
+  "quickCode": "AT"
+},
     {
       "char": "閉",
       "codes": [
@@ -12000,7 +11998,26 @@ const DATA = {
       "secret": "雀：火人土 (FOG)",
       "quickCode": "FG"
     },
-    {"char": "陣", "codes": ["弓", "中", "十", "田", "十"], "keys": ["N", "L", "J", "W", "J"], "full": "弓中十田十 (NLJWJ)", "secret": "陣：弓中十田十 (NLJWJ)", "quickCode": "NJ"},
+    {
+  "char": "陣",
+  "codes": [
+    "弓",
+    "中",
+    "十",
+    "田",
+    "十"
+  ],
+  "keys": [
+    "N",
+    "L",
+    "J",
+    "W",
+    "J"
+  ],
+  "full": "弓中十田十 (NLJWJ)",
+  "secret": "陣：弓中十田十 (NLJWJ)",
+  "quickCode": "NJ"
+},
     {
       "char": "魂",
       "codes": [
@@ -12324,21 +12341,21 @@ const MODE2_WEEKLY_BANKS = {
         "quickCode": "GA"
       },
       {
-        "char": "沒",
-        "codes": [
-          "水",
-          "弓",
-          "水"
-        ],
-        "keys": [
-          "E",
-          "N",
-          "E"
-        ],
-        "full": "水弓水 (ENE)",
-        "secret": "沒：水弓水 (ENE)",
-        "quickCode": "EE"
-      },
+  "char": "沒",
+  "codes": [
+    "水",
+    "弓",
+    "水"
+  ],
+  "keys": [
+    "E",
+    "N",
+    "E"
+  ],
+  "full": "水弓水 (ENE)",
+  "secret": "沒：水弓水 (ENE)",
+  "quickCode": "EE"
+},
       {
         "char": "受",
         "codes": [
@@ -13605,7 +13622,26 @@ const MODE2_WEEKLY_BANKS = {
         "secret": "事：十中中弓 (JLLN)",
         "quickCode": "JN"
       },
-      {"char": "陣", "codes": ["弓", "中", "十", "田", "十"], "keys": ["N", "L", "J", "W", "J"], "full": "弓中十田十 (NLJWJ)", "secret": "陣：弓中十田十 (NLJWJ)", "quickCode": "NJ"},
+      {
+  "char": "陣",
+  "codes": [
+    "弓",
+    "中",
+    "十",
+    "田",
+    "十"
+  ],
+  "keys": [
+    "N",
+    "L",
+    "J",
+    "W",
+    "J"
+  ],
+  "full": "弓中十田十 (NLJWJ)",
+  "secret": "陣：弓中十田十 (NLJWJ)",
+  "quickCode": "NJ"
+},
       {
         "char": "箭",
         "codes": [
@@ -15699,25 +15735,25 @@ const MODE2_WEEKLY_BANKS = {
         "quickCode": "IM"
       },
       {
-        "char": "行",
-        "codes": [
-          "竹",
-          "人",
-          "一",
-          "一",
-          "弓"
-        ],
-        "keys": [
-          "H",
-          "O",
-          "M",
-          "M",
-          "N"
-        ],
-        "full": "竹人一一弓 (HOMMN)",
-        "secret": "行：竹人一一弓 (HOMMN)",
-        "quickCode": "HN"
-      },
+  "char": "行",
+  "codes": [
+    "竹",
+    "人",
+    "一",
+    "一",
+    "弓"
+  ],
+  "keys": [
+    "H",
+    "O",
+    "M",
+    "M",
+    "N"
+  ],
+  "full": "竹人一一弓 (HOMMN)",
+  "secret": "行：竹人一一弓 (HOMMN)",
+  "quickCode": "HN"
+},
       {
         "char": "微",
         "codes": [
@@ -19090,7 +19126,24 @@ const MODE2_WEEKLY_BANKS = {
         "secret": "世：心廿 (PT)",
         "quickCode": "PT"
       },
-      {"char": "葉", "codes": ["廿", "心", "廿", "木"], "keys": ["T", "P", "T", "D"], "full": "廿心廿木 (TPTD)", "secret": "葉：廿心廿木 (TPTD)", "quickCode": "TD"},
+      {
+  "char": "葉",
+  "codes": [
+    "廿",
+    "心",
+    "廿",
+    "木"
+  ],
+  "keys": [
+    "T",
+    "P",
+    "T",
+    "D"
+  ],
+  "full": "廿心廿木 (TPTD)",
+  "secret": "葉：廿心廿木 (TPTD)",
+  "quickCode": "TD"
+},
       {
         "char": "泄",
         "codes": [
@@ -19485,7 +19538,26 @@ const MODE2_WEEKLY_BANKS = {
         "secret": "們：人日弓 (OAN)",
         "quickCode": "ON"
       },
-      {"char": "現", "codes": ["一", "土", "月", "山", "山"], "keys": ["M", "G", "B", "U", "U"], "full": "一土月山山 (MGBUU)", "secret": "現：一土月山山 (MGBUU)", "quickCode": "MU"},
+      {
+  "char": "現",
+  "codes": [
+    "一",
+    "土",
+    "月",
+    "山",
+    "山"
+  ],
+  "keys": [
+    "M",
+    "G",
+    "B",
+    "U",
+    "U"
+  ],
+  "full": "一土月山山 (MGBUU)",
+  "secret": "現：一土月山山 (MGBUU)",
+  "quickCode": "MU"
+},
       {
         "char": "隊",
         "codes": [
@@ -21756,7 +21828,24 @@ const MODE2_WEEKLY_BANKS = {
         "secret": "世：心廿 (PT)",
         "quickCode": "PT"
       },
-      {"char": "葉", "codes": ["廿", "心", "廿", "木"], "keys": ["T", "P", "T", "D"], "full": "廿心廿木 (TPTD)", "secret": "葉：廿心廿木 (TPTD)", "quickCode": "TD"},
+      {
+  "char": "葉",
+  "codes": [
+    "廿",
+    "心",
+    "廿",
+    "木"
+  ],
+  "keys": [
+    "T",
+    "P",
+    "T",
+    "D"
+  ],
+  "full": "廿心廿木 (TPTD)",
+  "secret": "葉：廿心廿木 (TPTD)",
+  "quickCode": "TD"
+},
       {
         "char": "泄",
         "codes": [
@@ -22151,7 +22240,26 @@ const MODE2_WEEKLY_BANKS = {
         "secret": "們：人日弓 (OAN)",
         "quickCode": "ON"
       },
-      {"char": "現", "codes": ["一", "土", "月", "山", "山"], "keys": ["M", "G", "B", "U", "U"], "full": "一土月山山 (MGBUU)", "secret": "現：一土月山山 (MGBUU)", "quickCode": "MU"},
+      {
+  "char": "現",
+  "codes": [
+    "一",
+    "土",
+    "月",
+    "山",
+    "山"
+  ],
+  "keys": [
+    "M",
+    "G",
+    "B",
+    "U",
+    "U"
+  ],
+  "full": "一土月山山 (MGBUU)",
+  "secret": "現：一土月山山 (MGBUU)",
+  "quickCode": "MU"
+},
       {
         "char": "隊",
         "codes": [
@@ -22418,7 +22526,24 @@ const MODE2_WEEKLY_BANKS = {
         "secret": "世：心廿 (PT)",
         "quickCode": "PT"
       },
-      {"char": "葉", "codes": ["廿", "心", "廿", "木"], "keys": ["T", "P", "T", "D"], "full": "廿心廿木 (TPTD)", "secret": "葉：廿心廿木 (TPTD)", "quickCode": "TD"},
+      {
+  "char": "葉",
+  "codes": [
+    "廿",
+    "心",
+    "廿",
+    "木"
+  ],
+  "keys": [
+    "T",
+    "P",
+    "T",
+    "D"
+  ],
+  "full": "廿心廿木 (TPTD)",
+  "secret": "葉：廿心廿木 (TPTD)",
+  "quickCode": "TD"
+},
       {
         "char": "泄",
         "codes": [
@@ -25138,21 +25263,21 @@ const MODE2_WEEKLY_BANKS = {
         "quickCode": "MS"
       },
       {
-        "char": "沒",
-        "codes": [
-          "水",
-          "弓",
-          "水"
-        ],
-        "keys": [
-          "E",
-          "N",
-          "E"
-        ],
-        "full": "水弓水 (ENE)",
-        "secret": "沒：水弓水 (ENE)",
-        "quickCode": "EE"
-      },
+  "char": "沒",
+  "codes": [
+    "水",
+    "弓",
+    "水"
+  ],
+  "keys": [
+    "E",
+    "N",
+    "E"
+  ],
+  "full": "水弓水 (ENE)",
+  "secret": "沒：水弓水 (ENE)",
+  "quickCode": "EE"
+},
       {
         "char": "目",
         "codes": [
@@ -29342,7 +29467,24 @@ const MODE2_WEEKLY_BANKS = {
         "secret": "隊：弓中廿心人 (NLTPO)",
         "quickCode": "NO"
       },
-      {"char": "葉", "codes": ["廿", "心", "廿", "木"], "keys": ["T", "P", "T", "D"], "full": "廿心廿木 (TPTD)", "secret": "葉：廿心廿木 (TPTD)", "quickCode": "TD"},
+      {
+  "char": "葉",
+  "codes": [
+    "廿",
+    "心",
+    "廿",
+    "木"
+  ],
+  "keys": [
+    "T",
+    "P",
+    "T",
+    "D"
+  ],
+  "full": "廿心廿木 (TPTD)",
+  "secret": "葉：廿心廿木 (TPTD)",
+  "quickCode": "TD"
+},
       {
         "char": "搖",
         "codes": [
@@ -29489,27 +29631,46 @@ const MODE2_WEEKLY_BANKS = {
         "secret": "總：女火竹田心 (VFHWP)",
         "quickCode": "VP"
       },
-      {"char": "禮", "codes": ["戈", "火", "廿", "田", "廿"], "keys": ["I", "F", "T", "W", "T"], "full": "戈火廿田廿 (IFTTW)", "secret": "禮：戈火廿田廿 (IFTTW)", "quickCode": "IT"},
       {
-        "char": "行",
-        "codes": [
-          "竹",
-          "人",
-          "一",
-          "一",
-          "弓"
-        ],
-        "keys": [
-          "H",
-          "O",
-          "M",
-          "M",
-          "N"
-        ],
-        "full": "竹人一一弓 (HOMMN)",
-        "secret": "行：竹人一一弓 (HOMMN)",
-        "quickCode": "HN"
-      },
+  "char": "禮",
+  "codes": [
+    "戈",
+    "火",
+    "廿",
+    "田",
+    "廿"
+  ],
+  "keys": [
+    "I",
+    "F",
+    "T",
+    "W",
+    "T"
+  ],
+  "full": "戈火廿田廿 (IFTWT)",
+  "secret": "禮：戈火廿田廿 (IFTWT)",
+  "quickCode": "IT"
+},
+      {
+  "char": "行",
+  "codes": [
+    "竹",
+    "人",
+    "一",
+    "一",
+    "弓"
+  ],
+  "keys": [
+    "H",
+    "O",
+    "M",
+    "M",
+    "N"
+  ],
+  "full": "竹人一一弓 (HOMMN)",
+  "secret": "行：竹人一一弓 (HOMMN)",
+  "quickCode": "HN"
+},
       {
         "char": "深",
         "codes": [
@@ -31043,21 +31204,21 @@ const MODE2_WEEKLY_BANKS = {
     "title": "🔥 第 8 周 功課 3 (沒、京、少、新... 50字)",
     "words": [
       {
-        "char": "沒",
-        "codes": [
-          "水",
-          "弓",
-          "水"
-        ],
-        "keys": [
-          "E",
-          "N",
-          "E"
-        ],
-        "full": "水弓水 (ENE)",
-        "secret": "沒：水弓水 (ENE)",
-        "quickCode": "EE"
-      },
+  "char": "沒",
+  "codes": [
+    "水",
+    "弓",
+    "水"
+  ],
+  "keys": [
+    "E",
+    "N",
+    "E"
+  ],
+  "full": "水弓水 (ENE)",
+  "secret": "沒：水弓水 (ENE)",
+  "quickCode": "EE"
+},
       {
         "char": "京",
         "codes": [
@@ -33687,7 +33848,24 @@ const MODE2_WEEKLY_BANKS = {
             "secret": "然：月大火 (BKF)",
             "quickCode": "BF"
         },
-        {"char": "於", "codes": ["卜", "尸", "人", "卜"], "keys": ["Y", "S", "O", "Y"], "full": "卜尸人卜 (YSOY)", "secret": "於：卜尸人卜 (YSOY)", "quickCode": "YY"},
+        {
+  "char": "於",
+  "codes": [
+    "卜",
+    "尸",
+    "人",
+    "卜"
+  ],
+  "keys": [
+    "Y",
+    "S",
+    "O",
+    "Y"
+  ],
+  "full": "卜尸人卜 (YSOY)",
+  "secret": "於：卜尸人卜 (YSOY)",
+  "quickCode": "YY"
+},
         {
             "char": "心",
             "codes": [
@@ -33861,23 +34039,21 @@ const MODE2_WEEKLY_BANKS = {
             "quickCode": "FW"
         },
         {
-            "char": "沒",
-            "codes": [
-                "水",
-                "竹",
-                "尸",
-                "水"
-            ],
-            "keys": [
-                "E",
-                "H",
-                "S",
-                "E"
-            ],
-            "full": "水竹尸水 (EHSE)",
-            "secret": "沒：水竹尸水 (EHSE)",
-            "quickCode": "EE"
-        },
+  "char": "沒",
+  "codes": [
+    "水",
+    "弓",
+    "水"
+  ],
+  "keys": [
+    "E",
+    "N",
+    "E"
+  ],
+  "full": "水弓水 (ENE)",
+  "secret": "沒：水弓水 (ENE)",
+  "quickCode": "EE"
+},
         {
             "char": "成",
             "codes": [
@@ -34095,25 +34271,23 @@ const MODE2_WEEKLY_BANKS = {
             "quickCode": "HG"
         },
         {
-            "char": "開",
-            "codes": [
-                "日",
-                "弓",
-                "一",
-                "十",
-                "十"
-            ],
-            "keys": [
-                "A",
-                "N",
-                "M",
-                "J",
-                "J"
-            ],
-            "full": "日弓一十十 (ANMJJ)",
-            "secret": "開：日弓一十十 (ANMJJ)",
-            "quickCode": "AJ"
-        },
+  "char": "開",
+  "codes": [
+    "日",
+    "弓",
+    "一",
+    "廿"
+  ],
+  "keys": [
+    "A",
+    "N",
+    "M",
+    "T"
+  ],
+  "full": "日弓一廿 (ANMT)",
+  "secret": "開：日弓一廿 (ANMT)",
+  "quickCode": "AT"
+},
         {
             "char": "美",
             "codes": [
@@ -34282,7 +34456,26 @@ const MODE2_WEEKLY_BANKS = {
             "secret": "但：人日一 (OAM)",
             "quickCode": "OM"
         },
-        {"char": "現", "codes": ["一", "土", "月", "山", "山"], "keys": ["M", "G", "B", "U", "U"], "full": "一土月山山 (MGBUU)", "secret": "現：一土月山山 (MGBUU)", "quickCode": "MU"},
+        {
+  "char": "現",
+  "codes": [
+    "一",
+    "土",
+    "月",
+    "山",
+    "山"
+  ],
+  "keys": [
+    "M",
+    "G",
+    "B",
+    "U",
+    "U"
+  ],
+  "full": "一土月山山 (MGBUU)",
+  "secret": "現：一土月山山 (MGBUU)",
+  "quickCode": "MU"
+},
         {
             "char": "前",
             "codes": [
@@ -34394,25 +34587,25 @@ const MODE2_WEEKLY_BANKS = {
             "quickCode": "NK"
         },
         {
-            "char": "行",
-            "codes": [
-                "竹",
-                "人",
-                "一",
-                "一",
-                "弓"
-            ],
-            "keys": [
-                "H",
-                "O",
-                "M",
-                "M",
-                "N"
-            ],
-            "full": "竹人一一弓 (HOMMN)",
-            "secret": "行：竹人一一弓 (HOMMN)",
-            "quickCode": "HN"
-        },
+  "char": "行",
+  "codes": [
+    "竹",
+    "人",
+    "一",
+    "一",
+    "弓"
+  ],
+  "keys": [
+    "H",
+    "O",
+    "M",
+    "M",
+    "N"
+  ],
+  "full": "竹人一一弓 (HOMMN)",
+  "secret": "行：竹人一一弓 (HOMMN)",
+  "quickCode": "HN"
+},
         {
             "char": "意",
             "codes": [
@@ -35124,21 +35317,21 @@ const MODE2_WEEKLY_BANKS = {
             "quickCode": "MM"
         },
         {
-            "char": "感",
-            "codes": [
-                "戈",
-                "口",
-                "心"
-            ],
-            "keys": [
-                "I",
-                "R",
-                "P"
-            ],
-            "full": "戈口心 (IRP)",
-            "secret": "感：戈口心 (IRP)",
-            "quickCode": "IP"
-        },
+  "char": "感",
+  "codes": [
+    "戈",
+    "口",
+    "心"
+  ],
+  "keys": [
+    "I",
+    "R",
+    "P"
+  ],
+  "full": "戈口心 (IRP)",
+  "secret": "感：戈口心 (IRP)",
+  "quickCode": "IP"
+},
         {
             "char": "的",
             "codes": [
@@ -36005,7 +36198,24 @@ const MODE2_WEEKLY_BANKS = {
             "secret": "然：月大火 (BKF)",
             "quickCode": "BF"
         },
-        {"char": "於", "codes": ["卜", "尸", "人", "卜"], "keys": ["Y", "S", "O", "Y"], "full": "卜尸人卜 (YSOY)", "secret": "於：卜尸人卜 (YSOY)", "quickCode": "YY"},
+        {
+  "char": "於",
+  "codes": [
+    "卜",
+    "尸",
+    "人",
+    "卜"
+  ],
+  "keys": [
+    "Y",
+    "S",
+    "O",
+    "Y"
+  ],
+  "full": "卜尸人卜 (YSOY)",
+  "secret": "於：卜尸人卜 (YSOY)",
+  "quickCode": "YY"
+},
         {
             "char": "心",
             "codes": [
@@ -38622,21 +38832,21 @@ const MODE2_WEEKLY_BANKS = {
         "quickCode": "YR"
       },
       {
-        "char": "沒",
-        "codes": [
-          "水",
-          "弓",
-          "水"
-        ],
-        "keys": [
-          "E",
-          "N",
-          "E"
-        ],
-        "full": "水弓水 (ENE)",
-        "secret": "沒：水弓水 (ENE)",
-        "quickCode": "EE"
-      },
+  "char": "沒",
+  "codes": [
+    "水",
+    "弓",
+    "水"
+  ],
+  "keys": [
+    "E",
+    "N",
+    "E"
+  ],
+  "full": "水弓水 (ENE)",
+  "secret": "沒：水弓水 (ENE)",
+  "quickCode": "EE"
+},
       {
         "char": "回",
         "codes": [
@@ -38889,21 +39099,21 @@ const MODE2_WEEKLY_BANKS = {
         "quickCode": "NO"
       },
       {
-        "char": "感",
-        "codes": [
-          "戈",
-          "口",
-          "心"
-        ],
-        "keys": [
-          "I",
-          "R",
-          "P"
-        ],
-        "full": "戈口心 (IRP)",
-        "secret": "感：戈口心 (IRP)",
-        "quickCode": "IP"
-      },
+  "char": "感",
+  "codes": [
+    "戈",
+    "口",
+    "心"
+  ],
+  "keys": [
+    "I",
+    "R",
+    "P"
+  ],
+  "full": "戈口心 (IRP)",
+  "secret": "感：戈口心 (IRP)",
+  "quickCode": "IP"
+},
       {
         "char": "背",
         "codes": [
@@ -38951,25 +39161,25 @@ const MODE2_WEEKLY_BANKS = {
         "quickCode": "DE"
       },
       {
-        "char": "行",
-        "codes": [
-          "竹",
-          "人",
-          "一",
-          "一",
-          "弓"
-        ],
-        "keys": [
-          "H",
-          "O",
-          "M",
-          "M",
-          "N"
-        ],
-        "full": "竹人一一弓 (HOMMN)",
-        "secret": "行：竹人一一弓 (HOMMN)",
-        "quickCode": "HN"
-      },
+  "char": "行",
+  "codes": [
+    "竹",
+    "人",
+    "一",
+    "一",
+    "弓"
+  ],
+  "keys": [
+    "H",
+    "O",
+    "M",
+    "M",
+    "N"
+  ],
+  "full": "竹人一一弓 (HOMMN)",
+  "secret": "行：竹人一一弓 (HOMMN)",
+  "quickCode": "HN"
+},
       {
         "char": "多",
         "codes": [
@@ -39862,21 +40072,21 @@ const MASTER_CJ3_DICT = {
     "quickCode": "GA"
   },
   "沒": {
-    "char": "沒",
-    "codes": [
-      "水",
-      "弓",
-      "水"
-    ],
-    "keys": [
-      "E",
-      "N",
-      "E"
-    ],
-    "full": "水弓水 (ENE)",
-    "secret": "沒：水弓水 (ENE)",
-    "quickCode": "EE"
-  },
+  "char": "沒",
+  "codes": [
+    "水",
+    "弓",
+    "水"
+  ],
+  "keys": [
+    "E",
+    "N",
+    "E"
+  ],
+  "full": "水弓水 (ENE)",
+  "secret": "沒：水弓水 (ENE)",
+  "quickCode": "EE"
+},
   "受": {
     "char": "受",
     "codes": [
@@ -41123,7 +41333,26 @@ const MASTER_CJ3_DICT = {
     "secret": "事：十中中弓 (JLLN)",
     "quickCode": "JN"
   },
-  "陣": {"char": "陣", "codes": ["弓", "中", "十", "田", "十"], "keys": ["N", "L", "J", "W", "J"], "full": "弓中十田十 (NLJWJ)", "secret": "陣：弓中十田十 (NLJWJ)", "quickCode": "NJ"},
+  "陣": {
+  "char": "陣",
+  "codes": [
+    "弓",
+    "中",
+    "十",
+    "田",
+    "十"
+  ],
+  "keys": [
+    "N",
+    "L",
+    "J",
+    "W",
+    "J"
+  ],
+  "full": "弓中十田十 (NLJWJ)",
+  "secret": "陣：弓中十田十 (NLJWJ)",
+  "quickCode": "NJ"
+},
   "箭": {
     "char": "箭",
     "codes": [
@@ -43141,25 +43370,25 @@ const MASTER_CJ3_DICT = {
     "quickCode": "IM"
   },
   "行": {
-    "char": "行",
-    "codes": [
-      "竹",
-      "人",
-      "一",
-      "一",
-      "弓"
-    ],
-    "keys": [
-      "H",
-      "O",
-      "M",
-      "M",
-      "N"
-    ],
-    "full": "竹人一一弓 (HOMMN)",
-    "secret": "行：竹人一一弓 (HOMMN)",
-    "quickCode": "HN"
-  },
+  "char": "行",
+  "codes": [
+    "竹",
+    "人",
+    "一",
+    "一",
+    "弓"
+  ],
+  "keys": [
+    "H",
+    "O",
+    "M",
+    "M",
+    "N"
+  ],
+  "full": "竹人一一弓 (HOMMN)",
+  "secret": "行：竹人一一弓 (HOMMN)",
+  "quickCode": "HN"
+},
   "微": {
     "char": "微",
     "codes": [
@@ -46086,7 +46315,24 @@ const MASTER_CJ3_DICT = {
     "secret": "再：一土月 (MGB)",
     "quickCode": "MB"
   },
-  "葉": {"char": "葉", "codes": ["廿", "心", "廿", "木"], "keys": ["T", "P", "T", "D"], "full": "廿心廿木 (TPTD)", "secret": "葉：廿心廿木 (TPTD)", "quickCode": "TD"},
+  "葉": {
+  "char": "葉",
+  "codes": [
+    "廿",
+    "心",
+    "廿",
+    "木"
+  ],
+  "keys": [
+    "T",
+    "P",
+    "T",
+    "D"
+  ],
+  "full": "廿心廿木 (TPTD)",
+  "secret": "葉：廿心廿木 (TPTD)",
+  "quickCode": "TD"
+},
   "泄": {
     "char": "泄",
     "codes": [
@@ -46481,7 +46727,26 @@ const MASTER_CJ3_DICT = {
     "secret": "們：人日弓 (OAN)",
     "quickCode": "ON"
   },
-  "現": {"char": "現", "codes": ["一", "土", "月", "山", "山"], "keys": ["M", "G", "B", "U", "U"], "full": "一土月山山 (MGBUU)", "secret": "現：一土月山山 (MGBUU)", "quickCode": "MU"},
+  "現": {
+  "char": "現",
+  "codes": [
+    "一",
+    "土",
+    "月",
+    "山",
+    "山"
+  ],
+  "keys": [
+    "M",
+    "G",
+    "B",
+    "U",
+    "U"
+  ],
+  "full": "一土月山山 (MGBUU)",
+  "secret": "現：一土月山山 (MGBUU)",
+  "quickCode": "MU"
+},
   "隊": {
     "char": "隊",
     "codes": [
@@ -52599,21 +52864,21 @@ const MASTER_CJ3_DICT = {
     "quickCode": "YP"
   },
   "感": {
-    "char": "感",
-    "codes": [
-      "戈",
-      "口",
-      "心"
-    ],
-    "keys": [
-      "I",
-      "R",
-      "P"
-    ],
-    "full": "戈口心 (IRP)",
-    "secret": "感：戈口心 (IRP)",
-    "quickCode": "IP"
-  },
+  "char": "感",
+  "codes": [
+    "戈",
+    "口",
+    "心"
+  ],
+  "keys": [
+    "I",
+    "R",
+    "P"
+  ],
+  "full": "戈口心 (IRP)",
+  "secret": "感：戈口心 (IRP)",
+  "quickCode": "IP"
+},
   "慢": {
     "char": "慢",
     "codes": [
@@ -53462,7 +53727,26 @@ const MASTER_CJ3_DICT = {
     "secret": "盛：戈尸月廿 (ISBT)",
     "quickCode": "IT"
   },
-  "禮": {"char": "禮", "codes": ["戈", "火", "廿", "田", "廿"], "keys": ["I", "F", "T", "W", "T"], "full": "戈火廿田廿 (IFTTW)", "secret": "禮：戈火廿田廿 (IFTTW)", "quickCode": "IT"},
+  "禮": {
+  "char": "禮",
+  "codes": [
+    "戈",
+    "火",
+    "廿",
+    "田",
+    "廿"
+  ],
+  "keys": [
+    "I",
+    "F",
+    "T",
+    "W",
+    "T"
+  ],
+  "full": "戈火廿田廿 (IFTWT)",
+  "secret": "禮：戈火廿田廿 (IFTWT)",
+  "quickCode": "IT"
+},
   "程": {
     "char": "程",
     "codes": [

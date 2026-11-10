@@ -262,9 +262,7 @@ anmfj  閛
 anmg   閏
 anmgi  閠
 anmj   閈
-anmjj  開
 anmjk  闞
-anmkj  開
 anmlm  閸
 anmmm  閆
 anmn   閅
@@ -3750,7 +3748,6 @@ ehrf   溩
 ehs    沪
 ehs    泎
 ehsd   淭
-ehse   沒
 ehse   溵
 ehsk   激
 ehsk   淚
@@ -11415,7 +11412,6 @@ mftmc  祺
 mftmd  禖
 mftq   祥
 mftvi  禌
-mftwt  禮
 mftwv  禯
 mfu    礼
 mfvii  禨
@@ -23261,7 +23257,6 @@ ysohn  斻
 ysohu  旄
 ysohv  旅
 ysohw  旛
-ysoim  於
 ysojb  旆
 ysok   放
 ysokr  旖
