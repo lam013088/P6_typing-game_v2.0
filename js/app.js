@@ -927,6 +927,8 @@ const SafeStorage = {
     // 學生身份登入 (下拉式選單選擇班別與學號 1-36)
     // ==========================================
     function submitStudentLogin() {
+      isTeacherMode = false;
+      if (typeof window !== "undefined") window.isTeacherMode = false;
       const cls = document.getElementById('login-class-select').value;
       const numVal = document.getElementById('login-num-select').value;
       if (!numVal) {
@@ -949,6 +951,8 @@ const SafeStorage = {
     }
 
     function switchIdentity() {
+      isTeacherMode = false;
+      if (typeof window !== "undefined") window.isTeacherMode = false;
       currentStudent = null;
       activeSkills = [];
       SafeStorage.removeItem('p6_last_login');
@@ -3878,8 +3882,14 @@ const SafeStorage = {
       // 📖 動態更新常駐計分說明橫條 (主線全解 vs 未全解狀態即時響應)
       const bannerEl = document.getElementById('scoring-note-banner');
       if (bannerEl && typeof P6Mode !== 'undefined') {
+        const isStudentNormallyUnlocked = P6Mode.isMainLineFullyUnlocked(cls, num, false);
         const isAllUnlocked = P6Mode.isMainLineFullyUnlocked(cls, num, isTeacher);
-        if (isTeacher) {
+        if (isStudentNormallyUnlocked) {
+          bannerEl.style.background = '#ECFDF5';
+          bannerEl.style.borderColor = '#A7F3D0';
+          bannerEl.style.color = '#065F46';
+          bannerEl.innerHTML = `🎉 <strong>主線全解鎖特權已啟動！</strong>第 3 站【逃出恐怖屋】(基礎分×1.2)、第 5 站【道館生存】(基礎分×1.5 疊加連擊加成) 全面解除限制，按原設定正常無限獲取積分！其他前置站次維持每日次數衰減規則。`;
+        } else if (isTeacher) {
           bannerEl.style.background = '#ECFDF5';
           bannerEl.style.borderColor = '#10B981';
           bannerEl.style.color = '#065F46';
@@ -7475,21 +7485,6 @@ const SafeStorage = {
         }
       }, true);
 
-      // 方式二（原方式三）：連續點擊 3 下「📖 計分規則」橫幅 (#scoring-note-banner)
-      let bannerClickCount = 0;
-      let bannerClickTimer = null;
-      document.addEventListener("click", function(e) {
-        const target = e.target;
-        if (target && target.closest && target.closest("#scoring-note-banner")) {
-          bannerClickCount++;
-          if (bannerClickTimer) clearTimeout(bannerClickTimer);
-          if (bannerClickCount >= 3) {
-            bannerClickCount = 0;
-            toggleTeacherUnlockMode();
-          } else {
-            bannerClickTimer = setTimeout(() => { bannerClickCount = 0; }, 700);
-          }
-        }
-      }, true);
+      // 🛡️ 已移除點擊「計分規則」橫幅 3 下觸發教師特權之機制，杜絕學生誤觸顯示【教師測試特權已啟動】
     }
 
