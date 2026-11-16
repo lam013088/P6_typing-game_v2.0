@@ -68,9 +68,9 @@
     <p class="subtitle">2026/2027學年 資訊科技科 · 倉頡打字學習平台</p>
     
     <div class="stats-bar">
-      <div class="stat-pill">🎉 滿分訓練家：<strong>108 位同學獲得 400 分！</strong></div>
-      <div class="stat-pill">⭐ 全級平均分：<strong>93.1 分</strong></div>
-      <div class="stat-pill">⚡ 速度神捕：<strong>P6F 09號</strong> (10/20 13:14 率先交齊)</div>
+      <div class="stat-pill" id="stat-perfect-pill">🎉 滿分訓練家：<strong>139 位同學獲得 400 分！</strong></div>
+      <div class="stat-pill" id="stat-avg-pill">⭐ 全級平均分：<strong>95.8 分</strong></div>
+      <div class="stat-pill" id="stat-pioneer-pill">⚡ 速度神捕：<strong>P6F 05號</strong> (11/09 09:40 率先交齊)</div>
     </div>
   </header>
 
@@ -79,7 +79,7 @@
     <div class="tab-bar">
       <button class="tab-btn active" onclick="switchTab('top40')">🏆 全級前40名龍虎榜</button>
       <button class="tab-btn" onclick="switchTab('class')">🌟 各班前10名榮譽榜</button>
-      <button class="tab-btn" onclick="switchTab('perfect')">🎉 400分滿分星光榜 (101人)</button>
+      <button class="tab-btn" id="tab-btn-perfect" onclick="switchTab('perfect')">🎉 400分滿分星光榜 (139人)</button>
       <button class="tab-btn" onclick="switchTab('game')">🎮 倉頡野生抓寶大作戰</button>
       <button class="tab-btn" onclick="switchTab('vocab')">📖 倉頡全碼秘笈與對照表</button>
     </div>
