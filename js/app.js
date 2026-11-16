@@ -2930,14 +2930,19 @@ const SafeStorage = {
         if (m && !availableWeeks.includes(m[1])) {
           const wk = m[1];
           const wkNum = parseInt(wk.slice(1), 10);
-          if (isTestUnlocked || (wkNum <= 40 && wkNum !== 9)) {
-            availableWeeks.push(wk);
-          } else {
-            const sched = schedules.find(s => s.week === wk);
-            if (sched && sched.start) {
-              const sStart = sched.start instanceof Date ? sched.start : new Date(sched.start);
-              if (!isNaN(sStart.getTime()) && now >= sStart) {
-                availableWeeks.push(wk);
+          if (wkNum !== 9) {
+            if (isTestUnlocked) {
+              availableWeeks.push(wk);
+            } else {
+              const sched = schedules.find(s => s.week === wk);
+              if (sched && sched.start) {
+                const sStart = sched.start instanceof Date ? sched.start : new Date(sched.start);
+                if (!isNaN(sStart.getTime()) && now >= sStart) {
+                  availableWeeks.push(wk);
+                }
+              } else {
+                const actNw = parseInt(String(activeWk).replace('w', ''), 10) || 12;
+                if (wkNum <= actNw) availableWeeks.push(wk);
               }
             }
           }
@@ -3178,7 +3183,8 @@ const SafeStorage = {
       if (speedTimerInterval) clearInterval(speedTimerInterval);
       if (speedHintTimer) clearTimeout(speedHintTimer);
 
-      const bank = (typeof MODE2_WEEKLY_BANKS !== "undefined") ? (MODE2_WEEKLY_BANKS[currentSpeedWeek] || MODE2_WEEKLY_BANKS["w5_hw1"] || MODE2_WEEKLY_BANKS["w3_hw1"] || Object.values(MODE2_WEEKLY_BANKS)[0]) : null;
+      const allBanks = Object.assign({}, (typeof MODE2_WEEKLY_BANKS !== "undefined" && MODE2_WEEKLY_BANKS ? MODE2_WEEKLY_BANKS : {}), (typeof window !== "undefined" && window.MODE2_WEEKLY_BANKS ? window.MODE2_WEEKLY_BANKS : {}));
+      const bank = allBanks[currentSpeedWeek] || allBanks["w12_hw1"] || allBanks["w11_hw1"] || allBanks["w10_hw1"] || Object.values(allBanks)[0] || null;
       const rawWords = [...bank.words];
       const shuffled = fisherYatesShuffle(rawWords);
       speedWordList = shuffled.slice(0, currentSpeedWordCount);
@@ -3204,7 +3210,7 @@ const SafeStorage = {
       
       const badgeTag = document.getElementById('speed-active-badge-tag');
       if (badgeTag) {
-        const bankObj = MODE2_WEEKLY_BANKS[currentSpeedWeek] || Object.values(MODE2_WEEKLY_BANKS)[0];
+        const bankObj = bank || allBanks[currentSpeedWeek] || Object.values(allBanks)[0] || { title: currentSpeedWeek };
         badgeTag.textContent = `⚡ ${currentSpeedWordCount} 字賽 · ${bankObj.title}`;
       }
 
@@ -4192,13 +4198,21 @@ const SafeStorage = {
             pool = pool.concat(cloud[key].words);
           }
         }
-        // 若當前週次題庫暫時未載入，嚴格保底從 MODE2_WEEKLY_BANKS 抽取當前開放周次 (w8)
-        if (pool.length === 0 && typeof MODE2_WEEKLY_BANKS !== 'undefined') {
-          for (let i = 1; i <= 4; i++) {
-            const k = `${qWk}_hw${i}`;
-            if (MODE2_WEEKLY_BANKS[k] && Array.isArray(MODE2_WEEKLY_BANKS[k].words)) {
-              pool = pool.concat(MODE2_WEEKLY_BANKS[k].words);
+        // 若當前週次題庫暫時未載入，依週次降序自動保底抽取最近一個可用週次（防止題庫為空導致波次空轉跳至 Wave 11）
+        if (pool.length === 0) {
+          const mergedAll = Object.assign({}, (typeof MODE2_WEEKLY_BANKS !== 'undefined' ? MODE2_WEEKLY_BANKS : {}), weekly, cloud);
+          const availWks = Array.from(new Set(Object.keys(mergedAll).map(k => {
+            const m = k.match(/^(w\d+)_hw\d+$/);
+            return m ? m[1] : null;
+          }).filter(Boolean))).sort((a, b) => (parseInt(b.slice(1), 10) || 0) - (parseInt(a.slice(1), 10) || 0));
+          for (const fbWk of availWks) {
+            for (let i = 1; i <= 4; i++) {
+              const k = `${fbWk}_hw${i}`;
+              if (mergedAll[k] && Array.isArray(mergedAll[k].words) && mergedAll[k].words.length > 0) {
+                pool = pool.concat(mergedAll[k].words);
+              }
             }
+            if (pool.length > 0) break;
           }
         }
       } else {
