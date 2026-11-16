@@ -2076,12 +2076,13 @@ const SafeStorage = {
           if (data.weeklyBanks && typeof data.weeklyBanks === 'object' && Object.keys(data.weeklyBanks).length > 0) {
             // 🛡️ 防舊快取覆蓋保護 (SOP 錯誤 83)：嚴禁直接以 = 覆蓋 window.MODE2_WEEKLY_BANKS，確保內建 w8 / w10 題庫與標題永不遺失
             const builtinBanks = (typeof MODE2_WEEKLY_BANKS !== 'undefined' && MODE2_WEEKLY_BANKS) ? MODE2_WEEKLY_BANKS : (window.MODE2_WEEKLY_BANKS || {});
-            const mergedCloudBanks = Object.assign({}, data.weeklyBanks, builtinBanks);
+            const mergedCloudBanks = Object.assign({}, builtinBanks, data.weeklyBanks);
             Object.keys(builtinBanks).forEach(k => {
-              if (k.startsWith('w8_') || k.startsWith('w10_')) {
+              const cloudBank = data.weeklyBanks[k];
+              if (!cloudBank || !Array.isArray(cloudBank.words) || cloudBank.words.length === 0) {
                 mergedCloudBanks[k] = builtinBanks[k];
-              } else if (builtinBanks[k] && builtinBanks[k].title && mergedCloudBanks[k]) {
-                mergedCloudBanks[k].title = builtinBanks[k].title;
+              } else if (!cloudBank.title && builtinBanks[k] && builtinBanks[k].title) {
+                mergedCloudBanks[k] = Object.assign({}, cloudBank, { title: builtinBanks[k].title });
               }
             });
             window.MODE2_WEEKLY_BANKS = mergedCloudBanks;

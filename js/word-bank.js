@@ -134,36 +134,7 @@
         }
       });
 
-      // 🛡️ 校本三代倉頡權威覆寫防護盾 (防止雲端舊快取或五代異體碼污染)
-            var CANONICAL_FIXES = {
-        "開": { char: "開", codes: ["日", "弓", "一", "廿"], keys: ["A", "N", "M", "T"], full: "日弓一廿 (ANMT)", secret: "開：日弓一廿 (ANMT)", quickCode: "AT" },
-        "沒": { char: "沒", codes: ["水", "弓", "水"], keys: ["E", "N", "E"], full: "水弓水 (ENE)", secret: "沒：水弓水 (ENE)", quickCode: "EE" },
-        "行": { char: "行", codes: ["竹", "人", "一", "一", "弓"], keys: ["H", "O", "M", "M", "N"], full: "竹人一一弓 (HOMMN)", secret: "行：竹人一一弓 (HOMMN)", quickCode: "HN" },
-        "感": { char: "感", codes: ["戈", "口", "心"], keys: ["I", "R", "P"], full: "戈口心 (IRP)", secret: "感：戈口心 (IRP)", quickCode: "IP" },
-        "禮": { char: "禮", codes: ["戈", "火", "廿", "田", "廿"], keys: ["I", "F", "T", "W", "T"], full: "戈火廿田廿 (IFTWT)", secret: "禮：戈火廿田廿 (IFTWT)", quickCode: "IT" },
-        "於": { char: "於", codes: ["卜", "尸", "人", "卜"], keys: ["Y", "S", "O", "Y"], full: "卜尸人卜 (YSOY)", secret: "於：卜尸人卜 (YSOY)", quickCode: "YY" },
-        "葉": { char: "葉", codes: ["廿", "心", "廿", "木"], keys: ["T", "P", "T", "D"], full: "廿心廿木 (TPTD)", secret: "葉：廿心廿木 (TPTD)", quickCode: "TD" },
-        "陣": { char: "陣", codes: ["弓", "中", "十", "田", "十"], keys: ["N", "L", "J", "W", "J"], full: "弓中十田十 (NLJWJ)", secret: "陣：弓中十田十 (NLJWJ)", quickCode: "NJ" },
-        "現": { char: "現", codes: ["一", "土", "月", "山", "山"], keys: ["M", "G", "B", "U", "U"], full: "一土月山山 (MGBUU)", secret: "現：一土月山山 (MGBUU)", quickCode: "MU" },
-      };
-      Object.values(mergedBanks).forEach(function(b) {
-        if (b && Array.isArray(b.words)) {
-          b.words.forEach(function(w) {
-            if (w && w.char && CANONICAL_FIXES[w.char]) {
-              var fix = CANONICAL_FIXES[w.char];
-              if (w.codes && w.codes.length === 2 && w.first_key) {
-                w.cj_full = fix.full;
-              } else {
-                w.codes = fix.codes.slice();
-                w.keys = fix.keys.slice();
-                w.full = fix.full;
-                w.secret = fix.secret;
-                w.quickCode = fix.quickCode;
-              }
-            }
-          });
-        }
-      });
+      // 雲端 SSOT 優先：已移除靜態 CANONICAL_FIXES 覆寫
 
       var ssotMap = {};
       Object.values(mergedBanks).forEach(function(b) {
@@ -176,7 +147,9 @@
       var ovMap = (typeof P4_MASTER_QUICK_OVERRIDES !== 'undefined') ? P4_MASTER_QUICK_OVERRIDES : (typeof window !== 'undefined' ? window.P4_MASTER_QUICK_OVERRIDES : null);
       if (ovMap) {
         Object.keys(ovMap).forEach(function(charKey) {
-          ssotMap[charKey] = ovMap[charKey];
+          if (!ssotMap[charKey]) {
+            ssotMap[charKey] = ovMap[charKey];
+          }
         });
       }
       root.WORD_BANK_SSOT_MAP = ssotMap;
