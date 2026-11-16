@@ -2,6 +2,11 @@
     function updateDynamicHonorRollHeader(data) {
       try {
         var stats = (data && data.honorRollStats) ? data.honorRollStats : null;
+        var wkLbl = (stats && stats.week) ? stats.week : ((data && data.honorRollWeek) ? data.honorRollWeek : '');
+        if (wkLbl) {
+          var vSub = document.getElementById('vocab-subtitle');
+          if (vSub) vSub.textContent = '依據' + wkLbl + '打字作業大數據統計之高頻易錯字，提供權威倉頡全碼與字根防錯指南！';
+        }
         var perfObj = (data && data.perfect_students) ? data.perfect_students : (DATA && DATA.perfect_students);
         var perfCount = (stats && stats.perfectCount) ? stats.perfectCount : 0;
         if (!perfCount && perfObj) {
@@ -851,6 +856,44 @@ const SafeStorage = {
     // ==========================================
     function renderVocabTable() {
       const tbody = document.getElementById('vocab-tbody');
+      if (!tbody) return;
+      const w11Default = [
+        { rank: "第 1 名", char: "家", count: "87 人次", hw: "功課1、功課4", code: "十一尸人 (JMSO)", secret: "標準倉頡三代碼 JMSO（十一尸人），請依「十 → 一 → 尸 → 人」順序取碼。" },
+        { rank: "第 2 名", char: "為", count: "51 人次", hw: "功課1、功課4", code: "戈大弓火 (IKNF)", secret: "標準倉頡三代碼 IKNF（戈大弓火），請依「戈 → 大 → 弓 → 火」順序取碼。" },
+        { rank: "第 3 名", char: "麼", count: "44 人次", hw: "功課1、功課3", code: "戈金女戈 (ICVI)", secret: "標準倉頡三代碼 ICVI（戈金女戈），請依「戈 → 金 → 女 → 戈」順序取碼。" },
+        { rank: "第 4 名", char: "學", count: "42 人次", hw: "功課1、功課3", code: "竹月弓木 (HBND)", secret: "標準倉頡三代碼 HBND（竹月弓木），請依「竹 → 月 → 弓 → 木」順序取碼。" },
+        { rank: "第 5 名", char: "感", count: "42 人次", hw: "功課2", code: "戈口心 (IRP)", secret: "標準倉頡三代碼 IRP（戈口心），請依「戈 → 口 → 心」順序取碼。" },
+        { rank: "第 6 名", char: "過", count: "41 人次", hw: "功課1、功課4", code: "卜月月口 (YBBR)", secret: "標準倉頡三代碼 YBBR（卜月月口），請依「卜 → 月 → 月 → 口」順序取碼。" },
+        { rank: "第 7 名", char: "與", count: "41 人次", hw: "功課2", code: "竹難卜金 (HXYC)", secret: "標準倉頡三代碼 HXYC（竹難卜金），請依「竹 → 難 → 卜 → 金」順序取碼。" },
+        { rank: "第 8 名", char: "又", count: "39 人次", hw: "功課3", code: "弓大 (NK)", secret: "標準倉頡三代碼 NK（弓大），請依「弓 → 大」順序取碼。" },
+        { rank: "第 9 名", char: "就", count: "37 人次", hw: "功課1、功課4", code: "卜火戈大山 (YFIKU)", secret: "標準倉頡三代碼 YFIKU（卜火戈大山），請依「卜 → 火 → 戈 → 大 → 山」順序取碼。" },
+        { rank: "第 10 名", char: "之", count: "35 人次", hw: "功課1、功課3", code: "戈弓人 (INO)", secret: "標準倉頡三代碼 INO（戈弓人），請依「戈 → 弓 → 人」順序取碼。" },
+        { rank: "第 11 名", char: "對", count: "34 人次", hw: "功課1、功課4", code: "廿土木戈 (TGDI)", secret: "標準倉頡三代碼 TGDI（廿土木戈），請依「廿 → 土 → 木 → 戈」順序取碼。" },
+        { rank: "第 12 名", char: "面", "count": "30 人次", hw: "功課3", code: "一田卜中 (MWYL)", secret: "標準倉頡三代碼 MWYL（一田卜中），請依「一 → 田 → 卜 → 中」順序取碼。" }
+      ];
+      const list = (typeof DATA !== 'undefined' && Array.isArray(DATA.top12_errors) && DATA.top12_errors.length > 0)
+        ? DATA.top12_errors.map((t, i) => ({
+            rank: typeof t.rank === 'number' ? `第 ${t.rank} 名` : (t.rank || `第 ${i + 1} 名`),
+            char: t.char,
+            count: typeof t.count === 'number' ? `${t.count} 人次` : (t.count || '--'),
+            hw: t.hw || '--',
+            code: t.code || '--',
+            secret: t.secret || '--'
+          }))
+        : w11Default;
+      if (list.length > 0) {
+        tbody.innerHTML = list.map(t => `
+          <tr>
+            <td style="font-weight: 800; color: #1E3A8A;">${t.rank}</td>
+            <td style="font-size: 22px; font-weight: 900; color: #DC2626;">${t.char}</td>
+            <td style="font-weight: 800;">${t.count}</td>
+            <td style="color: #64748B;">${t.hw}</td>
+            <td><span style="background: #DBEAFE; color: #1D4ED8; padding: 3px 8px; border-radius: 6px; font-weight: 800;">${t.code}</span></td>
+            <td style="text-align: left; font-size: 12px; color: #334155;">${t.secret}</td>
+          </tr>
+        `).join('');
+        return;
+      }
       const typos = [
         { rank: "第 1 名", char: "兔", count: "77 人次", hw: "功課3", code: "弓日戈 (NAI)", secret: "【分體字】字首「勹」取折筆【弓(N)】；字身「口」取【日(A)】，末筆撇彎鉤連點取【戈(I)】。切勿誤取「竹」或「口」！" },
         { rank: "第 2 名", char: "術", count: "60 人次", hw: "功課4", code: "竹人戈木 (HOID)", secret: "【行部包圍】字首左側「彳」取【竹人(HO)】；字身右側「术」取【戈木(ID)】。六年級是倉頡全碼，切勿按速成只取首尾！" },
@@ -2070,6 +2113,10 @@ const SafeStorage = {
           }
           if (data.class_top10) DATA.class_top10 = data.class_top10;
           if (data.perfect_students) DATA.perfect_students = data.perfect_students;
+          if (Array.isArray(data.top12_errors) && data.top12_errors.length > 0) {
+            DATA.top12_errors = data.top12_errors;
+            try { renderVocabTable(); } catch(e) {}
+          }
           updateDynamicHonorRollHeader(data);
 
           // 2. 🛡️ 方案 A 核心：動態由雲端載入本週及全部正式題庫 (GitHub 完全不公開)
@@ -2853,9 +2900,11 @@ const SafeStorage = {
       const select = document.getElementById('speed-ready-week-select');
       const lbSelect = document.getElementById('speed-lb-week-select');
       const activeWk = getActiveSpeedWeek();
+      const badgeTag = document.getElementById("speed-active-badge-tag");
+      if (badgeTag) badgeTag.textContent = `⚡ ${currentSpeedWordCount || 10} 字賽 · 第 ${activeWk.replace("w", "")} 周`;
       const builtinBanks = (typeof MODE2_WEEKLY_BANKS === 'object' && MODE2_WEEKLY_BANKS) ? MODE2_WEEKLY_BANKS : {};
       const winBanks = (typeof window !== 'undefined' && window.MODE2_WEEKLY_BANKS) ? window.MODE2_WEEKLY_BANKS : {};
-      const allBanks = Object.assign({}, winBanks, builtinBanks);
+      const allBanks = Object.assign({}, builtinBanks, winBanks);
       if (typeof window !== 'undefined') window.MODE2_WEEKLY_BANKS = allBanks;
 
       const availableWeeks = [];
@@ -2897,17 +2946,9 @@ const SafeStorage = {
           const wkNum = wk.slice(1);
           const isTopActive = (wk === 'w10' || wk === 'w8' || wk === activeWk);
           const grp = document.createElement('optgroup');
-          if (wk === 'w11') {
-            grp.label = `🔥 第 11 周 倉頡手速字庫 (當前進行中)`;
-          } else if (wk === 'w10') {
-            grp.label = `🔥 第 10 周 倉頡手速字庫 (過往記錄)`;
-          } else if (wk === 'w8') {
-            grp.label = `🔥 第 8 周 倉頡手速字庫 (過往記錄)`;
-          } else {
-            grp.label = isTopActive
-              ? `🔥 第 ${wkNum} 周 倉頡手速字庫 (當前開放中)`
-              : `📅 第 ${wkNum} 周 倉頡手速字庫 (溫故知新)`;
-          }
+          grp.label = (wk === activeWk)
+            ? `🔥 第 ${wkNum} 周 倉頡手速字庫 (當前進行中)`
+            : `📅 第 ${wkNum} 周 倉頡手速字庫 (溫故知新)`;
 
           for (let idx = 1; idx <= 4; idx++) {
             const k = `${wk}_hw${idx}`;
@@ -2931,7 +2972,7 @@ const SafeStorage = {
         });
 
         let matched = false;
-        if (prevVal && (prevVal.startsWith('w8_') || prevVal.startsWith('w10_'))) {
+        if (window._userPickedSpeedWeek && prevVal) {
           for (let i = 0; i < select.options.length; i++) {
             if (select.options[i].value === prevVal) {
               select.selectedIndex = i;
