@@ -1,3 +1,34 @@
+
+    function updateDynamicHonorRollHeader(data) {
+      try {
+        var stats = (data && data.honorRollStats) ? data.honorRollStats : null;
+        var perfObj = (data && data.perfect_students) ? data.perfect_students : (DATA && DATA.perfect_students);
+        var perfCount = (stats && stats.perfectCount) ? stats.perfectCount : 0;
+        if (!perfCount && perfObj) {
+          Object.keys(perfObj).forEach(function(k) {
+            if (Array.isArray(perfObj[k])) perfCount += perfObj[k].length;
+          });
+        }
+        if (perfCount > 0) {
+          var pPill = document.getElementById('stat-perfect-pill');
+          if (pPill) pPill.innerHTML = '🎉 滿分訓練家：<strong>' + perfCount + ' 位同學獲得 400 分！</strong>';
+          var tBtn = document.getElementById('tab-btn-perfect');
+          if (tBtn) tBtn.textContent = '🎉 400分滿分星光榜 (' + perfCount + '人)';
+        }
+        if (stats && stats.avgScore) {
+          var aPill = document.getElementById('stat-avg-pill');
+          if (aPill) aPill.innerHTML = '⭐ 全級平均分：<strong>' + Number(stats.avgScore).toFixed(1) + ' 分</strong>';
+        }
+        var t40 = (DATA && Array.isArray(DATA.top40)) ? DATA.top40 : [];
+        var pioName = (stats && stats.speedPioneer) ? stats.speedPioneer : (t40[0] ? (t40[0].name || '') : '');
+        var pioTime = (stats && stats.speedPioneerTime) ? stats.speedPioneerTime : (t40[0] && t40[0].date ? (String(t40[0].date).slice(5, 16).replace('-', '/') + ' 率先交齊') : '');
+        if (pioName) {
+          var sPill = document.getElementById('stat-pioneer-pill');
+          if (sPill) sPill.innerHTML = '⚡ 速度神捕：<strong>' + pioName + '</strong>' + (pioTime ? ' (' + pioTime + ')' : '');
+        }
+      } catch (e) {}
+    }
+
 var isTeacherMode = false;
 if (typeof window !== "undefined") window.isTeacherMode = false;
 if (typeof global !== "undefined") global.isTeacherMode = false;
@@ -2039,6 +2070,7 @@ const SafeStorage = {
           }
           if (data.class_top10) DATA.class_top10 = data.class_top10;
           if (data.perfect_students) DATA.perfect_students = data.perfect_students;
+          updateDynamicHonorRollHeader(data);
 
           // 2. 🛡️ 方案 A 核心：動態由雲端載入本週及全部正式題庫 (GitHub 完全不公開)
           if (data.weeklyBanks && typeof data.weeklyBanks === 'object' && Object.keys(data.weeklyBanks).length > 0) {
