@@ -12479,21 +12479,21 @@ const MODE2_WEEKLY_BANKS = {
         "quickCode": "GA"
       },
       {
-  "char": "沒",
-  "codes": [
-    "水",
-    "弓",
-    "水"
-  ],
-  "keys": [
-    "E",
-    "N",
-    "E"
-  ],
-  "full": "水弓水 (ENE)",
-  "secret": "沒：水弓水 (ENE)",
-  "quickCode": "EE"
-},
+        "char": "沒",
+        "codes": [
+          "水",
+          "弓",
+          "水"
+        ],
+        "keys": [
+          "E",
+          "N",
+          "E"
+        ],
+        "full": "水弓水 (ENE)",
+        "secret": "沒：水弓水 (ENE)",
+        "quickCode": "EE"
+      },
       {
         "char": "受",
         "codes": [
@@ -13761,25 +13761,25 @@ const MODE2_WEEKLY_BANKS = {
         "quickCode": "JN"
       },
       {
-  "char": "陣",
-  "codes": [
-    "弓",
-    "中",
-    "十",
-    "田",
-    "十"
-  ],
-  "keys": [
-    "N",
-    "L",
-    "J",
-    "W",
-    "J"
-  ],
-  "full": "弓中十田十 (NLJWJ)",
-  "secret": "陣：弓中十田十 (NLJWJ)",
-  "quickCode": "NJ"
-},
+        "char": "陣",
+        "codes": [
+          "弓",
+          "中",
+          "十",
+          "田",
+          "十"
+        ],
+        "keys": [
+          "N",
+          "L",
+          "J",
+          "W",
+          "J"
+        ],
+        "full": "弓中十田十 (NLJWJ)",
+        "secret": "陣：弓中十田十 (NLJWJ)",
+        "quickCode": "NJ"
+      },
       {
         "char": "箭",
         "codes": [
@@ -15873,25 +15873,25 @@ const MODE2_WEEKLY_BANKS = {
         "quickCode": "IM"
       },
       {
-  "char": "行",
-  "codes": [
-    "竹",
-    "人",
-    "一",
-    "一",
-    "弓"
-  ],
-  "keys": [
-    "H",
-    "O",
-    "M",
-    "M",
-    "N"
-  ],
-  "full": "竹人一一弓 (HOMMN)",
-  "secret": "行：竹人一一弓 (HOMMN)",
-  "quickCode": "HN"
-},
+        "char": "行",
+        "codes": [
+          "竹",
+          "人",
+          "一",
+          "一",
+          "弓"
+        ],
+        "keys": [
+          "H",
+          "O",
+          "M",
+          "M",
+          "N"
+        ],
+        "full": "竹人一一弓 (HOMMN)",
+        "secret": "行：竹人一一弓 (HOMMN)",
+        "quickCode": "HN"
+      },
       {
         "char": "微",
         "codes": [
@@ -19265,23 +19265,23 @@ const MODE2_WEEKLY_BANKS = {
         "quickCode": "PT"
       },
       {
-  "char": "葉",
-  "codes": [
-    "廿",
-    "心",
-    "廿",
-    "木"
-  ],
-  "keys": [
-    "T",
-    "P",
-    "T",
-    "D"
-  ],
-  "full": "廿心廿木 (TPTD)",
-  "secret": "葉：廿心廿木 (TPTD)",
-  "quickCode": "TD"
-},
+        "char": "葉",
+        "codes": [
+          "廿",
+          "心",
+          "廿",
+          "木"
+        ],
+        "keys": [
+          "T",
+          "P",
+          "T",
+          "D"
+        ],
+        "full": "廿心廿木 (TPTD)",
+        "secret": "葉：廿心廿木 (TPTD)",
+        "quickCode": "TD"
+      },
       {
         "char": "泄",
         "codes": [
@@ -19677,25 +19677,25 @@ const MODE2_WEEKLY_BANKS = {
         "quickCode": "ON"
       },
       {
-  "char": "現",
-  "codes": [
-    "一",
-    "土",
-    "月",
-    "山",
-    "山"
-  ],
-  "keys": [
-    "M",
-    "G",
-    "B",
-    "U",
-    "U"
-  ],
-  "full": "一土月山山 (MGBUU)",
-  "secret": "現：一土月山山 (MGBUU)",
-  "quickCode": "MU"
-},
+        "char": "現",
+        "codes": [
+          "一",
+          "土",
+          "月",
+          "山",
+          "山"
+        ],
+        "keys": [
+          "M",
+          "G",
+          "B",
+          "U",
+          "U"
+        ],
+        "full": "一土月山山 (MGBUU)",
+        "secret": "現：一土月山山 (MGBUU)",
+        "quickCode": "MU"
+      },
       {
         "char": "隊",
         "codes": [
@@ -21967,23 +21967,23 @@ const MODE2_WEEKLY_BANKS = {
         "quickCode": "PT"
       },
       {
-  "char": "葉",
-  "codes": [
-    "廿",
-    "心",
-    "廿",
-    "木"
-  ],
-  "keys": [
-    "T",
-    "P",
-    "T",
-    "D"
-  ],
-  "full": "廿心廿木 (TPTD)",
-  "secret": "葉：廿心廿木 (TPTD)",
-  "quickCode": "TD"
-},
+        "char": "葉",
+        "codes": [
+          "廿",
+          "心",
+          "廿",
+          "木"
+        ],
+        "keys": [
+          "T",
+          "P",
+          "T",
+          "D"
+        ],
+        "full": "廿心廿木 (TPTD)",
+        "secret": "葉：廿心廿木 (TPTD)",
+        "quickCode": "TD"
+      },
       {
         "char": "泄",
         "codes": [
@@ -22379,25 +22379,25 @@ const MODE2_WEEKLY_BANKS = {
         "quickCode": "ON"
       },
       {
-  "char": "現",
-  "codes": [
-    "一",
-    "土",
-    "月",
-    "山",
-    "山"
-  ],
-  "keys": [
-    "M",
-    "G",
-    "B",
-    "U",
-    "U"
-  ],
-  "full": "一土月山山 (MGBUU)",
-  "secret": "現：一土月山山 (MGBUU)",
-  "quickCode": "MU"
-},
+        "char": "現",
+        "codes": [
+          "一",
+          "土",
+          "月",
+          "山",
+          "山"
+        ],
+        "keys": [
+          "M",
+          "G",
+          "B",
+          "U",
+          "U"
+        ],
+        "full": "一土月山山 (MGBUU)",
+        "secret": "現：一土月山山 (MGBUU)",
+        "quickCode": "MU"
+      },
       {
         "char": "隊",
         "codes": [
@@ -22665,23 +22665,23 @@ const MODE2_WEEKLY_BANKS = {
         "quickCode": "PT"
       },
       {
-  "char": "葉",
-  "codes": [
-    "廿",
-    "心",
-    "廿",
-    "木"
-  ],
-  "keys": [
-    "T",
-    "P",
-    "T",
-    "D"
-  ],
-  "full": "廿心廿木 (TPTD)",
-  "secret": "葉：廿心廿木 (TPTD)",
-  "quickCode": "TD"
-},
+        "char": "葉",
+        "codes": [
+          "廿",
+          "心",
+          "廿",
+          "木"
+        ],
+        "keys": [
+          "T",
+          "P",
+          "T",
+          "D"
+        ],
+        "full": "廿心廿木 (TPTD)",
+        "secret": "葉：廿心廿木 (TPTD)",
+        "quickCode": "TD"
+      },
       {
         "char": "泄",
         "codes": [
@@ -25401,21 +25401,21 @@ const MODE2_WEEKLY_BANKS = {
         "quickCode": "MS"
       },
       {
-  "char": "沒",
-  "codes": [
-    "水",
-    "弓",
-    "水"
-  ],
-  "keys": [
-    "E",
-    "N",
-    "E"
-  ],
-  "full": "水弓水 (ENE)",
-  "secret": "沒：水弓水 (ENE)",
-  "quickCode": "EE"
-},
+        "char": "沒",
+        "codes": [
+          "水",
+          "弓",
+          "水"
+        ],
+        "keys": [
+          "E",
+          "N",
+          "E"
+        ],
+        "full": "水弓水 (ENE)",
+        "secret": "沒：水弓水 (ENE)",
+        "quickCode": "EE"
+      },
       {
         "char": "目",
         "codes": [
@@ -29606,23 +29606,23 @@ const MODE2_WEEKLY_BANKS = {
         "quickCode": "NO"
       },
       {
-  "char": "葉",
-  "codes": [
-    "廿",
-    "心",
-    "廿",
-    "木"
-  ],
-  "keys": [
-    "T",
-    "P",
-    "T",
-    "D"
-  ],
-  "full": "廿心廿木 (TPTD)",
-  "secret": "葉：廿心廿木 (TPTD)",
-  "quickCode": "TD"
-},
+        "char": "葉",
+        "codes": [
+          "廿",
+          "心",
+          "廿",
+          "木"
+        ],
+        "keys": [
+          "T",
+          "P",
+          "T",
+          "D"
+        ],
+        "full": "廿心廿木 (TPTD)",
+        "secret": "葉：廿心廿木 (TPTD)",
+        "quickCode": "TD"
+      },
       {
         "char": "搖",
         "codes": [
@@ -29770,45 +29770,45 @@ const MODE2_WEEKLY_BANKS = {
         "quickCode": "VP"
       },
       {
-  "char": "禮",
-  "codes": [
-    "戈",
-    "火",
-    "廿",
-    "田",
-    "廿"
-  ],
-  "keys": [
-    "I",
-    "F",
-    "T",
-    "W",
-    "T"
-  ],
-  "full": "戈火廿田廿 (IFTWT)",
-  "secret": "禮：戈火廿田廿 (IFTWT)",
-  "quickCode": "IT"
-},
+        "char": "禮",
+        "codes": [
+          "戈",
+          "火",
+          "廿",
+          "田",
+          "廿"
+        ],
+        "keys": [
+          "I",
+          "F",
+          "T",
+          "W",
+          "T"
+        ],
+        "full": "戈火廿田廿 (IFTWT)",
+        "secret": "禮：戈火廿田廿 (IFTWT)",
+        "quickCode": "IT"
+      },
       {
-  "char": "行",
-  "codes": [
-    "竹",
-    "人",
-    "一",
-    "一",
-    "弓"
-  ],
-  "keys": [
-    "H",
-    "O",
-    "M",
-    "M",
-    "N"
-  ],
-  "full": "竹人一一弓 (HOMMN)",
-  "secret": "行：竹人一一弓 (HOMMN)",
-  "quickCode": "HN"
-},
+        "char": "行",
+        "codes": [
+          "竹",
+          "人",
+          "一",
+          "一",
+          "弓"
+        ],
+        "keys": [
+          "H",
+          "O",
+          "M",
+          "M",
+          "N"
+        ],
+        "full": "竹人一一弓 (HOMMN)",
+        "secret": "行：竹人一一弓 (HOMMN)",
+        "quickCode": "HN"
+      },
       {
         "char": "深",
         "codes": [
@@ -31342,21 +31342,21 @@ const MODE2_WEEKLY_BANKS = {
     "title": "🔥 第 8 周 功課 3 (沒、京、少、新... 50字)",
     "words": [
       {
-  "char": "沒",
-  "codes": [
-    "水",
-    "弓",
-    "水"
-  ],
-  "keys": [
-    "E",
-    "N",
-    "E"
-  ],
-  "full": "水弓水 (ENE)",
-  "secret": "沒：水弓水 (ENE)",
-  "quickCode": "EE"
-},
+        "char": "沒",
+        "codes": [
+          "水",
+          "弓",
+          "水"
+        ],
+        "keys": [
+          "E",
+          "N",
+          "E"
+        ],
+        "full": "水弓水 (ENE)",
+        "secret": "沒：水弓水 (ENE)",
+        "quickCode": "EE"
+      },
       {
         "char": "京",
         "codes": [
@@ -33120,817 +33120,817 @@ const MODE2_WEEKLY_BANKS = {
     "title": "第11周功課1",
     "dateRange": "09/11/2026 8:00 AM - 15/11/2026 11:30 PM",
     "words": [
-        {
-            "char": "的",
-            "codes": [
-                "竹",
-                "日",
-                "心",
-                "戈"
-            ],
-            "keys": [
-                "H",
-                "A",
-                "P",
-                "I"
-            ],
-            "full": "竹日心戈 (HAPI)",
-            "secret": "的：竹日心戈 (HAPI)",
-            "quickCode": "HI"
-        },
-        {
-            "char": "一",
-            "codes": [
-                "一"
-            ],
-            "keys": [
-                "M"
-            ],
-            "full": "一 (M)",
-            "secret": "一：一 (M)",
-            "quickCode": "M"
-        },
-        {
-            "char": "是",
-            "codes": [
-                "日",
-                "一",
-                "卜",
-                "人"
-            ],
-            "keys": [
-                "A",
-                "M",
-                "Y",
-                "O"
-            ],
-            "full": "日一卜人 (AMYO)",
-            "secret": "是：日一卜人 (AMYO)",
-            "quickCode": "AO"
-        },
-        {
-            "char": "了",
-            "codes": [
-                "弓",
-                "弓"
-            ],
-            "keys": [
-                "N",
-                "N"
-            ],
-            "full": "弓弓 (NN)",
-            "secret": "了：弓弓 (NN)",
-            "quickCode": "NN"
-        },
-        {
-            "char": "我",
-            "codes": [
-                "竹",
-                "手",
-                "戈"
-            ],
-            "keys": [
-                "H",
-                "Q",
-                "I"
-            ],
-            "full": "竹手戈 (HQI)",
-            "secret": "我：竹手戈 (HQI)",
-            "quickCode": "HI"
-        },
-        {
-            "char": "不",
-            "codes": [
-                "一",
-                "火"
-            ],
-            "keys": [
-                "M",
-                "F"
-            ],
-            "full": "一火 (MF)",
-            "secret": "不：一火 (MF)",
-            "quickCode": "MF"
-        },
-        {
-            "char": "人",
-            "codes": [
-                "人"
-            ],
-            "keys": [
-                "O"
-            ],
-            "full": "人 (O)",
-            "secret": "人：人 (O)",
-            "quickCode": "O"
-        },
-        {
-            "char": "在",
-            "codes": [
-                "大",
-                "中",
-                "土"
-            ],
-            "keys": [
-                "K",
-                "L",
-                "G"
-            ],
-            "full": "大中土 (KLG)",
-            "secret": "在：大中土 (KLG)",
-            "quickCode": "KG"
-        },
-        {
-            "char": "他",
-            "codes": [
-                "人",
-                "心",
-                "木"
-            ],
-            "keys": [
-                "O",
-                "P",
-                "D"
-            ],
-            "full": "人心木 (OPD)",
-            "secret": "他：人心木 (OPD)",
-            "quickCode": "OD"
-        },
-        {
-            "char": "有",
-            "codes": [
-                "大",
-                "月"
-            ],
-            "keys": [
-                "K",
-                "B"
-            ],
-            "full": "大月 (KB)",
-            "secret": "有：大月 (KB)",
-            "quickCode": "KB"
-        },
-        {
-            "char": "這",
-            "codes": [
-                "卜",
-                "卜",
-                "一",
-                "口"
-            ],
-            "keys": [
-                "Y",
-                "Y",
-                "M",
-                "R"
-            ],
-            "full": "卜卜一口 (YYMR)",
-            "secret": "這：卜卜一口 (YYMR)",
-            "quickCode": "YR"
-        },
-        {
-            "char": "個",
-            "codes": [
-                "人",
-                "田",
-                "十",
-                "口"
-            ],
-            "keys": [
-                "O",
-                "W",
-                "J",
-                "R"
-            ],
-            "full": "人田十口 (OWJR)",
-            "secret": "個：人田十口 (OWJR)",
-            "quickCode": "OR"
-        },
-        {
-            "char": "上",
-            "codes": [
-                "卜",
-                "一"
-            ],
-            "keys": [
-                "Y",
-                "M"
-            ],
-            "full": "卜一 (YM)",
-            "secret": "上：卜一 (YM)",
-            "quickCode": "YM"
-        },
-        {
-            "char": "們",
-            "codes": [
-                "人",
-                "日",
-                "弓"
-            ],
-            "keys": [
-                "O",
-                "A",
-                "N"
-            ],
-            "full": "人日弓 (OAN)",
-            "secret": "們：人日弓 (OAN)",
-            "quickCode": "ON"
-        },
-        {
-            "char": "來",
-            "codes": [
-                "木",
-                "人",
-                "人"
-            ],
-            "keys": [
-                "D",
-                "O",
-                "O"
-            ],
-            "full": "木人人 (DOO)",
-            "secret": "來：木人人 (DOO)",
-            "quickCode": "DO"
-        },
-        {
-            "char": "到",
-            "codes": [
-                "一",
-                "土",
-                "中",
-                "弓"
-            ],
-            "keys": [
-                "M",
-                "G",
-                "L",
-                "N"
-            ],
-            "full": "一土中弓 (MGLN)",
-            "secret": "到：一土中弓 (MGLN)",
-            "quickCode": "MN"
-        },
-        {
-            "char": "時",
-            "codes": [
-                "日",
-                "土",
-                "木",
-                "戈"
-            ],
-            "keys": [
-                "A",
-                "G",
-                "D",
-                "I"
-            ],
-            "full": "日土木戈 (AGDI)",
-            "secret": "時：日土木戈 (AGDI)",
-            "quickCode": "AI"
-        },
-        {
-            "char": "大",
-            "codes": [
-                "大"
-            ],
-            "keys": [
-                "K"
-            ],
-            "full": "大 (K)",
-            "secret": "大：大 (K)",
-            "quickCode": "K"
-        },
-        {
-            "char": "地",
-            "codes": [
-                "土",
-                "心",
-                "木"
-            ],
-            "keys": [
-                "G",
-                "P",
-                "D"
-            ],
-            "full": "土心木 (GPD)",
-            "secret": "地：土心木 (GPD)",
-            "quickCode": "GD"
-        },
-        {
-            "char": "為",
-            "codes": [
-                "戈",
-                "大",
-                "弓",
-                "火"
-            ],
-            "keys": [
-                "I",
-                "K",
-                "N",
-                "F"
-            ],
-            "full": "戈大弓火 (IKNF)",
-            "secret": "為：戈大弓火 (IKNF)",
-            "quickCode": "IF"
-        },
-        {
-            "char": "子",
-            "codes": [
-                "弓",
-                "木"
-            ],
-            "keys": [
-                "N",
-                "D"
-            ],
-            "full": "弓木 (ND)",
-            "secret": "子：弓木 (ND)",
-            "quickCode": "ND"
-        },
-        {
-            "char": "中",
-            "codes": [
-                "中"
-            ],
-            "keys": [
-                "L"
-            ],
-            "full": "中 (L)",
-            "secret": "中：中 (L)",
-            "quickCode": "L"
-        },
-        {
-            "char": "你",
-            "codes": [
-                "人",
-                "弓",
-                "火"
-            ],
-            "keys": [
-                "O",
-                "N",
-                "F"
-            ],
-            "full": "人弓火 (ONF)",
-            "secret": "你：人弓火 (ONF)",
-            "quickCode": "OF"
-        },
-        {
-            "char": "說",
-            "codes": [
-                "卜",
-                "口",
-                "金",
-                "口",
-                "山"
-            ],
-            "keys": [
-                "Y",
-                "R",
-                "C",
-                "R",
-                "U"
-            ],
-            "full": "卜口金口山 (YRCRU)",
-            "secret": "說：卜口金口山 (YRCRU)",
-            "quickCode": "YU"
-        },
-        {
-            "char": "生",
-            "codes": [
-                "竹",
-                "手",
-                "一"
-            ],
-            "keys": [
-                "H",
-                "Q",
-                "M"
-            ],
-            "full": "竹手一 (HQM)",
-            "secret": "生：竹手一 (HQM)",
-            "quickCode": "HM"
-        },
-        {
-            "char": "國",
-            "codes": [
-                "田",
-                "戈",
-                "口",
-                "一"
-            ],
-            "keys": [
-                "W",
-                "I",
-                "R",
-                "M"
-            ],
-            "full": "田戈口一 (WIRM)",
-            "secret": "國：田戈口一 (WIRM)",
-            "quickCode": "WM"
-        },
-        {
-            "char": "年",
-            "codes": [
-                "人",
-                "手"
-            ],
-            "keys": [
-                "O",
-                "Q"
-            ],
-            "full": "人手 (OQ)",
-            "secret": "年：人手 (OQ)",
-            "quickCode": "OQ"
-        },
-        {
-            "char": "著",
-            "codes": [
-                "廿",
-                "十",
-                "大",
-                "日"
-            ],
-            "keys": [
-                "T",
-                "J",
-                "K",
-                "A"
-            ],
-            "full": "廿十大日 (TJKA)",
-            "secret": "著：廿十大日 (TJKA)",
-            "quickCode": "TA"
-        },
-        {
-            "char": "就",
-            "codes": [
-                "卜",
-                "火",
-                "戈",
-                "大",
-                "山"
-            ],
-            "keys": [
-                "Y",
-                "F",
-                "I",
-                "K",
-                "U"
-            ],
-            "full": "卜火戈大山 (YFIKU)",
-            "secret": "就：卜火戈大山 (YFIKU)",
-            "quickCode": "YU"
-        },
-        {
-            "char": "那",
-            "codes": [
-                "尸",
-                "手",
-                "弓",
-                "中"
-            ],
-            "keys": [
-                "S",
-                "Q",
-                "N",
-                "L"
-            ],
-            "full": "尸手弓中 (SQNL)",
-            "secret": "那：尸手弓中 (SQNL)",
-            "quickCode": "SL"
-        },
-        {
-            "char": "和",
-            "codes": [
-                "竹",
-                "木",
-                "口"
-            ],
-            "keys": [
-                "H",
-                "D",
-                "R"
-            ],
-            "full": "竹木口 (HDR)",
-            "secret": "和：竹木口 (HDR)",
-            "quickCode": "HR"
-        },
-        {
-            "char": "要",
-            "codes": [
-                "一",
-                "田",
-                "女"
-            ],
-            "keys": [
-                "M",
-                "W",
-                "V"
-            ],
-            "full": "一田女 (MWV)",
-            "secret": "要：一田女 (MWV)",
-            "quickCode": "MV"
-        },
-        {
-            "char": "她",
-            "codes": [
-                "女",
-                "心",
-                "木"
-            ],
-            "keys": [
-                "V",
-                "P",
-                "D"
-            ],
-            "full": "女心木 (VPD)",
-            "secret": "她：女心木 (VPD)",
-            "quickCode": "VD"
-        },
-        {
-            "char": "出",
-            "codes": [
-                "山",
-                "山"
-            ],
-            "keys": [
-                "U",
-                "U"
-            ],
-            "full": "山山 (UU)",
-            "secret": "出：山山 (UU)",
-            "quickCode": "UU"
-        },
-        {
-            "char": "也",
-            "codes": [
-                "心",
-                "木"
-            ],
-            "keys": [
-                "P",
-                "D"
-            ],
-            "full": "心木 (PD)",
-            "secret": "也：心木 (PD)",
-            "quickCode": "PD"
-        },
-        {
-            "char": "得",
-            "codes": [
-                "竹",
-                "人",
-                "日",
-                "一",
-                "戈"
-            ],
-            "keys": [
-                "H",
-                "O",
-                "A",
-                "M",
-                "I"
-            ],
-            "full": "竹人日一戈 (HOAMI)",
-            "secret": "得：竹人日一戈 (HOAMI)",
-            "quickCode": "HI"
-        },
-        {
-            "char": "里",
-            "codes": [
-                "田",
-                "土"
-            ],
-            "keys": [
-                "W",
-                "G"
-            ],
-            "full": "田土 (WG)",
-            "secret": "里：田土 (WG)",
-            "quickCode": "WG"
-        },
-        {
-            "char": "後",
-            "codes": [
-                "竹",
-                "人",
-                "女",
-                "戈",
-                "水"
-            ],
-            "keys": [
-                "H",
-                "O",
-                "V",
-                "I",
-                "E"
-            ],
-            "full": "竹人女戈水 (HOVIE)",
-            "secret": "後：竹人女戈水 (HOVIE)",
-            "quickCode": "HE"
-        },
-        {
-            "char": "自",
-            "codes": [
-                "竹",
-                "月",
-                "山"
-            ],
-            "keys": [
-                "H",
-                "B",
-                "U"
-            ],
-            "full": "竹月山 (HBU)",
-            "secret": "自：竹月山 (HBU)",
-            "quickCode": "HU"
-        },
-        {
-            "char": "以",
-            "codes": [
-                "女",
-                "戈",
-                "人"
-            ],
-            "keys": [
-                "V",
-                "I",
-                "O"
-            ],
-            "full": "女戈人 (VIO)",
-            "secret": "以：女戈人 (VIO)",
-            "quickCode": "VO"
-        },
-        {
-            "char": "會",
-            "codes": [
-                "人",
-                "一",
-                "田",
-                "日"
-            ],
-            "keys": [
-                "O",
-                "M",
-                "W",
-                "A"
-            ],
-            "full": "人一田日 (OMWA)",
-            "secret": "會：人一田日 (OMWA)",
-            "quickCode": "OA"
-        },
-        {
-            "char": "家",
-            "codes": [
-                "十",
-                "一",
-                "尸",
-                "人"
-            ],
-            "keys": [
-                "J",
-                "M",
-                "S",
-                "O"
-            ],
-            "full": "十一尸人 (JMSO)",
-            "secret": "家：十一尸人 (JMSO)",
-            "quickCode": "JO"
-        },
-        {
-            "char": "可",
-            "codes": [
-                "一",
-                "弓",
-                "口"
-            ],
-            "keys": [
-                "M",
-                "N",
-                "R"
-            ],
-            "full": "一弓口 (MNR)",
-            "secret": "可：一弓口 (MNR)",
-            "quickCode": "MR"
-        },
-        {
-            "char": "下",
-            "codes": [
-                "一",
-                "卜"
-            ],
-            "keys": [
-                "M",
-                "Y"
-            ],
-            "full": "一卜 (MY)",
-            "secret": "下：一卜 (MY)",
-            "quickCode": "MY"
-        },
-        {
-            "char": "而",
-            "codes": [
-                "一",
-                "月",
-                "中",
-                "中"
-            ],
-            "keys": [
-                "M",
-                "B",
-                "L",
-                "L"
-            ],
-            "full": "一月中中 (MBLL)",
-            "secret": "而：一月中中 (MBLL)",
-            "quickCode": "ML"
-        },
-        {
-            "char": "過",
-            "codes": [
-                "卜",
-                "月",
-                "月",
-                "口"
-            ],
-            "keys": [
-                "Y",
-                "B",
-                "B",
-                "R"
-            ],
-            "full": "卜月月口 (YBBR)",
-            "secret": "過：卜月月口 (YBBR)",
-            "quickCode": "YR"
-        },
-        {
-            "char": "天",
-            "codes": [
-                "一",
-                "大"
-            ],
-            "keys": [
-                "M",
-                "K"
-            ],
-            "full": "一大 (MK)",
-            "secret": "天：一大 (MK)",
-            "quickCode": "MK"
-        },
-        {
-            "char": "去",
-            "codes": [
-                "土",
-                "戈"
-            ],
-            "keys": [
-                "G",
-                "I"
-            ],
-            "full": "土戈 (GI)",
-            "secret": "去：土戈 (GI)",
-            "quickCode": "GI"
-        },
-        {
-            "char": "能",
-            "codes": [
-                "戈",
-                "月",
-                "心",
-                "心"
-            ],
-            "keys": [
-                "I",
-                "B",
-                "P",
-                "P"
-            ],
-            "full": "戈月心心 (IBPP)",
-            "secret": "能：戈月心心 (IBPP)",
-            "quickCode": "IP"
-        },
-        {
-            "char": "對",
-            "codes": [
-                "廿",
-                "土",
-                "木",
-                "戈"
-            ],
-            "keys": [
-                "T",
-                "G",
-                "D",
-                "I"
-            ],
-            "full": "廿土木戈 (TGDI)",
-            "secret": "對：廿土木戈 (TGDI)",
-            "quickCode": "TI"
-        }
+      {
+        "char": "的",
+        "codes": [
+          "竹",
+          "日",
+          "心",
+          "戈"
+        ],
+        "keys": [
+          "H",
+          "A",
+          "P",
+          "I"
+        ],
+        "full": "竹日心戈 (HAPI)",
+        "secret": "的：竹日心戈 (HAPI)",
+        "quickCode": "HI"
+      },
+      {
+        "char": "一",
+        "codes": [
+          "一"
+        ],
+        "keys": [
+          "M"
+        ],
+        "full": "一 (M)",
+        "secret": "一：一 (M)",
+        "quickCode": "M"
+      },
+      {
+        "char": "是",
+        "codes": [
+          "日",
+          "一",
+          "卜",
+          "人"
+        ],
+        "keys": [
+          "A",
+          "M",
+          "Y",
+          "O"
+        ],
+        "full": "日一卜人 (AMYO)",
+        "secret": "是：日一卜人 (AMYO)",
+        "quickCode": "AO"
+      },
+      {
+        "char": "了",
+        "codes": [
+          "弓",
+          "弓"
+        ],
+        "keys": [
+          "N",
+          "N"
+        ],
+        "full": "弓弓 (NN)",
+        "secret": "了：弓弓 (NN)",
+        "quickCode": "NN"
+      },
+      {
+        "char": "我",
+        "codes": [
+          "竹",
+          "手",
+          "戈"
+        ],
+        "keys": [
+          "H",
+          "Q",
+          "I"
+        ],
+        "full": "竹手戈 (HQI)",
+        "secret": "我：竹手戈 (HQI)",
+        "quickCode": "HI"
+      },
+      {
+        "char": "不",
+        "codes": [
+          "一",
+          "火"
+        ],
+        "keys": [
+          "M",
+          "F"
+        ],
+        "full": "一火 (MF)",
+        "secret": "不：一火 (MF)",
+        "quickCode": "MF"
+      },
+      {
+        "char": "人",
+        "codes": [
+          "人"
+        ],
+        "keys": [
+          "O"
+        ],
+        "full": "人 (O)",
+        "secret": "人：人 (O)",
+        "quickCode": "O"
+      },
+      {
+        "char": "在",
+        "codes": [
+          "大",
+          "中",
+          "土"
+        ],
+        "keys": [
+          "K",
+          "L",
+          "G"
+        ],
+        "full": "大中土 (KLG)",
+        "secret": "在：大中土 (KLG)",
+        "quickCode": "KG"
+      },
+      {
+        "char": "他",
+        "codes": [
+          "人",
+          "心",
+          "木"
+        ],
+        "keys": [
+          "O",
+          "P",
+          "D"
+        ],
+        "full": "人心木 (OPD)",
+        "secret": "他：人心木 (OPD)",
+        "quickCode": "OD"
+      },
+      {
+        "char": "有",
+        "codes": [
+          "大",
+          "月"
+        ],
+        "keys": [
+          "K",
+          "B"
+        ],
+        "full": "大月 (KB)",
+        "secret": "有：大月 (KB)",
+        "quickCode": "KB"
+      },
+      {
+        "char": "這",
+        "codes": [
+          "卜",
+          "卜",
+          "一",
+          "口"
+        ],
+        "keys": [
+          "Y",
+          "Y",
+          "M",
+          "R"
+        ],
+        "full": "卜卜一口 (YYMR)",
+        "secret": "這：卜卜一口 (YYMR)",
+        "quickCode": "YR"
+      },
+      {
+        "char": "個",
+        "codes": [
+          "人",
+          "田",
+          "十",
+          "口"
+        ],
+        "keys": [
+          "O",
+          "W",
+          "J",
+          "R"
+        ],
+        "full": "人田十口 (OWJR)",
+        "secret": "個：人田十口 (OWJR)",
+        "quickCode": "OR"
+      },
+      {
+        "char": "上",
+        "codes": [
+          "卜",
+          "一"
+        ],
+        "keys": [
+          "Y",
+          "M"
+        ],
+        "full": "卜一 (YM)",
+        "secret": "上：卜一 (YM)",
+        "quickCode": "YM"
+      },
+      {
+        "char": "們",
+        "codes": [
+          "人",
+          "日",
+          "弓"
+        ],
+        "keys": [
+          "O",
+          "A",
+          "N"
+        ],
+        "full": "人日弓 (OAN)",
+        "secret": "們：人日弓 (OAN)",
+        "quickCode": "ON"
+      },
+      {
+        "char": "來",
+        "codes": [
+          "木",
+          "人",
+          "人"
+        ],
+        "keys": [
+          "D",
+          "O",
+          "O"
+        ],
+        "full": "木人人 (DOO)",
+        "secret": "來：木人人 (DOO)",
+        "quickCode": "DO"
+      },
+      {
+        "char": "到",
+        "codes": [
+          "一",
+          "土",
+          "中",
+          "弓"
+        ],
+        "keys": [
+          "M",
+          "G",
+          "L",
+          "N"
+        ],
+        "full": "一土中弓 (MGLN)",
+        "secret": "到：一土中弓 (MGLN)",
+        "quickCode": "MN"
+      },
+      {
+        "char": "時",
+        "codes": [
+          "日",
+          "土",
+          "木",
+          "戈"
+        ],
+        "keys": [
+          "A",
+          "G",
+          "D",
+          "I"
+        ],
+        "full": "日土木戈 (AGDI)",
+        "secret": "時：日土木戈 (AGDI)",
+        "quickCode": "AI"
+      },
+      {
+        "char": "大",
+        "codes": [
+          "大"
+        ],
+        "keys": [
+          "K"
+        ],
+        "full": "大 (K)",
+        "secret": "大：大 (K)",
+        "quickCode": "K"
+      },
+      {
+        "char": "地",
+        "codes": [
+          "土",
+          "心",
+          "木"
+        ],
+        "keys": [
+          "G",
+          "P",
+          "D"
+        ],
+        "full": "土心木 (GPD)",
+        "secret": "地：土心木 (GPD)",
+        "quickCode": "GD"
+      },
+      {
+        "char": "為",
+        "codes": [
+          "戈",
+          "大",
+          "弓",
+          "火"
+        ],
+        "keys": [
+          "I",
+          "K",
+          "N",
+          "F"
+        ],
+        "full": "戈大弓火 (IKNF)",
+        "secret": "為：戈大弓火 (IKNF)",
+        "quickCode": "IF"
+      },
+      {
+        "char": "子",
+        "codes": [
+          "弓",
+          "木"
+        ],
+        "keys": [
+          "N",
+          "D"
+        ],
+        "full": "弓木 (ND)",
+        "secret": "子：弓木 (ND)",
+        "quickCode": "ND"
+      },
+      {
+        "char": "中",
+        "codes": [
+          "中"
+        ],
+        "keys": [
+          "L"
+        ],
+        "full": "中 (L)",
+        "secret": "中：中 (L)",
+        "quickCode": "L"
+      },
+      {
+        "char": "你",
+        "codes": [
+          "人",
+          "弓",
+          "火"
+        ],
+        "keys": [
+          "O",
+          "N",
+          "F"
+        ],
+        "full": "人弓火 (ONF)",
+        "secret": "你：人弓火 (ONF)",
+        "quickCode": "OF"
+      },
+      {
+        "char": "說",
+        "codes": [
+          "卜",
+          "口",
+          "金",
+          "口",
+          "山"
+        ],
+        "keys": [
+          "Y",
+          "R",
+          "C",
+          "R",
+          "U"
+        ],
+        "full": "卜口金口山 (YRCRU)",
+        "secret": "說：卜口金口山 (YRCRU)",
+        "quickCode": "YU"
+      },
+      {
+        "char": "生",
+        "codes": [
+          "竹",
+          "手",
+          "一"
+        ],
+        "keys": [
+          "H",
+          "Q",
+          "M"
+        ],
+        "full": "竹手一 (HQM)",
+        "secret": "生：竹手一 (HQM)",
+        "quickCode": "HM"
+      },
+      {
+        "char": "國",
+        "codes": [
+          "田",
+          "戈",
+          "口",
+          "一"
+        ],
+        "keys": [
+          "W",
+          "I",
+          "R",
+          "M"
+        ],
+        "full": "田戈口一 (WIRM)",
+        "secret": "國：田戈口一 (WIRM)",
+        "quickCode": "WM"
+      },
+      {
+        "char": "年",
+        "codes": [
+          "人",
+          "手"
+        ],
+        "keys": [
+          "O",
+          "Q"
+        ],
+        "full": "人手 (OQ)",
+        "secret": "年：人手 (OQ)",
+        "quickCode": "OQ"
+      },
+      {
+        "char": "著",
+        "codes": [
+          "廿",
+          "十",
+          "大",
+          "日"
+        ],
+        "keys": [
+          "T",
+          "J",
+          "K",
+          "A"
+        ],
+        "full": "廿十大日 (TJKA)",
+        "secret": "著：廿十大日 (TJKA)",
+        "quickCode": "TA"
+      },
+      {
+        "char": "就",
+        "codes": [
+          "卜",
+          "火",
+          "戈",
+          "大",
+          "山"
+        ],
+        "keys": [
+          "Y",
+          "F",
+          "I",
+          "K",
+          "U"
+        ],
+        "full": "卜火戈大山 (YFIKU)",
+        "secret": "就：卜火戈大山 (YFIKU)",
+        "quickCode": "YU"
+      },
+      {
+        "char": "那",
+        "codes": [
+          "尸",
+          "手",
+          "弓",
+          "中"
+        ],
+        "keys": [
+          "S",
+          "Q",
+          "N",
+          "L"
+        ],
+        "full": "尸手弓中 (SQNL)",
+        "secret": "那：尸手弓中 (SQNL)",
+        "quickCode": "SL"
+      },
+      {
+        "char": "和",
+        "codes": [
+          "竹",
+          "木",
+          "口"
+        ],
+        "keys": [
+          "H",
+          "D",
+          "R"
+        ],
+        "full": "竹木口 (HDR)",
+        "secret": "和：竹木口 (HDR)",
+        "quickCode": "HR"
+      },
+      {
+        "char": "要",
+        "codes": [
+          "一",
+          "田",
+          "女"
+        ],
+        "keys": [
+          "M",
+          "W",
+          "V"
+        ],
+        "full": "一田女 (MWV)",
+        "secret": "要：一田女 (MWV)",
+        "quickCode": "MV"
+      },
+      {
+        "char": "她",
+        "codes": [
+          "女",
+          "心",
+          "木"
+        ],
+        "keys": [
+          "V",
+          "P",
+          "D"
+        ],
+        "full": "女心木 (VPD)",
+        "secret": "她：女心木 (VPD)",
+        "quickCode": "VD"
+      },
+      {
+        "char": "出",
+        "codes": [
+          "山",
+          "山"
+        ],
+        "keys": [
+          "U",
+          "U"
+        ],
+        "full": "山山 (UU)",
+        "secret": "出：山山 (UU)",
+        "quickCode": "UU"
+      },
+      {
+        "char": "也",
+        "codes": [
+          "心",
+          "木"
+        ],
+        "keys": [
+          "P",
+          "D"
+        ],
+        "full": "心木 (PD)",
+        "secret": "也：心木 (PD)",
+        "quickCode": "PD"
+      },
+      {
+        "char": "得",
+        "codes": [
+          "竹",
+          "人",
+          "日",
+          "一",
+          "戈"
+        ],
+        "keys": [
+          "H",
+          "O",
+          "A",
+          "M",
+          "I"
+        ],
+        "full": "竹人日一戈 (HOAMI)",
+        "secret": "得：竹人日一戈 (HOAMI)",
+        "quickCode": "HI"
+      },
+      {
+        "char": "里",
+        "codes": [
+          "田",
+          "土"
+        ],
+        "keys": [
+          "W",
+          "G"
+        ],
+        "full": "田土 (WG)",
+        "secret": "里：田土 (WG)",
+        "quickCode": "WG"
+      },
+      {
+        "char": "後",
+        "codes": [
+          "竹",
+          "人",
+          "女",
+          "戈",
+          "水"
+        ],
+        "keys": [
+          "H",
+          "O",
+          "V",
+          "I",
+          "E"
+        ],
+        "full": "竹人女戈水 (HOVIE)",
+        "secret": "後：竹人女戈水 (HOVIE)",
+        "quickCode": "HE"
+      },
+      {
+        "char": "自",
+        "codes": [
+          "竹",
+          "月",
+          "山"
+        ],
+        "keys": [
+          "H",
+          "B",
+          "U"
+        ],
+        "full": "竹月山 (HBU)",
+        "secret": "自：竹月山 (HBU)",
+        "quickCode": "HU"
+      },
+      {
+        "char": "以",
+        "codes": [
+          "女",
+          "戈",
+          "人"
+        ],
+        "keys": [
+          "V",
+          "I",
+          "O"
+        ],
+        "full": "女戈人 (VIO)",
+        "secret": "以：女戈人 (VIO)",
+        "quickCode": "VO"
+      },
+      {
+        "char": "會",
+        "codes": [
+          "人",
+          "一",
+          "田",
+          "日"
+        ],
+        "keys": [
+          "O",
+          "M",
+          "W",
+          "A"
+        ],
+        "full": "人一田日 (OMWA)",
+        "secret": "會：人一田日 (OMWA)",
+        "quickCode": "OA"
+      },
+      {
+        "char": "家",
+        "codes": [
+          "十",
+          "一",
+          "尸",
+          "人"
+        ],
+        "keys": [
+          "J",
+          "M",
+          "S",
+          "O"
+        ],
+        "full": "十一尸人 (JMSO)",
+        "secret": "家：十一尸人 (JMSO)",
+        "quickCode": "JO"
+      },
+      {
+        "char": "可",
+        "codes": [
+          "一",
+          "弓",
+          "口"
+        ],
+        "keys": [
+          "M",
+          "N",
+          "R"
+        ],
+        "full": "一弓口 (MNR)",
+        "secret": "可：一弓口 (MNR)",
+        "quickCode": "MR"
+      },
+      {
+        "char": "下",
+        "codes": [
+          "一",
+          "卜"
+        ],
+        "keys": [
+          "M",
+          "Y"
+        ],
+        "full": "一卜 (MY)",
+        "secret": "下：一卜 (MY)",
+        "quickCode": "MY"
+      },
+      {
+        "char": "而",
+        "codes": [
+          "一",
+          "月",
+          "中",
+          "中"
+        ],
+        "keys": [
+          "M",
+          "B",
+          "L",
+          "L"
+        ],
+        "full": "一月中中 (MBLL)",
+        "secret": "而：一月中中 (MBLL)",
+        "quickCode": "ML"
+      },
+      {
+        "char": "過",
+        "codes": [
+          "卜",
+          "月",
+          "月",
+          "口"
+        ],
+        "keys": [
+          "Y",
+          "B",
+          "B",
+          "R"
+        ],
+        "full": "卜月月口 (YBBR)",
+        "secret": "過：卜月月口 (YBBR)",
+        "quickCode": "YR"
+      },
+      {
+        "char": "天",
+        "codes": [
+          "一",
+          "大"
+        ],
+        "keys": [
+          "M",
+          "K"
+        ],
+        "full": "一大 (MK)",
+        "secret": "天：一大 (MK)",
+        "quickCode": "MK"
+      },
+      {
+        "char": "去",
+        "codes": [
+          "土",
+          "戈"
+        ],
+        "keys": [
+          "G",
+          "I"
+        ],
+        "full": "土戈 (GI)",
+        "secret": "去：土戈 (GI)",
+        "quickCode": "GI"
+      },
+      {
+        "char": "能",
+        "codes": [
+          "戈",
+          "月",
+          "心",
+          "心"
+        ],
+        "keys": [
+          "I",
+          "B",
+          "P",
+          "P"
+        ],
+        "full": "戈月心心 (IBPP)",
+        "secret": "能：戈月心心 (IBPP)",
+        "quickCode": "IP"
+      },
+      {
+        "char": "對",
+        "codes": [
+          "廿",
+          "土",
+          "木",
+          "戈"
+        ],
+        "keys": [
+          "T",
+          "G",
+          "D",
+          "I"
+        ],
+        "full": "廿土木戈 (TGDI)",
+        "secret": "對：廿土木戈 (TGDI)",
+        "quickCode": "TI"
+      }
     ]
-},
-    "w11_hw2": {
+  },
+  "w11_hw2": {
     "key": "w11_hw2",
     "week": "w11",
     "weekName": "第11周",
@@ -33938,851 +33938,851 @@ const MODE2_WEEKLY_BANKS = {
     "title": "第11周功課2",
     "dateRange": "09/11/2026 8:00 AM - 15/11/2026 11:30 PM",
     "words": [
-        {
-            "char": "小",
-            "codes": [
-                "弓",
-                "金"
-            ],
-            "keys": [
-                "N",
-                "C"
-            ],
-            "full": "弓金 (NC)",
-            "secret": "小：弓金 (NC)",
-            "quickCode": "NC"
-        },
-        {
-            "char": "多",
-            "codes": [
-                "弓",
-                "戈",
-                "弓",
-                "戈"
-            ],
-            "keys": [
-                "N",
-                "I",
-                "N",
-                "I"
-            ],
-            "full": "弓戈弓戈 (NINI)",
-            "secret": "多：弓戈弓戈 (NINI)",
-            "quickCode": "NI"
-        },
-        {
-            "char": "然",
-            "codes": [
-                "月",
-                "大",
-                "火"
-            ],
-            "keys": [
-                "B",
-                "K",
-                "F"
-            ],
-            "full": "月大火 (BKF)",
-            "secret": "然：月大火 (BKF)",
-            "quickCode": "BF"
-        },
-        {
-  "char": "於",
-  "codes": [
-    "卜",
-    "尸",
-    "人",
-    "卜"
-  ],
-  "keys": [
-    "Y",
-    "S",
-    "O",
-    "Y"
-  ],
-  "full": "卜尸人卜 (YSOY)",
-  "secret": "於：卜尸人卜 (YSOY)",
-  "quickCode": "YY"
-},
-        {
-            "char": "心",
-            "codes": [
-                "心"
-            ],
-            "keys": [
-                "P"
-            ],
-            "full": "心 (P)",
-            "secret": "心：心 (P)",
-            "quickCode": "P"
-        },
-        {
-            "char": "學",
-            "codes": [
-                "竹",
-                "月",
-                "弓",
-                "木"
-            ],
-            "keys": [
-                "H",
-                "B",
-                "N",
-                "D"
-            ],
-            "full": "竹月弓木 (HBND)",
-            "secret": "學：竹月弓木 (HBND)",
-            "quickCode": "HD"
-        },
-        {
-            "char": "麼",
-            "codes": [
-                "戈",
-                "金",
-                "女",
-                "戈"
-            ],
-            "keys": [
-                "I",
-                "C",
-                "V",
-                "I"
-            ],
-            "full": "戈金女戈 (ICVI)",
-            "secret": "麼：戈金女戈 (ICVI)",
-            "quickCode": "II"
-        },
-        {
-            "char": "之",
-            "codes": [
-                "戈",
-                "弓",
-                "人"
-            ],
-            "keys": [
-                "I",
-                "N",
-                "O"
-            ],
-            "full": "戈弓人 (INO)",
-            "secret": "之：戈弓人 (INO)",
-            "quickCode": "IO"
-        },
-        {
-            "char": "都",
-            "codes": [
-                "十",
-                "日",
-                "弓",
-                "中"
-            ],
-            "keys": [
-                "J",
-                "A",
-                "N",
-                "L"
-            ],
-            "full": "十日弓中 (JANL)",
-            "secret": "都：十日弓中 (JANL)",
-            "quickCode": "JL"
-        },
-        {
-            "char": "好",
-            "codes": [
-                "女",
-                "弓",
-                "木"
-            ],
-            "keys": [
-                "V",
-                "N",
-                "D"
-            ],
-            "full": "女弓木 (VND)",
-            "secret": "好：女弓木 (VND)",
-            "quickCode": "VD"
-        },
-        {
-            "char": "看",
-            "codes": [
-                "竹",
-                "手",
-                "月",
-                "山"
-            ],
-            "keys": [
-                "H",
-                "Q",
-                "B",
-                "U"
-            ],
-            "full": "竹手月山 (HQBU)",
-            "secret": "看：竹手月山 (HQBU)",
-            "quickCode": "HU"
-        },
-        {
-            "char": "起",
-            "codes": [
-                "土",
-                "人",
-                "口",
-                "山"
-            ],
-            "keys": [
-                "G",
-                "O",
-                "R",
-                "U"
-            ],
-            "full": "土人口山 (GORU)",
-            "secret": "起：土人口山 (GORU)",
-            "quickCode": "GU"
-        },
-        {
-            "char": "發",
-            "codes": [
-                "弓",
-                "人",
-                "弓",
-                "竹",
-                "水"
-            ],
-            "keys": [
-                "N",
-                "O",
-                "N",
-                "H",
-                "E"
-            ],
-            "full": "弓人弓竹水 (NONHE)",
-            "secret": "發：弓人弓竹水 (NONHE)",
-            "quickCode": "NE"
-        },
-        {
-            "char": "當",
-            "codes": [
-                "火",
-                "月",
-                "口",
-                "田"
-            ],
-            "keys": [
-                "F",
-                "B",
-                "R",
-                "W"
-            ],
-            "full": "火月口田 (FBRW)",
-            "secret": "當：火月口田 (FBRW)",
-            "quickCode": "FW"
-        },
-        {
-  "char": "沒",
-  "codes": [
-    "水",
-    "弓",
-    "水"
-  ],
-  "keys": [
-    "E",
-    "N",
-    "E"
-  ],
-  "full": "水弓水 (ENE)",
-  "secret": "沒：水弓水 (ENE)",
-  "quickCode": "EE"
-},
-        {
-            "char": "成",
-            "codes": [
-                "戈",
-                "竹",
-                "尸"
-            ],
-            "keys": [
-                "I",
-                "H",
-                "S"
-            ],
-            "full": "戈竹尸 (IHS)",
-            "secret": "成：戈竹尸 (IHS)",
-            "quickCode": "IS"
-        },
-        {
-            "char": "只",
-            "codes": [
-                "口",
-                "金"
-            ],
-            "keys": [
-                "R",
-                "C"
-            ],
-            "full": "口金 (RC)",
-            "secret": "只：口金 (RC)",
-            "quickCode": "RC"
-        },
-        {
-            "char": "如",
-            "codes": [
-                "女",
-                "口"
-            ],
-            "keys": [
-                "V",
-                "R"
-            ],
-            "full": "女口 (VR)",
-            "secret": "如：女口 (VR)",
-            "quickCode": "VR"
-        },
-        {
-            "char": "事",
-            "codes": [
-                "十",
-                "中",
-                "中",
-                "弓"
-            ],
-            "keys": [
-                "J",
-                "L",
-                "L",
-                "N"
-            ],
-            "full": "十中中弓 (JLLN)",
-            "secret": "事：十中中弓 (JLLN)",
-            "quickCode": "JN"
-        },
-        {
-            "char": "把",
-            "codes": [
-                "手",
-                "日",
-                "山"
-            ],
-            "keys": [
-                "Q",
-                "A",
-                "U"
-            ],
-            "full": "手日山 (QAU)",
-            "secret": "把：手日山 (QAU)",
-            "quickCode": "QU"
-        },
-        {
-            "char": "還",
-            "codes": [
-                "卜",
-                "田",
-                "中",
-                "女"
-            ],
-            "keys": [
-                "Y",
-                "W",
-                "L",
-                "V"
-            ],
-            "full": "卜田中女 (YWLV)",
-            "secret": "還：卜田中女 (YWLV)",
-            "quickCode": "YV"
-        },
-        {
-            "char": "用",
-            "codes": [
-                "月",
-                "手"
-            ],
-            "keys": [
-                "B",
-                "Q"
-            ],
-            "full": "月手 (BQ)",
-            "secret": "用：月手 (BQ)",
-            "quickCode": "BQ"
-        },
-        {
-            "char": "第",
-            "codes": [
-                "竹",
-                "弓",
-                "中",
-                "竹"
-            ],
-            "keys": [
-                "H",
-                "N",
-                "L",
-                "H"
-            ],
-            "full": "竹弓中竹 (HNLH)",
-            "secret": "第：竹弓中竹 (HNLH)",
-            "quickCode": "HH"
-        },
-        {
-            "char": "樣",
-            "codes": [
-                "木",
-                "廿",
-                "土",
-                "水"
-            ],
-            "keys": [
-                "D",
-                "T",
-                "G",
-                "E"
-            ],
-            "full": "木廿土水 (DTGE)",
-            "secret": "樣：木廿土水 (DTGE)",
-            "quickCode": "DE"
-        },
-        {
-            "char": "道",
-            "codes": [
-                "卜",
-                "廿",
-                "竹",
-                "山"
-            ],
-            "keys": [
-                "Y",
-                "T",
-                "H",
-                "U"
-            ],
-            "full": "卜廿竹山 (YTHU)",
-            "secret": "道：卜廿竹山 (YTHU)",
-            "quickCode": "YU"
-        },
-        {
-            "char": "想",
-            "codes": [
-                "木",
-                "山",
-                "心"
-            ],
-            "keys": [
-                "D",
-                "U",
-                "P"
-            ],
-            "full": "木山心 (DUP)",
-            "secret": "想：木山心 (DUP)",
-            "quickCode": "DP"
-        },
-        {
-            "char": "作",
-            "codes": [
-                "人",
-                "竹",
-                "尸"
-            ],
-            "keys": [
-                "O",
-                "H",
-                "S"
-            ],
-            "full": "人竹尸 (OHS)",
-            "secret": "作：人竹尸 (OHS)",
-            "quickCode": "OS"
-        },
-        {
-            "char": "種",
-            "codes": [
-                "竹",
-                "木",
-                "竹",
-                "十",
-                "土"
-            ],
-            "keys": [
-                "H",
-                "D",
-                "H",
-                "J",
-                "G"
-            ],
-            "full": "竹木竹十土 (HDHJG)",
-            "secret": "種：竹木竹十土 (HDHJG)",
-            "quickCode": "HG"
-        },
-        {
-  "char": "開",
-  "codes": [
-    "日",
-    "弓",
-    "一",
-    "廿"
-  ],
-  "keys": [
-    "A",
-    "N",
-    "M",
-    "T"
-  ],
-  "full": "日弓一廿 (ANMT)",
-  "secret": "開：日弓一廿 (ANMT)",
-  "quickCode": "AT"
-},
-        {
-            "char": "美",
-            "codes": [
-                "廿",
-                "土",
-                "大"
-            ],
-            "keys": [
-                "T",
-                "G",
-                "K"
-            ],
-            "full": "廿土大 (TGK)",
-            "secret": "美：廿土大 (TGK)",
-            "quickCode": "TK"
-        },
-        {
-            "char": "總",
-            "codes": [
-                "女",
-                "火",
-                "竹",
-                "田",
-                "心"
-            ],
-            "keys": [
-                "V",
-                "F",
-                "H",
-                "W",
-                "P"
-            ],
-            "full": "女火竹田心 (VFHWP)",
-            "secret": "總：女火竹田心 (VFHWP)",
-            "quickCode": "VP"
-        },
-        {
-            "char": "從",
-            "codes": [
-                "竹",
-                "人",
-                "人",
-                "人",
-                "人"
-            ],
-            "keys": [
-                "H",
-                "O",
-                "O",
-                "O",
-                "O"
-            ],
-            "full": "竹人人人人 (HOOOO)",
-            "secret": "從：竹人人人人 (HOOOO)",
-            "quickCode": "HO"
-        },
-        {
-            "char": "無",
-            "codes": [
-                "人",
-                "廿",
-                "火"
-            ],
-            "keys": [
-                "O",
-                "T",
-                "F"
-            ],
-            "full": "人廿火 (OTF)",
-            "secret": "無：人廿火 (OTF)",
-            "quickCode": "OF"
-        },
-        {
-            "char": "情",
-            "codes": [
-                "心",
-                "手",
-                "一",
-                "月"
-            ],
-            "keys": [
-                "P",
-                "Q",
-                "M",
-                "B"
-            ],
-            "full": "心手一月 (PQMB)",
-            "secret": "情：心手一月 (PQMB)",
-            "quickCode": "PB"
-        },
-        {
-            "char": "己",
-            "codes": [
-                "尸",
-                "山"
-            ],
-            "keys": [
-                "S",
-                "U"
-            ],
-            "full": "尸山 (SU)",
-            "secret": "己：尸山 (SU)",
-            "quickCode": "SU"
-        },
-        {
-            "char": "面",
-            "codes": [
-                "一",
-                "田",
-                "卜",
-                "中"
-            ],
-            "keys": [
-                "M",
-                "W",
-                "Y",
-                "L"
-            ],
-            "full": "一田卜中 (MWYL)",
-            "secret": "面：一田卜中 (MWYL)",
-            "quickCode": "ML"
-        },
-        {
-            "char": "最",
-            "codes": [
-                "日",
-                "尸",
-                "十",
-                "水"
-            ],
-            "keys": [
-                "A",
-                "S",
-                "J",
-                "E"
-            ],
-            "full": "日尸十水 (ASJE)",
-            "secret": "最：日尸十水 (ASJE)",
-            "quickCode": "AE"
-        },
-        {
-            "char": "女",
-            "codes": [
-                "女"
-            ],
-            "keys": [
-                "V"
-            ],
-            "full": "女 (V)",
-            "secret": "女：女 (V)",
-            "quickCode": "V"
-        },
-        {
-            "char": "但",
-            "codes": [
-                "人",
-                "日",
-                "一"
-            ],
-            "keys": [
-                "O",
-                "A",
-                "M"
-            ],
-            "full": "人日一 (OAM)",
-            "secret": "但：人日一 (OAM)",
-            "quickCode": "OM"
-        },
-        {
-  "char": "現",
-  "codes": [
-    "一",
-    "土",
-    "月",
-    "山",
-    "山"
-  ],
-  "keys": [
-    "M",
-    "G",
-    "B",
-    "U",
-    "U"
-  ],
-  "full": "一土月山山 (MGBUU)",
-  "secret": "現：一土月山山 (MGBUU)",
-  "quickCode": "MU"
-},
-        {
-            "char": "前",
-            "codes": [
-                "廿",
-                "月",
-                "中",
-                "弓"
-            ],
-            "keys": [
-                "T",
-                "B",
-                "L",
-                "N"
-            ],
-            "full": "廿月中弓 (TBLN)",
-            "secret": "前：廿月中弓 (TBLN)",
-            "quickCode": "TN"
-        },
-        {
-            "char": "些",
-            "codes": [
-                "卜",
-                "心",
-                "一",
-                "一"
-            ],
-            "keys": [
-                "Y",
-                "P",
-                "M",
-                "M"
-            ],
-            "full": "卜心一一 (YPMM)",
-            "secret": "些：卜心一一 (YPMM)",
-            "quickCode": "YM"
-        },
-        {
-            "char": "所",
-            "codes": [
-                "竹",
-                "尸",
-                "竹",
-                "一",
-                "中"
-            ],
-            "keys": [
-                "H",
-                "S",
-                "H",
-                "M",
-                "L"
-            ],
-            "full": "竹尸竹一中 (HSHML)",
-            "secret": "所：竹尸竹一中 (HSHML)",
-            "quickCode": "HL"
-        },
-        {
-            "char": "同",
-            "codes": [
-                "月",
-                "一",
-                "口"
-            ],
-            "keys": [
-                "B",
-                "M",
-                "R"
-            ],
-            "full": "月一口 (BMR)",
-            "secret": "同：月一口 (BMR)",
-            "quickCode": "BR"
-        },
-        {
-            "char": "日",
-            "codes": [
-                "日"
-            ],
-            "keys": [
-                "A"
-            ],
-            "full": "日 (A)",
-            "secret": "日：日 (A)",
-            "quickCode": "A"
-        },
-        {
-            "char": "手",
-            "codes": [
-                "手"
-            ],
-            "keys": [
-                "Q"
-            ],
-            "full": "手 (Q)",
-            "secret": "手：手 (Q)",
-            "quickCode": "Q"
-        },
-        {
-            "char": "又",
-            "codes": [
-                "弓",
-                "大"
-            ],
-            "keys": [
-                "N",
-                "K"
-            ],
-            "full": "弓大 (NK)",
-            "secret": "又：弓大 (NK)",
-            "quickCode": "NK"
-        },
-        {
-  "char": "行",
-  "codes": [
-    "竹",
-    "人",
-    "一",
-    "一",
-    "弓"
-  ],
-  "keys": [
-    "H",
-    "O",
-    "M",
-    "M",
-    "N"
-  ],
-  "full": "竹人一一弓 (HOMMN)",
-  "secret": "行：竹人一一弓 (HOMMN)",
-  "quickCode": "HN"
-},
-        {
-            "char": "意",
-            "codes": [
-                "卜",
-                "廿",
-                "日",
-                "心"
-            ],
-            "keys": [
-                "Y",
-                "T",
-                "A",
-                "P"
-            ],
-            "full": "卜廿日心 (YTAP)",
-            "secret": "意：卜廿日心 (YTAP)",
-            "quickCode": "YP"
-        },
-        {
-            "char": "動",
-            "codes": [
-                "竹",
-                "土",
-                "大",
-                "尸"
-            ],
-            "keys": [
-                "H",
-                "G",
-                "K",
-                "S"
-            ],
-            "full": "竹土大尸 (HGKS)",
-            "secret": "動：竹土大尸 (HGKS)",
-            "quickCode": "HS"
-        }
+      {
+        "char": "小",
+        "codes": [
+          "弓",
+          "金"
+        ],
+        "keys": [
+          "N",
+          "C"
+        ],
+        "full": "弓金 (NC)",
+        "secret": "小：弓金 (NC)",
+        "quickCode": "NC"
+      },
+      {
+        "char": "多",
+        "codes": [
+          "弓",
+          "戈",
+          "弓",
+          "戈"
+        ],
+        "keys": [
+          "N",
+          "I",
+          "N",
+          "I"
+        ],
+        "full": "弓戈弓戈 (NINI)",
+        "secret": "多：弓戈弓戈 (NINI)",
+        "quickCode": "NI"
+      },
+      {
+        "char": "然",
+        "codes": [
+          "月",
+          "大",
+          "火"
+        ],
+        "keys": [
+          "B",
+          "K",
+          "F"
+        ],
+        "full": "月大火 (BKF)",
+        "secret": "然：月大火 (BKF)",
+        "quickCode": "BF"
+      },
+      {
+        "char": "於",
+        "codes": [
+          "卜",
+          "尸",
+          "人",
+          "卜"
+        ],
+        "keys": [
+          "Y",
+          "S",
+          "O",
+          "Y"
+        ],
+        "full": "卜尸人卜 (YSOY)",
+        "secret": "於：卜尸人卜 (YSOY)",
+        "quickCode": "YY"
+      },
+      {
+        "char": "心",
+        "codes": [
+          "心"
+        ],
+        "keys": [
+          "P"
+        ],
+        "full": "心 (P)",
+        "secret": "心：心 (P)",
+        "quickCode": "P"
+      },
+      {
+        "char": "學",
+        "codes": [
+          "竹",
+          "月",
+          "弓",
+          "木"
+        ],
+        "keys": [
+          "H",
+          "B",
+          "N",
+          "D"
+        ],
+        "full": "竹月弓木 (HBND)",
+        "secret": "學：竹月弓木 (HBND)",
+        "quickCode": "HD"
+      },
+      {
+        "char": "麼",
+        "codes": [
+          "戈",
+          "金",
+          "女",
+          "戈"
+        ],
+        "keys": [
+          "I",
+          "C",
+          "V",
+          "I"
+        ],
+        "full": "戈金女戈 (ICVI)",
+        "secret": "麼：戈金女戈 (ICVI)",
+        "quickCode": "II"
+      },
+      {
+        "char": "之",
+        "codes": [
+          "戈",
+          "弓",
+          "人"
+        ],
+        "keys": [
+          "I",
+          "N",
+          "O"
+        ],
+        "full": "戈弓人 (INO)",
+        "secret": "之：戈弓人 (INO)",
+        "quickCode": "IO"
+      },
+      {
+        "char": "都",
+        "codes": [
+          "十",
+          "日",
+          "弓",
+          "中"
+        ],
+        "keys": [
+          "J",
+          "A",
+          "N",
+          "L"
+        ],
+        "full": "十日弓中 (JANL)",
+        "secret": "都：十日弓中 (JANL)",
+        "quickCode": "JL"
+      },
+      {
+        "char": "好",
+        "codes": [
+          "女",
+          "弓",
+          "木"
+        ],
+        "keys": [
+          "V",
+          "N",
+          "D"
+        ],
+        "full": "女弓木 (VND)",
+        "secret": "好：女弓木 (VND)",
+        "quickCode": "VD"
+      },
+      {
+        "char": "看",
+        "codes": [
+          "竹",
+          "手",
+          "月",
+          "山"
+        ],
+        "keys": [
+          "H",
+          "Q",
+          "B",
+          "U"
+        ],
+        "full": "竹手月山 (HQBU)",
+        "secret": "看：竹手月山 (HQBU)",
+        "quickCode": "HU"
+      },
+      {
+        "char": "起",
+        "codes": [
+          "土",
+          "人",
+          "口",
+          "山"
+        ],
+        "keys": [
+          "G",
+          "O",
+          "R",
+          "U"
+        ],
+        "full": "土人口山 (GORU)",
+        "secret": "起：土人口山 (GORU)",
+        "quickCode": "GU"
+      },
+      {
+        "char": "發",
+        "codes": [
+          "弓",
+          "人",
+          "弓",
+          "竹",
+          "水"
+        ],
+        "keys": [
+          "N",
+          "O",
+          "N",
+          "H",
+          "E"
+        ],
+        "full": "弓人弓竹水 (NONHE)",
+        "secret": "發：弓人弓竹水 (NONHE)",
+        "quickCode": "NE"
+      },
+      {
+        "char": "當",
+        "codes": [
+          "火",
+          "月",
+          "口",
+          "田"
+        ],
+        "keys": [
+          "F",
+          "B",
+          "R",
+          "W"
+        ],
+        "full": "火月口田 (FBRW)",
+        "secret": "當：火月口田 (FBRW)",
+        "quickCode": "FW"
+      },
+      {
+        "char": "沒",
+        "codes": [
+          "水",
+          "弓",
+          "水"
+        ],
+        "keys": [
+          "E",
+          "N",
+          "E"
+        ],
+        "full": "水弓水 (ENE)",
+        "secret": "沒：水弓水 (ENE)",
+        "quickCode": "EE"
+      },
+      {
+        "char": "成",
+        "codes": [
+          "戈",
+          "竹",
+          "尸"
+        ],
+        "keys": [
+          "I",
+          "H",
+          "S"
+        ],
+        "full": "戈竹尸 (IHS)",
+        "secret": "成：戈竹尸 (IHS)",
+        "quickCode": "IS"
+      },
+      {
+        "char": "只",
+        "codes": [
+          "口",
+          "金"
+        ],
+        "keys": [
+          "R",
+          "C"
+        ],
+        "full": "口金 (RC)",
+        "secret": "只：口金 (RC)",
+        "quickCode": "RC"
+      },
+      {
+        "char": "如",
+        "codes": [
+          "女",
+          "口"
+        ],
+        "keys": [
+          "V",
+          "R"
+        ],
+        "full": "女口 (VR)",
+        "secret": "如：女口 (VR)",
+        "quickCode": "VR"
+      },
+      {
+        "char": "事",
+        "codes": [
+          "十",
+          "中",
+          "中",
+          "弓"
+        ],
+        "keys": [
+          "J",
+          "L",
+          "L",
+          "N"
+        ],
+        "full": "十中中弓 (JLLN)",
+        "secret": "事：十中中弓 (JLLN)",
+        "quickCode": "JN"
+      },
+      {
+        "char": "把",
+        "codes": [
+          "手",
+          "日",
+          "山"
+        ],
+        "keys": [
+          "Q",
+          "A",
+          "U"
+        ],
+        "full": "手日山 (QAU)",
+        "secret": "把：手日山 (QAU)",
+        "quickCode": "QU"
+      },
+      {
+        "char": "還",
+        "codes": [
+          "卜",
+          "田",
+          "中",
+          "女"
+        ],
+        "keys": [
+          "Y",
+          "W",
+          "L",
+          "V"
+        ],
+        "full": "卜田中女 (YWLV)",
+        "secret": "還：卜田中女 (YWLV)",
+        "quickCode": "YV"
+      },
+      {
+        "char": "用",
+        "codes": [
+          "月",
+          "手"
+        ],
+        "keys": [
+          "B",
+          "Q"
+        ],
+        "full": "月手 (BQ)",
+        "secret": "用：月手 (BQ)",
+        "quickCode": "BQ"
+      },
+      {
+        "char": "第",
+        "codes": [
+          "竹",
+          "弓",
+          "中",
+          "竹"
+        ],
+        "keys": [
+          "H",
+          "N",
+          "L",
+          "H"
+        ],
+        "full": "竹弓中竹 (HNLH)",
+        "secret": "第：竹弓中竹 (HNLH)",
+        "quickCode": "HH"
+      },
+      {
+        "char": "樣",
+        "codes": [
+          "木",
+          "廿",
+          "土",
+          "水"
+        ],
+        "keys": [
+          "D",
+          "T",
+          "G",
+          "E"
+        ],
+        "full": "木廿土水 (DTGE)",
+        "secret": "樣：木廿土水 (DTGE)",
+        "quickCode": "DE"
+      },
+      {
+        "char": "道",
+        "codes": [
+          "卜",
+          "廿",
+          "竹",
+          "山"
+        ],
+        "keys": [
+          "Y",
+          "T",
+          "H",
+          "U"
+        ],
+        "full": "卜廿竹山 (YTHU)",
+        "secret": "道：卜廿竹山 (YTHU)",
+        "quickCode": "YU"
+      },
+      {
+        "char": "想",
+        "codes": [
+          "木",
+          "山",
+          "心"
+        ],
+        "keys": [
+          "D",
+          "U",
+          "P"
+        ],
+        "full": "木山心 (DUP)",
+        "secret": "想：木山心 (DUP)",
+        "quickCode": "DP"
+      },
+      {
+        "char": "作",
+        "codes": [
+          "人",
+          "竹",
+          "尸"
+        ],
+        "keys": [
+          "O",
+          "H",
+          "S"
+        ],
+        "full": "人竹尸 (OHS)",
+        "secret": "作：人竹尸 (OHS)",
+        "quickCode": "OS"
+      },
+      {
+        "char": "種",
+        "codes": [
+          "竹",
+          "木",
+          "竹",
+          "十",
+          "土"
+        ],
+        "keys": [
+          "H",
+          "D",
+          "H",
+          "J",
+          "G"
+        ],
+        "full": "竹木竹十土 (HDHJG)",
+        "secret": "種：竹木竹十土 (HDHJG)",
+        "quickCode": "HG"
+      },
+      {
+        "char": "開",
+        "codes": [
+          "日",
+          "弓",
+          "一",
+          "廿"
+        ],
+        "keys": [
+          "A",
+          "N",
+          "M",
+          "T"
+        ],
+        "full": "日弓一廿 (ANMT)",
+        "secret": "開：日弓一廿 (ANMT)",
+        "quickCode": "AT"
+      },
+      {
+        "char": "美",
+        "codes": [
+          "廿",
+          "土",
+          "大"
+        ],
+        "keys": [
+          "T",
+          "G",
+          "K"
+        ],
+        "full": "廿土大 (TGK)",
+        "secret": "美：廿土大 (TGK)",
+        "quickCode": "TK"
+      },
+      {
+        "char": "總",
+        "codes": [
+          "女",
+          "火",
+          "竹",
+          "田",
+          "心"
+        ],
+        "keys": [
+          "V",
+          "F",
+          "H",
+          "W",
+          "P"
+        ],
+        "full": "女火竹田心 (VFHWP)",
+        "secret": "總：女火竹田心 (VFHWP)",
+        "quickCode": "VP"
+      },
+      {
+        "char": "從",
+        "codes": [
+          "竹",
+          "人",
+          "人",
+          "人",
+          "人"
+        ],
+        "keys": [
+          "H",
+          "O",
+          "O",
+          "O",
+          "O"
+        ],
+        "full": "竹人人人人 (HOOOO)",
+        "secret": "從：竹人人人人 (HOOOO)",
+        "quickCode": "HO"
+      },
+      {
+        "char": "無",
+        "codes": [
+          "人",
+          "廿",
+          "火"
+        ],
+        "keys": [
+          "O",
+          "T",
+          "F"
+        ],
+        "full": "人廿火 (OTF)",
+        "secret": "無：人廿火 (OTF)",
+        "quickCode": "OF"
+      },
+      {
+        "char": "情",
+        "codes": [
+          "心",
+          "手",
+          "一",
+          "月"
+        ],
+        "keys": [
+          "P",
+          "Q",
+          "M",
+          "B"
+        ],
+        "full": "心手一月 (PQMB)",
+        "secret": "情：心手一月 (PQMB)",
+        "quickCode": "PB"
+      },
+      {
+        "char": "己",
+        "codes": [
+          "尸",
+          "山"
+        ],
+        "keys": [
+          "S",
+          "U"
+        ],
+        "full": "尸山 (SU)",
+        "secret": "己：尸山 (SU)",
+        "quickCode": "SU"
+      },
+      {
+        "char": "面",
+        "codes": [
+          "一",
+          "田",
+          "卜",
+          "中"
+        ],
+        "keys": [
+          "M",
+          "W",
+          "Y",
+          "L"
+        ],
+        "full": "一田卜中 (MWYL)",
+        "secret": "面：一田卜中 (MWYL)",
+        "quickCode": "ML"
+      },
+      {
+        "char": "最",
+        "codes": [
+          "日",
+          "尸",
+          "十",
+          "水"
+        ],
+        "keys": [
+          "A",
+          "S",
+          "J",
+          "E"
+        ],
+        "full": "日尸十水 (ASJE)",
+        "secret": "最：日尸十水 (ASJE)",
+        "quickCode": "AE"
+      },
+      {
+        "char": "女",
+        "codes": [
+          "女"
+        ],
+        "keys": [
+          "V"
+        ],
+        "full": "女 (V)",
+        "secret": "女：女 (V)",
+        "quickCode": "V"
+      },
+      {
+        "char": "但",
+        "codes": [
+          "人",
+          "日",
+          "一"
+        ],
+        "keys": [
+          "O",
+          "A",
+          "M"
+        ],
+        "full": "人日一 (OAM)",
+        "secret": "但：人日一 (OAM)",
+        "quickCode": "OM"
+      },
+      {
+        "char": "現",
+        "codes": [
+          "一",
+          "土",
+          "月",
+          "山",
+          "山"
+        ],
+        "keys": [
+          "M",
+          "G",
+          "B",
+          "U",
+          "U"
+        ],
+        "full": "一土月山山 (MGBUU)",
+        "secret": "現：一土月山山 (MGBUU)",
+        "quickCode": "MU"
+      },
+      {
+        "char": "前",
+        "codes": [
+          "廿",
+          "月",
+          "中",
+          "弓"
+        ],
+        "keys": [
+          "T",
+          "B",
+          "L",
+          "N"
+        ],
+        "full": "廿月中弓 (TBLN)",
+        "secret": "前：廿月中弓 (TBLN)",
+        "quickCode": "TN"
+      },
+      {
+        "char": "些",
+        "codes": [
+          "卜",
+          "心",
+          "一",
+          "一"
+        ],
+        "keys": [
+          "Y",
+          "P",
+          "M",
+          "M"
+        ],
+        "full": "卜心一一 (YPMM)",
+        "secret": "些：卜心一一 (YPMM)",
+        "quickCode": "YM"
+      },
+      {
+        "char": "所",
+        "codes": [
+          "竹",
+          "尸",
+          "竹",
+          "一",
+          "中"
+        ],
+        "keys": [
+          "H",
+          "S",
+          "H",
+          "M",
+          "L"
+        ],
+        "full": "竹尸竹一中 (HSHML)",
+        "secret": "所：竹尸竹一中 (HSHML)",
+        "quickCode": "HL"
+      },
+      {
+        "char": "同",
+        "codes": [
+          "月",
+          "一",
+          "口"
+        ],
+        "keys": [
+          "B",
+          "M",
+          "R"
+        ],
+        "full": "月一口 (BMR)",
+        "secret": "同：月一口 (BMR)",
+        "quickCode": "BR"
+      },
+      {
+        "char": "日",
+        "codes": [
+          "日"
+        ],
+        "keys": [
+          "A"
+        ],
+        "full": "日 (A)",
+        "secret": "日：日 (A)",
+        "quickCode": "A"
+      },
+      {
+        "char": "手",
+        "codes": [
+          "手"
+        ],
+        "keys": [
+          "Q"
+        ],
+        "full": "手 (Q)",
+        "secret": "手：手 (Q)",
+        "quickCode": "Q"
+      },
+      {
+        "char": "又",
+        "codes": [
+          "弓",
+          "大"
+        ],
+        "keys": [
+          "N",
+          "K"
+        ],
+        "full": "弓大 (NK)",
+        "secret": "又：弓大 (NK)",
+        "quickCode": "NK"
+      },
+      {
+        "char": "行",
+        "codes": [
+          "竹",
+          "人",
+          "一",
+          "一",
+          "弓"
+        ],
+        "keys": [
+          "H",
+          "O",
+          "M",
+          "M",
+          "N"
+        ],
+        "full": "竹人一一弓 (HOMMN)",
+        "secret": "行：竹人一一弓 (HOMMN)",
+        "quickCode": "HN"
+      },
+      {
+        "char": "意",
+        "codes": [
+          "卜",
+          "廿",
+          "日",
+          "心"
+        ],
+        "keys": [
+          "Y",
+          "T",
+          "A",
+          "P"
+        ],
+        "full": "卜廿日心 (YTAP)",
+        "secret": "意：卜廿日心 (YTAP)",
+        "quickCode": "YP"
+      },
+      {
+        "char": "動",
+        "codes": [
+          "竹",
+          "土",
+          "大",
+          "尸"
+        ],
+        "keys": [
+          "H",
+          "G",
+          "K",
+          "S"
+        ],
+        "full": "竹土大尸 (HGKS)",
+        "secret": "動：竹土大尸 (HGKS)",
+        "quickCode": "HS"
+      }
     ]
-},
-    "w11_hw3": {
+  },
+  "w11_hw3": {
     "key": "w11_hw3",
     "week": "w11",
     "weekName": "第11周",
@@ -34790,839 +34790,839 @@ const MODE2_WEEKLY_BANKS = {
     "title": "第11周功課3",
     "dateRange": "09/11/2026 8:00 AM - 15/11/2026 11:30 PM",
     "words": [
-        {
-            "char": "方",
-            "codes": [
-                "卜",
-                "竹",
-                "尸"
-            ],
-            "keys": [
-                "Y",
-                "H",
-                "S"
-            ],
-            "full": "卜竹尸 (YHS)",
-            "secret": "方：卜竹尸 (YHS)",
-            "quickCode": "YS"
-        },
-        {
-            "char": "期",
-            "codes": [
-                "廿",
-                "金",
-                "月"
-            ],
-            "keys": [
-                "T",
-                "C",
-                "B"
-            ],
-            "full": "廿金月 (TCB)",
-            "secret": "期：廿金月 (TCB)",
-            "quickCode": "TB"
-        },
-        {
-            "char": "它",
-            "codes": [
-                "十",
-                "心"
-            ],
-            "keys": [
-                "J",
-                "P"
-            ],
-            "full": "十心 (JP)",
-            "secret": "它：十心 (JP)",
-            "quickCode": "JP"
-        },
-        {
-            "char": "頭",
-            "codes": [
-                "一",
-                "廿",
-                "一",
-                "月",
-                "金"
-            ],
-            "keys": [
-                "M",
-                "T",
-                "M",
-                "B",
-                "C"
-            ],
-            "full": "一廿一月金 (MTMBC)",
-            "secret": "頭：一廿一月金 (MTMBC)",
-            "quickCode": "MC"
-        },
-        {
-            "char": "經",
-            "codes": [
-                "女",
-                "火",
-                "一",
-                "女",
-                "一"
-            ],
-            "keys": [
-                "V",
-                "F",
-                "M",
-                "V",
-                "M"
-            ],
-            "full": "女火一女一 (VFMVM)",
-            "secret": "經：女火一女一 (VFMVM)",
-            "quickCode": "VM"
-        },
-        {
-            "char": "長",
-            "codes": [
-                "尸",
-                "一",
-                "女"
-            ],
-            "keys": [
-                "S",
-                "M",
-                "V"
-            ],
-            "full": "尸一女 (SMV)",
-            "secret": "長：尸一女 (SMV)",
-            "quickCode": "SV"
-        },
-        {
-            "char": "兒",
-            "codes": [
-                "竹",
-                "難",
-                "竹",
-                "山"
-            ],
-            "keys": [
-                "H",
-                "X",
-                "H",
-                "U"
-            ],
-            "full": "竹難竹山 (HXHU)",
-            "secret": "兒：竹難竹山 (HXHU)",
-            "quickCode": "HU"
-        },
-        {
-            "char": "回",
-            "codes": [
-                "田",
-                "口"
-            ],
-            "keys": [
-                "W",
-                "R"
-            ],
-            "full": "田口 (WR)",
-            "secret": "回：田口 (WR)",
-            "quickCode": "WR"
-        },
-        {
-            "char": "位",
-            "codes": [
-                "人",
-                "卜",
-                "廿"
-            ],
-            "keys": [
-                "O",
-                "Y",
-                "T"
-            ],
-            "full": "人卜廿 (OYT)",
-            "secret": "位：人卜廿 (OYT)",
-            "quickCode": "OT"
-        },
-        {
-            "char": "分",
-            "codes": [
-                "金",
-                "尸",
-                "竹"
-            ],
-            "keys": [
-                "C",
-                "S",
-                "H"
-            ],
-            "full": "金尸竹 (CSH)",
-            "secret": "分：金尸竹 (CSH)",
-            "quickCode": "CH"
-        },
-        {
-            "char": "愛",
-            "codes": [
-                "月",
-                "月",
-                "心",
-                "水"
-            ],
-            "keys": [
-                "B",
-                "B",
-                "P",
-                "E"
-            ],
-            "full": "月月心水 (BBPE)",
-            "secret": "愛：月月心水 (BBPE)",
-            "quickCode": "BE"
-        },
-        {
-            "char": "老",
-            "codes": [
-                "十",
-                "大",
-                "心"
-            ],
-            "keys": [
-                "J",
-                "K",
-                "P"
-            ],
-            "full": "十大心 (JKP)",
-            "secret": "老：十大心 (JKP)",
-            "quickCode": "JP"
-        },
-        {
-            "char": "因",
-            "codes": [
-                "田",
-                "大"
-            ],
-            "keys": [
-                "W",
-                "K"
-            ],
-            "full": "田大 (WK)",
-            "secret": "因：田大 (WK)",
-            "quickCode": "WK"
-        },
-        {
-            "char": "很",
-            "codes": [
-                "竹",
-                "人",
-                "日",
-                "女"
-            ],
-            "keys": [
-                "H",
-                "O",
-                "A",
-                "V"
-            ],
-            "full": "竹人日女 (HOAV)",
-            "secret": "很：竹人日女 (HOAV)",
-            "quickCode": "HV"
-        },
-        {
-            "char": "給",
-            "codes": [
-                "女",
-                "火",
-                "人",
-                "一",
-                "口"
-            ],
-            "keys": [
-                "V",
-                "F",
-                "O",
-                "M",
-                "R"
-            ],
-            "full": "女火人一口 (VFOMR)",
-            "secret": "給：女火人一口 (VFOMR)",
-            "quickCode": "VR"
-        },
-        {
-            "char": "名",
-            "codes": [
-                "弓",
-                "戈",
-                "口"
-            ],
-            "keys": [
-                "N",
-                "I",
-                "R"
-            ],
-            "full": "弓戈口 (NIR)",
-            "secret": "名：弓戈口 (NIR)",
-            "quickCode": "NR"
-        },
-        {
-            "char": "法",
-            "codes": [
-                "水",
-                "土",
-                "戈"
-            ],
-            "keys": [
-                "E",
-                "G",
-                "I"
-            ],
-            "full": "水土戈 (EGI)",
-            "secret": "法：水土戈 (EGI)",
-            "quickCode": "EI"
-        },
-        {
-            "char": "間",
-            "codes": [
-                "日",
-                "弓",
-                "日"
-            ],
-            "keys": [
-                "A",
-                "N",
-                "A"
-            ],
-            "full": "日弓日 (ANA)",
-            "secret": "間：日弓日 (ANA)",
-            "quickCode": "AA"
-        },
-        {
-            "char": "斯",
-            "codes": [
-                "廿",
-                "金",
-                "竹",
-                "一",
-                "中"
-            ],
-            "keys": [
-                "T",
-                "C",
-                "H",
-                "M",
-                "L"
-            ],
-            "full": "廿金竹一中 (TCHML)",
-            "secret": "斯：廿金竹一中 (TCHML)",
-            "quickCode": "TL"
-        },
-        {
-            "char": "知",
-            "codes": [
-                "人",
-                "大",
-                "口"
-            ],
-            "keys": [
-                "O",
-                "K",
-                "R"
-            ],
-            "full": "人大口 (OKR)",
-            "secret": "知：人大口 (OKR)",
-            "quickCode": "OR"
-        },
-        {
-            "char": "世",
-            "codes": [
-                "心",
-                "廿"
-            ],
-            "keys": [
-                "P",
-                "T"
-            ],
-            "full": "心廿 (PT)",
-            "secret": "世：心廿 (PT)",
-            "quickCode": "PT"
-        },
-        {
-            "char": "什",
-            "codes": [
-                "人",
-                "十"
-            ],
-            "keys": [
-                "O",
-                "J"
-            ],
-            "full": "人十 (OJ)",
-            "secret": "什：人十 (OJ)",
-            "quickCode": "OJ"
-        },
-        {
-            "char": "兩",
-            "codes": [
-                "一",
-                "中",
-                "月",
-                "人"
-            ],
-            "keys": [
-                "M",
-                "L",
-                "B",
-                "O"
-            ],
-            "full": "一中月人 (MLBO)",
-            "secret": "兩：一中月人 (MLBO)",
-            "quickCode": "MO"
-        },
-        {
-            "char": "次",
-            "codes": [
-                "戈",
-                "一",
-                "弓",
-                "人"
-            ],
-            "keys": [
-                "I",
-                "M",
-                "N",
-                "O"
-            ],
-            "full": "戈一弓人 (IMNO)",
-            "secret": "次：戈一弓人 (IMNO)",
-            "quickCode": "IO"
-        },
-        {
-            "char": "使",
-            "codes": [
-                "人",
-                "十",
-                "中",
-                "大"
-            ],
-            "keys": [
-                "O",
-                "J",
-                "L",
-                "K"
-            ],
-            "full": "人十中大 (OJLK)",
-            "secret": "使：人十中大 (OJLK)",
-            "quickCode": "OK"
-        },
-        {
-            "char": "身",
-            "codes": [
-                "竹",
-                "難",
-                "竹"
-            ],
-            "keys": [
-                "H",
-                "X",
-                "H"
-            ],
-            "full": "竹難竹 (HXH)",
-            "secret": "身：竹難竹 (HXH)",
-            "quickCode": "HH"
-        },
-        {
-            "char": "者",
-            "codes": [
-                "十",
-                "大",
-                "日"
-            ],
-            "keys": [
-                "J",
-                "K",
-                "A"
-            ],
-            "full": "十大日 (JKA)",
-            "secret": "者：十大日 (JKA)",
-            "quickCode": "JA"
-        },
-        {
-            "char": "被",
-            "codes": [
-                "中",
-                "木",
-                "竹",
-                "水"
-            ],
-            "keys": [
-                "L",
-                "D",
-                "H",
-                "E"
-            ],
-            "full": "中木竹水 (LDHE)",
-            "secret": "被：中木竹水 (LDHE)",
-            "quickCode": "LE"
-        },
-        {
-            "char": "高",
-            "codes": [
-                "卜",
-                "口",
-                "月",
-                "口"
-            ],
-            "keys": [
-                "Y",
-                "R",
-                "B",
-                "R"
-            ],
-            "full": "卜口月口 (YRBR)",
-            "secret": "高：卜口月口 (YRBR)",
-            "quickCode": "YR"
-        },
-        {
-            "char": "已",
-            "codes": [
-                "尸",
-                "山"
-            ],
-            "keys": [
-                "S",
-                "U"
-            ],
-            "full": "尸山 (SU)",
-            "secret": "已：尸山 (SU)",
-            "quickCode": "SU"
-        },
-        {
-            "char": "親",
-            "codes": [
-                "卜",
-                "木",
-                "月",
-                "山",
-                "山"
-            ],
-            "keys": [
-                "Y",
-                "D",
-                "B",
-                "U",
-                "U"
-            ],
-            "full": "卜木月山山 (YDBUU)",
-            "secret": "親：卜木月山山 (YDBUU)",
-            "quickCode": "YU"
-        },
-        {
-            "char": "其",
-            "codes": [
-                "廿",
-                "一",
-                "一",
-                "金"
-            ],
-            "keys": [
-                "T",
-                "M",
-                "M",
-                "C"
-            ],
-            "full": "廿一一金 (TMMC)",
-            "secret": "其：廿一一金 (TMMC)",
-            "quickCode": "TC"
-        },
-        {
-            "char": "進",
-            "codes": [
-                "卜",
-                "人",
-                "土"
-            ],
-            "keys": [
-                "Y",
-                "O",
-                "G"
-            ],
-            "full": "卜人土 (YOG)",
-            "secret": "進：卜人土 (YOG)",
-            "quickCode": "YG"
-        },
-        {
-            "char": "此",
-            "codes": [
-                "卜",
-                "一",
-                "心"
-            ],
-            "keys": [
-                "Y",
-                "M",
-                "P"
-            ],
-            "full": "卜一心 (YMP)",
-            "secret": "此：卜一心 (YMP)",
-            "quickCode": "YP"
-        },
-        {
-            "char": "話",
-            "codes": [
-                "卜",
-                "口",
-                "竹",
-                "十",
-                "口"
-            ],
-            "keys": [
-                "Y",
-                "R",
-                "H",
-                "J",
-                "R"
-            ],
-            "full": "卜口竹十口 (YRHJR)",
-            "secret": "話：卜口竹十口 (YRHJR)",
-            "quickCode": "YR"
-        },
-        {
-            "char": "常",
-            "codes": [
-                "火",
-                "月",
-                "口",
-                "中",
-                "月"
-            ],
-            "keys": [
-                "F",
-                "B",
-                "R",
-                "L",
-                "B"
-            ],
-            "full": "火月口中月 (FBRLB)",
-            "secret": "常：火月口中月 (FBRLB)",
-            "quickCode": "FB"
-        },
-        {
-            "char": "與",
-            "codes": [
-                "竹",
-                "難",
-                "卜",
-                "金"
-            ],
-            "keys": [
-                "H",
-                "X",
-                "Y",
-                "C"
-            ],
-            "full": "竹難卜金 (HXYC)",
-            "secret": "與：竹難卜金 (HXYC)",
-            "quickCode": "HC"
-        },
-        {
-            "char": "活",
-            "codes": [
-                "水",
-                "竹",
-                "十",
-                "口"
-            ],
-            "keys": [
-                "E",
-                "H",
-                "J",
-                "R"
-            ],
-            "full": "水竹十口 (EHJR)",
-            "secret": "活：水竹十口 (EHJR)",
-            "quickCode": "ER"
-        },
-        {
-            "char": "正",
-            "codes": [
-                "一",
-                "卜",
-                "中",
-                "一"
-            ],
-            "keys": [
-                "M",
-                "Y",
-                "L",
-                "M"
-            ],
-            "full": "一卜中一 (MYLM)",
-            "secret": "正：一卜中一 (MYLM)",
-            "quickCode": "MM"
-        },
-        {
-  "char": "感",
-  "codes": [
-    "戈",
-    "口",
-    "心"
-  ],
-  "keys": [
-    "I",
-    "R",
-    "P"
-  ],
-  "full": "戈口心 (IRP)",
-  "secret": "感：戈口心 (IRP)",
-  "quickCode": "IP"
-},
-        {
-            "char": "的",
-            "codes": [
-                "竹",
-                "日",
-                "心",
-                "戈"
-            ],
-            "keys": [
-                "H",
-                "A",
-                "P",
-                "I"
-            ],
-            "full": "竹日心戈 (HAPI)",
-            "secret": "的：竹日心戈 (HAPI)",
-            "quickCode": "HI"
-        },
-        {
-            "char": "一",
-            "codes": [
-                "一"
-            ],
-            "keys": [
-                "M"
-            ],
-            "full": "一 (M)",
-            "secret": "一：一 (M)",
-            "quickCode": "M"
-        },
-        {
-            "char": "是",
-            "codes": [
-                "日",
-                "一",
-                "卜",
-                "人"
-            ],
-            "keys": [
-                "A",
-                "M",
-                "Y",
-                "O"
-            ],
-            "full": "日一卜人 (AMYO)",
-            "secret": "是：日一卜人 (AMYO)",
-            "quickCode": "AO"
-        },
-        {
-            "char": "了",
-            "codes": [
-                "弓",
-                "弓"
-            ],
-            "keys": [
-                "N",
-                "N"
-            ],
-            "full": "弓弓 (NN)",
-            "secret": "了：弓弓 (NN)",
-            "quickCode": "NN"
-        },
-        {
-            "char": "我",
-            "codes": [
-                "竹",
-                "手",
-                "戈"
-            ],
-            "keys": [
-                "H",
-                "Q",
-                "I"
-            ],
-            "full": "竹手戈 (HQI)",
-            "secret": "我：竹手戈 (HQI)",
-            "quickCode": "HI"
-        },
-        {
-            "char": "不",
-            "codes": [
-                "一",
-                "火"
-            ],
-            "keys": [
-                "M",
-                "F"
-            ],
-            "full": "一火 (MF)",
-            "secret": "不：一火 (MF)",
-            "quickCode": "MF"
-        },
-        {
-            "char": "人",
-            "codes": [
-                "人"
-            ],
-            "keys": [
-                "O"
-            ],
-            "full": "人 (O)",
-            "secret": "人：人 (O)",
-            "quickCode": "O"
-        },
-        {
-            "char": "在",
-            "codes": [
-                "大",
-                "中",
-                "土"
-            ],
-            "keys": [
-                "K",
-                "L",
-                "G"
-            ],
-            "full": "大中土 (KLG)",
-            "secret": "在：大中土 (KLG)",
-            "quickCode": "KG"
-        },
-        {
-            "char": "他",
-            "codes": [
-                "人",
-                "心",
-                "木"
-            ],
-            "keys": [
-                "O",
-                "P",
-                "D"
-            ],
-            "full": "人心木 (OPD)",
-            "secret": "他：人心木 (OPD)",
-            "quickCode": "OD"
-        },
-        {
-            "char": "有",
-            "codes": [
-                "大",
-                "月"
-            ],
-            "keys": [
-                "K",
-                "B"
-            ],
-            "full": "大月 (KB)",
-            "secret": "有：大月 (KB)",
-            "quickCode": "KB"
-        }
+      {
+        "char": "方",
+        "codes": [
+          "卜",
+          "竹",
+          "尸"
+        ],
+        "keys": [
+          "Y",
+          "H",
+          "S"
+        ],
+        "full": "卜竹尸 (YHS)",
+        "secret": "方：卜竹尸 (YHS)",
+        "quickCode": "YS"
+      },
+      {
+        "char": "期",
+        "codes": [
+          "廿",
+          "金",
+          "月"
+        ],
+        "keys": [
+          "T",
+          "C",
+          "B"
+        ],
+        "full": "廿金月 (TCB)",
+        "secret": "期：廿金月 (TCB)",
+        "quickCode": "TB"
+      },
+      {
+        "char": "它",
+        "codes": [
+          "十",
+          "心"
+        ],
+        "keys": [
+          "J",
+          "P"
+        ],
+        "full": "十心 (JP)",
+        "secret": "它：十心 (JP)",
+        "quickCode": "JP"
+      },
+      {
+        "char": "頭",
+        "codes": [
+          "一",
+          "廿",
+          "一",
+          "月",
+          "金"
+        ],
+        "keys": [
+          "M",
+          "T",
+          "M",
+          "B",
+          "C"
+        ],
+        "full": "一廿一月金 (MTMBC)",
+        "secret": "頭：一廿一月金 (MTMBC)",
+        "quickCode": "MC"
+      },
+      {
+        "char": "經",
+        "codes": [
+          "女",
+          "火",
+          "一",
+          "女",
+          "一"
+        ],
+        "keys": [
+          "V",
+          "F",
+          "M",
+          "V",
+          "M"
+        ],
+        "full": "女火一女一 (VFMVM)",
+        "secret": "經：女火一女一 (VFMVM)",
+        "quickCode": "VM"
+      },
+      {
+        "char": "長",
+        "codes": [
+          "尸",
+          "一",
+          "女"
+        ],
+        "keys": [
+          "S",
+          "M",
+          "V"
+        ],
+        "full": "尸一女 (SMV)",
+        "secret": "長：尸一女 (SMV)",
+        "quickCode": "SV"
+      },
+      {
+        "char": "兒",
+        "codes": [
+          "竹",
+          "難",
+          "竹",
+          "山"
+        ],
+        "keys": [
+          "H",
+          "X",
+          "H",
+          "U"
+        ],
+        "full": "竹難竹山 (HXHU)",
+        "secret": "兒：竹難竹山 (HXHU)",
+        "quickCode": "HU"
+      },
+      {
+        "char": "回",
+        "codes": [
+          "田",
+          "口"
+        ],
+        "keys": [
+          "W",
+          "R"
+        ],
+        "full": "田口 (WR)",
+        "secret": "回：田口 (WR)",
+        "quickCode": "WR"
+      },
+      {
+        "char": "位",
+        "codes": [
+          "人",
+          "卜",
+          "廿"
+        ],
+        "keys": [
+          "O",
+          "Y",
+          "T"
+        ],
+        "full": "人卜廿 (OYT)",
+        "secret": "位：人卜廿 (OYT)",
+        "quickCode": "OT"
+      },
+      {
+        "char": "分",
+        "codes": [
+          "金",
+          "尸",
+          "竹"
+        ],
+        "keys": [
+          "C",
+          "S",
+          "H"
+        ],
+        "full": "金尸竹 (CSH)",
+        "secret": "分：金尸竹 (CSH)",
+        "quickCode": "CH"
+      },
+      {
+        "char": "愛",
+        "codes": [
+          "月",
+          "月",
+          "心",
+          "水"
+        ],
+        "keys": [
+          "B",
+          "B",
+          "P",
+          "E"
+        ],
+        "full": "月月心水 (BBPE)",
+        "secret": "愛：月月心水 (BBPE)",
+        "quickCode": "BE"
+      },
+      {
+        "char": "老",
+        "codes": [
+          "十",
+          "大",
+          "心"
+        ],
+        "keys": [
+          "J",
+          "K",
+          "P"
+        ],
+        "full": "十大心 (JKP)",
+        "secret": "老：十大心 (JKP)",
+        "quickCode": "JP"
+      },
+      {
+        "char": "因",
+        "codes": [
+          "田",
+          "大"
+        ],
+        "keys": [
+          "W",
+          "K"
+        ],
+        "full": "田大 (WK)",
+        "secret": "因：田大 (WK)",
+        "quickCode": "WK"
+      },
+      {
+        "char": "很",
+        "codes": [
+          "竹",
+          "人",
+          "日",
+          "女"
+        ],
+        "keys": [
+          "H",
+          "O",
+          "A",
+          "V"
+        ],
+        "full": "竹人日女 (HOAV)",
+        "secret": "很：竹人日女 (HOAV)",
+        "quickCode": "HV"
+      },
+      {
+        "char": "給",
+        "codes": [
+          "女",
+          "火",
+          "人",
+          "一",
+          "口"
+        ],
+        "keys": [
+          "V",
+          "F",
+          "O",
+          "M",
+          "R"
+        ],
+        "full": "女火人一口 (VFOMR)",
+        "secret": "給：女火人一口 (VFOMR)",
+        "quickCode": "VR"
+      },
+      {
+        "char": "名",
+        "codes": [
+          "弓",
+          "戈",
+          "口"
+        ],
+        "keys": [
+          "N",
+          "I",
+          "R"
+        ],
+        "full": "弓戈口 (NIR)",
+        "secret": "名：弓戈口 (NIR)",
+        "quickCode": "NR"
+      },
+      {
+        "char": "法",
+        "codes": [
+          "水",
+          "土",
+          "戈"
+        ],
+        "keys": [
+          "E",
+          "G",
+          "I"
+        ],
+        "full": "水土戈 (EGI)",
+        "secret": "法：水土戈 (EGI)",
+        "quickCode": "EI"
+      },
+      {
+        "char": "間",
+        "codes": [
+          "日",
+          "弓",
+          "日"
+        ],
+        "keys": [
+          "A",
+          "N",
+          "A"
+        ],
+        "full": "日弓日 (ANA)",
+        "secret": "間：日弓日 (ANA)",
+        "quickCode": "AA"
+      },
+      {
+        "char": "斯",
+        "codes": [
+          "廿",
+          "金",
+          "竹",
+          "一",
+          "中"
+        ],
+        "keys": [
+          "T",
+          "C",
+          "H",
+          "M",
+          "L"
+        ],
+        "full": "廿金竹一中 (TCHML)",
+        "secret": "斯：廿金竹一中 (TCHML)",
+        "quickCode": "TL"
+      },
+      {
+        "char": "知",
+        "codes": [
+          "人",
+          "大",
+          "口"
+        ],
+        "keys": [
+          "O",
+          "K",
+          "R"
+        ],
+        "full": "人大口 (OKR)",
+        "secret": "知：人大口 (OKR)",
+        "quickCode": "OR"
+      },
+      {
+        "char": "世",
+        "codes": [
+          "心",
+          "廿"
+        ],
+        "keys": [
+          "P",
+          "T"
+        ],
+        "full": "心廿 (PT)",
+        "secret": "世：心廿 (PT)",
+        "quickCode": "PT"
+      },
+      {
+        "char": "什",
+        "codes": [
+          "人",
+          "十"
+        ],
+        "keys": [
+          "O",
+          "J"
+        ],
+        "full": "人十 (OJ)",
+        "secret": "什：人十 (OJ)",
+        "quickCode": "OJ"
+      },
+      {
+        "char": "兩",
+        "codes": [
+          "一",
+          "中",
+          "月",
+          "人"
+        ],
+        "keys": [
+          "M",
+          "L",
+          "B",
+          "O"
+        ],
+        "full": "一中月人 (MLBO)",
+        "secret": "兩：一中月人 (MLBO)",
+        "quickCode": "MO"
+      },
+      {
+        "char": "次",
+        "codes": [
+          "戈",
+          "一",
+          "弓",
+          "人"
+        ],
+        "keys": [
+          "I",
+          "M",
+          "N",
+          "O"
+        ],
+        "full": "戈一弓人 (IMNO)",
+        "secret": "次：戈一弓人 (IMNO)",
+        "quickCode": "IO"
+      },
+      {
+        "char": "使",
+        "codes": [
+          "人",
+          "十",
+          "中",
+          "大"
+        ],
+        "keys": [
+          "O",
+          "J",
+          "L",
+          "K"
+        ],
+        "full": "人十中大 (OJLK)",
+        "secret": "使：人十中大 (OJLK)",
+        "quickCode": "OK"
+      },
+      {
+        "char": "身",
+        "codes": [
+          "竹",
+          "難",
+          "竹"
+        ],
+        "keys": [
+          "H",
+          "X",
+          "H"
+        ],
+        "full": "竹難竹 (HXH)",
+        "secret": "身：竹難竹 (HXH)",
+        "quickCode": "HH"
+      },
+      {
+        "char": "者",
+        "codes": [
+          "十",
+          "大",
+          "日"
+        ],
+        "keys": [
+          "J",
+          "K",
+          "A"
+        ],
+        "full": "十大日 (JKA)",
+        "secret": "者：十大日 (JKA)",
+        "quickCode": "JA"
+      },
+      {
+        "char": "被",
+        "codes": [
+          "中",
+          "木",
+          "竹",
+          "水"
+        ],
+        "keys": [
+          "L",
+          "D",
+          "H",
+          "E"
+        ],
+        "full": "中木竹水 (LDHE)",
+        "secret": "被：中木竹水 (LDHE)",
+        "quickCode": "LE"
+      },
+      {
+        "char": "高",
+        "codes": [
+          "卜",
+          "口",
+          "月",
+          "口"
+        ],
+        "keys": [
+          "Y",
+          "R",
+          "B",
+          "R"
+        ],
+        "full": "卜口月口 (YRBR)",
+        "secret": "高：卜口月口 (YRBR)",
+        "quickCode": "YR"
+      },
+      {
+        "char": "已",
+        "codes": [
+          "尸",
+          "山"
+        ],
+        "keys": [
+          "S",
+          "U"
+        ],
+        "full": "尸山 (SU)",
+        "secret": "已：尸山 (SU)",
+        "quickCode": "SU"
+      },
+      {
+        "char": "親",
+        "codes": [
+          "卜",
+          "木",
+          "月",
+          "山",
+          "山"
+        ],
+        "keys": [
+          "Y",
+          "D",
+          "B",
+          "U",
+          "U"
+        ],
+        "full": "卜木月山山 (YDBUU)",
+        "secret": "親：卜木月山山 (YDBUU)",
+        "quickCode": "YU"
+      },
+      {
+        "char": "其",
+        "codes": [
+          "廿",
+          "一",
+          "一",
+          "金"
+        ],
+        "keys": [
+          "T",
+          "M",
+          "M",
+          "C"
+        ],
+        "full": "廿一一金 (TMMC)",
+        "secret": "其：廿一一金 (TMMC)",
+        "quickCode": "TC"
+      },
+      {
+        "char": "進",
+        "codes": [
+          "卜",
+          "人",
+          "土"
+        ],
+        "keys": [
+          "Y",
+          "O",
+          "G"
+        ],
+        "full": "卜人土 (YOG)",
+        "secret": "進：卜人土 (YOG)",
+        "quickCode": "YG"
+      },
+      {
+        "char": "此",
+        "codes": [
+          "卜",
+          "一",
+          "心"
+        ],
+        "keys": [
+          "Y",
+          "M",
+          "P"
+        ],
+        "full": "卜一心 (YMP)",
+        "secret": "此：卜一心 (YMP)",
+        "quickCode": "YP"
+      },
+      {
+        "char": "話",
+        "codes": [
+          "卜",
+          "口",
+          "竹",
+          "十",
+          "口"
+        ],
+        "keys": [
+          "Y",
+          "R",
+          "H",
+          "J",
+          "R"
+        ],
+        "full": "卜口竹十口 (YRHJR)",
+        "secret": "話：卜口竹十口 (YRHJR)",
+        "quickCode": "YR"
+      },
+      {
+        "char": "常",
+        "codes": [
+          "火",
+          "月",
+          "口",
+          "中",
+          "月"
+        ],
+        "keys": [
+          "F",
+          "B",
+          "R",
+          "L",
+          "B"
+        ],
+        "full": "火月口中月 (FBRLB)",
+        "secret": "常：火月口中月 (FBRLB)",
+        "quickCode": "FB"
+      },
+      {
+        "char": "與",
+        "codes": [
+          "竹",
+          "難",
+          "卜",
+          "金"
+        ],
+        "keys": [
+          "H",
+          "X",
+          "Y",
+          "C"
+        ],
+        "full": "竹難卜金 (HXYC)",
+        "secret": "與：竹難卜金 (HXYC)",
+        "quickCode": "HC"
+      },
+      {
+        "char": "活",
+        "codes": [
+          "水",
+          "竹",
+          "十",
+          "口"
+        ],
+        "keys": [
+          "E",
+          "H",
+          "J",
+          "R"
+        ],
+        "full": "水竹十口 (EHJR)",
+        "secret": "活：水竹十口 (EHJR)",
+        "quickCode": "ER"
+      },
+      {
+        "char": "正",
+        "codes": [
+          "一",
+          "卜",
+          "中",
+          "一"
+        ],
+        "keys": [
+          "M",
+          "Y",
+          "L",
+          "M"
+        ],
+        "full": "一卜中一 (MYLM)",
+        "secret": "正：一卜中一 (MYLM)",
+        "quickCode": "MM"
+      },
+      {
+        "char": "感",
+        "codes": [
+          "戈",
+          "口",
+          "心"
+        ],
+        "keys": [
+          "I",
+          "R",
+          "P"
+        ],
+        "full": "戈口心 (IRP)",
+        "secret": "感：戈口心 (IRP)",
+        "quickCode": "IP"
+      },
+      {
+        "char": "的",
+        "codes": [
+          "竹",
+          "日",
+          "心",
+          "戈"
+        ],
+        "keys": [
+          "H",
+          "A",
+          "P",
+          "I"
+        ],
+        "full": "竹日心戈 (HAPI)",
+        "secret": "的：竹日心戈 (HAPI)",
+        "quickCode": "HI"
+      },
+      {
+        "char": "一",
+        "codes": [
+          "一"
+        ],
+        "keys": [
+          "M"
+        ],
+        "full": "一 (M)",
+        "secret": "一：一 (M)",
+        "quickCode": "M"
+      },
+      {
+        "char": "是",
+        "codes": [
+          "日",
+          "一",
+          "卜",
+          "人"
+        ],
+        "keys": [
+          "A",
+          "M",
+          "Y",
+          "O"
+        ],
+        "full": "日一卜人 (AMYO)",
+        "secret": "是：日一卜人 (AMYO)",
+        "quickCode": "AO"
+      },
+      {
+        "char": "了",
+        "codes": [
+          "弓",
+          "弓"
+        ],
+        "keys": [
+          "N",
+          "N"
+        ],
+        "full": "弓弓 (NN)",
+        "secret": "了：弓弓 (NN)",
+        "quickCode": "NN"
+      },
+      {
+        "char": "我",
+        "codes": [
+          "竹",
+          "手",
+          "戈"
+        ],
+        "keys": [
+          "H",
+          "Q",
+          "I"
+        ],
+        "full": "竹手戈 (HQI)",
+        "secret": "我：竹手戈 (HQI)",
+        "quickCode": "HI"
+      },
+      {
+        "char": "不",
+        "codes": [
+          "一",
+          "火"
+        ],
+        "keys": [
+          "M",
+          "F"
+        ],
+        "full": "一火 (MF)",
+        "secret": "不：一火 (MF)",
+        "quickCode": "MF"
+      },
+      {
+        "char": "人",
+        "codes": [
+          "人"
+        ],
+        "keys": [
+          "O"
+        ],
+        "full": "人 (O)",
+        "secret": "人：人 (O)",
+        "quickCode": "O"
+      },
+      {
+        "char": "在",
+        "codes": [
+          "大",
+          "中",
+          "土"
+        ],
+        "keys": [
+          "K",
+          "L",
+          "G"
+        ],
+        "full": "大中土 (KLG)",
+        "secret": "在：大中土 (KLG)",
+        "quickCode": "KG"
+      },
+      {
+        "char": "他",
+        "codes": [
+          "人",
+          "心",
+          "木"
+        ],
+        "keys": [
+          "O",
+          "P",
+          "D"
+        ],
+        "full": "人心木 (OPD)",
+        "secret": "他：人心木 (OPD)",
+        "quickCode": "OD"
+      },
+      {
+        "char": "有",
+        "codes": [
+          "大",
+          "月"
+        ],
+        "keys": [
+          "K",
+          "B"
+        ],
+        "full": "大月 (KB)",
+        "secret": "有：大月 (KB)",
+        "quickCode": "KB"
+      }
     ]
-},
-    "w11_hw4": {
+  },
+  "w11_hw4": {
     "key": "w11_hw4",
     "week": "w11",
     "weekName": "第11周",
@@ -35630,831 +35630,831 @@ const MODE2_WEEKLY_BANKS = {
     "title": "第11周功課4",
     "dateRange": "09/11/2026 8:00 AM - 15/11/2026 11:30 PM",
     "words": [
-        {
-            "char": "這",
-            "codes": [
-                "卜",
-                "卜",
-                "一",
-                "口"
-            ],
-            "keys": [
-                "Y",
-                "Y",
-                "M",
-                "R"
-            ],
-            "full": "卜卜一口 (YYMR)",
-            "secret": "這：卜卜一口 (YYMR)",
-            "quickCode": "YR"
-        },
-        {
-            "char": "個",
-            "codes": [
-                "人",
-                "田",
-                "十",
-                "口"
-            ],
-            "keys": [
-                "O",
-                "W",
-                "J",
-                "R"
-            ],
-            "full": "人田十口 (OWJR)",
-            "secret": "個：人田十口 (OWJR)",
-            "quickCode": "OR"
-        },
-        {
-            "char": "上",
-            "codes": [
-                "卜",
-                "一"
-            ],
-            "keys": [
-                "Y",
-                "M"
-            ],
-            "full": "卜一 (YM)",
-            "secret": "上：卜一 (YM)",
-            "quickCode": "YM"
-        },
-        {
-            "char": "們",
-            "codes": [
-                "人",
-                "日",
-                "弓"
-            ],
-            "keys": [
-                "O",
-                "A",
-                "N"
-            ],
-            "full": "人日弓 (OAN)",
-            "secret": "們：人日弓 (OAN)",
-            "quickCode": "ON"
-        },
-        {
-            "char": "來",
-            "codes": [
-                "木",
-                "人",
-                "人"
-            ],
-            "keys": [
-                "D",
-                "O",
-                "O"
-            ],
-            "full": "木人人 (DOO)",
-            "secret": "來：木人人 (DOO)",
-            "quickCode": "DO"
-        },
-        {
-            "char": "到",
-            "codes": [
-                "一",
-                "土",
-                "中",
-                "弓"
-            ],
-            "keys": [
-                "M",
-                "G",
-                "L",
-                "N"
-            ],
-            "full": "一土中弓 (MGLN)",
-            "secret": "到：一土中弓 (MGLN)",
-            "quickCode": "MN"
-        },
-        {
-            "char": "時",
-            "codes": [
-                "日",
-                "土",
-                "木",
-                "戈"
-            ],
-            "keys": [
-                "A",
-                "G",
-                "D",
-                "I"
-            ],
-            "full": "日土木戈 (AGDI)",
-            "secret": "時：日土木戈 (AGDI)",
-            "quickCode": "AI"
-        },
-        {
-            "char": "大",
-            "codes": [
-                "大"
-            ],
-            "keys": [
-                "K"
-            ],
-            "full": "大 (K)",
-            "secret": "大：大 (K)",
-            "quickCode": "K"
-        },
-        {
-            "char": "地",
-            "codes": [
-                "土",
-                "心",
-                "木"
-            ],
-            "keys": [
-                "G",
-                "P",
-                "D"
-            ],
-            "full": "土心木 (GPD)",
-            "secret": "地：土心木 (GPD)",
-            "quickCode": "GD"
-        },
-        {
-            "char": "為",
-            "codes": [
-                "戈",
-                "大",
-                "弓",
-                "火"
-            ],
-            "keys": [
-                "I",
-                "K",
-                "N",
-                "F"
-            ],
-            "full": "戈大弓火 (IKNF)",
-            "secret": "為：戈大弓火 (IKNF)",
-            "quickCode": "IF"
-        },
-        {
-            "char": "子",
-            "codes": [
-                "弓",
-                "木"
-            ],
-            "keys": [
-                "N",
-                "D"
-            ],
-            "full": "弓木 (ND)",
-            "secret": "子：弓木 (ND)",
-            "quickCode": "ND"
-        },
-        {
-            "char": "中",
-            "codes": [
-                "中"
-            ],
-            "keys": [
-                "L"
-            ],
-            "full": "中 (L)",
-            "secret": "中：中 (L)",
-            "quickCode": "L"
-        },
-        {
-            "char": "你",
-            "codes": [
-                "人",
-                "弓",
-                "火"
-            ],
-            "keys": [
-                "O",
-                "N",
-                "F"
-            ],
-            "full": "人弓火 (ONF)",
-            "secret": "你：人弓火 (ONF)",
-            "quickCode": "OF"
-        },
-        {
-            "char": "說",
-            "codes": [
-                "卜",
-                "口",
-                "金",
-                "口",
-                "山"
-            ],
-            "keys": [
-                "Y",
-                "R",
-                "C",
-                "R",
-                "U"
-            ],
-            "full": "卜口金口山 (YRCRU)",
-            "secret": "說：卜口金口山 (YRCRU)",
-            "quickCode": "YU"
-        },
-        {
-            "char": "生",
-            "codes": [
-                "竹",
-                "手",
-                "一"
-            ],
-            "keys": [
-                "H",
-                "Q",
-                "M"
-            ],
-            "full": "竹手一 (HQM)",
-            "secret": "生：竹手一 (HQM)",
-            "quickCode": "HM"
-        },
-        {
-            "char": "國",
-            "codes": [
-                "田",
-                "戈",
-                "口",
-                "一"
-            ],
-            "keys": [
-                "W",
-                "I",
-                "R",
-                "M"
-            ],
-            "full": "田戈口一 (WIRM)",
-            "secret": "國：田戈口一 (WIRM)",
-            "quickCode": "WM"
-        },
-        {
-            "char": "年",
-            "codes": [
-                "人",
-                "手"
-            ],
-            "keys": [
-                "O",
-                "Q"
-            ],
-            "full": "人手 (OQ)",
-            "secret": "年：人手 (OQ)",
-            "quickCode": "OQ"
-        },
-        {
-            "char": "著",
-            "codes": [
-                "廿",
-                "十",
-                "大",
-                "日"
-            ],
-            "keys": [
-                "T",
-                "J",
-                "K",
-                "A"
-            ],
-            "full": "廿十大日 (TJKA)",
-            "secret": "著：廿十大日 (TJKA)",
-            "quickCode": "TA"
-        },
-        {
-            "char": "就",
-            "codes": [
-                "卜",
-                "火",
-                "戈",
-                "大",
-                "山"
-            ],
-            "keys": [
-                "Y",
-                "F",
-                "I",
-                "K",
-                "U"
-            ],
-            "full": "卜火戈大山 (YFIKU)",
-            "secret": "就：卜火戈大山 (YFIKU)",
-            "quickCode": "YU"
-        },
-        {
-            "char": "那",
-            "codes": [
-                "尸",
-                "手",
-                "弓",
-                "中"
-            ],
-            "keys": [
-                "S",
-                "Q",
-                "N",
-                "L"
-            ],
-            "full": "尸手弓中 (SQNL)",
-            "secret": "那：尸手弓中 (SQNL)",
-            "quickCode": "SL"
-        },
-        {
-            "char": "和",
-            "codes": [
-                "竹",
-                "木",
-                "口"
-            ],
-            "keys": [
-                "H",
-                "D",
-                "R"
-            ],
-            "full": "竹木口 (HDR)",
-            "secret": "和：竹木口 (HDR)",
-            "quickCode": "HR"
-        },
-        {
-            "char": "要",
-            "codes": [
-                "一",
-                "田",
-                "女"
-            ],
-            "keys": [
-                "M",
-                "W",
-                "V"
-            ],
-            "full": "一田女 (MWV)",
-            "secret": "要：一田女 (MWV)",
-            "quickCode": "MV"
-        },
-        {
-            "char": "她",
-            "codes": [
-                "女",
-                "心",
-                "木"
-            ],
-            "keys": [
-                "V",
-                "P",
-                "D"
-            ],
-            "full": "女心木 (VPD)",
-            "secret": "她：女心木 (VPD)",
-            "quickCode": "VD"
-        },
-        {
-            "char": "出",
-            "codes": [
-                "山",
-                "山"
-            ],
-            "keys": [
-                "U",
-                "U"
-            ],
-            "full": "山山 (UU)",
-            "secret": "出：山山 (UU)",
-            "quickCode": "UU"
-        },
-        {
-            "char": "也",
-            "codes": [
-                "心",
-                "木"
-            ],
-            "keys": [
-                "P",
-                "D"
-            ],
-            "full": "心木 (PD)",
-            "secret": "也：心木 (PD)",
-            "quickCode": "PD"
-        },
-        {
-            "char": "得",
-            "codes": [
-                "竹",
-                "人",
-                "日",
-                "一",
-                "戈"
-            ],
-            "keys": [
-                "H",
-                "O",
-                "A",
-                "M",
-                "I"
-            ],
-            "full": "竹人日一戈 (HOAMI)",
-            "secret": "得：竹人日一戈 (HOAMI)",
-            "quickCode": "HI"
-        },
-        {
-            "char": "里",
-            "codes": [
-                "田",
-                "土"
-            ],
-            "keys": [
-                "W",
-                "G"
-            ],
-            "full": "田土 (WG)",
-            "secret": "里：田土 (WG)",
-            "quickCode": "WG"
-        },
-        {
-            "char": "後",
-            "codes": [
-                "竹",
-                "人",
-                "女",
-                "戈",
-                "水"
-            ],
-            "keys": [
-                "H",
-                "O",
-                "V",
-                "I",
-                "E"
-            ],
-            "full": "竹人女戈水 (HOVIE)",
-            "secret": "後：竹人女戈水 (HOVIE)",
-            "quickCode": "HE"
-        },
-        {
-            "char": "自",
-            "codes": [
-                "竹",
-                "月",
-                "山"
-            ],
-            "keys": [
-                "H",
-                "B",
-                "U"
-            ],
-            "full": "竹月山 (HBU)",
-            "secret": "自：竹月山 (HBU)",
-            "quickCode": "HU"
-        },
-        {
-            "char": "以",
-            "codes": [
-                "女",
-                "戈",
-                "人"
-            ],
-            "keys": [
-                "V",
-                "I",
-                "O"
-            ],
-            "full": "女戈人 (VIO)",
-            "secret": "以：女戈人 (VIO)",
-            "quickCode": "VO"
-        },
-        {
-            "char": "會",
-            "codes": [
-                "人",
-                "一",
-                "田",
-                "日"
-            ],
-            "keys": [
-                "O",
-                "M",
-                "W",
-                "A"
-            ],
-            "full": "人一田日 (OMWA)",
-            "secret": "會：人一田日 (OMWA)",
-            "quickCode": "OA"
-        },
-        {
-            "char": "家",
-            "codes": [
-                "十",
-                "一",
-                "尸",
-                "人"
-            ],
-            "keys": [
-                "J",
-                "M",
-                "S",
-                "O"
-            ],
-            "full": "十一尸人 (JMSO)",
-            "secret": "家：十一尸人 (JMSO)",
-            "quickCode": "JO"
-        },
-        {
-            "char": "可",
-            "codes": [
-                "一",
-                "弓",
-                "口"
-            ],
-            "keys": [
-                "M",
-                "N",
-                "R"
-            ],
-            "full": "一弓口 (MNR)",
-            "secret": "可：一弓口 (MNR)",
-            "quickCode": "MR"
-        },
-        {
-            "char": "下",
-            "codes": [
-                "一",
-                "卜"
-            ],
-            "keys": [
-                "M",
-                "Y"
-            ],
-            "full": "一卜 (MY)",
-            "secret": "下：一卜 (MY)",
-            "quickCode": "MY"
-        },
-        {
-            "char": "而",
-            "codes": [
-                "一",
-                "月",
-                "中",
-                "中"
-            ],
-            "keys": [
-                "M",
-                "B",
-                "L",
-                "L"
-            ],
-            "full": "一月中中 (MBLL)",
-            "secret": "而：一月中中 (MBLL)",
-            "quickCode": "ML"
-        },
-        {
-            "char": "過",
-            "codes": [
-                "卜",
-                "月",
-                "月",
-                "口"
-            ],
-            "keys": [
-                "Y",
-                "B",
-                "B",
-                "R"
-            ],
-            "full": "卜月月口 (YBBR)",
-            "secret": "過：卜月月口 (YBBR)",
-            "quickCode": "YR"
-        },
-        {
-            "char": "天",
-            "codes": [
-                "一",
-                "大"
-            ],
-            "keys": [
-                "M",
-                "K"
-            ],
-            "full": "一大 (MK)",
-            "secret": "天：一大 (MK)",
-            "quickCode": "MK"
-        },
-        {
-            "char": "去",
-            "codes": [
-                "土",
-                "戈"
-            ],
-            "keys": [
-                "G",
-                "I"
-            ],
-            "full": "土戈 (GI)",
-            "secret": "去：土戈 (GI)",
-            "quickCode": "GI"
-        },
-        {
-            "char": "能",
-            "codes": [
-                "戈",
-                "月",
-                "心",
-                "心"
-            ],
-            "keys": [
-                "I",
-                "B",
-                "P",
-                "P"
-            ],
-            "full": "戈月心心 (IBPP)",
-            "secret": "能：戈月心心 (IBPP)",
-            "quickCode": "IP"
-        },
-        {
-            "char": "對",
-            "codes": [
-                "廿",
-                "土",
-                "木",
-                "戈"
-            ],
-            "keys": [
-                "T",
-                "G",
-                "D",
-                "I"
-            ],
-            "full": "廿土木戈 (TGDI)",
-            "secret": "對：廿土木戈 (TGDI)",
-            "quickCode": "TI"
-        },
-        {
-            "char": "小",
-            "codes": [
-                "弓",
-                "金"
-            ],
-            "keys": [
-                "N",
-                "C"
-            ],
-            "full": "弓金 (NC)",
-            "secret": "小：弓金 (NC)",
-            "quickCode": "NC"
-        },
-        {
-            "char": "多",
-            "codes": [
-                "弓",
-                "戈",
-                "弓",
-                "戈"
-            ],
-            "keys": [
-                "N",
-                "I",
-                "N",
-                "I"
-            ],
-            "full": "弓戈弓戈 (NINI)",
-            "secret": "多：弓戈弓戈 (NINI)",
-            "quickCode": "NI"
-        },
-        {
-            "char": "然",
-            "codes": [
-                "月",
-                "大",
-                "火"
-            ],
-            "keys": [
-                "B",
-                "K",
-                "F"
-            ],
-            "full": "月大火 (BKF)",
-            "secret": "然：月大火 (BKF)",
-            "quickCode": "BF"
-        },
-        {
-  "char": "於",
-  "codes": [
-    "卜",
-    "尸",
-    "人",
-    "卜"
-  ],
-  "keys": [
-    "Y",
-    "S",
-    "O",
-    "Y"
-  ],
-  "full": "卜尸人卜 (YSOY)",
-  "secret": "於：卜尸人卜 (YSOY)",
-  "quickCode": "YY"
-},
-        {
-            "char": "心",
-            "codes": [
-                "心"
-            ],
-            "keys": [
-                "P"
-            ],
-            "full": "心 (P)",
-            "secret": "心：心 (P)",
-            "quickCode": "P"
-        },
-        {
-            "char": "學",
-            "codes": [
-                "竹",
-                "月",
-                "弓",
-                "木"
-            ],
-            "keys": [
-                "H",
-                "B",
-                "N",
-                "D"
-            ],
-            "full": "竹月弓木 (HBND)",
-            "secret": "學：竹月弓木 (HBND)",
-            "quickCode": "HD"
-        },
-        {
-            "char": "麼",
-            "codes": [
-                "戈",
-                "金",
-                "女",
-                "戈"
-            ],
-            "keys": [
-                "I",
-                "C",
-                "V",
-                "I"
-            ],
-            "full": "戈金女戈 (ICVI)",
-            "secret": "麼：戈金女戈 (ICVI)",
-            "quickCode": "II"
-        },
-        {
-            "char": "之",
-            "codes": [
-                "戈",
-                "弓",
-                "人"
-            ],
-            "keys": [
-                "I",
-                "N",
-                "O"
-            ],
-            "full": "戈弓人 (INO)",
-            "secret": "之：戈弓人 (INO)",
-            "quickCode": "IO"
-        },
-        {
-            "char": "都",
-            "codes": [
-                "十",
-                "日",
-                "弓",
-                "中"
-            ],
-            "keys": [
-                "J",
-                "A",
-                "N",
-                "L"
-            ],
-            "full": "十日弓中 (JANL)",
-            "secret": "都：十日弓中 (JANL)",
-            "quickCode": "JL"
-        },
-        {
-            "char": "好",
-            "codes": [
-                "女",
-                "弓",
-                "木"
-            ],
-            "keys": [
-                "V",
-                "N",
-                "D"
-            ],
-            "full": "女弓木 (VND)",
-            "secret": "好：女弓木 (VND)",
-            "quickCode": "VD"
-        }
+      {
+        "char": "這",
+        "codes": [
+          "卜",
+          "卜",
+          "一",
+          "口"
+        ],
+        "keys": [
+          "Y",
+          "Y",
+          "M",
+          "R"
+        ],
+        "full": "卜卜一口 (YYMR)",
+        "secret": "這：卜卜一口 (YYMR)",
+        "quickCode": "YR"
+      },
+      {
+        "char": "個",
+        "codes": [
+          "人",
+          "田",
+          "十",
+          "口"
+        ],
+        "keys": [
+          "O",
+          "W",
+          "J",
+          "R"
+        ],
+        "full": "人田十口 (OWJR)",
+        "secret": "個：人田十口 (OWJR)",
+        "quickCode": "OR"
+      },
+      {
+        "char": "上",
+        "codes": [
+          "卜",
+          "一"
+        ],
+        "keys": [
+          "Y",
+          "M"
+        ],
+        "full": "卜一 (YM)",
+        "secret": "上：卜一 (YM)",
+        "quickCode": "YM"
+      },
+      {
+        "char": "們",
+        "codes": [
+          "人",
+          "日",
+          "弓"
+        ],
+        "keys": [
+          "O",
+          "A",
+          "N"
+        ],
+        "full": "人日弓 (OAN)",
+        "secret": "們：人日弓 (OAN)",
+        "quickCode": "ON"
+      },
+      {
+        "char": "來",
+        "codes": [
+          "木",
+          "人",
+          "人"
+        ],
+        "keys": [
+          "D",
+          "O",
+          "O"
+        ],
+        "full": "木人人 (DOO)",
+        "secret": "來：木人人 (DOO)",
+        "quickCode": "DO"
+      },
+      {
+        "char": "到",
+        "codes": [
+          "一",
+          "土",
+          "中",
+          "弓"
+        ],
+        "keys": [
+          "M",
+          "G",
+          "L",
+          "N"
+        ],
+        "full": "一土中弓 (MGLN)",
+        "secret": "到：一土中弓 (MGLN)",
+        "quickCode": "MN"
+      },
+      {
+        "char": "時",
+        "codes": [
+          "日",
+          "土",
+          "木",
+          "戈"
+        ],
+        "keys": [
+          "A",
+          "G",
+          "D",
+          "I"
+        ],
+        "full": "日土木戈 (AGDI)",
+        "secret": "時：日土木戈 (AGDI)",
+        "quickCode": "AI"
+      },
+      {
+        "char": "大",
+        "codes": [
+          "大"
+        ],
+        "keys": [
+          "K"
+        ],
+        "full": "大 (K)",
+        "secret": "大：大 (K)",
+        "quickCode": "K"
+      },
+      {
+        "char": "地",
+        "codes": [
+          "土",
+          "心",
+          "木"
+        ],
+        "keys": [
+          "G",
+          "P",
+          "D"
+        ],
+        "full": "土心木 (GPD)",
+        "secret": "地：土心木 (GPD)",
+        "quickCode": "GD"
+      },
+      {
+        "char": "為",
+        "codes": [
+          "戈",
+          "大",
+          "弓",
+          "火"
+        ],
+        "keys": [
+          "I",
+          "K",
+          "N",
+          "F"
+        ],
+        "full": "戈大弓火 (IKNF)",
+        "secret": "為：戈大弓火 (IKNF)",
+        "quickCode": "IF"
+      },
+      {
+        "char": "子",
+        "codes": [
+          "弓",
+          "木"
+        ],
+        "keys": [
+          "N",
+          "D"
+        ],
+        "full": "弓木 (ND)",
+        "secret": "子：弓木 (ND)",
+        "quickCode": "ND"
+      },
+      {
+        "char": "中",
+        "codes": [
+          "中"
+        ],
+        "keys": [
+          "L"
+        ],
+        "full": "中 (L)",
+        "secret": "中：中 (L)",
+        "quickCode": "L"
+      },
+      {
+        "char": "你",
+        "codes": [
+          "人",
+          "弓",
+          "火"
+        ],
+        "keys": [
+          "O",
+          "N",
+          "F"
+        ],
+        "full": "人弓火 (ONF)",
+        "secret": "你：人弓火 (ONF)",
+        "quickCode": "OF"
+      },
+      {
+        "char": "說",
+        "codes": [
+          "卜",
+          "口",
+          "金",
+          "口",
+          "山"
+        ],
+        "keys": [
+          "Y",
+          "R",
+          "C",
+          "R",
+          "U"
+        ],
+        "full": "卜口金口山 (YRCRU)",
+        "secret": "說：卜口金口山 (YRCRU)",
+        "quickCode": "YU"
+      },
+      {
+        "char": "生",
+        "codes": [
+          "竹",
+          "手",
+          "一"
+        ],
+        "keys": [
+          "H",
+          "Q",
+          "M"
+        ],
+        "full": "竹手一 (HQM)",
+        "secret": "生：竹手一 (HQM)",
+        "quickCode": "HM"
+      },
+      {
+        "char": "國",
+        "codes": [
+          "田",
+          "戈",
+          "口",
+          "一"
+        ],
+        "keys": [
+          "W",
+          "I",
+          "R",
+          "M"
+        ],
+        "full": "田戈口一 (WIRM)",
+        "secret": "國：田戈口一 (WIRM)",
+        "quickCode": "WM"
+      },
+      {
+        "char": "年",
+        "codes": [
+          "人",
+          "手"
+        ],
+        "keys": [
+          "O",
+          "Q"
+        ],
+        "full": "人手 (OQ)",
+        "secret": "年：人手 (OQ)",
+        "quickCode": "OQ"
+      },
+      {
+        "char": "著",
+        "codes": [
+          "廿",
+          "十",
+          "大",
+          "日"
+        ],
+        "keys": [
+          "T",
+          "J",
+          "K",
+          "A"
+        ],
+        "full": "廿十大日 (TJKA)",
+        "secret": "著：廿十大日 (TJKA)",
+        "quickCode": "TA"
+      },
+      {
+        "char": "就",
+        "codes": [
+          "卜",
+          "火",
+          "戈",
+          "大",
+          "山"
+        ],
+        "keys": [
+          "Y",
+          "F",
+          "I",
+          "K",
+          "U"
+        ],
+        "full": "卜火戈大山 (YFIKU)",
+        "secret": "就：卜火戈大山 (YFIKU)",
+        "quickCode": "YU"
+      },
+      {
+        "char": "那",
+        "codes": [
+          "尸",
+          "手",
+          "弓",
+          "中"
+        ],
+        "keys": [
+          "S",
+          "Q",
+          "N",
+          "L"
+        ],
+        "full": "尸手弓中 (SQNL)",
+        "secret": "那：尸手弓中 (SQNL)",
+        "quickCode": "SL"
+      },
+      {
+        "char": "和",
+        "codes": [
+          "竹",
+          "木",
+          "口"
+        ],
+        "keys": [
+          "H",
+          "D",
+          "R"
+        ],
+        "full": "竹木口 (HDR)",
+        "secret": "和：竹木口 (HDR)",
+        "quickCode": "HR"
+      },
+      {
+        "char": "要",
+        "codes": [
+          "一",
+          "田",
+          "女"
+        ],
+        "keys": [
+          "M",
+          "W",
+          "V"
+        ],
+        "full": "一田女 (MWV)",
+        "secret": "要：一田女 (MWV)",
+        "quickCode": "MV"
+      },
+      {
+        "char": "她",
+        "codes": [
+          "女",
+          "心",
+          "木"
+        ],
+        "keys": [
+          "V",
+          "P",
+          "D"
+        ],
+        "full": "女心木 (VPD)",
+        "secret": "她：女心木 (VPD)",
+        "quickCode": "VD"
+      },
+      {
+        "char": "出",
+        "codes": [
+          "山",
+          "山"
+        ],
+        "keys": [
+          "U",
+          "U"
+        ],
+        "full": "山山 (UU)",
+        "secret": "出：山山 (UU)",
+        "quickCode": "UU"
+      },
+      {
+        "char": "也",
+        "codes": [
+          "心",
+          "木"
+        ],
+        "keys": [
+          "P",
+          "D"
+        ],
+        "full": "心木 (PD)",
+        "secret": "也：心木 (PD)",
+        "quickCode": "PD"
+      },
+      {
+        "char": "得",
+        "codes": [
+          "竹",
+          "人",
+          "日",
+          "一",
+          "戈"
+        ],
+        "keys": [
+          "H",
+          "O",
+          "A",
+          "M",
+          "I"
+        ],
+        "full": "竹人日一戈 (HOAMI)",
+        "secret": "得：竹人日一戈 (HOAMI)",
+        "quickCode": "HI"
+      },
+      {
+        "char": "里",
+        "codes": [
+          "田",
+          "土"
+        ],
+        "keys": [
+          "W",
+          "G"
+        ],
+        "full": "田土 (WG)",
+        "secret": "里：田土 (WG)",
+        "quickCode": "WG"
+      },
+      {
+        "char": "後",
+        "codes": [
+          "竹",
+          "人",
+          "女",
+          "戈",
+          "水"
+        ],
+        "keys": [
+          "H",
+          "O",
+          "V",
+          "I",
+          "E"
+        ],
+        "full": "竹人女戈水 (HOVIE)",
+        "secret": "後：竹人女戈水 (HOVIE)",
+        "quickCode": "HE"
+      },
+      {
+        "char": "自",
+        "codes": [
+          "竹",
+          "月",
+          "山"
+        ],
+        "keys": [
+          "H",
+          "B",
+          "U"
+        ],
+        "full": "竹月山 (HBU)",
+        "secret": "自：竹月山 (HBU)",
+        "quickCode": "HU"
+      },
+      {
+        "char": "以",
+        "codes": [
+          "女",
+          "戈",
+          "人"
+        ],
+        "keys": [
+          "V",
+          "I",
+          "O"
+        ],
+        "full": "女戈人 (VIO)",
+        "secret": "以：女戈人 (VIO)",
+        "quickCode": "VO"
+      },
+      {
+        "char": "會",
+        "codes": [
+          "人",
+          "一",
+          "田",
+          "日"
+        ],
+        "keys": [
+          "O",
+          "M",
+          "W",
+          "A"
+        ],
+        "full": "人一田日 (OMWA)",
+        "secret": "會：人一田日 (OMWA)",
+        "quickCode": "OA"
+      },
+      {
+        "char": "家",
+        "codes": [
+          "十",
+          "一",
+          "尸",
+          "人"
+        ],
+        "keys": [
+          "J",
+          "M",
+          "S",
+          "O"
+        ],
+        "full": "十一尸人 (JMSO)",
+        "secret": "家：十一尸人 (JMSO)",
+        "quickCode": "JO"
+      },
+      {
+        "char": "可",
+        "codes": [
+          "一",
+          "弓",
+          "口"
+        ],
+        "keys": [
+          "M",
+          "N",
+          "R"
+        ],
+        "full": "一弓口 (MNR)",
+        "secret": "可：一弓口 (MNR)",
+        "quickCode": "MR"
+      },
+      {
+        "char": "下",
+        "codes": [
+          "一",
+          "卜"
+        ],
+        "keys": [
+          "M",
+          "Y"
+        ],
+        "full": "一卜 (MY)",
+        "secret": "下：一卜 (MY)",
+        "quickCode": "MY"
+      },
+      {
+        "char": "而",
+        "codes": [
+          "一",
+          "月",
+          "中",
+          "中"
+        ],
+        "keys": [
+          "M",
+          "B",
+          "L",
+          "L"
+        ],
+        "full": "一月中中 (MBLL)",
+        "secret": "而：一月中中 (MBLL)",
+        "quickCode": "ML"
+      },
+      {
+        "char": "過",
+        "codes": [
+          "卜",
+          "月",
+          "月",
+          "口"
+        ],
+        "keys": [
+          "Y",
+          "B",
+          "B",
+          "R"
+        ],
+        "full": "卜月月口 (YBBR)",
+        "secret": "過：卜月月口 (YBBR)",
+        "quickCode": "YR"
+      },
+      {
+        "char": "天",
+        "codes": [
+          "一",
+          "大"
+        ],
+        "keys": [
+          "M",
+          "K"
+        ],
+        "full": "一大 (MK)",
+        "secret": "天：一大 (MK)",
+        "quickCode": "MK"
+      },
+      {
+        "char": "去",
+        "codes": [
+          "土",
+          "戈"
+        ],
+        "keys": [
+          "G",
+          "I"
+        ],
+        "full": "土戈 (GI)",
+        "secret": "去：土戈 (GI)",
+        "quickCode": "GI"
+      },
+      {
+        "char": "能",
+        "codes": [
+          "戈",
+          "月",
+          "心",
+          "心"
+        ],
+        "keys": [
+          "I",
+          "B",
+          "P",
+          "P"
+        ],
+        "full": "戈月心心 (IBPP)",
+        "secret": "能：戈月心心 (IBPP)",
+        "quickCode": "IP"
+      },
+      {
+        "char": "對",
+        "codes": [
+          "廿",
+          "土",
+          "木",
+          "戈"
+        ],
+        "keys": [
+          "T",
+          "G",
+          "D",
+          "I"
+        ],
+        "full": "廿土木戈 (TGDI)",
+        "secret": "對：廿土木戈 (TGDI)",
+        "quickCode": "TI"
+      },
+      {
+        "char": "小",
+        "codes": [
+          "弓",
+          "金"
+        ],
+        "keys": [
+          "N",
+          "C"
+        ],
+        "full": "弓金 (NC)",
+        "secret": "小：弓金 (NC)",
+        "quickCode": "NC"
+      },
+      {
+        "char": "多",
+        "codes": [
+          "弓",
+          "戈",
+          "弓",
+          "戈"
+        ],
+        "keys": [
+          "N",
+          "I",
+          "N",
+          "I"
+        ],
+        "full": "弓戈弓戈 (NINI)",
+        "secret": "多：弓戈弓戈 (NINI)",
+        "quickCode": "NI"
+      },
+      {
+        "char": "然",
+        "codes": [
+          "月",
+          "大",
+          "火"
+        ],
+        "keys": [
+          "B",
+          "K",
+          "F"
+        ],
+        "full": "月大火 (BKF)",
+        "secret": "然：月大火 (BKF)",
+        "quickCode": "BF"
+      },
+      {
+        "char": "於",
+        "codes": [
+          "卜",
+          "尸",
+          "人",
+          "卜"
+        ],
+        "keys": [
+          "Y",
+          "S",
+          "O",
+          "Y"
+        ],
+        "full": "卜尸人卜 (YSOY)",
+        "secret": "於：卜尸人卜 (YSOY)",
+        "quickCode": "YY"
+      },
+      {
+        "char": "心",
+        "codes": [
+          "心"
+        ],
+        "keys": [
+          "P"
+        ],
+        "full": "心 (P)",
+        "secret": "心：心 (P)",
+        "quickCode": "P"
+      },
+      {
+        "char": "學",
+        "codes": [
+          "竹",
+          "月",
+          "弓",
+          "木"
+        ],
+        "keys": [
+          "H",
+          "B",
+          "N",
+          "D"
+        ],
+        "full": "竹月弓木 (HBND)",
+        "secret": "學：竹月弓木 (HBND)",
+        "quickCode": "HD"
+      },
+      {
+        "char": "麼",
+        "codes": [
+          "戈",
+          "金",
+          "女",
+          "戈"
+        ],
+        "keys": [
+          "I",
+          "C",
+          "V",
+          "I"
+        ],
+        "full": "戈金女戈 (ICVI)",
+        "secret": "麼：戈金女戈 (ICVI)",
+        "quickCode": "II"
+      },
+      {
+        "char": "之",
+        "codes": [
+          "戈",
+          "弓",
+          "人"
+        ],
+        "keys": [
+          "I",
+          "N",
+          "O"
+        ],
+        "full": "戈弓人 (INO)",
+        "secret": "之：戈弓人 (INO)",
+        "quickCode": "IO"
+      },
+      {
+        "char": "都",
+        "codes": [
+          "十",
+          "日",
+          "弓",
+          "中"
+        ],
+        "keys": [
+          "J",
+          "A",
+          "N",
+          "L"
+        ],
+        "full": "十日弓中 (JANL)",
+        "secret": "都：十日弓中 (JANL)",
+        "quickCode": "JL"
+      },
+      {
+        "char": "好",
+        "codes": [
+          "女",
+          "弓",
+          "木"
+        ],
+        "keys": [
+          "V",
+          "N",
+          "D"
+        ],
+        "full": "女弓木 (VND)",
+        "secret": "好：女弓木 (VND)",
+        "quickCode": "VD"
+      }
     ]
-},
-    "w10_hw1": {
+  },
+  "w10_hw1": {
     "title": "🔥 第 10 周 功課 1 (生、地、森、室... 50字)",
     "words": [
       {
@@ -38970,21 +38970,21 @@ const MODE2_WEEKLY_BANKS = {
         "quickCode": "YR"
       },
       {
-  "char": "沒",
-  "codes": [
-    "水",
-    "弓",
-    "水"
-  ],
-  "keys": [
-    "E",
-    "N",
-    "E"
-  ],
-  "full": "水弓水 (ENE)",
-  "secret": "沒：水弓水 (ENE)",
-  "quickCode": "EE"
-},
+        "char": "沒",
+        "codes": [
+          "水",
+          "弓",
+          "水"
+        ],
+        "keys": [
+          "E",
+          "N",
+          "E"
+        ],
+        "full": "水弓水 (ENE)",
+        "secret": "沒：水弓水 (ENE)",
+        "quickCode": "EE"
+      },
       {
         "char": "回",
         "codes": [
@@ -39237,21 +39237,21 @@ const MODE2_WEEKLY_BANKS = {
         "quickCode": "NO"
       },
       {
-  "char": "感",
-  "codes": [
-    "戈",
-    "口",
-    "心"
-  ],
-  "keys": [
-    "I",
-    "R",
-    "P"
-  ],
-  "full": "戈口心 (IRP)",
-  "secret": "感：戈口心 (IRP)",
-  "quickCode": "IP"
-},
+        "char": "感",
+        "codes": [
+          "戈",
+          "口",
+          "心"
+        ],
+        "keys": [
+          "I",
+          "R",
+          "P"
+        ],
+        "full": "戈口心 (IRP)",
+        "secret": "感：戈口心 (IRP)",
+        "quickCode": "IP"
+      },
       {
         "char": "背",
         "codes": [
@@ -39299,25 +39299,25 @@ const MODE2_WEEKLY_BANKS = {
         "quickCode": "DE"
       },
       {
-  "char": "行",
-  "codes": [
-    "竹",
-    "人",
-    "一",
-    "一",
-    "弓"
-  ],
-  "keys": [
-    "H",
-    "O",
-    "M",
-    "M",
-    "N"
-  ],
-  "full": "竹人一一弓 (HOMMN)",
-  "secret": "行：竹人一一弓 (HOMMN)",
-  "quickCode": "HN"
-},
+        "char": "行",
+        "codes": [
+          "竹",
+          "人",
+          "一",
+          "一",
+          "弓"
+        ],
+        "keys": [
+          "H",
+          "O",
+          "M",
+          "M",
+          "N"
+        ],
+        "full": "竹人一一弓 (HOMMN)",
+        "secret": "行：竹人一一弓 (HOMMN)",
+        "quickCode": "HN"
+      },
       {
         "char": "多",
         "codes": [
@@ -39977,6 +39977,6648 @@ const MODE2_WEEKLY_BANKS = {
         "full": "金卜廿土 (CYTG)",
         "secret": "鐘：金卜廿土 (CYTG)",
         "quickCode": "CG"
+      }
+    ]
+  },
+  "w12_hw1": {
+    "key": "w12_hw1",
+    "week": "w12",
+    "weekName": "第12周",
+    "hwName": "功課1",
+    "title": "📅 第 12 周 功課 1 (伯、破、且、思... 50字)",
+    "words": [
+      {
+        "char": "伯",
+        "codes": [
+          "人",
+          "竹",
+          "日"
+        ],
+        "keys": [
+          "O",
+          "H",
+          "A"
+        ],
+        "full": "人竹日 (OHA)",
+        "secret": "伯：人竹日 (OHA)"
+      },
+      {
+        "char": "破",
+        "codes": [
+          "一",
+          "口",
+          "木",
+          "竹",
+          "水"
+        ],
+        "keys": [
+          "M",
+          "R",
+          "D",
+          "H",
+          "E"
+        ],
+        "full": "一口木竹水 (MRDHE)",
+        "secret": "破：一口木竹水 (MRDHE)"
+      },
+      {
+        "char": "且",
+        "codes": [
+          "月",
+          "一"
+        ],
+        "keys": [
+          "B",
+          "M"
+        ],
+        "full": "月一 (BM)",
+        "secret": "且：月一 (BM)"
+      },
+      {
+        "char": "思",
+        "codes": [
+          "田",
+          "心"
+        ],
+        "keys": [
+          "W",
+          "P"
+        ],
+        "full": "田心 (WP)",
+        "secret": "思：田心 (WP)"
+      },
+      {
+        "char": "浪",
+        "codes": [
+          "水",
+          "戈",
+          "日",
+          "女"
+        ],
+        "keys": [
+          "E",
+          "I",
+          "A",
+          "V"
+        ],
+        "full": "水戈日女 (EIAV)",
+        "secret": "浪：水戈日女 (EIAV)"
+      },
+      {
+        "char": "遠",
+        "codes": [
+          "卜",
+          "土",
+          "口",
+          "女"
+        ],
+        "keys": [
+          "Y",
+          "G",
+          "R",
+          "V"
+        ],
+        "full": "卜土口女 (YGRV)",
+        "secret": "遠：卜土口女 (YGRV)"
+      },
+      {
+        "char": "分",
+        "codes": [
+          "金",
+          "尸",
+          "竹"
+        ],
+        "keys": [
+          "C",
+          "S",
+          "H"
+        ],
+        "full": "金尸竹 (CSH)",
+        "secret": "分：金尸竹 (CSH)"
+      },
+      {
+        "char": "候",
+        "codes": [
+          "人",
+          "中",
+          "弓",
+          "大"
+        ],
+        "keys": [
+          "O",
+          "L",
+          "N",
+          "K"
+        ],
+        "full": "人中弓大 (OLNK)",
+        "secret": "候：人中弓大 (OLNK)"
+      },
+      {
+        "char": "宮",
+        "codes": [
+          "十",
+          "口",
+          "竹",
+          "口"
+        ],
+        "keys": [
+          "J",
+          "R",
+          "H",
+          "R"
+        ],
+        "full": "十口竹口 (JRHR)",
+        "secret": "宮：十口竹口 (JRHR)"
+      },
+      {
+        "char": "魚",
+        "codes": [
+          "弓",
+          "田",
+          "火"
+        ],
+        "keys": [
+          "N",
+          "W",
+          "F"
+        ],
+        "full": "弓田火 (NWF)",
+        "secret": "魚：弓田火 (NWF)"
+      },
+      {
+        "char": "字",
+        "codes": [
+          "十",
+          "弓",
+          "木"
+        ],
+        "keys": [
+          "J",
+          "N",
+          "D"
+        ],
+        "full": "十弓木 (JND)",
+        "secret": "字：十弓木 (JND)"
+      },
+      {
+        "char": "助",
+        "codes": [
+          "月",
+          "一",
+          "大",
+          "尸"
+        ],
+        "keys": [
+          "B",
+          "M",
+          "K",
+          "S"
+        ],
+        "full": "月一大尸 (BMKS)",
+        "secret": "助：月一大尸 (BMKS)"
+      },
+      {
+        "char": "迷",
+        "codes": [
+          "卜",
+          "火",
+          "木"
+        ],
+        "keys": [
+          "Y",
+          "F",
+          "D"
+        ],
+        "full": "卜火木 (YFD)",
+        "secret": "迷：卜火木 (YFD)"
+      },
+      {
+        "char": "台",
+        "codes": [
+          "戈",
+          "口"
+        ],
+        "keys": [
+          "I",
+          "R"
+        ],
+        "full": "戈口 (IR)",
+        "secret": "台：戈口 (IR)"
+      },
+      {
+        "char": "香",
+        "codes": [
+          "竹",
+          "木",
+          "日"
+        ],
+        "keys": [
+          "H",
+          "D",
+          "A"
+        ],
+        "full": "竹木日 (HDA)",
+        "secret": "香：竹木日 (HDA)"
+      },
+      {
+        "char": "退",
+        "codes": [
+          "卜",
+          "日",
+          "女"
+        ],
+        "keys": [
+          "Y",
+          "A",
+          "V"
+        ],
+        "full": "卜日女 (YAV)",
+        "secret": "退：卜日女 (YAV)"
+      },
+      {
+        "char": "夢",
+        "codes": [
+          "廿",
+          "田",
+          "中",
+          "弓"
+        ],
+        "keys": [
+          "T",
+          "W",
+          "L",
+          "N"
+        ],
+        "full": "廿田中弓 (TWLN)",
+        "secret": "夢：廿田中弓 (TWLN)"
+      },
+      {
+        "char": "日",
+        "codes": [
+          "日"
+        ],
+        "keys": [
+          "A"
+        ],
+        "full": "日 (A)",
+        "secret": "日：日 (A)"
+      },
+      {
+        "char": "房",
+        "codes": [
+          "竹",
+          "尸",
+          "卜",
+          "竹",
+          "尸"
+        ],
+        "keys": [
+          "H",
+          "S",
+          "Y",
+          "H",
+          "S"
+        ],
+        "full": "竹尸卜竹尸 (HSYHS)",
+        "secret": "房：竹尸卜竹尸 (HSYHS)"
+      },
+      {
+        "char": "象",
+        "codes": [
+          "弓",
+          "日",
+          "心",
+          "人"
+        ],
+        "keys": [
+          "N",
+          "A",
+          "P",
+          "O"
+        ],
+        "full": "弓日心人 (NAPO)",
+        "secret": "象：弓日心人 (NAPO)"
+      },
+      {
+        "char": "士",
+        "codes": [
+          "十",
+          "一"
+        ],
+        "keys": [
+          "J",
+          "M"
+        ],
+        "full": "十一 (JM)",
+        "secret": "士：十一 (JM)"
+      },
+      {
+        "char": "段",
+        "codes": [
+          "竹",
+          "十",
+          "竹",
+          "弓",
+          "水"
+        ],
+        "keys": [
+          "H",
+          "J",
+          "H",
+          "N",
+          "E"
+        ],
+        "full": "竹十竹弓水 (HJHNE)",
+        "secret": "段：竹十竹弓水 (HJHNE)"
+      },
+      {
+        "char": "賣",
+        "codes": [
+          "土",
+          "田",
+          "中",
+          "金"
+        ],
+        "keys": [
+          "G",
+          "W",
+          "L",
+          "C"
+        ],
+        "full": "土田中金 (GWLC)",
+        "secret": "賣：土田中金 (GWLC)"
+      },
+      {
+        "char": "承",
+        "codes": [
+          "弓",
+          "弓",
+          "手",
+          "人"
+        ],
+        "keys": [
+          "N",
+          "N",
+          "Q",
+          "O"
+        ],
+        "full": "弓弓手人 (NNQO)",
+        "secret": "承：弓弓手人 (NNQO)"
+      },
+      {
+        "char": "民",
+        "codes": [
+          "口",
+          "女",
+          "心"
+        ],
+        "keys": [
+          "R",
+          "V",
+          "P"
+        ],
+        "full": "口女心 (RVP)",
+        "secret": "民：口女心 (RVP)"
+      },
+      {
+        "char": "封",
+        "codes": [
+          "土",
+          "土",
+          "木",
+          "戈"
+        ],
+        "keys": [
+          "G",
+          "G",
+          "D",
+          "I"
+        ],
+        "full": "土土木戈 (GGDI)",
+        "secret": "封：土土木戈 (GGDI)"
+      },
+      {
+        "char": "客",
+        "codes": [
+          "十",
+          "竹",
+          "水",
+          "口"
+        ],
+        "keys": [
+          "J",
+          "H",
+          "E",
+          "R"
+        ],
+        "full": "十竹水口 (JHER)",
+        "secret": "客：十竹水口 (JHER)"
+      },
+      {
+        "char": "著",
+        "codes": [
+          "廿",
+          "十",
+          "大",
+          "日"
+        ],
+        "keys": [
+          "T",
+          "J",
+          "K",
+          "A"
+        ],
+        "full": "廿十大日 (TJKA)",
+        "secret": "著：廿十大日 (TJKA)"
+      },
+      {
+        "char": "劇",
+        "codes": [
+          "卜",
+          "人",
+          "中",
+          "弓"
+        ],
+        "keys": [
+          "Y",
+          "O",
+          "L",
+          "N"
+        ],
+        "full": "卜人中弓 (YOLN)",
+        "secret": "劇：卜人中弓 (YOLN)"
+      },
+      {
+        "char": "判",
+        "codes": [
+          "火",
+          "手",
+          "中",
+          "弓"
+        ],
+        "keys": [
+          "F",
+          "Q",
+          "L",
+          "N"
+        ],
+        "full": "火手中弓 (FQLN)",
+        "secret": "判：火手中弓 (FQLN)"
+      },
+      {
+        "char": "布",
+        "codes": [
+          "大",
+          "中",
+          "月"
+        ],
+        "keys": [
+          "K",
+          "L",
+          "B"
+        ],
+        "full": "大中月 (KLB)",
+        "secret": "布：大中月 (KLB)"
+      },
+      {
+        "char": "密",
+        "codes": [
+          "十",
+          "心",
+          "竹",
+          "山"
+        ],
+        "keys": [
+          "J",
+          "P",
+          "H",
+          "U"
+        ],
+        "full": "十心竹山 (JPHU)",
+        "secret": "密：十心竹山 (JPHU)"
+      },
+      {
+        "char": "集",
+        "codes": [
+          "人",
+          "土",
+          "木"
+        ],
+        "keys": [
+          "O",
+          "G",
+          "D"
+        ],
+        "full": "人土木 (OGD)",
+        "secret": "集：人土木 (OGD)"
+      },
+      {
+        "char": "花",
+        "codes": [
+          "廿",
+          "人",
+          "心"
+        ],
+        "keys": [
+          "T",
+          "O",
+          "P"
+        ],
+        "full": "廿人心 (TOP)",
+        "secret": "花：廿人心 (TOP)"
+      },
+      {
+        "char": "部",
+        "codes": [
+          "卜",
+          "口",
+          "弓",
+          "中"
+        ],
+        "keys": [
+          "Y",
+          "R",
+          "N",
+          "L"
+        ],
+        "full": "卜口弓中 (YRNL)",
+        "secret": "部：卜口弓中 (YRNL)"
+      },
+      {
+        "char": "讓",
+        "codes": [
+          "卜",
+          "口",
+          "卜",
+          "口",
+          "女"
+        ],
+        "keys": [
+          "Y",
+          "R",
+          "Y",
+          "R",
+          "V"
+        ],
+        "full": "卜口卜口女 (YRYRV)",
+        "secret": "讓：卜口卜口女 (YRYRV)"
+      },
+      {
+        "char": "七",
+        "codes": [
+          "十",
+          "山"
+        ],
+        "keys": [
+          "J",
+          "U"
+        ],
+        "full": "十山 (JU)",
+        "secret": "七：十山 (JU)"
+      },
+      {
+        "char": "犯",
+        "codes": [
+          "大",
+          "竹",
+          "尸",
+          "山"
+        ],
+        "keys": [
+          "K",
+          "H",
+          "S",
+          "U"
+        ],
+        "full": "大竹尸山 (KHSU)",
+        "secret": "犯：大竹尸山 (KHSU)"
+      },
+      {
+        "char": "裝",
+        "codes": [
+          "女",
+          "土",
+          "卜",
+          "竹",
+          "女"
+        ],
+        "keys": [
+          "V",
+          "G",
+          "Y",
+          "H",
+          "V"
+        ],
+        "full": "女土卜竹女 (VGYHV)",
+        "secret": "裝：女土卜竹女 (VGYHV)"
+      },
+      {
+        "char": "止",
+        "codes": [
+          "卜",
+          "中",
+          "一"
+        ],
+        "keys": [
+          "Y",
+          "L",
+          "M"
+        ],
+        "full": "卜中一 (YLM)",
+        "secret": "止：卜中一 (YLM)"
+      },
+      {
+        "char": "老",
+        "codes": [
+          "十",
+          "大",
+          "心"
+        ],
+        "keys": [
+          "J",
+          "K",
+          "P"
+        ],
+        "full": "十大心 (JKP)",
+        "secret": "老：十大心 (JKP)"
+      },
+      {
+        "char": "酒",
+        "codes": [
+          "水",
+          "一",
+          "金",
+          "田"
+        ],
+        "keys": [
+          "E",
+          "M",
+          "C",
+          "W"
+        ],
+        "full": "水一金田 (EMCW)",
+        "secret": "酒：水一金田 (EMCW)"
+      },
+      {
+        "char": "時",
+        "codes": [
+          "日",
+          "土",
+          "木",
+          "戈"
+        ],
+        "keys": [
+          "A",
+          "G",
+          "D",
+          "I"
+        ],
+        "full": "日土木戈 (AGDI)",
+        "secret": "時：日土木戈 (AGDI)"
+      },
+      {
+        "char": "露",
+        "codes": [
+          "一",
+          "月",
+          "口",
+          "一",
+          "口"
+        ],
+        "keys": [
+          "M",
+          "B",
+          "R",
+          "M",
+          "R"
+        ],
+        "full": "一月口一口 (MBRMR)",
+        "secret": "露：一月口一口 (MBRMR)"
+      },
+      {
+        "char": "樹",
+        "codes": [
+          "木",
+          "土",
+          "廿",
+          "戈"
+        ],
+        "keys": [
+          "D",
+          "G",
+          "T",
+          "I"
+        ],
+        "full": "木土廿戈 (DGTI)",
+        "secret": "樹：木土廿戈 (DGTI)"
+      },
+      {
+        "char": "具",
+        "codes": [
+          "月",
+          "一",
+          "一",
+          "金"
+        ],
+        "keys": [
+          "B",
+          "M",
+          "M",
+          "C"
+        ],
+        "full": "月一一金 (BMMC)",
+        "secret": "具：月一一金 (BMMC)"
+      },
+      {
+        "char": "圍",
+        "codes": [
+          "田",
+          "木",
+          "一",
+          "手"
+        ],
+        "keys": [
+          "W",
+          "D",
+          "M",
+          "Q"
+        ],
+        "full": "田木一手 (WDMQ)",
+        "secret": "圍：田木一手 (WDMQ)"
+      },
+      {
+        "char": "木",
+        "codes": [
+          "木"
+        ],
+        "keys": [
+          "D"
+        ],
+        "full": "木 (D)",
+        "secret": "木：木 (D)"
+      },
+      {
+        "char": "音",
+        "codes": [
+          "卜",
+          "廿",
+          "日"
+        ],
+        "keys": [
+          "Y",
+          "T",
+          "A"
+        ],
+        "full": "卜廿日 (YTA)",
+        "secret": "音：卜廿日 (YTA)"
+      },
+      {
+        "char": "較",
+        "codes": [
+          "十",
+          "十",
+          "卜",
+          "金",
+          "大"
+        ],
+        "keys": [
+          "J",
+          "J",
+          "Y",
+          "C",
+          "K"
+        ],
+        "full": "十十卜金大 (JJYCK)",
+        "secret": "較：十十卜金大 (JJYCK)"
+      }
+    ]
+  },
+  "w12_hw2": {
+    "key": "w12_hw2",
+    "week": "w12",
+    "weekName": "第12周",
+    "hwName": "功課2",
+    "title": "📅 第 12 周 功課 2 (因、比、石、記... 50字)",
+    "words": [
+      {
+        "char": "因",
+        "codes": [
+          "田",
+          "大"
+        ],
+        "keys": [
+          "W",
+          "K"
+        ],
+        "full": "田大 (WK)",
+        "secret": "因：田大 (WK)"
+      },
+      {
+        "char": "比",
+        "codes": [
+          "心",
+          "心"
+        ],
+        "keys": [
+          "P",
+          "P"
+        ],
+        "full": "心心 (PP)",
+        "secret": "比：心心 (PP)"
+      },
+      {
+        "char": "石",
+        "codes": [
+          "一",
+          "口"
+        ],
+        "keys": [
+          "M",
+          "R"
+        ],
+        "full": "一口 (MR)",
+        "secret": "石：一口 (MR)"
+      },
+      {
+        "char": "記",
+        "codes": [
+          "卜",
+          "口",
+          "尸",
+          "山"
+        ],
+        "keys": [
+          "Y",
+          "R",
+          "S",
+          "U"
+        ],
+        "full": "卜口尸山 (YRSU)",
+        "secret": "記：卜口尸山 (YRSU)"
+      },
+      {
+        "char": "早",
+        "codes": [
+          "日",
+          "十"
+        ],
+        "keys": [
+          "A",
+          "J"
+        ],
+        "full": "日十 (AJ)",
+        "secret": "早：日十 (AJ)"
+      },
+      {
+        "char": "句",
+        "codes": [
+          "心",
+          "口"
+        ],
+        "keys": [
+          "P",
+          "R"
+        ],
+        "full": "心口 (PR)",
+        "secret": "句：心口 (PR)"
+      },
+      {
+        "char": "吧",
+        "codes": [
+          "口",
+          "日",
+          "山"
+        ],
+        "keys": [
+          "R",
+          "A",
+          "U"
+        ],
+        "full": "口日山 (RAU)",
+        "secret": "吧：口日山 (RAU)"
+      },
+      {
+        "char": "素",
+        "codes": [
+          "手",
+          "一",
+          "女",
+          "戈",
+          "火"
+        ],
+        "keys": [
+          "Q",
+          "M",
+          "V",
+          "I",
+          "F"
+        ],
+        "full": "手一女戈火 (QMVIF)",
+        "secret": "素：手一女戈火 (QMVIF)"
+      },
+      {
+        "char": "眾",
+        "codes": [
+          "田",
+          "中",
+          "人",
+          "人",
+          "人"
+        ],
+        "keys": [
+          "W",
+          "L",
+          "O",
+          "O",
+          "O"
+        ],
+        "full": "田中人人人 (WLOOO)",
+        "secret": "眾：田中人人人 (WLOOO)"
+      },
+      {
+        "char": "搖",
+        "codes": [
+          "手",
+          "月",
+          "人",
+          "山"
+        ],
+        "keys": [
+          "Q",
+          "B",
+          "O",
+          "U"
+        ],
+        "full": "手月人山 (QBOU)",
+        "secret": "搖：手月人山 (QBOU)"
+      },
+      {
+        "char": "紅",
+        "codes": [
+          "女",
+          "火",
+          "一"
+        ],
+        "keys": [
+          "V",
+          "F",
+          "M"
+        ],
+        "full": "女火一 (VFM)",
+        "secret": "紅：女火一 (VFM)"
+      },
+      {
+        "char": "紀",
+        "codes": [
+          "女",
+          "火",
+          "尸",
+          "山"
+        ],
+        "keys": [
+          "V",
+          "F",
+          "S",
+          "U"
+        ],
+        "full": "女火尸山 (VFSU)",
+        "secret": "紀：女火尸山 (VFSU)"
+      },
+      {
+        "char": "法",
+        "codes": [
+          "水",
+          "土",
+          "戈"
+        ],
+        "keys": [
+          "E",
+          "G",
+          "I"
+        ],
+        "full": "水土戈 (EGI)",
+        "secret": "法：水土戈 (EGI)"
+      },
+      {
+        "char": "白",
+        "codes": [
+          "竹",
+          "日"
+        ],
+        "keys": [
+          "H",
+          "A"
+        ],
+        "full": "竹日 (HA)",
+        "secret": "白：竹日 (HA)"
+      },
+      {
+        "char": "雜",
+        "codes": [
+          "卜",
+          "木",
+          "人",
+          "土"
+        ],
+        "keys": [
+          "Y",
+          "D",
+          "O",
+          "G"
+        ],
+        "full": "卜木人土 (YDOG)",
+        "secret": "雜：卜木人土 (YDOG)"
+      },
+      {
+        "char": "近",
+        "codes": [
+          "卜",
+          "竹",
+          "一",
+          "中"
+        ],
+        "keys": [
+          "Y",
+          "H",
+          "M",
+          "L"
+        ],
+        "full": "卜竹一中 (YHML)",
+        "secret": "近：卜竹一中 (YHML)"
+      },
+      {
+        "char": "都",
+        "codes": [
+          "十",
+          "日",
+          "弓",
+          "中"
+        ],
+        "keys": [
+          "J",
+          "A",
+          "N",
+          "L"
+        ],
+        "full": "十日弓中 (JANL)",
+        "secret": "都：十日弓中 (JANL)"
+      },
+      {
+        "char": "免",
+        "codes": [
+          "弓",
+          "日",
+          "竹",
+          "山"
+        ],
+        "keys": [
+          "N",
+          "A",
+          "H",
+          "U"
+        ],
+        "full": "弓日竹山 (NAHU)",
+        "secret": "免：弓日竹山 (NAHU)"
+      },
+      {
+        "char": "波",
+        "codes": [
+          "水",
+          "木",
+          "竹",
+          "水"
+        ],
+        "keys": [
+          "E",
+          "D",
+          "H",
+          "E"
+        ],
+        "full": "水木竹水 (EDHE)",
+        "secret": "波：水木竹水 (EDHE)"
+      },
+      {
+        "char": "此",
+        "codes": [
+          "卜",
+          "一",
+          "心"
+        ],
+        "keys": [
+          "Y",
+          "M",
+          "P"
+        ],
+        "full": "卜一心 (YMP)",
+        "secret": "此：卜一心 (YMP)"
+      },
+      {
+        "char": "結",
+        "codes": [
+          "女",
+          "火",
+          "土",
+          "口"
+        ],
+        "keys": [
+          "V",
+          "F",
+          "G",
+          "R"
+        ],
+        "full": "女火土口 (VFGR)",
+        "secret": "結：女火土口 (VFGR)"
+      },
+      {
+        "char": "問",
+        "codes": [
+          "日",
+          "弓",
+          "口"
+        ],
+        "keys": [
+          "A",
+          "N",
+          "R"
+        ],
+        "full": "日弓口 (ANR)",
+        "secret": "問：日弓口 (ANR)"
+      },
+      {
+        "char": "釋",
+        "codes": [
+          "竹",
+          "木",
+          "田",
+          "中",
+          "十"
+        ],
+        "keys": [
+          "H",
+          "D",
+          "W",
+          "L",
+          "J"
+        ],
+        "full": "竹木田中十 (HDWLJ)",
+        "secret": "釋：竹木田中十 (HDWLJ)"
+      },
+      {
+        "char": "事",
+        "codes": [
+          "十",
+          "中",
+          "中",
+          "弓"
+        ],
+        "keys": [
+          "J",
+          "L",
+          "L",
+          "N"
+        ],
+        "full": "十中中弓 (JLLN)",
+        "secret": "事：十中中弓 (JLLN)"
+      },
+      {
+        "char": "睡",
+        "codes": [
+          "月",
+          "山",
+          "竹",
+          "十",
+          "一"
+        ],
+        "keys": [
+          "B",
+          "U",
+          "H",
+          "J",
+          "M"
+        ],
+        "full": "月山竹十一 (BUHJM)",
+        "secret": "睡：月山竹十一 (BUHJM)"
+      },
+      {
+        "char": "究",
+        "codes": [
+          "十",
+          "金",
+          "大",
+          "弓"
+        ],
+        "keys": [
+          "J",
+          "C",
+          "K",
+          "N"
+        ],
+        "full": "十金大弓 (JCKN)",
+        "secret": "究：十金大弓 (JCKN)"
+      },
+      {
+        "char": "提",
+        "codes": [
+          "手",
+          "日",
+          "一",
+          "人"
+        ],
+        "keys": [
+          "Q",
+          "A",
+          "M",
+          "O"
+        ],
+        "full": "手日一人 (QAMO)",
+        "secret": "提：手日一人 (QAMO)"
+      },
+      {
+        "char": "前",
+        "codes": [
+          "廿",
+          "月",
+          "中",
+          "弓"
+        ],
+        "keys": [
+          "T",
+          "B",
+          "L",
+          "N"
+        ],
+        "full": "廿月中弓 (TBLN)",
+        "secret": "前：廿月中弓 (TBLN)"
+      },
+      {
+        "char": "整",
+        "codes": [
+          "木",
+          "大",
+          "一",
+          "卜",
+          "一"
+        ],
+        "keys": [
+          "D",
+          "K",
+          "M",
+          "Y",
+          "M"
+        ],
+        "full": "木大一卜一 (DKMYM)",
+        "secret": "整：木大一卜一 (DKMYM)"
+      },
+      {
+        "char": "餐",
+        "codes": [
+          "卜",
+          "水",
+          "人",
+          "戈",
+          "女"
+        ],
+        "keys": [
+          "Y",
+          "E",
+          "O",
+          "I",
+          "V"
+        ],
+        "full": "卜水人戈女 (YEOIV)",
+        "secret": "餐：卜水人戈女 (YEOIV)"
+      },
+      {
+        "char": "雨",
+        "codes": [
+          "一",
+          "中",
+          "月",
+          "卜"
+        ],
+        "keys": [
+          "M",
+          "L",
+          "B",
+          "Y"
+        ],
+        "full": "一中月卜 (MLBY)",
+        "secret": "雨：一中月卜 (MLBY)"
+      },
+      {
+        "char": "亞",
+        "codes": [
+          "一",
+          "中",
+          "中",
+          "一"
+        ],
+        "keys": [
+          "M",
+          "L",
+          "L",
+          "M"
+        ],
+        "full": "一中中一 (MLLM)",
+        "secret": "亞：一中中一 (MLLM)"
+      },
+      {
+        "char": "骨",
+        "codes": [
+          "月",
+          "月",
+          "月"
+        ],
+        "keys": [
+          "B",
+          "B",
+          "B"
+        ],
+        "full": "月月月 (BBB)",
+        "secret": "骨：月月月 (BBB)"
+      },
+      {
+        "char": "貴",
+        "codes": [
+          "中",
+          "一",
+          "月",
+          "山",
+          "金"
+        ],
+        "keys": [
+          "L",
+          "M",
+          "B",
+          "U",
+          "C"
+        ],
+        "full": "中一月山金 (LMBUC)",
+        "secret": "貴：中一月山金 (LMBUC)"
+      },
+      {
+        "char": "被",
+        "codes": [
+          "中",
+          "木",
+          "竹",
+          "水"
+        ],
+        "keys": [
+          "L",
+          "D",
+          "H",
+          "E"
+        ],
+        "full": "中木竹水 (LDHE)",
+        "secret": "被：中木竹水 (LDHE)"
+      },
+      {
+        "char": "夜",
+        "codes": [
+          "卜",
+          "人",
+          "弓",
+          "大"
+        ],
+        "keys": [
+          "Y",
+          "O",
+          "N",
+          "K"
+        ],
+        "full": "卜人弓大 (YONK)",
+        "secret": "夜：卜人弓大 (YONK)"
+      },
+      {
+        "char": "麗",
+        "codes": [
+          "一",
+          "一",
+          "月",
+          "月",
+          "心"
+        ],
+        "keys": [
+          "M",
+          "M",
+          "B",
+          "B",
+          "P"
+        ],
+        "full": "一一月月心 (MMBBP)",
+        "secret": "麗：一一月月心 (MMBBP)"
+      },
+      {
+        "char": "受",
+        "codes": [
+          "月",
+          "月",
+          "水"
+        ],
+        "keys": [
+          "B",
+          "B",
+          "E"
+        ],
+        "full": "月月水 (BBE)",
+        "secret": "受：月月水 (BBE)"
+      },
+      {
+        "char": "堅",
+        "codes": [
+          "尸",
+          "水",
+          "土"
+        ],
+        "keys": [
+          "S",
+          "E",
+          "G"
+        ],
+        "full": "尸水土 (SEG)",
+        "secret": "堅：尸水土 (SEG)"
+      },
+      {
+        "char": "管",
+        "codes": [
+          "竹",
+          "十",
+          "口",
+          "口"
+        ],
+        "keys": [
+          "H",
+          "J",
+          "R",
+          "R"
+        ],
+        "full": "竹十口口 (HJRR)",
+        "secret": "管：竹十口口 (HJRR)"
+      },
+      {
+        "char": "擔",
+        "codes": [
+          "手",
+          "弓",
+          "金",
+          "口"
+        ],
+        "keys": [
+          "Q",
+          "N",
+          "C",
+          "R"
+        ],
+        "full": "手弓金口 (QNCR)",
+        "secret": "擔：手弓金口 (QNCR)"
+      },
+      {
+        "char": "脫",
+        "codes": [
+          "月",
+          "金",
+          "口",
+          "山"
+        ],
+        "keys": [
+          "B",
+          "C",
+          "R",
+          "U"
+        ],
+        "full": "月金口山 (BCRU)",
+        "secret": "脫：月金口山 (BCRU)"
+      },
+      {
+        "char": "臨",
+        "codes": [
+          "尸",
+          "中",
+          "人",
+          "口",
+          "口"
+        ],
+        "keys": [
+          "S",
+          "L",
+          "O",
+          "R",
+          "R"
+        ],
+        "full": "尸中人口口 (SLORR)",
+        "secret": "臨：尸中人口口 (SLORR)"
+      },
+      {
+        "char": "投",
+        "codes": [
+          "手",
+          "竹",
+          "弓",
+          "水"
+        ],
+        "keys": [
+          "Q",
+          "H",
+          "N",
+          "E"
+        ],
+        "full": "手竹弓水 (QHNE)",
+        "secret": "投：手竹弓水 (QHNE)"
+      },
+      {
+        "char": "證",
+        "codes": [
+          "卜",
+          "口",
+          "弓",
+          "人",
+          "廿"
+        ],
+        "keys": [
+          "Y",
+          "R",
+          "N",
+          "O",
+          "T"
+        ],
+        "full": "卜口弓人廿 (YRNOT)",
+        "secret": "證：卜口弓人廿 (YRNOT)"
+      },
+      {
+        "char": "以",
+        "codes": [
+          "女",
+          "戈",
+          "人"
+        ],
+        "keys": [
+          "V",
+          "I",
+          "O"
+        ],
+        "full": "女戈人 (VIO)",
+        "secret": "以：女戈人 (VIO)"
+      },
+      {
+        "char": "育",
+        "codes": [
+          "卜",
+          "戈",
+          "月"
+        ],
+        "keys": [
+          "Y",
+          "I",
+          "B"
+        ],
+        "full": "卜戈月 (YIB)",
+        "secret": "育：卜戈月 (YIB)"
+      },
+      {
+        "char": "案",
+        "codes": [
+          "十",
+          "女",
+          "木"
+        ],
+        "keys": [
+          "J",
+          "V",
+          "D"
+        ],
+        "full": "十女木 (JVD)",
+        "secret": "案：十女木 (JVD)"
+      },
+      {
+        "char": "調",
+        "codes": [
+          "卜",
+          "口",
+          "月",
+          "土",
+          "口"
+        ],
+        "keys": [
+          "Y",
+          "R",
+          "B",
+          "G",
+          "R"
+        ],
+        "full": "卜口月土口 (YRBGR)",
+        "secret": "調：卜口月土口 (YRBGR)"
+      },
+      {
+        "char": "也",
+        "codes": [
+          "心",
+          "木"
+        ],
+        "keys": [
+          "P",
+          "D"
+        ],
+        "full": "心木 (PD)",
+        "secret": "也：心木 (PD)"
+      }
+    ]
+  },
+  "w12_hw3": {
+    "key": "w12_hw3",
+    "week": "w12",
+    "weekName": "第12周",
+    "hwName": "功課3",
+    "title": "📅 第 12 周 功課 3 (史、幾、雲、冷... 50字)",
+    "words": [
+      {
+        "char": "史",
+        "codes": [
+          "中",
+          "大"
+        ],
+        "keys": [
+          "L",
+          "K"
+        ],
+        "full": "中大 (LK)",
+        "secret": "史：中大 (LK)"
+      },
+      {
+        "char": "幾",
+        "codes": [
+          "女",
+          "戈",
+          "竹",
+          "戈"
+        ],
+        "keys": [
+          "V",
+          "I",
+          "H",
+          "I"
+        ],
+        "full": "女戈竹戈 (VIHI)",
+        "secret": "幾：女戈竹戈 (VIHI)"
+      },
+      {
+        "char": "雲",
+        "codes": [
+          "一",
+          "月",
+          "一",
+          "一",
+          "戈"
+        ],
+        "keys": [
+          "M",
+          "B",
+          "M",
+          "M",
+          "I"
+        ],
+        "full": "一月一一戈 (MBMMI)",
+        "secret": "雲：一月一一戈 (MBMMI)"
+      },
+      {
+        "char": "冷",
+        "codes": [
+          "戈",
+          "一",
+          "人",
+          "一",
+          "戈"
+        ],
+        "keys": [
+          "I",
+          "M",
+          "O",
+          "M",
+          "I"
+        ],
+        "full": "戈一人一戈 (IMOMI)",
+        "secret": "冷：戈一人一戈 (IMOMI)"
+      },
+      {
+        "char": "亮",
+        "codes": [
+          "卜",
+          "口",
+          "月",
+          "山"
+        ],
+        "keys": [
+          "Y",
+          "R",
+          "B",
+          "U"
+        ],
+        "full": "卜口月山 (YRBU)",
+        "secret": "亮：卜口月山 (YRBU)"
+      },
+      {
+        "char": "床",
+        "codes": [
+          "戈",
+          "木"
+        ],
+        "keys": [
+          "I",
+          "D"
+        ],
+        "full": "戈木 (ID)",
+        "secret": "床：戈木 (ID)"
+      },
+      {
+        "char": "今",
+        "codes": [
+          "人",
+          "戈",
+          "弓"
+        ],
+        "keys": [
+          "O",
+          "I",
+          "N"
+        ],
+        "full": "人戈弓 (OIN)",
+        "secret": "今：人戈弓 (OIN)"
+      },
+      {
+        "char": "息",
+        "codes": [
+          "竹",
+          "山",
+          "心"
+        ],
+        "keys": [
+          "H",
+          "U",
+          "P"
+        ],
+        "full": "竹山心 (HUP)",
+        "secret": "息：竹山心 (HUP)"
+      },
+      {
+        "char": "查",
+        "codes": [
+          "木",
+          "日",
+          "一"
+        ],
+        "keys": [
+          "D",
+          "A",
+          "M"
+        ],
+        "full": "木日一 (DAM)",
+        "secret": "查：木日一 (DAM)"
+      },
+      {
+        "char": "算",
+        "codes": [
+          "竹",
+          "月",
+          "山",
+          "廿"
+        ],
+        "keys": [
+          "H",
+          "B",
+          "U",
+          "T"
+        ],
+        "full": "竹月山廿 (HBUT)",
+        "secret": "算：竹月山廿 (HBUT)"
+      },
+      {
+        "char": "游",
+        "codes": [
+          "水",
+          "卜",
+          "尸",
+          "木"
+        ],
+        "keys": [
+          "E",
+          "Y",
+          "S",
+          "D"
+        ],
+        "full": "水卜尸木 (EYSD)",
+        "secret": "游：水卜尸木 (EYSD)"
+      },
+      {
+        "char": "持",
+        "codes": [
+          "手",
+          "土",
+          "木",
+          "戈"
+        ],
+        "keys": [
+          "Q",
+          "G",
+          "D",
+          "I"
+        ],
+        "full": "手土木戈 (QGDI)",
+        "secret": "持：手土木戈 (QGDI)"
+      },
+      {
+        "char": "加",
+        "codes": [
+          "大",
+          "尸",
+          "口"
+        ],
+        "keys": [
+          "K",
+          "S",
+          "R"
+        ],
+        "full": "大尸口 (KSR)",
+        "secret": "加：大尸口 (KSR)"
+      },
+      {
+        "char": "軍",
+        "codes": [
+          "月",
+          "十",
+          "田",
+          "十"
+        ],
+        "keys": [
+          "B",
+          "J",
+          "W",
+          "J"
+        ],
+        "full": "月十田十 (BJWJ)",
+        "secret": "軍：月十田十 (BJWJ)"
+      },
+      {
+        "char": "陽",
+        "codes": [
+          "弓",
+          "中",
+          "日",
+          "一",
+          "竹"
+        ],
+        "keys": [
+          "N",
+          "L",
+          "A",
+          "M",
+          "H"
+        ],
+        "full": "弓中日一竹 (NLAMH)",
+        "secret": "陽：弓中日一竹 (NLAMH)"
+      },
+      {
+        "char": "保",
+        "codes": [
+          "人",
+          "口",
+          "木"
+        ],
+        "keys": [
+          "O",
+          "R",
+          "D"
+        ],
+        "full": "人口木 (ORD)",
+        "secret": "保：人口木 (ORD)"
+      },
+      {
+        "char": "落",
+        "codes": [
+          "廿",
+          "水",
+          "竹",
+          "口"
+        ],
+        "keys": [
+          "T",
+          "E",
+          "H",
+          "R"
+        ],
+        "full": "廿水竹口 (TEHR)",
+        "secret": "落：廿水竹口 (TEHR)"
+      },
+      {
+        "char": "足",
+        "codes": [
+          "口",
+          "卜",
+          "人"
+        ],
+        "keys": [
+          "R",
+          "Y",
+          "O"
+        ],
+        "full": "口卜人 (RYO)",
+        "secret": "足：口卜人 (RYO)"
+      },
+      {
+        "char": "典",
+        "codes": [
+          "廿",
+          "月",
+          "金"
+        ],
+        "keys": [
+          "T",
+          "B",
+          "C"
+        ],
+        "full": "廿月金 (TBC)",
+        "secret": "典：廿月金 (TBC)"
+      },
+      {
+        "char": "顧",
+        "codes": [
+          "一",
+          "土",
+          "一",
+          "月",
+          "金"
+        ],
+        "keys": [
+          "M",
+          "G",
+          "M",
+          "B",
+          "C"
+        ],
+        "full": "一土一月金 (MGMBC)",
+        "secret": "顧：一土一月金 (MGMBC)"
+      },
+      {
+        "char": "之",
+        "codes": [
+          "戈",
+          "弓",
+          "人"
+        ],
+        "keys": [
+          "I",
+          "N",
+          "O"
+        ],
+        "full": "戈弓人 (INO)",
+        "secret": "之：戈弓人 (INO)"
+      },
+      {
+        "char": "制",
+        "codes": [
+          "竹",
+          "月",
+          "中",
+          "弓"
+        ],
+        "keys": [
+          "H",
+          "B",
+          "L",
+          "N"
+        ],
+        "full": "竹月中弓 (HBLN)",
+        "secret": "制：竹月中弓 (HBLN)"
+      },
+      {
+        "char": "吉",
+        "codes": [
+          "土",
+          "口"
+        ],
+        "keys": [
+          "G",
+          "R"
+        ],
+        "full": "土口 (GR)",
+        "secret": "吉：土口 (GR)"
+      },
+      {
+        "char": "揮",
+        "codes": [
+          "手",
+          "月",
+          "十",
+          "十"
+        ],
+        "keys": [
+          "Q",
+          "B",
+          "J",
+          "J"
+        ],
+        "full": "手月十十 (QBJJ)",
+        "secret": "揮：手月十十 (QBJJ)"
+      },
+      {
+        "char": "河",
+        "codes": [
+          "水",
+          "一",
+          "弓",
+          "口"
+        ],
+        "keys": [
+          "E",
+          "M",
+          "N",
+          "R"
+        ],
+        "full": "水一弓口 (EMNR)",
+        "secret": "河：水一弓口 (EMNR)"
+      },
+      {
+        "char": "府",
+        "codes": [
+          "戈",
+          "人",
+          "木",
+          "戈"
+        ],
+        "keys": [
+          "I",
+          "O",
+          "D",
+          "I"
+        ],
+        "full": "戈人木戈 (IODI)",
+        "secret": "府：戈人木戈 (IODI)"
+      },
+      {
+        "char": "哪",
+        "codes": [
+          "口",
+          "尸",
+          "手",
+          "中"
+        ],
+        "keys": [
+          "R",
+          "S",
+          "Q",
+          "L"
+        ],
+        "full": "口尸手中 (RSQL)",
+        "secret": "哪：口尸手中 (RSQL)"
+      },
+      {
+        "char": "院",
+        "codes": [
+          "弓",
+          "中",
+          "十",
+          "一",
+          "山"
+        ],
+        "keys": [
+          "N",
+          "L",
+          "J",
+          "M",
+          "U"
+        ],
+        "full": "弓中十一山 (NLJMU)",
+        "secret": "院：弓中十一山 (NLJMU)"
+      },
+      {
+        "char": "福",
+        "codes": [
+          "戈",
+          "火",
+          "一",
+          "口",
+          "田"
+        ],
+        "keys": [
+          "I",
+          "F",
+          "M",
+          "R",
+          "W"
+        ],
+        "full": "戈火一口田 (IFMRW)",
+        "secret": "福：戈火一口田 (IFMRW)"
+      },
+      {
+        "char": "激",
+        "codes": [
+          "水",
+          "竹",
+          "尸",
+          "大"
+        ],
+        "keys": [
+          "E",
+          "H",
+          "S",
+          "K"
+        ],
+        "full": "水竹尸大 (EHSK)",
+        "secret": "激：水竹尸大 (EHSK)"
+      },
+      {
+        "char": "治",
+        "codes": [
+          "水",
+          "戈",
+          "口"
+        ],
+        "keys": [
+          "E",
+          "I",
+          "R"
+        ],
+        "full": "水戈口 (EIR)",
+        "secret": "治：水戈口 (EIR)"
+      },
+      {
+        "char": "禍",
+        "codes": [
+          "戈",
+          "火",
+          "月",
+          "月",
+          "口"
+        ],
+        "keys": [
+          "I",
+          "F",
+          "B",
+          "B",
+          "R"
+        ],
+        "full": "戈火月月口 (IFBBR)",
+        "secret": "禍：戈火月月口 (IFBBR)"
+      },
+      {
+        "char": "姐",
+        "codes": [
+          "女",
+          "月",
+          "一"
+        ],
+        "keys": [
+          "V",
+          "B",
+          "M"
+        ],
+        "full": "女月一 (VBM)",
+        "secret": "姐：女月一 (VBM)"
+      },
+      {
+        "char": "即",
+        "codes": [
+          "日",
+          "戈",
+          "尸",
+          "中"
+        ],
+        "keys": [
+          "A",
+          "I",
+          "S",
+          "L"
+        ],
+        "full": "日戈尸中 (AISL)",
+        "secret": "即：日戈尸中 (AISL)"
+      },
+      {
+        "char": "洲",
+        "codes": [
+          "水",
+          "戈",
+          "中",
+          "中"
+        ],
+        "keys": [
+          "E",
+          "I",
+          "L",
+          "L"
+        ],
+        "full": "水戈中中 (EILL)",
+        "secret": "洲：水戈中中 (EILL)"
+      },
+      {
+        "char": "是",
+        "codes": [
+          "日",
+          "一",
+          "卜",
+          "人"
+        ],
+        "keys": [
+          "A",
+          "M",
+          "Y",
+          "O"
+        ],
+        "full": "日一卜人 (AMYO)",
+        "secret": "是：日一卜人 (AMYO)"
+      },
+      {
+        "char": "委",
+        "codes": [
+          "竹",
+          "木",
+          "女"
+        ],
+        "keys": [
+          "H",
+          "D",
+          "V"
+        ],
+        "full": "竹木女 (HDV)",
+        "secret": "委：竹木女 (HDV)"
+      },
+      {
+        "char": "公",
+        "codes": [
+          "金",
+          "戈"
+        ],
+        "keys": [
+          "C",
+          "I"
+        ],
+        "full": "金戈 (CI)",
+        "secret": "公：金戈 (CI)"
+      },
+      {
+        "char": "副",
+        "codes": [
+          "一",
+          "田",
+          "中",
+          "弓"
+        ],
+        "keys": [
+          "M",
+          "W",
+          "L",
+          "N"
+        ],
+        "full": "一田中弓 (MWLN)",
+        "secret": "副：一田中弓 (MWLN)"
+      },
+      {
+        "char": "嚴",
+        "codes": [
+          "口",
+          "口",
+          "一",
+          "一",
+          "大"
+        ],
+        "keys": [
+          "R",
+          "R",
+          "M",
+          "M",
+          "K"
+        ],
+        "full": "口口一一大 (RRMMK)",
+        "secret": "嚴：口口一一大 (RRMMK)"
+      },
+      {
+        "char": "達",
+        "codes": [
+          "卜",
+          "土",
+          "廿",
+          "手"
+        ],
+        "keys": [
+          "Y",
+          "G",
+          "T",
+          "Q"
+        ],
+        "full": "卜土廿手 (YGTQ)",
+        "secret": "達：卜土廿手 (YGTQ)"
+      },
+      {
+        "char": "功",
+        "codes": [
+          "一",
+          "大",
+          "尸"
+        ],
+        "keys": [
+          "M",
+          "K",
+          "S"
+        ],
+        "full": "一大尸 (MKS)",
+        "secret": "功：一大尸 (MKS)"
+      },
+      {
+        "char": "商",
+        "codes": [
+          "卜",
+          "金",
+          "月",
+          "口"
+        ],
+        "keys": [
+          "Y",
+          "C",
+          "B",
+          "R"
+        ],
+        "full": "卜金月口 (YCBR)",
+        "secret": "商：卜金月口 (YCBR)"
+      },
+      {
+        "char": "斯",
+        "codes": [
+          "廿",
+          "金",
+          "竹",
+          "一",
+          "中"
+        ],
+        "keys": [
+          "T",
+          "C",
+          "H",
+          "M",
+          "L"
+        ],
+        "full": "廿金竹一中 (TCHML)",
+        "secret": "斯：廿金竹一中 (TCHML)"
+      },
+      {
+        "char": "批",
+        "codes": [
+          "手",
+          "心",
+          "心"
+        ],
+        "keys": [
+          "Q",
+          "P",
+          "P"
+        ],
+        "full": "手心心 (QPP)",
+        "secret": "批：手心心 (QPP)"
+      },
+      {
+        "char": "休",
+        "codes": [
+          "人",
+          "木"
+        ],
+        "keys": [
+          "O",
+          "D"
+        ],
+        "full": "人木 (OD)",
+        "secret": "休：人木 (OD)"
+      },
+      {
+        "char": "勝",
+        "codes": [
+          "月",
+          "火",
+          "人",
+          "尸"
+        ],
+        "keys": [
+          "B",
+          "F",
+          "O",
+          "S"
+        ],
+        "full": "月火人尸 (BFOS)",
+        "secret": "勝：月火人尸 (BFOS)"
+      },
+      {
+        "char": "希",
+        "codes": [
+          "大",
+          "大",
+          "中",
+          "月"
+        ],
+        "keys": [
+          "K",
+          "K",
+          "L",
+          "B"
+        ],
+        "full": "大大中月 (KKLB)",
+        "secret": "希：大大中月 (KKLB)"
+      },
+      {
+        "char": "差",
+        "codes": [
+          "廿",
+          "土",
+          "竹",
+          "一"
+        ],
+        "keys": [
+          "T",
+          "G",
+          "H",
+          "M"
+        ],
+        "full": "廿土竹一 (TGHM)",
+        "secret": "差：廿土竹一 (TGHM)"
+      },
+      {
+        "char": "些",
+        "codes": [
+          "卜",
+          "心",
+          "一",
+          "一"
+        ],
+        "keys": [
+          "Y",
+          "P",
+          "M",
+          "M"
+        ],
+        "full": "卜心一一 (YPMM)",
+        "secret": "些：卜心一一 (YPMM)"
+      }
+    ]
+  },
+  "w12_hw4": {
+    "key": "w12_hw4",
+    "week": "w12",
+    "weekName": "第12周",
+    "hwName": "功課4",
+    "title": "📅 第 12 周 功課 4 (並、武、護、須... 50字)",
+    "words": [
+      {
+        "char": "並",
+        "codes": [
+          "廿",
+          "廿",
+          "金"
+        ],
+        "keys": [
+          "T",
+          "T",
+          "C"
+        ],
+        "full": "廿廿金 (TTC)",
+        "secret": "並：廿廿金 (TTC)"
+      },
+      {
+        "char": "武",
+        "codes": [
+          "一",
+          "心",
+          "卜",
+          "中",
+          "一"
+        ],
+        "keys": [
+          "M",
+          "P",
+          "Y",
+          "L",
+          "M"
+        ],
+        "full": "一心卜中一 (MPYLM)",
+        "secret": "武：一心卜中一 (MPYLM)"
+      },
+      {
+        "char": "護",
+        "codes": [
+          "卜",
+          "口",
+          "廿",
+          "人",
+          "水"
+        ],
+        "keys": [
+          "Y",
+          "R",
+          "T",
+          "O",
+          "E"
+        ],
+        "full": "卜口廿人水 (YRTOE)",
+        "secret": "護：卜口廿人水 (YRTOE)"
+      },
+      {
+        "char": "須",
+        "codes": [
+          "竹",
+          "竹",
+          "一",
+          "月",
+          "金"
+        ],
+        "keys": [
+          "H",
+          "H",
+          "M",
+          "B",
+          "C"
+        ],
+        "full": "竹竹一月金 (HHMBC)",
+        "secret": "須：竹竹一月金 (HHMBC)"
+      },
+      {
+        "char": "組",
+        "codes": [
+          "女",
+          "火",
+          "月",
+          "一"
+        ],
+        "keys": [
+          "V",
+          "F",
+          "B",
+          "M"
+        ],
+        "full": "女火月一 (VFBM)",
+        "secret": "組：女火月一 (VFBM)"
+      },
+      {
+        "char": "旅",
+        "codes": [
+          "卜",
+          "尸",
+          "人",
+          "竹",
+          "女"
+        ],
+        "keys": [
+          "Y",
+          "S",
+          "O",
+          "H",
+          "V"
+        ],
+        "full": "卜尸人竹女 (YSOHV)",
+        "secret": "旅：卜尸人竹女 (YSOHV)"
+      },
+      {
+        "char": "洗",
+        "codes": [
+          "水",
+          "竹",
+          "土",
+          "山"
+        ],
+        "keys": [
+          "E",
+          "H",
+          "G",
+          "U"
+        ],
+        "full": "水竹土山 (EHGU)",
+        "secret": "洗：水竹土山 (EHGU)"
+      },
+      {
+        "char": "翻",
+        "codes": [
+          "竹",
+          "田",
+          "尸",
+          "一",
+          "一"
+        ],
+        "keys": [
+          "H",
+          "W",
+          "S",
+          "M",
+          "M"
+        ],
+        "full": "竹田尸一一 (HWSMM)",
+        "secret": "翻：竹田尸一一 (HWSMM)"
+      },
+      {
+        "char": "醫",
+        "codes": [
+          "尸",
+          "水",
+          "一",
+          "金",
+          "田"
+        ],
+        "keys": [
+          "S",
+          "E",
+          "M",
+          "C",
+          "W"
+        ],
+        "full": "尸水一金田 (SEMCW)",
+        "secret": "醫：尸水一金田 (SEMCW)"
+      },
+      {
+        "char": "果",
+        "codes": [
+          "田",
+          "木"
+        ],
+        "keys": [
+          "W",
+          "D"
+        ],
+        "full": "田木 (WD)",
+        "secret": "果：田木 (WD)"
+      },
+      {
+        "char": "言",
+        "codes": [
+          "卜",
+          "一",
+          "一",
+          "口"
+        ],
+        "keys": [
+          "Y",
+          "M",
+          "M",
+          "R"
+        ],
+        "full": "卜一一口 (YMMR)",
+        "secret": "言：卜一一口 (YMMR)"
+      },
+      {
+        "char": "您",
+        "codes": [
+          "人",
+          "火",
+          "心"
+        ],
+        "keys": [
+          "O",
+          "F",
+          "P"
+        ],
+        "full": "人火心 (OFP)",
+        "secret": "您：人火心 (OFP)"
+      },
+      {
+        "char": "島",
+        "codes": [
+          "竹",
+          "日",
+          "卜",
+          "山"
+        ],
+        "keys": [
+          "H",
+          "A",
+          "Y",
+          "U"
+        ],
+        "full": "竹日卜山 (HAYU)",
+        "secret": "島：竹日卜山 (HAYU)"
+      },
+      {
+        "char": "化",
+        "codes": [
+          "人",
+          "心"
+        ],
+        "keys": [
+          "O",
+          "P"
+        ],
+        "full": "人心 (OP)",
+        "secret": "化：人心 (OP)"
+      },
+      {
+        "char": "名",
+        "codes": [
+          "弓",
+          "戈",
+          "口"
+        ],
+        "keys": [
+          "N",
+          "I",
+          "R"
+        ],
+        "full": "弓戈口 (NIR)",
+        "secret": "名：弓戈口 (NIR)"
+      },
+      {
+        "char": "怎",
+        "codes": [
+          "人",
+          "尸",
+          "心"
+        ],
+        "keys": [
+          "O",
+          "S",
+          "P"
+        ],
+        "full": "人尸心 (OSP)",
+        "secret": "怎：人尸心 (OSP)"
+      },
+      {
+        "char": "求",
+        "codes": [
+          "戈",
+          "十",
+          "水"
+        ],
+        "keys": [
+          "I",
+          "J",
+          "E"
+        ],
+        "full": "戈十水 (IJE)",
+        "secret": "求：戈十水 (IJE)"
+      },
+      {
+        "char": "朋",
+        "codes": [
+          "月",
+          "月"
+        ],
+        "keys": [
+          "B",
+          "B"
+        ],
+        "full": "月月 (BB)",
+        "secret": "朋：月月 (BB)"
+      },
+      {
+        "char": "忽",
+        "codes": [
+          "心",
+          "竹",
+          "心"
+        ],
+        "keys": [
+          "P",
+          "H",
+          "P"
+        ],
+        "full": "心竹心 (PHP)",
+        "secret": "忽：心竹心 (PHP)"
+      },
+      {
+        "char": "活",
+        "codes": [
+          "水",
+          "竹",
+          "十",
+          "口"
+        ],
+        "keys": [
+          "E",
+          "H",
+          "J",
+          "R"
+        ],
+        "full": "水竹十口 (EHJR)",
+        "secret": "活：水竹十口 (EHJR)"
+      },
+      {
+        "char": "烈",
+        "codes": [
+          "一",
+          "弓",
+          "火"
+        ],
+        "keys": [
+          "M",
+          "N",
+          "F"
+        ],
+        "full": "一弓火 (MNF)",
+        "secret": "烈：一弓火 (MNF)"
+      },
+      {
+        "char": "錢",
+        "codes": [
+          "金",
+          "戈",
+          "戈"
+        ],
+        "keys": [
+          "C",
+          "I",
+          "I"
+        ],
+        "full": "金戈戈 (CII)",
+        "secret": "錢：金戈戈 (CII)"
+      },
+      {
+        "char": "窗",
+        "codes": [
+          "十",
+          "金",
+          "竹",
+          "田",
+          "大"
+        ],
+        "keys": [
+          "J",
+          "C",
+          "H",
+          "W",
+          "K"
+        ],
+        "full": "十金竹田大 (JCHWK)",
+        "secret": "窗：十金竹田大 (JCHWK)"
+      },
+      {
+        "char": "得",
+        "codes": [
+          "竹",
+          "人",
+          "日",
+          "一",
+          "戈"
+        ],
+        "keys": [
+          "H",
+          "O",
+          "A",
+          "M",
+          "I"
+        ],
+        "full": "竹人日一戈 (HOAMI)",
+        "secret": "得：竹人日一戈 (HOAMI)"
+      },
+      {
+        "char": "洋",
+        "codes": [
+          "水",
+          "廿",
+          "手"
+        ],
+        "keys": [
+          "E",
+          "T",
+          "Q"
+        ],
+        "full": "水廿手 (ETQ)",
+        "secret": "洋：水廿手 (ETQ)"
+      },
+      {
+        "char": "在",
+        "codes": [
+          "大",
+          "中",
+          "土"
+        ],
+        "keys": [
+          "K",
+          "L",
+          "G"
+        ],
+        "full": "大中土 (KLG)",
+        "secret": "在：大中土 (KLG)"
+      },
+      {
+        "char": "全",
+        "codes": [
+          "人",
+          "一",
+          "土"
+        ],
+        "keys": [
+          "O",
+          "M",
+          "G"
+        ],
+        "full": "人一土 (OMG)",
+        "secret": "全：人一土 (OMG)"
+      },
+      {
+        "char": "為",
+        "codes": [
+          "戈",
+          "大",
+          "弓",
+          "火"
+        ],
+        "keys": [
+          "I",
+          "K",
+          "N",
+          "F"
+        ],
+        "full": "戈大弓火 (IKNF)",
+        "secret": "為：戈大弓火 (IKNF)"
+      },
+      {
+        "char": "將",
+        "codes": [
+          "女",
+          "一",
+          "月",
+          "木",
+          "戈"
+        ],
+        "keys": [
+          "V",
+          "M",
+          "B",
+          "D",
+          "I"
+        ],
+        "full": "女一月木戈 (VMBDI)",
+        "secret": "將：女一月木戈 (VMBDI)"
+      },
+      {
+        "char": "仍",
+        "codes": [
+          "人",
+          "弓",
+          "竹",
+          "尸"
+        ],
+        "keys": [
+          "O",
+          "N",
+          "H",
+          "S"
+        ],
+        "full": "人弓竹尸 (ONHS)",
+        "secret": "仍：人弓竹尸 (ONHS)"
+      },
+      {
+        "char": "機",
+        "codes": [
+          "木",
+          "女",
+          "戈",
+          "戈"
+        ],
+        "keys": [
+          "D",
+          "V",
+          "I",
+          "I"
+        ],
+        "full": "木女戈戈 (DVII)",
+        "secret": "機：木女戈戈 (DVII)"
+      },
+      {
+        "char": "愛",
+        "codes": [
+          "月",
+          "月",
+          "心",
+          "水"
+        ],
+        "keys": [
+          "B",
+          "B",
+          "P",
+          "E"
+        ],
+        "full": "月月心水 (BBPE)",
+        "secret": "愛：月月心水 (BBPE)"
+      },
+      {
+        "char": "爸",
+        "codes": [
+          "金",
+          "大",
+          "日",
+          "山"
+        ],
+        "keys": [
+          "C",
+          "K",
+          "A",
+          "U"
+        ],
+        "full": "金大日山 (CKAU)",
+        "secret": "爸：金大日山 (CKAU)"
+      },
+      {
+        "char": "塞",
+        "codes": [
+          "十",
+          "廿",
+          "金",
+          "土"
+        ],
+        "keys": [
+          "J",
+          "T",
+          "C",
+          "G"
+        ],
+        "full": "十廿金土 (JTCG)",
+        "secret": "塞：十廿金土 (JTCG)"
+      },
+      {
+        "char": "解",
+        "codes": [
+          "弓",
+          "月",
+          "尸",
+          "竹",
+          "手"
+        ],
+        "keys": [
+          "N",
+          "B",
+          "S",
+          "H",
+          "Q"
+        ],
+        "full": "弓月尸竹手 (NBSHQ)",
+        "secret": "解：弓月尸竹手 (NBSHQ)"
+      },
+      {
+        "char": "聖",
+        "codes": [
+          "尸",
+          "口",
+          "竹",
+          "土"
+        ],
+        "keys": [
+          "S",
+          "R",
+          "H",
+          "G"
+        ],
+        "full": "尸口竹土 (SRHG)",
+        "secret": "聖：尸口竹土 (SRHG)"
+      },
+      {
+        "char": "你",
+        "codes": [
+          "人",
+          "弓",
+          "火"
+        ],
+        "keys": [
+          "O",
+          "N",
+          "F"
+        ],
+        "full": "人弓火 (ONF)",
+        "secret": "你：人弓火 (ONF)"
+      },
+      {
+        "char": "鐵",
+        "codes": [
+          "金",
+          "十",
+          "戈",
+          "土"
+        ],
+        "keys": [
+          "C",
+          "J",
+          "I",
+          "G"
+        ],
+        "full": "金十戈土 (CJIG)",
+        "secret": "鐵：金十戈土 (CJIG)"
+      },
+      {
+        "char": "至",
+        "codes": [
+          "一",
+          "戈",
+          "土"
+        ],
+        "keys": [
+          "M",
+          "I",
+          "G"
+        ],
+        "full": "一戈土 (MIG)",
+        "secret": "至：一戈土 (MIG)"
+      },
+      {
+        "char": "庭",
+        "codes": [
+          "戈",
+          "弓",
+          "大",
+          "土"
+        ],
+        "keys": [
+          "I",
+          "N",
+          "K",
+          "G"
+        ],
+        "full": "戈弓大土 (INKG)",
+        "secret": "庭：戈弓大土 (INKG)"
+      },
+      {
+        "char": "夥",
+        "codes": [
+          "田",
+          "木",
+          "弓",
+          "戈",
+          "弓"
+        ],
+        "keys": [
+          "W",
+          "D",
+          "N",
+          "I",
+          "N"
+        ],
+        "full": "田木弓戈弓 (WDNIN)",
+        "secret": "夥：田木弓戈弓 (WDNIN)"
+      },
+      {
+        "char": "真",
+        "codes": [
+          "十",
+          "月",
+          "一",
+          "金"
+        ],
+        "keys": [
+          "J",
+          "B",
+          "M",
+          "C"
+        ],
+        "full": "十月一金 (JBMC)",
+        "secret": "真：十月一金 (JBMC)"
+      },
+      {
+        "char": "生",
+        "codes": [
+          "竹",
+          "手",
+          "一"
+        ],
+        "keys": [
+          "H",
+          "Q",
+          "M"
+        ],
+        "full": "竹手一 (HQM)",
+        "secret": "生：竹手一 (HQM)"
+      },
+      {
+        "char": "西",
+        "codes": [
+          "一",
+          "金",
+          "田"
+        ],
+        "keys": [
+          "M",
+          "C",
+          "W"
+        ],
+        "full": "一金田 (MCW)",
+        "secret": "西：一金田 (MCW)"
+      },
+      {
+        "char": "賽",
+        "codes": [
+          "十",
+          "廿",
+          "金",
+          "金"
+        ],
+        "keys": [
+          "J",
+          "T",
+          "C",
+          "C"
+        ],
+        "full": "十廿金金 (JTCC)",
+        "secret": "賽：十廿金金 (JTCC)"
+      },
+      {
+        "char": "熟",
+        "codes": [
+          "卜",
+          "戈",
+          "火"
+        ],
+        "keys": [
+          "Y",
+          "I",
+          "F"
+        ],
+        "full": "卜戈火 (YIF)",
+        "secret": "熟：卜戈火 (YIF)"
+      },
+      {
+        "char": "再",
+        "codes": [
+          "一",
+          "土",
+          "月"
+        ],
+        "keys": [
+          "M",
+          "G",
+          "B"
+        ],
+        "full": "一土月 (MGB)",
+        "secret": "再：一土月 (MGB)"
+      },
+      {
+        "char": "清",
+        "codes": [
+          "水",
+          "手",
+          "一",
+          "月"
+        ],
+        "keys": [
+          "E",
+          "Q",
+          "M",
+          "B"
+        ],
+        "full": "水手一月 (EQMB)",
+        "secret": "清：水手一月 (EQMB)"
+      },
+      {
+        "char": "少",
+        "codes": [
+          "火",
+          "竹"
+        ],
+        "keys": [
+          "F",
+          "H"
+        ],
+        "full": "火竹 (FH)",
+        "secret": "少：火竹 (FH)"
+      },
+      {
+        "char": "動",
+        "codes": [
+          "竹",
+          "土",
+          "大",
+          "尸"
+        ],
+        "keys": [
+          "H",
+          "G",
+          "K",
+          "S"
+        ],
+        "full": "竹土大尸 (HGKS)",
+        "secret": "動：竹土大尸 (HGKS)"
+      }
+    ]
+  },
+  "w13_hw1": {
+    "key": "w13_hw1",
+    "week": "w13",
+    "weekName": "第13周",
+    "hwName": "功課1",
+    "title": "📅 第 13 周 功課 1 (推、架、裡、忍... 50字)",
+    "words": [
+      {
+        "char": "推",
+        "codes": [
+          "手",
+          "人",
+          "土"
+        ],
+        "keys": [
+          "Q",
+          "O",
+          "G"
+        ],
+        "full": "手人土 (QOG)",
+        "secret": "推：手人土 (QOG)"
+      },
+      {
+        "char": "架",
+        "codes": [
+          "大",
+          "口",
+          "木"
+        ],
+        "keys": [
+          "K",
+          "R",
+          "D"
+        ],
+        "full": "大口木 (KRD)",
+        "secret": "架：大口木 (KRD)"
+      },
+      {
+        "char": "裡",
+        "codes": [
+          "中",
+          "田",
+          "土"
+        ],
+        "keys": [
+          "L",
+          "W",
+          "G"
+        ],
+        "full": "中田土 (LWG)",
+        "secret": "裡：中田土 (LWG)"
+      },
+      {
+        "char": "忍",
+        "codes": [
+          "尸",
+          "戈",
+          "心"
+        ],
+        "keys": [
+          "S",
+          "I",
+          "P"
+        ],
+        "full": "尸戈心 (SIP)",
+        "secret": "忍：尸戈心 (SIP)"
+      },
+      {
+        "char": "假",
+        "codes": [
+          "人",
+          "口",
+          "尸",
+          "水"
+        ],
+        "keys": [
+          "O",
+          "R",
+          "S",
+          "E"
+        ],
+        "full": "人口尸水 (ORSE)",
+        "secret": "假：人口尸水 (ORSE)"
+      },
+      {
+        "char": "京",
+        "codes": [
+          "卜",
+          "口",
+          "火"
+        ],
+        "keys": [
+          "Y",
+          "R",
+          "F"
+        ],
+        "full": "卜口火 (YRF)",
+        "secret": "京：卜口火 (YRF)"
+      },
+      {
+        "char": "產",
+        "codes": [
+          "卜",
+          "一",
+          "竹",
+          "手",
+          "一"
+        ],
+        "keys": [
+          "Y",
+          "M",
+          "H",
+          "Q",
+          "M"
+        ],
+        "full": "卜一竹手一 (YMHQM)",
+        "secret": "產：卜一竹手一 (YMHQM)"
+      },
+      {
+        "char": "氣",
+        "codes": [
+          "人",
+          "弓"
+        ],
+        "keys": [
+          "O",
+          "N"
+        ],
+        "full": "人弓 (ON)",
+        "secret": "氣：人弓 (ON)"
+      },
+      {
+        "char": "別",
+        "codes": [
+          "口",
+          "尸",
+          "中",
+          "弓"
+        ],
+        "keys": [
+          "R",
+          "S",
+          "L",
+          "N"
+        ],
+        "full": "口尸中弓 (RSLN)",
+        "secret": "別：口尸中弓 (RSLN)"
+      },
+      {
+        "char": "畢",
+        "codes": [
+          "田",
+          "廿",
+          "十"
+        ],
+        "keys": [
+          "W",
+          "T",
+          "J"
+        ],
+        "full": "田廿十 (WTJ)",
+        "secret": "畢：田廿十 (WTJ)"
+      },
+      {
+        "char": "授",
+        "codes": [
+          "手",
+          "月",
+          "月",
+          "水"
+        ],
+        "keys": [
+          "Q",
+          "B",
+          "B",
+          "E"
+        ],
+        "full": "手月月水 (QBBE)",
+        "secret": "授：手月月水 (QBBE)"
+      },
+      {
+        "char": "印",
+        "codes": [
+          "竹",
+          "心",
+          "尸",
+          "中"
+        ],
+        "keys": [
+          "H",
+          "P",
+          "S",
+          "L"
+        ],
+        "full": "竹心尸中 (HPSL)",
+        "secret": "印：竹心尸中 (HPSL)"
+      },
+      {
+        "char": "亞",
+        "codes": [
+          "一",
+          "中",
+          "中",
+          "一"
+        ],
+        "keys": [
+          "M",
+          "L",
+          "L",
+          "M"
+        ],
+        "full": "一中中一 (MLLM)",
+        "secret": "亞：一中中一 (MLLM)"
+      },
+      {
+        "char": "翻",
+        "codes": [
+          "竹",
+          "田",
+          "尸",
+          "一",
+          "一"
+        ],
+        "keys": [
+          "H",
+          "W",
+          "S",
+          "M",
+          "M"
+        ],
+        "full": "竹田尸一一 (HWSMM)",
+        "secret": "翻：竹田尸一一 (HWSMM)"
+      },
+      {
+        "char": "康",
+        "codes": [
+          "戈",
+          "中",
+          "水"
+        ],
+        "keys": [
+          "I",
+          "L",
+          "E"
+        ],
+        "full": "戈中水 (ILE)",
+        "secret": "康：戈中水 (ILE)"
+      },
+      {
+        "char": "尋",
+        "codes": [
+          "尸",
+          "一",
+          "一",
+          "口",
+          "戈"
+        ],
+        "keys": [
+          "S",
+          "M",
+          "M",
+          "R",
+          "I"
+        ],
+        "full": "尸一一口戈 (SMMRI)",
+        "secret": "尋：尸一一口戈 (SMMRI)"
+      },
+      {
+        "char": "最",
+        "codes": [
+          "日",
+          "尸",
+          "十",
+          "水"
+        ],
+        "keys": [
+          "A",
+          "S",
+          "J",
+          "E"
+        ],
+        "full": "日尸十水 (ASJE)",
+        "secret": "最：日尸十水 (ASJE)"
+      },
+      {
+        "char": "研",
+        "codes": [
+          "一",
+          "口",
+          "一",
+          "廿"
+        ],
+        "keys": [
+          "M",
+          "R",
+          "M",
+          "T"
+        ],
+        "full": "一口一廿 (MRMT)",
+        "secret": "研：一口一廿 (MRMT)"
+      },
+      {
+        "char": "默",
+        "codes": [
+          "田",
+          "火",
+          "戈",
+          "大"
+        ],
+        "keys": [
+          "W",
+          "F",
+          "I",
+          "K"
+        ],
+        "full": "田火戈大 (WFIK)",
+        "secret": "默：田火戈大 (WFIK)"
+      },
+      {
+        "char": "千",
+        "codes": [
+          "竹",
+          "十"
+        ],
+        "keys": [
+          "H",
+          "J"
+        ],
+        "full": "竹十 (HJ)",
+        "secret": "千：竹十 (HJ)"
+      },
+      {
+        "char": "師",
+        "codes": [
+          "竹",
+          "口",
+          "一",
+          "中",
+          "月"
+        ],
+        "keys": [
+          "H",
+          "R",
+          "M",
+          "L",
+          "B"
+        ],
+        "full": "竹口一中月 (HRMLB)",
+        "secret": "師：竹口一中月 (HRMLB)"
+      },
+      {
+        "char": "難",
+        "codes": [
+          "廿",
+          "人",
+          "土"
+        ],
+        "keys": [
+          "T",
+          "O",
+          "G"
+        ],
+        "full": "廿人土 (TOG)",
+        "secret": "難：廿人土 (TOG)"
+      },
+      {
+        "char": "腦",
+        "codes": [
+          "月",
+          "女",
+          "女",
+          "田"
+        ],
+        "keys": [
+          "B",
+          "V",
+          "V",
+          "W"
+        ],
+        "full": "月女女田 (BVVW)",
+        "secret": "腦：月女女田 (BVVW)"
+      },
+      {
+        "char": "致",
+        "codes": [
+          "一",
+          "土",
+          "人",
+          "大"
+        ],
+        "keys": [
+          "M",
+          "G",
+          "O",
+          "K"
+        ],
+        "full": "一土人大 (MGOK)",
+        "secret": "致：一土人大 (MGOK)"
+      },
+      {
+        "char": "在",
+        "codes": [
+          "大",
+          "中",
+          "土"
+        ],
+        "keys": [
+          "K",
+          "L",
+          "G"
+        ],
+        "full": "大中土 (KLG)",
+        "secret": "在：大中土 (KLG)"
+      },
+      {
+        "char": "狗",
+        "codes": [
+          "大",
+          "竹",
+          "心",
+          "口"
+        ],
+        "keys": [
+          "K",
+          "H",
+          "P",
+          "R"
+        ],
+        "full": "大竹心口 (KHPR)",
+        "secret": "狗：大竹心口 (KHPR)"
+      },
+      {
+        "char": "公",
+        "codes": [
+          "金",
+          "戈"
+        ],
+        "keys": [
+          "C",
+          "I"
+        ],
+        "full": "金戈 (CI)",
+        "secret": "公：金戈 (CI)"
+      },
+      {
+        "char": "出",
+        "codes": [
+          "山",
+          "山"
+        ],
+        "keys": [
+          "U",
+          "U"
+        ],
+        "full": "山山 (UU)",
+        "secret": "出：山山 (UU)"
+      },
+      {
+        "char": "表",
+        "codes": [
+          "手",
+          "一",
+          "女"
+        ],
+        "keys": [
+          "Q",
+          "M",
+          "V"
+        ],
+        "full": "手一女 (QMV)",
+        "secret": "表：手一女 (QMV)"
+      },
+      {
+        "char": "書",
+        "codes": [
+          "中",
+          "土",
+          "日"
+        ],
+        "keys": [
+          "L",
+          "G",
+          "A"
+        ],
+        "full": "中土日 (LGA)",
+        "secret": "書：中土日 (LGA)"
+      },
+      {
+        "char": "夥",
+        "codes": [
+          "田",
+          "木",
+          "弓",
+          "戈",
+          "弓"
+        ],
+        "keys": [
+          "W",
+          "D",
+          "N",
+          "I",
+          "N"
+        ],
+        "full": "田木弓戈弓 (WDNIN)",
+        "secret": "夥：田木弓戈弓 (WDNIN)"
+      },
+      {
+        "char": "擁",
+        "codes": [
+          "手",
+          "卜",
+          "女",
+          "土"
+        ],
+        "keys": [
+          "Q",
+          "Y",
+          "V",
+          "G"
+        ],
+        "full": "手卜女土 (QYVG)",
+        "secret": "擁：手卜女土 (QYVG)"
+      },
+      {
+        "char": "退",
+        "codes": [
+          "卜",
+          "日",
+          "女"
+        ],
+        "keys": [
+          "Y",
+          "A",
+          "V"
+        ],
+        "full": "卜日女 (YAV)",
+        "secret": "退：卜日女 (YAV)"
+      },
+      {
+        "char": "性",
+        "codes": [
+          "心",
+          "竹",
+          "手",
+          "一"
+        ],
+        "keys": [
+          "P",
+          "H",
+          "Q",
+          "M"
+        ],
+        "full": "心竹手一 (PHQM)",
+        "secret": "性：心竹手一 (PHQM)"
+      },
+      {
+        "char": "習",
+        "codes": [
+          "尸",
+          "一",
+          "竹",
+          "日"
+        ],
+        "keys": [
+          "S",
+          "M",
+          "H",
+          "A"
+        ],
+        "full": "尸一竹日 (SMHA)",
+        "secret": "習：尸一竹日 (SMHA)"
+      },
+      {
+        "char": "色",
+        "codes": [
+          "弓",
+          "日",
+          "山"
+        ],
+        "keys": [
+          "N",
+          "A",
+          "U"
+        ],
+        "full": "弓日山 (NAU)",
+        "secret": "色：弓日山 (NAU)"
+      },
+      {
+        "char": "繼",
+        "codes": [
+          "女",
+          "火",
+          "女",
+          "女",
+          "戈"
+        ],
+        "keys": [
+          "V",
+          "F",
+          "V",
+          "V",
+          "I"
+        ],
+        "full": "女火女女戈 (VFVVI)",
+        "secret": "繼：女火女女戈 (VFVVI)"
+      },
+      {
+        "char": "酒",
+        "codes": [
+          "水",
+          "一",
+          "金",
+          "田"
+        ],
+        "keys": [
+          "E",
+          "M",
+          "C",
+          "W"
+        ],
+        "full": "水一金田 (EMCW)",
+        "secret": "酒：水一金田 (EMCW)"
+      },
+      {
+        "char": "牛",
+        "codes": [
+          "竹",
+          "手"
+        ],
+        "keys": [
+          "H",
+          "Q"
+        ],
+        "full": "竹手 (HQ)",
+        "secret": "牛：竹手 (HQ)"
+      },
+      {
+        "char": "具",
+        "codes": [
+          "月",
+          "一",
+          "一",
+          "金"
+        ],
+        "keys": [
+          "B",
+          "M",
+          "M",
+          "C"
+        ],
+        "full": "月一一金 (BMMC)",
+        "secret": "具：月一一金 (BMMC)"
+      },
+      {
+        "char": "劇",
+        "codes": [
+          "卜",
+          "人",
+          "中",
+          "弓"
+        ],
+        "keys": [
+          "Y",
+          "O",
+          "L",
+          "N"
+        ],
+        "full": "卜人中弓 (YOLN)",
+        "secret": "劇：卜人中弓 (YOLN)"
+      },
+      {
+        "char": "客",
+        "codes": [
+          "十",
+          "竹",
+          "水",
+          "口"
+        ],
+        "keys": [
+          "J",
+          "H",
+          "E",
+          "R"
+        ],
+        "full": "十竹水口 (JHER)",
+        "secret": "客：十竹水口 (JHER)"
+      },
+      {
+        "char": "呼",
+        "codes": [
+          "口",
+          "竹",
+          "火",
+          "木"
+        ],
+        "keys": [
+          "R",
+          "H",
+          "F",
+          "D"
+        ],
+        "full": "口竹火木 (RHFD)",
+        "secret": "呼：口竹火木 (RHFD)"
+      },
+      {
+        "char": "凡",
+        "codes": [
+          "竹",
+          "弓",
+          "戈"
+        ],
+        "keys": [
+          "H",
+          "N",
+          "I"
+        ],
+        "full": "竹弓戈 (HNI)",
+        "secret": "凡：竹弓戈 (HNI)"
+      },
+      {
+        "char": "體",
+        "codes": [
+          "月",
+          "廿",
+          "田",
+          "廿"
+        ],
+        "keys": [
+          "B",
+          "T",
+          "W",
+          "T"
+        ],
+        "full": "月廿田廿 (BTWT)",
+        "secret": "體：月廿田廿 (BTWT)"
+      },
+      {
+        "char": "忙",
+        "codes": [
+          "心",
+          "卜",
+          "女"
+        ],
+        "keys": [
+          "P",
+          "Y",
+          "V"
+        ],
+        "full": "心卜女 (PYV)",
+        "secret": "忙：心卜女 (PYV)"
+      },
+      {
+        "char": "仍",
+        "codes": [
+          "人",
+          "弓",
+          "竹",
+          "尸"
+        ],
+        "keys": [
+          "O",
+          "N",
+          "H",
+          "S"
+        ],
+        "full": "人弓竹尸 (ONHS)",
+        "secret": "仍：人弓竹尸 (ONHS)"
+      },
+      {
+        "char": "清",
+        "codes": [
+          "水",
+          "手",
+          "一",
+          "月"
+        ],
+        "keys": [
+          "E",
+          "Q",
+          "M",
+          "B"
+        ],
+        "full": "水手一月 (EQMB)",
+        "secret": "清：水手一月 (EQMB)"
+      },
+      {
+        "char": "練",
+        "codes": [
+          "女",
+          "火",
+          "木",
+          "田",
+          "火"
+        ],
+        "keys": [
+          "V",
+          "F",
+          "D",
+          "W",
+          "F"
+        ],
+        "full": "女火木田火 (VFDWF)",
+        "secret": "練：女火木田火 (VFDWF)"
+      },
+      {
+        "char": "急",
+        "codes": [
+          "弓",
+          "尸",
+          "心"
+        ],
+        "keys": [
+          "N",
+          "S",
+          "P"
+        ],
+        "full": "弓尸心 (NSP)",
+        "secret": "急：弓尸心 (NSP)"
+      }
+    ]
+  },
+  "w13_hw2": {
+    "key": "w13_hw2",
+    "week": "w13",
+    "weekName": "第13周",
+    "hwName": "功課2",
+    "title": "📅 第 13 周 功課 2 (例、畫、汽、肉... 50字)",
+    "words": [
+      {
+        "char": "例",
+        "codes": [
+          "人",
+          "一",
+          "弓",
+          "弓"
+        ],
+        "keys": [
+          "O",
+          "M",
+          "N",
+          "N"
+        ],
+        "full": "人一弓弓 (OMNN)",
+        "secret": "例：人一弓弓 (OMNN)"
+      },
+      {
+        "char": "畫",
+        "codes": [
+          "中",
+          "土",
+          "田",
+          "一"
+        ],
+        "keys": [
+          "L",
+          "G",
+          "W",
+          "M"
+        ],
+        "full": "中土田一 (LGWM)",
+        "secret": "畫：中土田一 (LGWM)"
+      },
+      {
+        "char": "汽",
+        "codes": [
+          "水",
+          "人",
+          "一",
+          "弓"
+        ],
+        "keys": [
+          "E",
+          "O",
+          "M",
+          "N"
+        ],
+        "full": "水人一弓 (EOMN)",
+        "secret": "汽：水人一弓 (EOMN)"
+      },
+      {
+        "char": "肉",
+        "codes": [
+          "人",
+          "月",
+          "人"
+        ],
+        "keys": [
+          "O",
+          "B",
+          "O"
+        ],
+        "full": "人月人 (OBO)",
+        "secret": "肉：人月人 (OBO)"
+      },
+      {
+        "char": "迷",
+        "codes": [
+          "卜",
+          "火",
+          "木"
+        ],
+        "keys": [
+          "Y",
+          "F",
+          "D"
+        ],
+        "full": "卜火木 (YFD)",
+        "secret": "迷：卜火木 (YFD)"
+      },
+      {
+        "char": "功",
+        "codes": [
+          "一",
+          "大",
+          "尸"
+        ],
+        "keys": [
+          "M",
+          "K",
+          "S"
+        ],
+        "full": "一大尸 (MKS)",
+        "secret": "功：一大尸 (MKS)"
+      },
+      {
+        "char": "注",
+        "codes": [
+          "水",
+          "卜",
+          "土"
+        ],
+        "keys": [
+          "E",
+          "Y",
+          "G"
+        ],
+        "full": "水卜土 (EYG)",
+        "secret": "注：水卜土 (EYG)"
+      },
+      {
+        "char": "秘",
+        "codes": [
+          "竹",
+          "木",
+          "心",
+          "竹"
+        ],
+        "keys": [
+          "H",
+          "D",
+          "P",
+          "H"
+        ],
+        "full": "竹木心竹 (HDPH)",
+        "secret": "秘：竹木心竹 (HDPH)"
+      },
+      {
+        "char": "成",
+        "codes": [
+          "戈",
+          "竹",
+          "尸"
+        ],
+        "keys": [
+          "I",
+          "H",
+          "S"
+        ],
+        "full": "戈竹尸 (IHS)",
+        "secret": "成：戈竹尸 (IHS)"
+      },
+      {
+        "char": "溫",
+        "codes": [
+          "水",
+          "田",
+          "人",
+          "廿"
+        ],
+        "keys": [
+          "E",
+          "W",
+          "O",
+          "T"
+        ],
+        "full": "水田人廿 (EWOT)",
+        "secret": "溫：水田人廿 (EWOT)"
+      },
+      {
+        "char": "親",
+        "codes": [
+          "卜",
+          "木",
+          "月",
+          "山",
+          "山"
+        ],
+        "keys": [
+          "Y",
+          "D",
+          "B",
+          "U",
+          "U"
+        ],
+        "full": "卜木月山山 (YDBUU)",
+        "secret": "親：卜木月山山 (YDBUU)"
+      },
+      {
+        "char": "短",
+        "codes": [
+          "人",
+          "大",
+          "一",
+          "口",
+          "廿"
+        ],
+        "keys": [
+          "O",
+          "K",
+          "M",
+          "R",
+          "T"
+        ],
+        "full": "人大一口廿 (OKMRT)",
+        "secret": "短：人大一口廿 (OKMRT)"
+      },
+      {
+        "char": "骨",
+        "codes": [
+          "月",
+          "月",
+          "月"
+        ],
+        "keys": [
+          "B",
+          "B",
+          "B"
+        ],
+        "full": "月月月 (BBB)",
+        "secret": "骨：月月月 (BBB)"
+      },
+      {
+        "char": "商",
+        "codes": [
+          "卜",
+          "金",
+          "月",
+          "口"
+        ],
+        "keys": [
+          "Y",
+          "C",
+          "B",
+          "R"
+        ],
+        "full": "卜金月口 (YCBR)",
+        "secret": "商：卜金月口 (YCBR)"
+      },
+      {
+        "char": "靜",
+        "codes": [
+          "手",
+          "月",
+          "月",
+          "尸",
+          "木"
+        ],
+        "keys": [
+          "Q",
+          "B",
+          "B",
+          "S",
+          "D"
+        ],
+        "full": "手月月尸木 (QBBSD)",
+        "secret": "靜：手月月尸木 (QBBSD)"
+      },
+      {
+        "char": "選",
+        "codes": [
+          "卜",
+          "口",
+          "山",
+          "金"
+        ],
+        "keys": [
+          "Y",
+          "R",
+          "U",
+          "C"
+        ],
+        "full": "卜口山金 (YRUC)",
+        "secret": "選：卜口山金 (YRUC)"
+      },
+      {
+        "char": "要",
+        "codes": [
+          "一",
+          "田",
+          "女"
+        ],
+        "keys": [
+          "M",
+          "W",
+          "V"
+        ],
+        "full": "一田女 (MWV)",
+        "secret": "要：一田女 (MWV)"
+      },
+      {
+        "char": "她",
+        "codes": [
+          "女",
+          "心",
+          "木"
+        ],
+        "keys": [
+          "V",
+          "P",
+          "D"
+        ],
+        "full": "女心木 (VPD)",
+        "secret": "她：女心木 (VPD)"
+      },
+      {
+        "char": "讀",
+        "codes": [
+          "卜",
+          "口",
+          "土",
+          "田",
+          "金"
+        ],
+        "keys": [
+          "Y",
+          "R",
+          "G",
+          "W",
+          "C"
+        ],
+        "full": "卜口土田金 (YRGWC)",
+        "secret": "讀：卜口土田金 (YRGWC)"
+      },
+      {
+        "char": "回",
+        "codes": [
+          "田",
+          "口"
+        ],
+        "keys": [
+          "W",
+          "R"
+        ],
+        "full": "田口 (WR)",
+        "secret": "回：田口 (WR)"
+      },
+      {
+        "char": "頓",
+        "codes": [
+          "心",
+          "山",
+          "一",
+          "月",
+          "金"
+        ],
+        "keys": [
+          "P",
+          "U",
+          "M",
+          "B",
+          "C"
+        ],
+        "full": "心山一月金 (PUMBC)",
+        "secret": "頓：心山一月金 (PUMBC)"
+      },
+      {
+        "char": "犯",
+        "codes": [
+          "大",
+          "竹",
+          "尸",
+          "山"
+        ],
+        "keys": [
+          "K",
+          "H",
+          "S",
+          "U"
+        ],
+        "full": "大竹尸山 (KHSU)",
+        "secret": "犯：大竹尸山 (KHSU)"
+      },
+      {
+        "char": "走",
+        "codes": [
+          "土",
+          "卜",
+          "人"
+        ],
+        "keys": [
+          "G",
+          "Y",
+          "O"
+        ],
+        "full": "土卜人 (GYO)",
+        "secret": "走：土卜人 (GYO)"
+      },
+      {
+        "char": "有",
+        "codes": [
+          "大",
+          "月"
+        ],
+        "keys": [
+          "K",
+          "B"
+        ],
+        "full": "大月 (KB)",
+        "secret": "有：大月 (KB)"
+      },
+      {
+        "char": "怕",
+        "codes": [
+          "心",
+          "日"
+        ],
+        "keys": [
+          "P",
+          "A"
+        ],
+        "full": "心日 (PA)",
+        "secret": "怕：心日 (PA)"
+      },
+      {
+        "char": "喜",
+        "codes": [
+          "土",
+          "口",
+          "廿",
+          "口"
+        ],
+        "keys": [
+          "G",
+          "R",
+          "T",
+          "R"
+        ],
+        "full": "土口廿口 (GRTR)",
+        "secret": "喜：土口廿口 (GRTR)"
+      },
+      {
+        "char": "活",
+        "codes": [
+          "水",
+          "竹",
+          "十",
+          "口"
+        ],
+        "keys": [
+          "E",
+          "H",
+          "J",
+          "R"
+        ],
+        "full": "水竹十口 (EHJR)",
+        "secret": "活：水竹十口 (EHJR)"
+      },
+      {
+        "char": "套",
+        "codes": [
+          "大",
+          "尸",
+          "一",
+          "戈"
+        ],
+        "keys": [
+          "K",
+          "S",
+          "M",
+          "I"
+        ],
+        "full": "大尸一戈 (KSMI)",
+        "secret": "套：大尸一戈 (KSMI)"
+      },
+      {
+        "char": "票",
+        "codes": [
+          "一",
+          "田",
+          "一",
+          "一",
+          "火"
+        ],
+        "keys": [
+          "M",
+          "W",
+          "M",
+          "M",
+          "F"
+        ],
+        "full": "一田一一火 (MWMMF)",
+        "secret": "票：一田一一火 (MWMMF)"
+      },
+      {
+        "char": "近",
+        "codes": [
+          "卜",
+          "竹",
+          "一",
+          "中"
+        ],
+        "keys": [
+          "Y",
+          "H",
+          "M",
+          "L"
+        ],
+        "full": "卜竹一中 (YHML)",
+        "secret": "近：卜竹一中 (YHML)"
+      },
+      {
+        "char": "直",
+        "codes": [
+          "十",
+          "月",
+          "一",
+          "一"
+        ],
+        "keys": [
+          "J",
+          "B",
+          "M",
+          "M"
+        ],
+        "full": "十月一一 (JBMM)",
+        "secret": "直：十月一一 (JBMM)"
+      },
+      {
+        "char": "丈",
+        "codes": [
+          "十",
+          "大"
+        ],
+        "keys": [
+          "J",
+          "K"
+        ],
+        "full": "十大 (JK)",
+        "secret": "丈：十大 (JK)"
+      },
+      {
+        "char": "續",
+        "codes": [
+          "女",
+          "火",
+          "土",
+          "田",
+          "金"
+        ],
+        "keys": [
+          "V",
+          "F",
+          "G",
+          "W",
+          "C"
+        ],
+        "full": "女火土田金 (VFGWC)",
+        "secret": "續：女火土田金 (VFGWC)"
+      },
+      {
+        "char": "洲",
+        "codes": [
+          "水",
+          "戈",
+          "中",
+          "中"
+        ],
+        "keys": [
+          "E",
+          "I",
+          "L",
+          "L"
+        ],
+        "full": "水戈中中 (EILL)",
+        "secret": "洲：水戈中中 (EILL)"
+      },
+      {
+        "char": "等",
+        "codes": [
+          "竹",
+          "土",
+          "木",
+          "戈"
+        ],
+        "keys": [
+          "H",
+          "G",
+          "D",
+          "I"
+        ],
+        "full": "竹土木戈 (HGDI)",
+        "secret": "等：竹土木戈 (HGDI)"
+      },
+      {
+        "char": "希",
+        "codes": [
+          "大",
+          "大",
+          "中",
+          "月"
+        ],
+        "keys": [
+          "K",
+          "K",
+          "L",
+          "B"
+        ],
+        "full": "大大中月 (KKLB)",
+        "secret": "希：大大中月 (KKLB)"
+      },
+      {
+        "char": "春",
+        "codes": [
+          "手",
+          "大",
+          "日"
+        ],
+        "keys": [
+          "Q",
+          "K",
+          "A"
+        ],
+        "full": "手大日 (QKA)",
+        "secret": "春：手大日 (QKA)"
+      },
+      {
+        "char": "提",
+        "codes": [
+          "手",
+          "日",
+          "一",
+          "人"
+        ],
+        "keys": [
+          "Q",
+          "A",
+          "M",
+          "O"
+        ],
+        "full": "手日一人 (QAMO)",
+        "secret": "提：手日一人 (QAMO)"
+      },
+      {
+        "char": "根",
+        "codes": [
+          "木",
+          "日",
+          "女"
+        ],
+        "keys": [
+          "D",
+          "A",
+          "V"
+        ],
+        "full": "木日女 (DAV)",
+        "secret": "根：木日女 (DAV)"
+      },
+      {
+        "char": "樣",
+        "codes": [
+          "木",
+          "廿",
+          "土",
+          "人"
+        ],
+        "keys": [
+          "D",
+          "T",
+          "G",
+          "O"
+        ],
+        "full": "木廿土人 (DTGO)",
+        "secret": "樣：木廿土人 (DTGO)"
+      },
+      {
+        "char": "托",
+        "codes": [
+          "手",
+          "竹",
+          "心"
+        ],
+        "keys": [
+          "Q",
+          "H",
+          "P"
+        ],
+        "full": "手竹心 (QHP)",
+        "secret": "托：手竹心 (QHP)"
+      },
+      {
+        "char": "懷",
+        "codes": [
+          "心",
+          "卜",
+          "田",
+          "女"
+        ],
+        "keys": [
+          "P",
+          "Y",
+          "W",
+          "V"
+        ],
+        "full": "心卜田女 (PYWV)",
+        "secret": "懷：心卜田女 (PYWV)"
+      },
+      {
+        "char": "納",
+        "codes": [
+          "女",
+          "火",
+          "人",
+          "月"
+        ],
+        "keys": [
+          "V",
+          "F",
+          "O",
+          "B"
+        ],
+        "full": "女火人月 (VFOB)",
+        "secret": "納：女火人月 (VFOB)"
+      },
+      {
+        "char": "索",
+        "codes": [
+          "十",
+          "月",
+          "女",
+          "戈",
+          "火"
+        ],
+        "keys": [
+          "J",
+          "B",
+          "V",
+          "I",
+          "F"
+        ],
+        "full": "十月女戈火 (JBVIF)",
+        "secret": "索：十月女戈火 (JBVIF)"
+      },
+      {
+        "char": "響",
+        "codes": [
+          "女",
+          "中",
+          "卜",
+          "廿",
+          "日"
+        ],
+        "keys": [
+          "V",
+          "L",
+          "Y",
+          "T",
+          "A"
+        ],
+        "full": "女中卜廿日 (VLYTA)",
+        "secret": "響：女中卜廿日 (VLYTA)"
+      },
+      {
+        "char": "雨",
+        "codes": [
+          "一",
+          "中",
+          "月",
+          "卜"
+        ],
+        "keys": [
+          "M",
+          "L",
+          "B",
+          "Y"
+        ],
+        "full": "一中月卜 (MLBY)",
+        "secret": "雨：一中月卜 (MLBY)"
+      },
+      {
+        "char": "收",
+        "codes": [
+          "女",
+          "中",
+          "人",
+          "大"
+        ],
+        "keys": [
+          "V",
+          "L",
+          "O",
+          "K"
+        ],
+        "full": "女中人大 (VLOK)",
+        "secret": "收：女中人大 (VLOK)"
+      },
+      {
+        "char": "相",
+        "codes": [
+          "木",
+          "月",
+          "山"
+        ],
+        "keys": [
+          "D",
+          "B",
+          "U"
+        ],
+        "full": "木月山 (DBU)",
+        "secret": "相：木月山 (DBU)"
+      },
+      {
+        "char": "敢",
+        "codes": [
+          "一",
+          "十",
+          "人",
+          "大"
+        ],
+        "keys": [
+          "M",
+          "J",
+          "O",
+          "K"
+        ],
+        "full": "一十人大 (MJOK)",
+        "secret": "敢：一十人大 (MJOK)"
+      },
+      {
+        "char": "加",
+        "codes": [
+          "大",
+          "尸",
+          "口"
+        ],
+        "keys": [
+          "K",
+          "S",
+          "R"
+        ],
+        "full": "大尸口 (KSR)",
+        "secret": "加：大尸口 (KSR)"
+      }
+    ]
+  },
+  "w13_hw3": {
+    "key": "w13_hw3",
+    "week": "w13",
+    "weekName": "第13周",
+    "hwName": "功課3",
+    "title": "📅 第 13 周 功課 3 (每、編、應、設... 50字)",
+    "words": [
+      {
+        "char": "每",
+        "codes": [
+          "人",
+          "田",
+          "卜",
+          "戈"
+        ],
+        "keys": [
+          "O",
+          "W",
+          "Y",
+          "I"
+        ],
+        "full": "人田卜戈 (OWYI)",
+        "secret": "每：人田卜戈 (OWYI)"
+      },
+      {
+        "char": "編",
+        "codes": [
+          "女",
+          "火",
+          "竹",
+          "尸",
+          "月"
+        ],
+        "keys": [
+          "V",
+          "F",
+          "H",
+          "S",
+          "B"
+        ],
+        "full": "女火竹尸月 (VFHSB)",
+        "secret": "編：女火竹尸月 (VFHSB)"
+      },
+      {
+        "char": "應",
+        "codes": [
+          "戈",
+          "人",
+          "土",
+          "心"
+        ],
+        "keys": [
+          "I",
+          "O",
+          "G",
+          "P"
+        ],
+        "full": "戈人土心 (IOGP)",
+        "secret": "應：戈人土心 (IOGP)"
+      },
+      {
+        "char": "設",
+        "codes": [
+          "卜",
+          "口",
+          "竹",
+          "弓",
+          "水"
+        ],
+        "keys": [
+          "Y",
+          "R",
+          "H",
+          "N",
+          "E"
+        ],
+        "full": "卜口竹弓水 (YRHNE)",
+        "secret": "設：卜口竹弓水 (YRHNE)"
+      },
+      {
+        "char": "廣",
+        "codes": [
+          "戈",
+          "廿",
+          "一",
+          "金"
+        ],
+        "keys": [
+          "I",
+          "T",
+          "M",
+          "C"
+        ],
+        "full": "戈廿一金 (ITMC)",
+        "secret": "廣：戈廿一金 (ITMC)"
+      },
+      {
+        "char": "感",
+        "codes": [
+          "戈",
+          "口",
+          "心"
+        ],
+        "keys": [
+          "I",
+          "R",
+          "P"
+        ],
+        "full": "戈口心 (IRP)",
+        "secret": "感：戈口心 (IRP)"
+      },
+      {
+        "char": "惡",
+        "codes": [
+          "一",
+          "一",
+          "心"
+        ],
+        "keys": [
+          "M",
+          "M",
+          "P"
+        ],
+        "full": "一一心 (MMP)",
+        "secret": "惡：一一心 (MMP)"
+      },
+      {
+        "char": "照",
+        "codes": [
+          "日",
+          "口",
+          "火"
+        ],
+        "keys": [
+          "A",
+          "R",
+          "F"
+        ],
+        "full": "日口火 (ARF)",
+        "secret": "照：日口火 (ARF)"
+      },
+      {
+        "char": "散",
+        "codes": [
+          "廿",
+          "月",
+          "人",
+          "大"
+        ],
+        "keys": [
+          "T",
+          "B",
+          "O",
+          "K"
+        ],
+        "full": "廿月人大 (TBOK)",
+        "secret": "散：廿月人大 (TBOK)"
+      },
+      {
+        "char": "准",
+        "codes": [
+          "戈",
+          "一",
+          "人",
+          "土"
+        ],
+        "keys": [
+          "I",
+          "M",
+          "O",
+          "G"
+        ],
+        "full": "戈一人土 (IMOG)",
+        "secret": "准：戈一人土 (IMOG)"
+      },
+      {
+        "char": "瑪",
+        "codes": [
+          "一",
+          "土",
+          "尸",
+          "手",
+          "火"
+        ],
+        "keys": [
+          "M",
+          "G",
+          "S",
+          "Q",
+          "F"
+        ],
+        "full": "一土尸手火 (MGSQF)",
+        "secret": "瑪：一土尸手火 (MGSQF)"
+      },
+      {
+        "char": "組",
+        "codes": [
+          "女",
+          "火",
+          "月",
+          "一"
+        ],
+        "keys": [
+          "V",
+          "F",
+          "B",
+          "M"
+        ],
+        "full": "女火月一 (VFBM)",
+        "secret": "組：女火月一 (VFBM)"
+      },
+      {
+        "char": "魯",
+        "codes": [
+          "弓",
+          "田",
+          "火",
+          "日"
+        ],
+        "keys": [
+          "N",
+          "W",
+          "F",
+          "A"
+        ],
+        "full": "弓田火日 (NWFA)",
+        "secret": "魯：弓田火日 (NWFA)"
+      },
+      {
+        "char": "於",
+        "codes": [
+          "卜",
+          "尸",
+          "人",
+          "卜"
+        ],
+        "keys": [
+          "Y",
+          "S",
+          "O",
+          "Y"
+        ],
+        "full": "卜尸人卜 (YSOY)",
+        "secret": "於：卜尸人卜 (YSOY)"
+      },
+      {
+        "char": "隊",
+        "codes": [
+          "弓",
+          "中",
+          "廿",
+          "心",
+          "人"
+        ],
+        "keys": [
+          "N",
+          "L",
+          "T",
+          "P",
+          "O"
+        ],
+        "full": "弓中廿心人 (NLTPO)",
+        "secret": "隊：弓中廿心人 (NLTPO)"
+      },
+      {
+        "char": "彈",
+        "codes": [
+          "弓",
+          "口",
+          "口",
+          "十"
+        ],
+        "keys": [
+          "N",
+          "R",
+          "R",
+          "J"
+        ],
+        "full": "弓口口十 (NRRJ)",
+        "secret": "彈：弓口口十 (NRRJ)"
+      },
+      {
+        "char": "跑",
+        "codes": [
+          "口",
+          "一",
+          "心",
+          "口",
+          "山"
+        ],
+        "keys": [
+          "R",
+          "M",
+          "P",
+          "R",
+          "U"
+        ],
+        "full": "口一心口山 (RMPRU)",
+        "secret": "跑：口一心口山 (RMPRU)"
+      },
+      {
+        "char": "警",
+        "codes": [
+          "廿",
+          "大",
+          "卜",
+          "一",
+          "口"
+        ],
+        "keys": [
+          "T",
+          "K",
+          "Y",
+          "M",
+          "R"
+        ],
+        "full": "廿大卜一口 (TKYMR)",
+        "secret": "警：廿大卜一口 (TKYMR)"
+      },
+      {
+        "char": "才",
+        "codes": [
+          "木",
+          "竹"
+        ],
+        "keys": [
+          "D",
+          "H"
+        ],
+        "full": "木竹 (DH)",
+        "secret": "才：木竹 (DH)"
+      },
+      {
+        "char": "務",
+        "codes": [
+          "弓",
+          "竹",
+          "人",
+          "大",
+          "尸"
+        ],
+        "keys": [
+          "N",
+          "H",
+          "O",
+          "K",
+          "S"
+        ],
+        "full": "弓竹人大尸 (NHOKS)",
+        "secret": "務：弓竹人大尸 (NHOKS)"
+      },
+      {
+        "char": "吃",
+        "codes": [
+          "口",
+          "人",
+          "弓"
+        ],
+        "keys": [
+          "R",
+          "O",
+          "N"
+        ],
+        "full": "口人弓 (RON)",
+        "secret": "吃：口人弓 (RON)"
+      },
+      {
+        "char": "命",
+        "codes": [
+          "人",
+          "一",
+          "口",
+          "中"
+        ],
+        "keys": [
+          "O",
+          "M",
+          "R",
+          "L"
+        ],
+        "full": "人一口中 (OMRL)",
+        "secret": "命：人一口中 (OMRL)"
+      },
+      {
+        "char": "很",
+        "codes": [
+          "竹",
+          "人",
+          "日",
+          "女"
+        ],
+        "keys": [
+          "H",
+          "O",
+          "A",
+          "V"
+        ],
+        "full": "竹人日女 (HOAV)",
+        "secret": "很：竹人日女 (HOAV)"
+      },
+      {
+        "char": "麗",
+        "codes": [
+          "一",
+          "一",
+          "月",
+          "月",
+          "心"
+        ],
+        "keys": [
+          "M",
+          "M",
+          "B",
+          "B",
+          "P"
+        ],
+        "full": "一一月月心 (MMBBP)",
+        "secret": "麗：一一月月心 (MMBBP)"
+      },
+      {
+        "char": "增",
+        "codes": [
+          "土",
+          "金",
+          "田",
+          "日"
+        ],
+        "keys": [
+          "G",
+          "C",
+          "W",
+          "A"
+        ],
+        "full": "土金田日 (GCWA)",
+        "secret": "增：土金田日 (GCWA)"
+      },
+      {
+        "char": "桌",
+        "codes": [
+          "卜",
+          "日",
+          "木"
+        ],
+        "keys": [
+          "Y",
+          "A",
+          "D"
+        ],
+        "full": "卜日木 (YAD)",
+        "secret": "桌：卜日木 (YAD)"
+      },
+      {
+        "char": "育",
+        "codes": [
+          "卜",
+          "戈",
+          "月"
+        ],
+        "keys": [
+          "Y",
+          "I",
+          "B"
+        ],
+        "full": "卜戈月 (YIB)",
+        "secret": "育：卜戈月 (YIB)"
+      },
+      {
+        "char": "小",
+        "codes": [
+          "弓",
+          "金"
+        ],
+        "keys": [
+          "N",
+          "C"
+        ],
+        "full": "弓金 (NC)",
+        "secret": "小：弓金 (NC)"
+      },
+      {
+        "char": "願",
+        "codes": [
+          "一",
+          "火",
+          "一",
+          "月",
+          "金"
+        ],
+        "keys": [
+          "M",
+          "F",
+          "M",
+          "B",
+          "C"
+        ],
+        "full": "一火一月金 (MFMBC)",
+        "secret": "願：一火一月金 (MFMBC)"
+      },
+      {
+        "char": "由",
+        "codes": [
+          "中",
+          "田"
+        ],
+        "keys": [
+          "L",
+          "W"
+        ],
+        "full": "中田 (LW)",
+        "secret": "由：中田 (LW)"
+      },
+      {
+        "char": "項",
+        "codes": [
+          "一",
+          "一",
+          "月",
+          "金"
+        ],
+        "keys": [
+          "M",
+          "M",
+          "B",
+          "C"
+        ],
+        "full": "一一月金 (MMBC)",
+        "secret": "項：一一月金 (MMBC)"
+      },
+      {
+        "char": "片",
+        "codes": [
+          "中",
+          "中",
+          "一",
+          "中"
+        ],
+        "keys": [
+          "L",
+          "L",
+          "M",
+          "L"
+        ],
+        "full": "中中一中 (LLML)",
+        "secret": "片：中中一中 (LLML)"
+      },
+      {
+        "char": "多",
+        "codes": [
+          "弓",
+          "戈",
+          "弓",
+          "戈"
+        ],
+        "keys": [
+          "N",
+          "I",
+          "N",
+          "I"
+        ],
+        "full": "弓戈弓戈 (NINI)",
+        "secret": "多：弓戈弓戈 (NINI)"
+      },
+      {
+        "char": "意",
+        "codes": [
+          "卜",
+          "廿",
+          "日",
+          "心"
+        ],
+        "keys": [
+          "Y",
+          "T",
+          "A",
+          "P"
+        ],
+        "full": "卜廿日心 (YTAP)",
+        "secret": "意：卜廿日心 (YTAP)"
+      },
+      {
+        "char": "脫",
+        "codes": [
+          "月",
+          "金",
+          "口",
+          "山"
+        ],
+        "keys": [
+          "B",
+          "C",
+          "R",
+          "U"
+        ],
+        "full": "月金口山 (BCRU)",
+        "secret": "脫：月金口山 (BCRU)"
+      },
+      {
+        "char": "牌",
+        "codes": [
+          "中",
+          "中",
+          "竹",
+          "田",
+          "十"
+        ],
+        "keys": [
+          "L",
+          "L",
+          "H",
+          "W",
+          "J"
+        ],
+        "full": "中中竹田十 (LLHWJ)",
+        "secret": "牌：中中竹田十 (LLHWJ)"
+      },
+      {
+        "char": "術",
+        "codes": [
+          "竹",
+          "人",
+          "戈",
+          "金",
+          "弓"
+        ],
+        "keys": [
+          "H",
+          "O",
+          "I",
+          "C",
+          "N"
+        ],
+        "full": "竹人戈金弓 (HOICN)",
+        "secret": "術：竹人戈金弓 (HOICN)"
+      },
+      {
+        "char": "人",
+        "codes": [
+          "人"
+        ],
+        "keys": [
+          "O"
+        ],
+        "full": "人 (O)",
+        "secret": "人：人 (O)"
+      },
+      {
+        "char": "塞",
+        "codes": [
+          "十",
+          "廿",
+          "金",
+          "土"
+        ],
+        "keys": [
+          "J",
+          "T",
+          "C",
+          "G"
+        ],
+        "full": "十廿金土 (JTCG)",
+        "secret": "塞：十廿金土 (JTCG)"
+      },
+      {
+        "char": "席",
+        "codes": [
+          "戈",
+          "廿",
+          "中",
+          "月"
+        ],
+        "keys": [
+          "I",
+          "T",
+          "L",
+          "B"
+        ],
+        "full": "戈廿中月 (ITLB)",
+        "secret": "席：戈廿中月 (ITLB)"
+      },
+      {
+        "char": "示",
+        "codes": [
+          "一",
+          "一",
+          "火"
+        ],
+        "keys": [
+          "M",
+          "M",
+          "F"
+        ],
+        "full": "一一火 (MMF)",
+        "secret": "示：一一火 (MMF)"
+      },
+      {
+        "char": "奧",
+        "codes": [
+          "竹",
+          "月",
+          "大"
+        ],
+        "keys": [
+          "H",
+          "B",
+          "K"
+        ],
+        "full": "竹月大 (HBK)",
+        "secret": "奧：竹月大 (HBK)"
+      },
+      {
+        "char": "即",
+        "codes": [
+          "日",
+          "戈",
+          "尸",
+          "中"
+        ],
+        "keys": [
+          "A",
+          "I",
+          "S",
+          "L"
+        ],
+        "full": "日戈尸中 (AISL)",
+        "secret": "即：日戈尸中 (AISL)"
+      },
+      {
+        "char": "錯",
+        "codes": [
+          "金",
+          "廿",
+          "日"
+        ],
+        "keys": [
+          "C",
+          "T",
+          "A"
+        ],
+        "full": "金廿日 (CTA)",
+        "secret": "錯：金廿日 (CTA)"
+      },
+      {
+        "char": "機",
+        "codes": [
+          "木",
+          "女",
+          "戈",
+          "戈"
+        ],
+        "keys": [
+          "D",
+          "V",
+          "I",
+          "I"
+        ],
+        "full": "木女戈戈 (DVII)",
+        "secret": "機：木女戈戈 (DVII)"
+      },
+      {
+        "char": "雄",
+        "codes": [
+          "大",
+          "戈",
+          "人",
+          "土"
+        ],
+        "keys": [
+          "K",
+          "I",
+          "O",
+          "G"
+        ],
+        "full": "大戈人土 (KIOG)",
+        "secret": "雄：大戈人土 (KIOG)"
+      },
+      {
+        "char": "克",
+        "codes": [
+          "十",
+          "口",
+          "竹",
+          "山"
+        ],
+        "keys": [
+          "J",
+          "R",
+          "H",
+          "U"
+        ],
+        "full": "十口竹山 (JRHU)",
+        "secret": "克：十口竹山 (JRHU)"
+      },
+      {
+        "char": "解",
+        "codes": [
+          "弓",
+          "月",
+          "尸",
+          "竹",
+          "手"
+        ],
+        "keys": [
+          "N",
+          "B",
+          "S",
+          "H",
+          "Q"
+        ],
+        "full": "弓月尸竹手 (NBSHQ)",
+        "secret": "解：弓月尸竹手 (NBSHQ)"
+      },
+      {
+        "char": "禮",
+        "codes": [
+          "戈",
+          "火",
+          "廿",
+          "田",
+          "廿"
+        ],
+        "keys": [
+          "I",
+          "F",
+          "T",
+          "W",
+          "T"
+        ],
+        "full": "戈火廿田廿 (IFTWT)",
+        "secret": "禮：戈火廿田廿 (IFTWT)"
+      },
+      {
+        "char": "度",
+        "codes": [
+          "戈",
+          "廿",
+          "水"
+        ],
+        "keys": [
+          "I",
+          "T",
+          "E"
+        ],
+        "full": "戈廿水 (ITE)",
+        "secret": "度：戈廿水 (ITE)"
+      }
+    ]
+  },
+  "w13_hw4": {
+    "key": "w13_hw4",
+    "week": "w13",
+    "weekName": "第13周",
+    "hwName": "功課4",
+    "title": "📅 第 13 周 功課 4 (案、所、從、醒... 50字)",
+    "words": [
+      {
+        "char": "案",
+        "codes": [
+          "十",
+          "女",
+          "木"
+        ],
+        "keys": [
+          "J",
+          "V",
+          "D"
+        ],
+        "full": "十女木 (JVD)",
+        "secret": "案：十女木 (JVD)"
+      },
+      {
+        "char": "所",
+        "codes": [
+          "竹",
+          "尸",
+          "竹",
+          "一",
+          "中"
+        ],
+        "keys": [
+          "H",
+          "S",
+          "H",
+          "M",
+          "L"
+        ],
+        "full": "竹尸竹一中 (HSHML)",
+        "secret": "所：竹尸竹一中 (HSHML)"
+      },
+      {
+        "char": "從",
+        "codes": [
+          "竹",
+          "人",
+          "人",
+          "人",
+          "人"
+        ],
+        "keys": [
+          "H",
+          "O",
+          "O",
+          "O",
+          "O"
+        ],
+        "full": "竹人人人人 (HOOOO)",
+        "secret": "從：竹人人人人 (HOOOO)"
+      },
+      {
+        "char": "醒",
+        "codes": [
+          "一",
+          "田",
+          "日",
+          "竹",
+          "一"
+        ],
+        "keys": [
+          "M",
+          "W",
+          "A",
+          "H",
+          "M"
+        ],
+        "full": "一田日竹一 (MWAHM)",
+        "secret": "醒：一田日竹一 (MWAHM)"
+      },
+      {
+        "char": "資",
+        "codes": [
+          "戈",
+          "人",
+          "月",
+          "山",
+          "金"
+        ],
+        "keys": [
+          "I",
+          "O",
+          "B",
+          "U",
+          "C"
+        ],
+        "full": "戈人月山金 (IOBUC)",
+        "secret": "資：戈人月山金 (IOBUC)"
+      },
+      {
+        "char": "塊",
+        "codes": [
+          "土",
+          "竹",
+          "山",
+          "戈"
+        ],
+        "keys": [
+          "G",
+          "H",
+          "U",
+          "I"
+        ],
+        "full": "土竹山戈 (GHUI)",
+        "secret": "塊：土竹山戈 (GHUI)"
+      },
+      {
+        "char": "舊",
+        "codes": [
+          "廿",
+          "人",
+          "土",
+          "難"
+        ],
+        "keys": [
+          "T",
+          "O",
+          "G",
+          "X"
+        ],
+        "full": "廿人土難 (TOGX)",
+        "secret": "舊：廿人土難 (TOGX)"
+      },
+      {
+        "char": "留",
+        "codes": [
+          "竹",
+          "竹",
+          "田"
+        ],
+        "keys": [
+          "H",
+          "H",
+          "W"
+        ],
+        "full": "竹竹田 (HHW)",
+        "secret": "留：竹竹田 (HHW)"
+      },
+      {
+        "char": "將",
+        "codes": [
+          "女",
+          "一",
+          "月",
+          "木",
+          "戈"
+        ],
+        "keys": [
+          "V",
+          "M",
+          "B",
+          "D",
+          "I"
+        ],
+        "full": "女一月木戈 (VMBDI)",
+        "secret": "將：女一月木戈 (VMBDI)"
+      },
+      {
+        "char": "啊",
+        "codes": [
+          "口",
+          "弓",
+          "中",
+          "口"
+        ],
+        "keys": [
+          "R",
+          "N",
+          "L",
+          "R"
+        ],
+        "full": "口弓中口 (RNLR)",
+        "secret": "啊：口弓中口 (RNLR)"
+      },
+      {
+        "char": "管",
+        "codes": [
+          "竹",
+          "十",
+          "口",
+          "口"
+        ],
+        "keys": [
+          "H",
+          "J",
+          "R",
+          "R"
+        ],
+        "full": "竹十口口 (HJRR)",
+        "secret": "管：竹十口口 (HJRR)"
+      },
+      {
+        "char": "科",
+        "codes": [
+          "竹",
+          "木",
+          "卜",
+          "十"
+        ],
+        "keys": [
+          "H",
+          "D",
+          "Y",
+          "J"
+        ],
+        "full": "竹木卜十 (HDYJ)",
+        "secret": "科：竹木卜十 (HDYJ)"
+      },
+      {
+        "char": "濟",
+        "codes": [
+          "水",
+          "卜",
+          "難"
+        ],
+        "keys": [
+          "E",
+          "Y",
+          "X"
+        ],
+        "full": "水卜難 (EYX)",
+        "secret": "濟：水卜難 (EYX)"
+      },
+      {
+        "char": "形",
+        "codes": [
+          "一",
+          "廿",
+          "竹",
+          "竹",
+          "竹"
+        ],
+        "keys": [
+          "M",
+          "T",
+          "H",
+          "H",
+          "H"
+        ],
+        "full": "一廿竹竹竹 (MTHHH)",
+        "secret": "形：一廿竹竹竹 (MTHHH)"
+      },
+      {
+        "char": "宮",
+        "codes": [
+          "十",
+          "口",
+          "竹",
+          "口"
+        ],
+        "keys": [
+          "J",
+          "R",
+          "H",
+          "R"
+        ],
+        "full": "十口竹口 (JRHR)",
+        "secret": "宮：十口竹口 (JRHR)"
+      },
+      {
+        "char": "路",
+        "codes": [
+          "口",
+          "一",
+          "竹",
+          "水",
+          "口"
+        ],
+        "keys": [
+          "R",
+          "M",
+          "H",
+          "E",
+          "R"
+        ],
+        "full": "口一竹水口 (RMHER)",
+        "secret": "路：口一竹水口 (RMHER)"
+      },
+      {
+        "char": "拍",
+        "codes": [
+          "手",
+          "竹",
+          "日"
+        ],
+        "keys": [
+          "Q",
+          "H",
+          "A"
+        ],
+        "full": "手竹日 (QHA)",
+        "secret": "拍：手竹日 (QHA)"
+      },
+      {
+        "char": "搖",
+        "codes": [
+          "手",
+          "月",
+          "人",
+          "山"
+        ],
+        "keys": [
+          "Q",
+          "B",
+          "O",
+          "U"
+        ],
+        "full": "手月人山 (QBOU)",
+        "secret": "搖：手月人山 (QBOU)"
+      },
+      {
+        "char": "斯",
+        "codes": [
+          "廿",
+          "金",
+          "竹",
+          "一",
+          "中"
+        ],
+        "keys": [
+          "T",
+          "C",
+          "H",
+          "M",
+          "L"
+        ],
+        "full": "廿金竹一中 (TCHML)",
+        "secret": "斯：廿金竹一中 (TCHML)"
+      },
+      {
+        "char": "察",
+        "codes": [
+          "十",
+          "月",
+          "人",
+          "火"
+        ],
+        "keys": [
+          "J",
+          "B",
+          "O",
+          "F"
+        ],
+        "full": "十月人火 (JBOF)",
+        "secret": "察：十月人火 (JBOF)"
+      },
+      {
+        "char": "做",
+        "codes": [
+          "人",
+          "十",
+          "口",
+          "大"
+        ],
+        "keys": [
+          "O",
+          "J",
+          "R",
+          "K"
+        ],
+        "full": "人十口大 (OJRK)",
+        "secret": "做：人十口大 (OJRK)"
+      },
+      {
+        "char": "之",
+        "codes": [
+          "戈",
+          "弓",
+          "人"
+        ],
+        "keys": [
+          "I",
+          "N",
+          "O"
+        ],
+        "full": "戈弓人 (INO)",
+        "secret": "之：戈弓人 (INO)"
+      },
+      {
+        "char": "升",
+        "codes": [
+          "竹",
+          "廿"
+        ],
+        "keys": [
+          "H",
+          "T"
+        ],
+        "full": "竹廿 (HT)",
+        "secret": "升：竹廿 (HT)"
+      },
+      {
+        "char": "紀",
+        "codes": [
+          "女",
+          "火",
+          "尸",
+          "山"
+        ],
+        "keys": [
+          "V",
+          "F",
+          "S",
+          "U"
+        ],
+        "full": "女火尸山 (VFSU)",
+        "secret": "紀：女火尸山 (VFSU)"
+      },
+      {
+        "char": "議",
+        "codes": [
+          "卜",
+          "口",
+          "廿",
+          "土",
+          "戈"
+        ],
+        "keys": [
+          "Y",
+          "R",
+          "T",
+          "G",
+          "I"
+        ],
+        "full": "卜口廿土戈 (YRTGI)",
+        "secret": "議：卜口廿土戈 (YRTGI)"
+      },
+      {
+        "char": "點",
+        "codes": [
+          "田",
+          "火",
+          "卜",
+          "口"
+        ],
+        "keys": [
+          "W",
+          "F",
+          "Y",
+          "R"
+        ],
+        "full": "田火卜口 (WFYR)",
+        "secret": "點：田火卜口 (WFYR)"
+      },
+      {
+        "char": "戲",
+        "codes": [
+          "卜",
+          "廿",
+          "戈"
+        ],
+        "keys": [
+          "Y",
+          "T",
+          "I"
+        ],
+        "full": "卜廿戈 (YTI)",
+        "secret": "戲：卜廿戈 (YTI)"
+      },
+      {
+        "char": "交",
+        "codes": [
+          "卜",
+          "金",
+          "大"
+        ],
+        "keys": [
+          "Y",
+          "C",
+          "K"
+        ],
+        "full": "卜金大 (YCK)",
+        "secret": "交：卜金大 (YCK)"
+      },
+      {
+        "char": "結",
+        "codes": [
+          "女",
+          "火",
+          "土",
+          "口"
+        ],
+        "keys": [
+          "V",
+          "F",
+          "G",
+          "R"
+        ],
+        "full": "女火土口 (VFGR)",
+        "secret": "結：女火土口 (VFGR)"
+      },
+      {
+        "char": "左",
+        "codes": [
+          "大",
+          "一"
+        ],
+        "keys": [
+          "K",
+          "M"
+        ],
+        "full": "大一 (KM)",
+        "secret": "左：大一 (KM)"
+      },
+      {
+        "char": "況",
+        "codes": [
+          "水",
+          "口",
+          "竹",
+          "山"
+        ],
+        "keys": [
+          "E",
+          "R",
+          "H",
+          "U"
+        ],
+        "full": "水口竹山 (ERHU)",
+        "secret": "況：水口竹山 (ERHU)"
+      },
+      {
+        "char": "葉",
+        "codes": [
+          "廿",
+          "心",
+          "廿",
+          "木"
+        ],
+        "keys": [
+          "T",
+          "P",
+          "T",
+          "D"
+        ],
+        "full": "廿心廿木 (TPTD)",
+        "secret": "葉：廿心廿木 (TPTD)"
+      },
+      {
+        "char": "勞",
+        "codes": [
+          "火",
+          "火",
+          "月",
+          "大",
+          "尸"
+        ],
+        "keys": [
+          "F",
+          "F",
+          "B",
+          "K",
+          "S"
+        ],
+        "full": "火火月大尸 (FFBKS)",
+        "secret": "勞：火火月大尸 (FFBKS)"
+      },
+      {
+        "char": "考",
+        "codes": [
+          "十",
+          "大",
+          "一",
+          "尸"
+        ],
+        "keys": [
+          "J",
+          "K",
+          "M",
+          "S"
+        ],
+        "full": "十大一尸 (JKMS)",
+        "secret": "考：十大一尸 (JKMS)"
+      },
+      {
+        "char": "系",
+        "codes": [
+          "竹",
+          "女",
+          "戈",
+          "火"
+        ],
+        "keys": [
+          "H",
+          "V",
+          "I",
+          "F"
+        ],
+        "full": "竹女戈火 (HVIF)",
+        "secret": "系：竹女戈火 (HVIF)"
+      },
+      {
+        "char": "名",
+        "codes": [
+          "弓",
+          "戈",
+          "口"
+        ],
+        "keys": [
+          "N",
+          "I",
+          "R"
+        ],
+        "full": "弓戈口 (NIR)",
+        "secret": "名：弓戈口 (NIR)"
+      },
+      {
+        "char": "亡",
+        "codes": [
+          "卜",
+          "女"
+        ],
+        "keys": [
+          "Y",
+          "V"
+        ],
+        "full": "卜女 (YV)",
+        "secret": "亡：卜女 (YV)"
+      },
+      {
+        "char": "飯",
+        "codes": [
+          "人",
+          "戈",
+          "竹",
+          "水"
+        ],
+        "keys": [
+          "O",
+          "I",
+          "H",
+          "E"
+        ],
+        "full": "人戈竹水 (OIHE)",
+        "secret": "飯：人戈竹水 (OIHE)"
+      },
+      {
+        "char": "較",
+        "codes": [
+          "十",
+          "十",
+          "卜",
+          "金",
+          "大"
+        ],
+        "keys": [
+          "J",
+          "J",
+          "Y",
+          "C",
+          "K"
+        ],
+        "full": "十十卜金大 (JJYCK)",
+        "secret": "較：十十卜金大 (JJYCK)"
+      },
+      {
+        "char": "姐",
+        "codes": [
+          "女",
+          "月",
+          "一"
+        ],
+        "keys": [
+          "V",
+          "B",
+          "M"
+        ],
+        "full": "女月一 (VBM)",
+        "secret": "姐：女月一 (VBM)"
+      },
+      {
+        "char": "可",
+        "codes": [
+          "一",
+          "弓",
+          "口"
+        ],
+        "keys": [
+          "M",
+          "N",
+          "R"
+        ],
+        "full": "一弓口 (MNR)",
+        "secret": "可：一弓口 (MNR)"
+      },
+      {
+        "char": "文",
+        "codes": [
+          "卜",
+          "大"
+        ],
+        "keys": [
+          "Y",
+          "K"
+        ],
+        "full": "卜大 (YK)",
+        "secret": "文：卜大 (YK)"
+      },
+      {
+        "char": "了",
+        "codes": [
+          "弓",
+          "弓"
+        ],
+        "keys": [
+          "N",
+          "N"
+        ],
+        "full": "弓弓 (NN)",
+        "secret": "了：弓弓 (NN)"
+      },
+      {
+        "char": "獎",
+        "codes": [
+          "女",
+          "戈",
+          "戈",
+          "大"
+        ],
+        "keys": [
+          "V",
+          "I",
+          "I",
+          "K"
+        ],
+        "full": "女戈戈大 (VIIK)",
+        "secret": "獎：女戈戈大 (VIIK)"
+      },
+      {
+        "char": "教",
+        "codes": [
+          "十",
+          "木",
+          "人",
+          "大"
+        ],
+        "keys": [
+          "J",
+          "D",
+          "O",
+          "K"
+        ],
+        "full": "十木人大 (JDOK)",
+        "secret": "教：十木人大 (JDOK)"
+      },
+      {
+        "char": "簡",
+        "codes": [
+          "竹",
+          "日",
+          "弓",
+          "日"
+        ],
+        "keys": [
+          "H",
+          "A",
+          "N",
+          "A"
+        ],
+        "full": "竹日弓日 (HANA)",
+        "secret": "簡：竹日弓日 (HANA)"
+      },
+      {
+        "char": "使",
+        "codes": [
+          "人",
+          "十",
+          "中",
+          "大"
+        ],
+        "keys": [
+          "O",
+          "J",
+          "L",
+          "K"
+        ],
+        "full": "人十中大 (OJLK)",
+        "secret": "使：人十中大 (OJLK)"
+      },
+      {
+        "char": "另",
+        "codes": [
+          "口",
+          "大",
+          "尸"
+        ],
+        "keys": [
+          "R",
+          "K",
+          "S"
+        ],
+        "full": "口大尸 (RKS)",
+        "secret": "另：口大尸 (RKS)"
+      },
+      {
+        "char": "身",
+        "codes": [
+          "竹",
+          "難",
+          "竹"
+        ],
+        "keys": [
+          "H",
+          "X",
+          "H"
+        ],
+        "full": "竹難竹 (HXH)",
+        "secret": "身：竹難竹 (HXH)"
+      },
+      {
+        "char": "分",
+        "codes": [
+          "金",
+          "尸",
+          "竹"
+        ],
+        "keys": [
+          "C",
+          "S",
+          "H"
+        ],
+        "full": "金尸竹 (CSH)",
+        "secret": "分：金尸竹 (CSH)"
       }
     ]
   }

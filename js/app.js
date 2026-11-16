@@ -2879,19 +2879,30 @@ const SafeStorage = {
             { week: 'w10', start: new Date('2026-10-20T08:00:00+08:00'), end: new Date('2026-11-08T23:30:00+08:00') }
           ]);
 
-      for (const s of schedules) {
+      const normScheds = schedules.slice();
+      const baseW12 = new Date('2026-11-16T08:00:00+08:00').getTime();
+      for (let wk = 12; wk <= 40; wk++) {
+        const wkKey = 'w' + wk;
+        if (!normScheds.some(s => s && s.week === wkKey)) {
+          const sMs = baseW12 + (wk - 12) * 7 * 86400000;
+          normScheds.push({ week: wkKey, start: new Date(sMs), end: new Date(sMs + 6 * 86400000 + 55800000) });
+        }
+      }
+      normScheds.sort((a, b) => (parseInt(String(a.week).replace('w', ''), 10) || 0) - (parseInt(String(b.week).replace('w', ''), 10) || 0));
+
+      for (const s of normScheds) {
         const sStart = s.start instanceof Date ? s.start : new Date(s.start);
         const sEnd = s.end instanceof Date ? s.end : new Date(s.end);
         if (now >= sStart && now <= sEnd) {
           return s.week;
         }
       }
-      if (schedules.length > 0) {
-        for (let i = schedules.length - 1; i >= 0; i--) {
-          const sStart = schedules[i].start instanceof Date ? schedules[i].start : new Date(schedules[i].start);
-          if (now >= sStart) return schedules[i].week;
+      if (normScheds.length > 0) {
+        for (let i = normScheds.length - 1; i >= 0; i--) {
+          const sStart = normScheds[i].start instanceof Date ? normScheds[i].start : new Date(normScheds[i].start);
+          if (now >= sStart) return normScheds[i].week;
         }
-        return schedules[0].week;
+        return normScheds[0].week;
       }
       return 'w11';
     }
