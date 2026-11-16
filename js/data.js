@@ -393,10 +393,10 @@ const DATA = {
         "cls": "P6C",
         "num": 33,
         "name": "P6C 33號",
-        "time": 23.0,
-        "bestTime": 23.0,
-        "best10": 23.0,
-        "rawTime": 23.0,
+        "time": 23,
+        "bestTime": 23,
+        "best10": 23,
+        "rawTime": 23,
         "accuracy": 100,
         "cpm": 26
       },
@@ -740,10 +740,10 @@ const DATA = {
         "cls": "P6C",
         "num": 3,
         "name": "P6C 03號",
-        "time": 28.0,
-        "bestTime": 28.0,
-        "best10": 28.0,
-        "rawTime": 28.0,
+        "time": 28,
+        "bestTime": 28,
+        "best10": 28,
+        "rawTime": 28,
         "accuracy": 100,
         "cpm": 21
       },
@@ -3226,10 +3226,10 @@ const DATA = {
         "cls": "P6A",
         "num": 27,
         "name": "P6A 27號",
-        "time": 23.0,
-        "bestTime": 23.0,
-        "best10": 23.0,
-        "rawTime": 23.0,
+        "time": 23,
+        "bestTime": 23,
+        "best10": 23,
+        "rawTime": 23,
         "accuracy": 100,
         "cpm": 26
       },
@@ -4224,10 +4224,10 @@ const DATA = {
         "cls": "P6A",
         "num": 27,
         "name": "P6A 27號",
-        "time": 23.0,
-        "bestTime": 23.0,
-        "best10": 23.0,
-        "rawTime": 23.0,
+        "time": 23,
+        "bestTime": 23,
+        "best10": 23,
+        "rawTime": 23,
         "accuracy": 100,
         "cpm": 26
       },
@@ -8047,8 +8047,6 @@ const DATA = {
   "top40": [
     {
       "rank": 1,
-      "class": "P6F",
-      "seat": 5,
       "name": "P6F 05號",
       "hw1": 100,
       "hw2": 100,
@@ -8057,12 +8055,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-09 09:40:25"
+      "date": "2026-11-09 09:40:25",
+      "cls": "P6F",
+      "num": 5
     },
     {
       "rank": 2,
-      "class": "P6F",
-      "seat": 23,
       "name": "P6F 23號",
       "hw1": 100,
       "hw2": 100,
@@ -8071,12 +8069,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-09 09:42:22"
+      "date": "2026-11-09 09:42:22",
+      "cls": "P6F",
+      "num": 23
     },
     {
       "rank": 3,
-      "class": "P6F",
-      "seat": 32,
       "name": "P6F 32號",
       "hw1": 100,
       "hw2": 100,
@@ -8085,12 +8083,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-09 09:53:58"
+      "date": "2026-11-09 09:53:58",
+      "cls": "P6F",
+      "num": 32
     },
     {
       "rank": 4,
-      "class": "P6C",
-      "seat": 13,
       "name": "P6C 13號",
       "hw1": 100,
       "hw2": 100,
@@ -8099,12 +8097,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-09 16:31:12"
+      "date": "2026-11-09 16:31:12",
+      "cls": "P6C",
+      "num": 13
     },
     {
       "rank": 5,
-      "class": "P6D",
-      "seat": 25,
       "name": "P6D 25號",
       "hw1": 100,
       "hw2": 100,
@@ -8113,12 +8111,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-09 18:04:38"
+      "date": "2026-11-09 18:04:38",
+      "cls": "P6D",
+      "num": 25
     },
     {
       "rank": 6,
-      "class": "P6A",
-      "seat": 4,
       "name": "P6A 04號",
       "hw1": 100,
       "hw2": 100,
@@ -8127,12 +8125,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-09 18:09:35"
+      "date": "2026-11-09 18:09:35",
+      "cls": "P6A",
+      "num": 4
     },
     {
       "rank": 7,
-      "class": "P6B",
-      "seat": 17,
       "name": "P6B 17號",
       "hw1": 100,
       "hw2": 100,
@@ -8141,12 +8139,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-09 18:26:23"
+      "date": "2026-11-09 18:26:23",
+      "cls": "P6B",
+      "num": 17
     },
     {
       "rank": 8,
-      "class": "P6B",
-      "seat": 5,
       "name": "P6B 05號",
       "hw1": 100,
       "hw2": 100,
@@ -8155,12 +8153,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-09 18:41:33"
+      "date": "2026-11-09 18:41:33",
+      "cls": "P6B",
+      "num": 5
     },
     {
       "rank": 9,
-      "class": "P6E",
-      "seat": 13,
       "name": "P6E 13號",
       "hw1": 100,
       "hw2": 100,
@@ -8169,12 +8167,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-09 18:59:39"
+      "date": "2026-11-09 18:59:39",
+      "cls": "P6E",
+      "num": 13
     },
     {
       "rank": 10,
-      "class": "P6A",
-      "seat": 15,
       "name": "P6A 15號",
       "hw1": 100,
       "hw2": 100,
@@ -8183,12 +8181,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-09 19:01:51"
+      "date": "2026-11-09 19:01:51",
+      "cls": "P6A",
+      "num": 15
     },
     {
       "rank": 11,
-      "class": "P6B",
-      "seat": 33,
       "name": "P6B 33號",
       "hw1": 100,
       "hw2": 100,
@@ -8197,12 +8195,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-09 19:02:50"
+      "date": "2026-11-09 19:02:50",
+      "cls": "P6B",
+      "num": 33
     },
     {
       "rank": 12,
-      "class": "P6D",
-      "seat": 23,
       "name": "P6D 23號",
       "hw1": 100,
       "hw2": 100,
@@ -8211,12 +8209,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-09 19:26:58"
+      "date": "2026-11-09 19:26:58",
+      "cls": "P6D",
+      "num": 23
     },
     {
       "rank": 13,
-      "class": "P6F",
-      "seat": 29,
       "name": "P6F 29號",
       "hw1": 100,
       "hw2": 100,
@@ -8225,12 +8223,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-09 19:40:46"
+      "date": "2026-11-09 19:40:46",
+      "cls": "P6F",
+      "num": 29
     },
     {
       "rank": 14,
-      "class": "P6E",
-      "seat": 2,
       "name": "P6E 02號",
       "hw1": 100,
       "hw2": 100,
@@ -8239,12 +8237,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-09 19:49:32"
+      "date": "2026-11-09 19:49:32",
+      "cls": "P6E",
+      "num": 2
     },
     {
       "rank": 15,
-      "class": "P6C",
-      "seat": 32,
       "name": "P6C 32號",
       "hw1": 100,
       "hw2": 100,
@@ -8253,12 +8251,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-09 19:49:48"
+      "date": "2026-11-09 19:49:48",
+      "cls": "P6C",
+      "num": 32
     },
     {
       "rank": 16,
-      "class": "P6D",
-      "seat": 5,
       "name": "P6D 05號",
       "hw1": 100,
       "hw2": 100,
@@ -8267,12 +8265,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-09 19:49:58"
+      "date": "2026-11-09 19:49:58",
+      "cls": "P6D",
+      "num": 5
     },
     {
       "rank": 17,
-      "class": "P6F",
-      "seat": 9,
       "name": "P6F 09號",
       "hw1": 100,
       "hw2": 100,
@@ -8281,12 +8279,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-09 19:55:31"
+      "date": "2026-11-09 19:55:31",
+      "cls": "P6F",
+      "num": 9
     },
     {
       "rank": 18,
-      "class": "P6A",
-      "seat": 18,
       "name": "P6A 18號",
       "hw1": 100,
       "hw2": 100,
@@ -8295,12 +8293,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-09 20:02:54"
+      "date": "2026-11-09 20:02:54",
+      "cls": "P6A",
+      "num": 18
     },
     {
       "rank": 19,
-      "class": "P6A",
-      "seat": 3,
       "name": "P6A 03號",
       "hw1": 100,
       "hw2": 100,
@@ -8309,12 +8307,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-09 20:10:47"
+      "date": "2026-11-09 20:10:47",
+      "cls": "P6A",
+      "num": 3
     },
     {
       "rank": 20,
-      "class": "P6F",
-      "seat": 11,
       "name": "P6F 11號",
       "hw1": 100,
       "hw2": 100,
@@ -8323,12 +8321,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-09 20:37:47"
+      "date": "2026-11-09 20:37:47",
+      "cls": "P6F",
+      "num": 11
     },
     {
       "rank": 21,
-      "class": "P6B",
-      "seat": 30,
       "name": "P6B 30號",
       "hw1": 100,
       "hw2": 100,
@@ -8337,12 +8335,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-09 20:38:28"
+      "date": "2026-11-09 20:38:28",
+      "cls": "P6B",
+      "num": 30
     },
     {
       "rank": 22,
-      "class": "P6E",
-      "seat": 3,
       "name": "P6E 03號",
       "hw1": 100,
       "hw2": 100,
@@ -8351,12 +8349,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-09 20:43:16"
+      "date": "2026-11-09 20:43:16",
+      "cls": "P6E",
+      "num": 3
     },
     {
       "rank": 23,
-      "class": "P6B",
-      "seat": 9,
       "name": "P6B 09號",
       "hw1": 100,
       "hw2": 100,
@@ -8365,12 +8363,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-09 20:50:06"
+      "date": "2026-11-09 20:50:06",
+      "cls": "P6B",
+      "num": 9
     },
     {
       "rank": 24,
-      "class": "P6D",
-      "seat": 4,
       "name": "P6D 04號",
       "hw1": 100,
       "hw2": 100,
@@ -8379,12 +8377,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-09 20:51:20"
+      "date": "2026-11-09 20:51:20",
+      "cls": "P6D",
+      "num": 4
     },
     {
       "rank": 25,
-      "class": "P6F",
-      "seat": 8,
       "name": "P6F 08號",
       "hw1": 100,
       "hw2": 100,
@@ -8393,12 +8391,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-09 20:54:12"
+      "date": "2026-11-09 20:54:12",
+      "cls": "P6F",
+      "num": 8
     },
     {
       "rank": 26,
-      "class": "P6B",
-      "seat": 3,
       "name": "P6B 03號",
       "hw1": 100,
       "hw2": 100,
@@ -8407,12 +8405,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-09 21:08:33"
+      "date": "2026-11-09 21:08:33",
+      "cls": "P6B",
+      "num": 3
     },
     {
       "rank": 27,
-      "class": "P6A",
-      "seat": 10,
       "name": "P6A 10號",
       "hw1": 100,
       "hw2": 100,
@@ -8421,12 +8419,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-09 21:24:42"
+      "date": "2026-11-09 21:24:42",
+      "cls": "P6A",
+      "num": 10
     },
     {
       "rank": 28,
-      "class": "P6C",
-      "seat": 26,
       "name": "P6C 26號",
       "hw1": 100,
       "hw2": 100,
@@ -8435,12 +8433,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-09 21:34:04"
+      "date": "2026-11-09 21:34:04",
+      "cls": "P6C",
+      "num": 26
     },
     {
       "rank": 29,
-      "class": "P6F",
-      "seat": 30,
       "name": "P6F 30號",
       "hw1": 100,
       "hw2": 100,
@@ -8449,12 +8447,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-09 21:35:18"
+      "date": "2026-11-09 21:35:18",
+      "cls": "P6F",
+      "num": 30
     },
     {
       "rank": 30,
-      "class": "P6D",
-      "seat": 27,
       "name": "P6D 27號",
       "hw1": 100,
       "hw2": 100,
@@ -8463,12 +8461,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-09 21:41:33"
+      "date": "2026-11-09 21:41:33",
+      "cls": "P6D",
+      "num": 27
     },
     {
       "rank": 31,
-      "class": "P6F",
-      "seat": 26,
       "name": "P6F 26號",
       "hw1": 100,
       "hw2": 100,
@@ -8477,12 +8475,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-09 21:47:45"
+      "date": "2026-11-09 21:47:45",
+      "cls": "P6F",
+      "num": 26
     },
     {
       "rank": 32,
-      "class": "P6A",
-      "seat": 12,
       "name": "P6A 12號",
       "hw1": 100,
       "hw2": 100,
@@ -8491,12 +8489,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-09 21:59:38"
+      "date": "2026-11-09 21:59:38",
+      "cls": "P6A",
+      "num": 12
     },
     {
       "rank": 33,
-      "class": "P6C",
-      "seat": 2,
       "name": "P6C 02號",
       "hw1": 100,
       "hw2": 100,
@@ -8505,12 +8503,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-09 22:01:38"
+      "date": "2026-11-09 22:01:38",
+      "cls": "P6C",
+      "num": 2
     },
     {
       "rank": 34,
-      "class": "P6C",
-      "seat": 1,
       "name": "P6C 01號",
       "hw1": 100,
       "hw2": 100,
@@ -8519,12 +8517,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-09 22:40:43"
+      "date": "2026-11-09 22:40:43",
+      "cls": "P6C",
+      "num": 1
     },
     {
       "rank": 35,
-      "class": "P6C",
-      "seat": 18,
       "name": "P6C 18號",
       "hw1": 100,
       "hw2": 100,
@@ -8533,12 +8531,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-09 22:57:50"
+      "date": "2026-11-09 22:57:50",
+      "cls": "P6C",
+      "num": 18
     },
     {
       "rank": 36,
-      "class": "P6E",
-      "seat": 32,
       "name": "P6E 32號",
       "hw1": 100,
       "hw2": 100,
@@ -8547,12 +8545,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-10 09:53:20"
+      "date": "2026-11-10 09:53:20",
+      "cls": "P6E",
+      "num": 32
     },
     {
       "rank": 37,
-      "class": "P6E",
-      "seat": 15,
       "name": "P6E 15號",
       "hw1": 100,
       "hw2": 100,
@@ -8561,12 +8559,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-10 09:53:56"
+      "date": "2026-11-10 09:53:56",
+      "cls": "P6E",
+      "num": 15
     },
     {
       "rank": 38,
-      "class": "P6D",
-      "seat": 28,
       "name": "P6D 28號",
       "hw1": 100,
       "hw2": 100,
@@ -8575,12 +8573,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-10 11:20:48"
+      "date": "2026-11-10 11:20:48",
+      "cls": "P6D",
+      "num": 28
     },
     {
       "rank": 39,
-      "class": "P6D",
-      "seat": 20,
       "name": "P6D 20號",
       "hw1": 100,
       "hw2": 100,
@@ -8589,12 +8587,12 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-10 11:23:55"
+      "date": "2026-11-10 11:23:55",
+      "cls": "P6D",
+      "num": 20
     },
     {
       "rank": 40,
-      "class": "P6D",
-      "seat": 34,
       "name": "P6D 34號",
       "hw1": 100,
       "hw2": 100,
@@ -8603,15 +8601,15 @@ const DATA = {
       "total": 400,
       "stamps": 5,
       "badges": 5,
-      "date": "2026-11-10 11:24:03"
+      "date": "2026-11-10 11:24:03",
+      "cls": "P6D",
+      "num": 34
     }
   ],
   "class_top10": {
     "P6A": [
       {
         "rank": 1,
-        "class": "P6A",
-        "seat": 4,
         "name": "P6A 04號",
         "hw1": 100,
         "hw2": 100,
@@ -8620,12 +8618,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-09 18:09:35"
+        "date": "2026-11-09 18:09:35",
+        "cls": "P6A",
+        "num": 4
       },
       {
         "rank": 2,
-        "class": "P6A",
-        "seat": 15,
         "name": "P6A 15號",
         "hw1": 100,
         "hw2": 100,
@@ -8634,12 +8632,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-09 19:01:51"
+        "date": "2026-11-09 19:01:51",
+        "cls": "P6A",
+        "num": 15
       },
       {
         "rank": 3,
-        "class": "P6A",
-        "seat": 18,
         "name": "P6A 18號",
         "hw1": 100,
         "hw2": 100,
@@ -8648,12 +8646,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-09 20:02:54"
+        "date": "2026-11-09 20:02:54",
+        "cls": "P6A",
+        "num": 18
       },
       {
         "rank": 4,
-        "class": "P6A",
-        "seat": 3,
         "name": "P6A 03號",
         "hw1": 100,
         "hw2": 100,
@@ -8662,12 +8660,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-09 20:10:47"
+        "date": "2026-11-09 20:10:47",
+        "cls": "P6A",
+        "num": 3
       },
       {
         "rank": 5,
-        "class": "P6A",
-        "seat": 10,
         "name": "P6A 10號",
         "hw1": 100,
         "hw2": 100,
@@ -8676,12 +8674,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-09 21:24:42"
+        "date": "2026-11-09 21:24:42",
+        "cls": "P6A",
+        "num": 10
       },
       {
         "rank": 6,
-        "class": "P6A",
-        "seat": 12,
         "name": "P6A 12號",
         "hw1": 100,
         "hw2": 100,
@@ -8690,12 +8688,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-09 21:59:38"
+        "date": "2026-11-09 21:59:38",
+        "cls": "P6A",
+        "num": 12
       },
       {
         "rank": 7,
-        "class": "P6A",
-        "seat": 28,
         "name": "P6A 28號",
         "hw1": 100,
         "hw2": 100,
@@ -8704,12 +8702,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-10 14:15:18"
+        "date": "2026-11-10 14:15:18",
+        "cls": "P6A",
+        "num": 28
       },
       {
         "rank": 8,
-        "class": "P6A",
-        "seat": 21,
         "name": "P6A 21號",
         "hw1": 100,
         "hw2": 100,
@@ -8718,12 +8716,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-10 14:16:55"
+        "date": "2026-11-10 14:16:55",
+        "cls": "P6A",
+        "num": 21
       },
       {
         "rank": 9,
-        "class": "P6A",
-        "seat": 14,
         "name": "P6A 14號",
         "hw1": 100,
         "hw2": 100,
@@ -8732,12 +8730,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-10 14:18:17"
+        "date": "2026-11-10 14:18:17",
+        "cls": "P6A",
+        "num": 14
       },
       {
         "rank": 10,
-        "class": "P6A",
-        "seat": 16,
         "name": "P6A 16號",
         "hw1": 100,
         "hw2": 100,
@@ -8746,14 +8744,14 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-10 14:19:08"
+        "date": "2026-11-10 14:19:08",
+        "cls": "P6A",
+        "num": 16
       }
     ],
     "P6B": [
       {
         "rank": 1,
-        "class": "P6B",
-        "seat": 17,
         "name": "P6B 17號",
         "hw1": 100,
         "hw2": 100,
@@ -8762,12 +8760,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-09 18:26:23"
+        "date": "2026-11-09 18:26:23",
+        "cls": "P6B",
+        "num": 17
       },
       {
         "rank": 2,
-        "class": "P6B",
-        "seat": 5,
         "name": "P6B 05號",
         "hw1": 100,
         "hw2": 100,
@@ -8776,12 +8774,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-09 18:41:33"
+        "date": "2026-11-09 18:41:33",
+        "cls": "P6B",
+        "num": 5
       },
       {
         "rank": 3,
-        "class": "P6B",
-        "seat": 33,
         "name": "P6B 33號",
         "hw1": 100,
         "hw2": 100,
@@ -8790,12 +8788,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-09 19:02:50"
+        "date": "2026-11-09 19:02:50",
+        "cls": "P6B",
+        "num": 33
       },
       {
         "rank": 4,
-        "class": "P6B",
-        "seat": 30,
         "name": "P6B 30號",
         "hw1": 100,
         "hw2": 100,
@@ -8804,12 +8802,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-09 20:38:28"
+        "date": "2026-11-09 20:38:28",
+        "cls": "P6B",
+        "num": 30
       },
       {
         "rank": 5,
-        "class": "P6B",
-        "seat": 9,
         "name": "P6B 09號",
         "hw1": 100,
         "hw2": 100,
@@ -8818,12 +8816,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-09 20:50:06"
+        "date": "2026-11-09 20:50:06",
+        "cls": "P6B",
+        "num": 9
       },
       {
         "rank": 6,
-        "class": "P6B",
-        "seat": 3,
         "name": "P6B 03號",
         "hw1": 100,
         "hw2": 100,
@@ -8832,12 +8830,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-09 21:08:33"
+        "date": "2026-11-09 21:08:33",
+        "cls": "P6B",
+        "num": 3
       },
       {
         "rank": 7,
-        "class": "P6B",
-        "seat": 4,
         "name": "P6B 04號",
         "hw1": 100,
         "hw2": 100,
@@ -8846,12 +8844,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-10 18:29:32"
+        "date": "2026-11-10 18:29:32",
+        "cls": "P6B",
+        "num": 4
       },
       {
         "rank": 8,
-        "class": "P6B",
-        "seat": 28,
         "name": "P6B 28號",
         "hw1": 100,
         "hw2": 100,
@@ -8860,12 +8858,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-10 20:25:45"
+        "date": "2026-11-10 20:25:45",
+        "cls": "P6B",
+        "num": 28
       },
       {
         "rank": 9,
-        "class": "P6B",
-        "seat": 7,
         "name": "P6B 07號",
         "hw1": 100,
         "hw2": 100,
@@ -8874,12 +8872,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-12 19:02:36"
+        "date": "2026-11-12 19:02:36",
+        "cls": "P6B",
+        "num": 7
       },
       {
         "rank": 10,
-        "class": "P6B",
-        "seat": 11,
         "name": "P6B 11號",
         "hw1": 100,
         "hw2": 100,
@@ -8888,14 +8886,14 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-12 22:01:37"
+        "date": "2026-11-12 22:01:37",
+        "cls": "P6B",
+        "num": 11
       }
     ],
     "P6C": [
       {
         "rank": 1,
-        "class": "P6C",
-        "seat": 13,
         "name": "P6C 13號",
         "hw1": 100,
         "hw2": 100,
@@ -8904,12 +8902,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-09 16:31:12"
+        "date": "2026-11-09 16:31:12",
+        "cls": "P6C",
+        "num": 13
       },
       {
         "rank": 2,
-        "class": "P6C",
-        "seat": 32,
         "name": "P6C 32號",
         "hw1": 100,
         "hw2": 100,
@@ -8918,12 +8916,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-09 19:49:48"
+        "date": "2026-11-09 19:49:48",
+        "cls": "P6C",
+        "num": 32
       },
       {
         "rank": 3,
-        "class": "P6C",
-        "seat": 26,
         "name": "P6C 26號",
         "hw1": 100,
         "hw2": 100,
@@ -8932,12 +8930,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-09 21:34:04"
+        "date": "2026-11-09 21:34:04",
+        "cls": "P6C",
+        "num": 26
       },
       {
         "rank": 4,
-        "class": "P6C",
-        "seat": 2,
         "name": "P6C 02號",
         "hw1": 100,
         "hw2": 100,
@@ -8946,12 +8944,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-09 22:01:38"
+        "date": "2026-11-09 22:01:38",
+        "cls": "P6C",
+        "num": 2
       },
       {
         "rank": 5,
-        "class": "P6C",
-        "seat": 1,
         "name": "P6C 01號",
         "hw1": 100,
         "hw2": 100,
@@ -8960,12 +8958,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-09 22:40:43"
+        "date": "2026-11-09 22:40:43",
+        "cls": "P6C",
+        "num": 1
       },
       {
         "rank": 6,
-        "class": "P6C",
-        "seat": 18,
         "name": "P6C 18號",
         "hw1": 100,
         "hw2": 100,
@@ -8974,12 +8972,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-09 22:57:50"
+        "date": "2026-11-09 22:57:50",
+        "cls": "P6C",
+        "num": 18
       },
       {
         "rank": 7,
-        "class": "P6C",
-        "seat": 9,
         "name": "P6C 09號",
         "hw1": 100,
         "hw2": 100,
@@ -8988,12 +8986,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-10 21:01:16"
+        "date": "2026-11-10 21:01:16",
+        "cls": "P6C",
+        "num": 9
       },
       {
         "rank": 8,
-        "class": "P6C",
-        "seat": 8,
         "name": "P6C 08號",
         "hw1": 100,
         "hw2": 100,
@@ -9002,12 +9000,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-11 08:35:59"
+        "date": "2026-11-11 08:35:59",
+        "cls": "P6C",
+        "num": 8
       },
       {
         "rank": 9,
-        "class": "P6C",
-        "seat": 21,
         "name": "P6C 21號",
         "hw1": 100,
         "hw2": 100,
@@ -9016,12 +9014,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-11 08:37:20"
+        "date": "2026-11-11 08:37:20",
+        "cls": "P6C",
+        "num": 21
       },
       {
         "rank": 10,
-        "class": "P6C",
-        "seat": 23,
         "name": "P6C 23號",
         "hw1": 100,
         "hw2": 100,
@@ -9030,14 +9028,14 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-11 08:40:56"
+        "date": "2026-11-11 08:40:56",
+        "cls": "P6C",
+        "num": 23
       }
     ],
     "P6D": [
       {
         "rank": 1,
-        "class": "P6D",
-        "seat": 25,
         "name": "P6D 25號",
         "hw1": 100,
         "hw2": 100,
@@ -9046,12 +9044,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-09 18:04:38"
+        "date": "2026-11-09 18:04:38",
+        "cls": "P6D",
+        "num": 25
       },
       {
         "rank": 2,
-        "class": "P6D",
-        "seat": 23,
         "name": "P6D 23號",
         "hw1": 100,
         "hw2": 100,
@@ -9060,12 +9058,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-09 19:26:58"
+        "date": "2026-11-09 19:26:58",
+        "cls": "P6D",
+        "num": 23
       },
       {
         "rank": 3,
-        "class": "P6D",
-        "seat": 5,
         "name": "P6D 05號",
         "hw1": 100,
         "hw2": 100,
@@ -9074,12 +9072,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-09 19:49:58"
+        "date": "2026-11-09 19:49:58",
+        "cls": "P6D",
+        "num": 5
       },
       {
         "rank": 4,
-        "class": "P6D",
-        "seat": 4,
         "name": "P6D 04號",
         "hw1": 100,
         "hw2": 100,
@@ -9088,12 +9086,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-09 20:51:20"
+        "date": "2026-11-09 20:51:20",
+        "cls": "P6D",
+        "num": 4
       },
       {
         "rank": 5,
-        "class": "P6D",
-        "seat": 27,
         "name": "P6D 27號",
         "hw1": 100,
         "hw2": 100,
@@ -9102,12 +9100,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-09 21:41:33"
+        "date": "2026-11-09 21:41:33",
+        "cls": "P6D",
+        "num": 27
       },
       {
         "rank": 6,
-        "class": "P6D",
-        "seat": 28,
         "name": "P6D 28號",
         "hw1": 100,
         "hw2": 100,
@@ -9116,12 +9114,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-10 11:20:48"
+        "date": "2026-11-10 11:20:48",
+        "cls": "P6D",
+        "num": 28
       },
       {
         "rank": 7,
-        "class": "P6D",
-        "seat": 20,
         "name": "P6D 20號",
         "hw1": 100,
         "hw2": 100,
@@ -9130,12 +9128,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-10 11:23:55"
+        "date": "2026-11-10 11:23:55",
+        "cls": "P6D",
+        "num": 20
       },
       {
         "rank": 8,
-        "class": "P6D",
-        "seat": 34,
         "name": "P6D 34號",
         "hw1": 100,
         "hw2": 100,
@@ -9144,12 +9142,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-10 11:24:03"
+        "date": "2026-11-10 11:24:03",
+        "cls": "P6D",
+        "num": 34
       },
       {
         "rank": 9,
-        "class": "P6D",
-        "seat": 22,
         "name": "P6D 22號",
         "hw1": 100,
         "hw2": 100,
@@ -9158,12 +9156,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-10 11:36:49"
+        "date": "2026-11-10 11:36:49",
+        "cls": "P6D",
+        "num": 22
       },
       {
         "rank": 10,
-        "class": "P6D",
-        "seat": 7,
         "name": "P6D 07號",
         "hw1": 100,
         "hw2": 100,
@@ -9172,14 +9170,14 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-11 22:23:25"
+        "date": "2026-11-11 22:23:25",
+        "cls": "P6D",
+        "num": 7
       }
     ],
     "P6E": [
       {
         "rank": 1,
-        "class": "P6E",
-        "seat": 13,
         "name": "P6E 13號",
         "hw1": 100,
         "hw2": 100,
@@ -9188,12 +9186,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-09 18:59:39"
+        "date": "2026-11-09 18:59:39",
+        "cls": "P6E",
+        "num": 13
       },
       {
         "rank": 2,
-        "class": "P6E",
-        "seat": 2,
         "name": "P6E 02號",
         "hw1": 100,
         "hw2": 100,
@@ -9202,12 +9200,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-09 19:49:32"
+        "date": "2026-11-09 19:49:32",
+        "cls": "P6E",
+        "num": 2
       },
       {
         "rank": 3,
-        "class": "P6E",
-        "seat": 3,
         "name": "P6E 03號",
         "hw1": 100,
         "hw2": 100,
@@ -9216,12 +9214,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-09 20:43:16"
+        "date": "2026-11-09 20:43:16",
+        "cls": "P6E",
+        "num": 3
       },
       {
         "rank": 4,
-        "class": "P6E",
-        "seat": 32,
         "name": "P6E 32號",
         "hw1": 100,
         "hw2": 100,
@@ -9230,12 +9228,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-10 09:53:20"
+        "date": "2026-11-10 09:53:20",
+        "cls": "P6E",
+        "num": 32
       },
       {
         "rank": 5,
-        "class": "P6E",
-        "seat": 15,
         "name": "P6E 15號",
         "hw1": 100,
         "hw2": 100,
@@ -9244,12 +9242,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-10 09:53:56"
+        "date": "2026-11-10 09:53:56",
+        "cls": "P6E",
+        "num": 15
       },
       {
         "rank": 6,
-        "class": "P6E",
-        "seat": 4,
         "name": "P6E 04號",
         "hw1": 100,
         "hw2": 100,
@@ -9258,12 +9256,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-10 20:37:18"
+        "date": "2026-11-10 20:37:18",
+        "cls": "P6E",
+        "num": 4
       },
       {
         "rank": 7,
-        "class": "P6E",
-        "seat": 14,
         "name": "P6E 14號",
         "hw1": 100,
         "hw2": 100,
@@ -9272,12 +9270,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-10 22:12:25"
+        "date": "2026-11-10 22:12:25",
+        "cls": "P6E",
+        "num": 14
       },
       {
         "rank": 8,
-        "class": "P6E",
-        "seat": 24,
         "name": "P6E 24號",
         "hw1": 100,
         "hw2": 100,
@@ -9286,12 +9284,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-13 18:21:01"
+        "date": "2026-11-13 18:21:01",
+        "cls": "P6E",
+        "num": 24
       },
       {
         "rank": 9,
-        "class": "P6E",
-        "seat": 6,
         "name": "P6E 06號",
         "hw1": 100,
         "hw2": 100,
@@ -9300,12 +9298,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-13 20:49:44"
+        "date": "2026-11-13 20:49:44",
+        "cls": "P6E",
+        "num": 6
       },
       {
         "rank": 10,
-        "class": "P6E",
-        "seat": 19,
         "name": "P6E 19號",
         "hw1": 100,
         "hw2": 100,
@@ -9314,14 +9312,14 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-13 23:17:37"
+        "date": "2026-11-13 23:17:37",
+        "cls": "P6E",
+        "num": 19
       }
     ],
     "P6F": [
       {
         "rank": 1,
-        "class": "P6F",
-        "seat": 5,
         "name": "P6F 05號",
         "hw1": 100,
         "hw2": 100,
@@ -9330,12 +9328,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-09 09:40:25"
+        "date": "2026-11-09 09:40:25",
+        "cls": "P6F",
+        "num": 5
       },
       {
         "rank": 2,
-        "class": "P6F",
-        "seat": 23,
         "name": "P6F 23號",
         "hw1": 100,
         "hw2": 100,
@@ -9344,12 +9342,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-09 09:42:22"
+        "date": "2026-11-09 09:42:22",
+        "cls": "P6F",
+        "num": 23
       },
       {
         "rank": 3,
-        "class": "P6F",
-        "seat": 32,
         "name": "P6F 32號",
         "hw1": 100,
         "hw2": 100,
@@ -9358,12 +9356,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-09 09:53:58"
+        "date": "2026-11-09 09:53:58",
+        "cls": "P6F",
+        "num": 32
       },
       {
         "rank": 4,
-        "class": "P6F",
-        "seat": 29,
         "name": "P6F 29號",
         "hw1": 100,
         "hw2": 100,
@@ -9372,12 +9370,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-09 19:40:46"
+        "date": "2026-11-09 19:40:46",
+        "cls": "P6F",
+        "num": 29
       },
       {
         "rank": 5,
-        "class": "P6F",
-        "seat": 9,
         "name": "P6F 09號",
         "hw1": 100,
         "hw2": 100,
@@ -9386,12 +9384,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-09 19:55:31"
+        "date": "2026-11-09 19:55:31",
+        "cls": "P6F",
+        "num": 9
       },
       {
         "rank": 6,
-        "class": "P6F",
-        "seat": 11,
         "name": "P6F 11號",
         "hw1": 100,
         "hw2": 100,
@@ -9400,12 +9398,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-09 20:37:47"
+        "date": "2026-11-09 20:37:47",
+        "cls": "P6F",
+        "num": 11
       },
       {
         "rank": 7,
-        "class": "P6F",
-        "seat": 8,
         "name": "P6F 08號",
         "hw1": 100,
         "hw2": 100,
@@ -9414,12 +9412,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-09 20:54:12"
+        "date": "2026-11-09 20:54:12",
+        "cls": "P6F",
+        "num": 8
       },
       {
         "rank": 8,
-        "class": "P6F",
-        "seat": 30,
         "name": "P6F 30號",
         "hw1": 100,
         "hw2": 100,
@@ -9428,12 +9426,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-09 21:35:18"
+        "date": "2026-11-09 21:35:18",
+        "cls": "P6F",
+        "num": 30
       },
       {
         "rank": 9,
-        "class": "P6F",
-        "seat": 26,
         "name": "P6F 26號",
         "hw1": 100,
         "hw2": 100,
@@ -9442,12 +9440,12 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-09 21:47:45"
+        "date": "2026-11-09 21:47:45",
+        "cls": "P6F",
+        "num": 26
       },
       {
         "rank": 10,
-        "class": "P6F",
-        "seat": 17,
         "name": "P6F 17號",
         "hw1": 100,
         "hw2": 100,
@@ -9456,7 +9454,9 @@ const DATA = {
         "total": 400,
         "stamps": 5,
         "badges": 5,
-        "date": "2026-11-10 20:38:03"
+        "date": "2026-11-10 20:38:03",
+        "cls": "P6F",
+        "num": 17
       }
     ]
   },

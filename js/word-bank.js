@@ -93,7 +93,10 @@
           self.currentVersion = data.version || '';
           if (statusEl) {
             var totalGroups = Object.keys(window.MODE2_WEEKLY_BANKS || data.weeklyBanks).length;
-            statusEl.textContent = '🟢 雲端字庫已同步 (含第8周/第10周 · 共 ' + totalGroups + ' 組)';
+            var syncTs = data.timestamp || new Date().toLocaleTimeString();
+              statusEl.textContent = '🟢 雲端字庫已同步 (' + syncTs + ' · 共 ' + totalGroups + ' 組)';
+              var footEl = document.getElementById('system-version-footer');
+              if (footEl) footEl.textContent = 'v3.8 | 字庫: 2026每周打字字庫表 (雲端同步 ' + syncTs + ')';
             statusEl.style.color = '#10B981';
           }
           if (typeof callback === 'function') callback(true, data);
@@ -115,7 +118,9 @@
       this.applyWordBanks(merged);
       this.isLoaded = true;
       if (statusEl) {
-        statusEl.textContent = statusMsg || '🟢 已載入最新第8/10周完整字庫';
+        statusEl.textContent = statusMsg || '🟢 已載入內建字庫 (離線備援)';
+        var footEl = document.getElementById('system-version-footer');
+        if (footEl) footEl.textContent = 'v3.8 | 字庫: 2026每周打字字庫表 (離線備援)';
         statusEl.style.color = '#10B981';
       }
       if (typeof callback === 'function') callback(true, { weeklyBanks: merged });
