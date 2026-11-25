@@ -46323,7 +46323,8 @@ const MODE2_WEEKLY_BANKS = {
           "U"
         ],
         "full": "水口竹山 (ERHU)",
-        "secret": "況：水口竹山 (ERHU)"
+        "secret": "況：水口竹山 (ERHU)",
+        "quickCode": "EU"
       },
       {
         "char": "葉",
@@ -46366,19 +46367,17 @@ const MODE2_WEEKLY_BANKS = {
         "codes": [
           "十",
           "大",
-          "一",
-          "女",
+          "卜",
           "尸"
         ],
         "keys": [
           "J",
           "K",
-          "M",
-          "V",
+          "Y",
           "S"
         ],
-        "full": "十大一女尸 (JKMVS)",
-        "secret": "考：十大一女尸 (JKMVS)",
+        "full": "十大卜尸 (JKYS)",
+        "secret": "考：十大卜尸 (JKYS)",
         "quickCode": "JS"
       },
       {
